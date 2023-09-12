@@ -1,0 +1,30 @@
+---
+classes:
+  - quire-page
+layout: base.11ty.js
+description: Single page default template
+---
+
+{% pageHeader
+  byline_format=byline_format,
+  image=image,
+  label=label,
+  pageContributors=pageContributors,
+  subtitle=subtitle,
+  title=title
+%}
+{% if content %}
+<section class="section quire-page__content">
+  <div class="container">
+    <div class="content">
+      {{ content }}
+      {% bibliography citations %}
+    </div>
+  </div>
+</section>
+{% endif %}
+<section class="section quire-page__content">
+  <div class="container">
+    {% pageButtons pagination=pagination %}
+  </div>
+</section>
