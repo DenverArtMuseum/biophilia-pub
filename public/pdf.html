@@ -1,0 +1,1343 @@
+<!DOCTYPE html><html><head>
+    <!--
+    <meta charset="utf-8" />
+    <meta name="description" content="${description}">
+    <meta name="keywords" content="${keywords}">
+    <title>${pageTitle}</title>
+    <link rel="canonical" href="${canonicalURL}">
+    <link rel="version-history" href="${publication.repositoryUrl}">
+    -->
+    <link rel="stylesheet" href="pdf.css">
+  </head>
+  <body>
+  
+
+<svg style="display: none">
+      <symbol id="left-arrow-icon" viewBox="0 0 18 32">
+        <path d="M23.1,11.1L21,9l-9,9l9,9l2.1-2.1L16.2,18L23.1,11.1z"></path>
+      </symbol>
+      <symbol id="right-arrow-icon" viewBox="0 0 18 32">
+        <path d="M12.9,11.1L15,9l9,9l-9,9l-2.1-2.1l6.9-6.9L12.9,11.1z"></path>
+      </symbol>
+      <symbol id="search-icon" viewBox="0 0 32 32">
+        <path d="M18.6,16.4h-1.2L17,16c1.5-1.7,2.3-3.9,2.3-6.3C19.3,4.3,15,0,9.7,0S0,4.3,0,9.7s4.3,9.7,9.7,9.7c2.4,0,4.6-0.9,6.3-2.3
+      l0.4,0.4v1.2l7.4,7.4l2.2-2.2L18.6,16.4z M9.7,16.4C6,16.4,3,13.4,3,9.7S6,3,9.7,3s6.7,3,6.7,6.7S13.4,16.4,9.7,16.4z"></path>
+      </symbol>
+      <symbol id="nav-icon" viewBox="0 0 32 32">
+        <path d="M0,6.7h24.9V3.1H0V6.7z M0,13.8h24.9v-3.6H0V13.8z M0,20.9h24.9v-3.6H0V20.9z M28.4,20.9H32v-3.6h-3.6V20.9z M28.4,3.1v3.6
+      H32V3.1H28.4z M28.4,13.8H32v-3.6h-3.6V13.8z"></path>
+      </symbol>
+      <symbol id="arrow-forward-icon" viewBox="0 0 32 32">
+        <path d="M16,5.3l-1.9,1.9l7.4,7.5H5.3v2.7h16.2l-7.4,7.5l1.9,1.9L26.7,16L16,5.3z"></path>
+      </symbol>
+      <symbol id="home-icon" viewBox="0 0 32 32">
+        <path d="M11,18V6l-8.5,6L11,18z M11.5,12l8.5,6V6L11.5,12z"></path>
+      </symbol>
+      <symbol id="start-icon" viewBox="0 0 32 32">
+        <path d="M8,5v14l11-7L8,5z"></path>
+      </symbol>
+      <symbol id="down-arrow-icon" viewBox="0 0 32 32">
+        <path d="M16.6,8.6L12,13.2L7.4,8.6L6,10l6,6l6-6L16.6,8.6z"></path>
+      </symbol>
+      <symbol id="link-icon" viewBox="0 0 20 20">
+        <path d="M3.3,16.7c-1.4-1.4-1.4-3.7,0-5.1l3.3-3.3L5,6.7L1.7,10c-2.3,2.3-2.3,6,0,8.3s6,2.3,8.3,0l3.3-3.3l-1.6-1.6l-3.3,3.3
+          C7,18.1,4.7,18.1,3.3,16.7z M7.5,14.1l6.6-6.6l-1.7-1.7l-6.6,6.6L7.5,14.1z M10,1.7L6.7,5l1.6,1.6l3.3-3.3c1.4-1.4,3.7-1.4,5.1,0
+          s1.4,3.7,0,5.1l-3.3,3.3l1.6,1.6l3.3-3.3c2.3-2.3,2.3-6,0-8.3S12.3-0.6,10,1.7z"></path>
+      </symbol>
+      <symbol id="close-icon" viewBox="0 0 48 48">
+        <path d="M38 12.83L35.17 10 24 21.17 12.83 10 10 12.83 21.17 24 10 35.17 12.83 38 24 26.83 35.17 38 38 35.17 26.83 24z"></path>
+      </symbol>
+      <symbol id="download-icon" viewBox="0 0 32 32">
+        <path d="M28.4,16v12.4H3.6V16H0v12.4c0,2,1.6,3.6,3.6,3.6h24.9c2,0,3.6-1.6,3.6-3.6V16H28.4z M17.8,17.2l4.6-4.6l2.5,2.5L16,24
+          l-8.9-8.9l2.5-2.5l4.6,4.6V0h3.6V17.2z"></path>
+      </symbol>
+      <symbol id="plus-icon" viewBox="0 0 16 16">
+        <path d="M26 0C11.664 0 0 11.663 0 26s11.664 26 26 26 26-11.663 26-26S40.336 0 26 0zm0 50C12.767 50 2 39.233 2 26S12.767 2 26 2s24 10.767 24 24-10.767 24-24 24z"></path>
+        <path d="M38.5 25H27V14c0-.553-.448-1-1-1s-1 .447-1 1v11H13.5c-.552 0-1 .447-1 1s.448 1 1 1H25v12c0 .553.448 1 1 1s1-.447 1-1V27h11.5c.552 0 1-.447 1-1s-.448-1-1-1z"></path>
+      </symbol>
+      <symbol id="fullscreen-icon" viewBox="0 0 24 24">
+        <path d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"></path>
+      </symbol>
+      <symbol id="add-circle-icon" viewBox="0 0 20 20">
+        <path d="M9.25 14h1.5v-3.25H14v-1.5h-3.25V6h-1.5v3.25H6v1.5h3.25Zm.75 4q-1.646 0-3.104-.625-1.458-.625-2.552-1.719t-1.719-2.552Q2 11.646 2 10q0-1.667.625-3.115.625-1.447 1.719-2.541Q5.438 3.25 6.896 2.625T10 2q1.667 0 3.115.625 1.447.625 2.541 1.719 1.094 1.094 1.719 2.541Q18 8.333 18 10q0 1.646-.625 3.104-.625 1.458-1.719 2.552t-2.541 1.719Q11.667 18 10 18Zm0-1.5q2.708 0 4.604-1.896T16.5 10q0-2.708-1.896-4.604T10 3.5q-2.708 0-4.604 1.896T3.5 10q0 2.708 1.896 4.604T10 16.5Zm0-6.5Z"></path>
+      </symbol>
+      <symbol id="rotation-icon" viewBox="0 0 24 24">
+        <path d="M8.76918 19.1836L7.77593 18.1904L9.67785 16.2779C7.68107 16.0073 6.01922 15.4801 4.6923 14.6961C3.36537 13.9121 2.7019 13.0201 2.7019 12.0202C2.7019 10.8314 3.60117 9.80777 5.3997 8.9493C7.19822 8.09082 9.39805 7.66158 11.9992 7.66158C14.6003 7.66158 16.8004 8.09082 18.5995 8.9493C20.3985 9.80777 21.298 10.8314 21.298 12.0202C21.298 12.8584 20.8103 13.633 19.835 14.344C18.8597 15.055 17.5679 15.5936 15.9596 15.9596V14.5298C17.2211 14.1965 18.1931 13.7907 18.8754 13.3125C19.5578 12.8343 19.899 12.4035 19.899 12.0202C19.899 11.4676 19.197 10.8362 17.7929 10.126C16.3888 9.4157 14.4582 9.06057 12.001 9.06057C9.5439 9.06057 7.61293 9.4157 6.20813 10.126C4.80331 10.8362 4.1009 11.4676 4.1009 12.0202C4.1009 12.4587 4.59338 12.9806 5.57833 13.5861C6.56328 14.1915 7.89133 14.6154 9.56248 14.8577L7.77593 13.0711L8.76918 12.0779L12.322 15.6308L8.76918 19.1836Z"></path>
+      </symbol>
+    </svg><svg style="display: none" data-outputs-exclude="epub,pdf">
+      <symbol id="by" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29.9 0C38.3 0 45.4 2.9 51.2 8.7C57 14.5 59.9 21.6 59.9 30C59.9 38.4 57 45.4 51.3 51.1C45.2 57.1 38.1 60 29.8 60C21.7 60 14.7 57.1 8.7 51.2C2.9 45.3 0 38.2 0 30C0 21.8 2.9 14.7 8.8 8.7C14.6 2.9 21.7 0 29.9 0ZM30.1 5.4C23.3 5.4 17.5 7.8 12.8 12.6C7.9 17.6 5.5 23.4 5.5 30C5.5 36.6 7.9 42.4 12.8 47.2C17.7 52.1 23.4 54.5 30.2 54.5C36.9 54.5 42.7 52.1 47.7 47.2C52.4 42.7 54.8 36.9 54.8 30C54.8 23.2 52.4 17.4 47.6 12.6C42.6 7.8 36.8 5.4 30.1 5.4ZM38.1 22.6V34.9H34.7V49.5H25.4V34.8H22V22.6C22 22.1 22.2 21.6 22.6 21.2C23 20.8 23.4 20.6 24 20.6H36.3C36.8 20.6 37.2 20.8 37.6 21.2C37.9 21.6 38.1 22 38.1 22.6ZM25.8 14.8C25.8 12 27.2 10.6 30 10.6C32.8 10.6 34.2 12 34.2 14.8C34.2 17.6 32.8 19 30 19C27.2 19 25.8 17.6 25.8 14.8Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="cc" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29.9 0C38.3 0 45.4 2.90484 51.3 8.81469C54.1 11.6194 56.3 14.8247 57.7 18.5309C59.3 22.1369 60 25.9432 60 30.0501C60 34.1569 59.3 38.0634 57.8 41.5693C56.4 45.1753 54.2 48.3806 51.4 51.0851C48.5 53.99 45.2 56.1937 41.4 57.6962C37.7 59.1987 33.8 60 29.9 60C26 60 22.1 59.1987 18.5 57.6962C14.9 56.1937 11.6 53.99 8.7 51.0851C5.8 48.1803 3.6 44.975 2.1 41.3689C0.6 37.7629 0 34.0568 0 30.0501C0 26.0434 0.8 22.2371 2.3 18.6311C3.8 15.025 6 11.6194 8.9 8.71452C14.6 2.90484 21.6 0 29.9 0ZM30.1 5.40901C23.2 5.40901 17.5 7.81302 12.8 12.621C10.4 15.025 8.6 17.7295 7.4 20.7346C6.1 23.7396 5.5 26.8447 5.5 30.0501C5.5 33.2554 6.1 36.3606 7.4 39.3656C8.7 42.3706 10.5 44.975 12.8 47.379C15.2 49.6828 17.8 51.4858 20.8 52.788C23.8 53.99 26.9 54.591 30.1 54.591C33.3 54.591 36.4 53.99 39.4 52.6878C42.4 51.3856 45.1 49.5826 47.6 47.2788C52.3 42.6711 54.6 36.9616 54.6 30.0501C54.6 26.7446 54 23.5392 52.8 20.6344C51.6 17.6294 49.8 15.025 47.5 12.7212C42.6 7.81302 36.8 5.40901 30.1 5.40901ZM29.7 25.0417L25.7 27.1452C25.3 26.2437 24.7 25.6427 24.1 25.2421C23.5 24.8414 22.9 24.7412 22.4 24.7412C19.7 24.7412 18.4 26.5442 18.4 30.0501C18.4 31.6528 18.7 32.9549 19.4 33.9566C20.1 34.9583 21.1 35.3589 22.4 35.3589C24.2 35.3589 25.4 34.4574 26.1 32.7546L29.8 34.6578C29 36.1603 27.9 37.2621 26.5 38.1636C25.1 38.9649 23.6 39.4658 21.9 39.4658C19.2 39.4658 17.1 38.6644 15.4 36.9616C13.8 35.3589 12.9 33.0551 12.9 30.0501C12.9 27.1452 13.7 24.9416 15.4 23.2387C17.1 21.5359 19.2 20.7346 21.7 20.7346C25.4 20.7346 28.1 22.1369 29.7 25.0417ZM47 25.0417L43 27.1452C42.6 26.2437 42 25.6427 41.4 25.2421C40.8 24.8414 40.2 24.7412 39.6 24.7412C36.9 24.7412 35.6 26.5442 35.6 30.0501C35.6 31.6528 35.9 32.9549 36.6 33.9566C37.3 34.9583 38.3 35.3589 39.6 35.3589C41.3 35.3589 42.6 34.4574 43.3 32.7546L47.1 34.6578C46.3 36.1603 45.2 37.2621 43.8 38.1636C42.4 38.9649 40.9 39.4658 39.2 39.4658C36.5 39.4658 34.3 38.6644 32.7 36.9616C31.1 35.3589 30.3 33.0551 30.3 30.0501C30.3 27.1452 31.1 24.9416 32.8 23.2387C34.5 21.5359 36.6 20.7346 39.1 20.7346C42.8 20.7346 45.4 22.1369 47 25.0417Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="nc" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.3 57.1 38.2 60 29.9 60C21.8 60 14.7 57 8.80001 51.1C2.90001 45.2 0 38.2 0 30C0 21.8 2.90001 14.7 8.80001 8.7C14.7 2.9 21.8 0 30 0ZM6.90001 21.9C6.00001 24.4 5.60001 27.1 5.60001 30C5.60001 36.6 8.00001 42.4 12.9 47.3C17.8 52.1 23.6 54.5 30.3 54.5C37.1 54.5 42.9 52.1 47.8 47.2C49.6 45.5 50.9 43.8 51.9 41.9L40.6 36.9C40.2 38.8 39.3 40.3 37.7 41.5C36.2 42.7 34.4 43.4 32.3 43.6V48.2H28.8V43.6C25.5 43.6 22.4 42.4 19.7 40L23.8 35.8C25.8 37.6 28 38.5 30.5 38.5C31.5 38.5 32.4 38.3 33.2 37.8C33.9 37.3 34.3 36.6 34.3 35.5C34.3 34.7 34 34.1 33.5 33.7L30.6 32.5L27.1 30.9L22.3 28.8L6.90001 21.9ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C11.7 13.8 10.6 15.1 9.60001 16.6L21.1 21.7C21.6 20.1 22.5 18.9 23.9 17.9C25.3 17 26.9 16.4 28.8 16.3V11.7H32.3V16.3C35.1 16.4 37.5 17.4 39.8 19.1L35.9 23.1C34.2 21.9 32.5 21.3 30.8 21.3C29.9 21.3 29 21.5 28.3 21.8C27.6 22.2 27.2 22.8 27.2 23.6C27.2 23.9 27.3 24.1 27.5 24.4L31.3 26.1L33.9 27.3L38.7 29.4L54.1 36.3C54.6 34.2 54.9 32.1 54.9 29.9C54.9 23 52.5 17.2 47.7 12.5C42.8 7.8 37 5.4 30.2 5.4Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="nd" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.4 57 38.2 60 29.9 60C21.8 60 14.8 57.1 8.8 51.2C2.90001 45.3 0 38.3 0 30C0 21.8 2.90001 14.7 8.8 8.7C14.8 2.9 21.8 0 30 0ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C8.00001 17.6 5.60001 23.4 5.60001 30C5.60001 36.7 8.00001 42.4 12.9 47.3C17.8 52.2 23.5 54.6 30.3 54.6C37 54.6 42.8 52.2 47.8 47.3C52.5 42.7 54.9 37 54.9 30.1C54.9 23.2 52.5 17.5 47.7 12.7C42.8 7.8 37 5.4 30.2 5.4ZM41.5 22.9V28H19.7V22.9H41.5ZM41.5 32.6V37.7H19.7V32.6H41.5Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="sa" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.4 57 38.2 60 29.9 60C21.8 60 14.8 57.1 8.8 51.2C2.9 45.3 0 38.3 0 30C0 21.8 2.9 14.7 8.8 8.7C14.8 2.9 21.8 0 30 0ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C8.00001 17.6 5.60001 23.4 5.60001 30C5.60001 36.7 8.00001 42.4 12.9 47.2C17.8 52.1 23.5 54.5 30.3 54.5C37 54.5 42.8 52.1 47.8 47.2C52.5 42.6 54.9 36.9 54.9 30C54.9 23.1 52.5 17.4 47.7 12.6C42.8 7.8 37 5.4 30.2 5.4ZM16.8 25.8C17.4 22.1 18.9 19.3 21.2 17.3C23.6 15.3 26.5 14.3 29.9 14.3C34.6 14.3 38.4 15.8 41.1 18.9C43.9 21.9 45.3 25.8 45.3 30.6C45.3 35.2 43.9 39 41 42.1C38.1 45.2 34.4 46.7 29.7 46.7C26.3 46.7 23.4 45.7 20.9 43.6C18.4 41.6 17 38.7 16.5 34.9H24.1C24.3 38.5 26.5 40.4 30.7 40.4C32.8 40.4 34.5 39.5 35.8 37.7C37.1 35.9 37.7 33.4 37.7 30.4C37.7 27.2 37.1 24.8 35.9 23.1C34.7 21.4 33 20.6 30.8 20.6C26.8 20.6 24.5 22.4 24 25.9H26.2L20.3 31.8L14.4 25.9L16.8 25.8Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="zero" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 12.7C20.1 12.7 17.6 22 17.6 30C17.6 37.9 20.1 47.3 30 47.3C39.9 47.3 42.4 38 42.4 30C42.4 22.1 39.9 12.7 30 12.7ZM30 19.2C30.4 19.2 30.8 19.3 31.1 19.3C31.8 19.9 32.2 20.8 31.5 21.9L24.9 34C24.7 32.5 24.7 31 24.7 29.8C24.7 26.5 24.9 19.2 30 19.2ZM34.9 24.8C35.2 26.7 35.3 28.6 35.3 30C35.3 33.5 35.1 40.8 30 40.8C29.6 40.8 29.2 40.8 28.9 40.7C28.8 40.7 28.8 40.7 28.7 40.6C28.6 40.6 28.5 40.5 28.4 40.5C27.3 40 26.6 39.1 27.6 37.6L34.9 24.8Z" fill="currentColor"></path>
+        <path d="M29.9 0C21.6 0 14.6 2.9 8.8 8.7C5.9 11.6 3.7 14.9 2.2 18.6C0.699997 22.2 0 26 0 30C0 34 0.699997 37.8 2.2 41.4C3.7 45 5.9 48.3 8.7 51.1C11.6 54 14.8 56.2 18.4 57.7C22.2 59.3 26 60 29.9 60C33.9 60 37.7 59.2 41.4 57.7C45.1 56.2 48.4 54 51.4 51.1C54.2 48.4 56.4 45.2 57.8 41.6C59.3 38 60 34.1 60 30C60 25.9 59.3 22.1 57.8 18.5C56.3 14.9 54.2 11.6 51.4 8.8C45.5 2.9 38.3 0 29.9 0ZM30.1 5.4C36.9 5.4 42.7 7.8 47.5 12.6C49.8 14.9 51.6 17.6 52.8 20.5C54 23.5 54.6 26.6 54.6 29.9C54.6 36.8 52.2 42.5 47.6 47.1C45.2 49.5 42.4 51.3 39.4 52.5C36.4 53.8 33.3 54.4 30.1 54.4C26.8 54.4 23.7 53.8 20.8 52.6C17.8 51.3 15.2 49.6 12.8 47.2C10.4 44.8 8.6 42.2 7.3 39.2C6.1 36.2 5.4 33.1 5.4 29.9C5.4 26.6 6 23.5 7.3 20.6C8.6 17.6 10.4 14.9 12.8 12.5C17.4 7.8 23.2 5.4 30.1 5.4Z" fill="currentColor"></path>
+      </symbol>
+    </svg><section class="quire-page frontmatter quire-cover" data-footer-page-title="Cover" id="page-index">
+          <section class="quire-cover__hero hero is-fullheight">
+            <div class="quire-cover__overlay" style="background-image: url(_assets/images/spiral-overlay.png);">
+              <!-- This ensures background image asset gets copied into epub package -->
+              <img class="visually-hidden" src="_assets/images/spiral-overlay.png">
+            </div>
+            <div class="quire-cover__hero-body hero-body">
+              <div class="container is-fluid">
+                <h1 class="title" id="page-header-index">
+                  New Deal Photography
+
+                  <span class="visually-hidden">: </span>
+                  <span class="subtitle">The Works of Dorothea Lange and Walker Evans</span>
+                </h1>
+                <p class="reading-line"></p>
+                <div class="contributor">
+                  <span class="visually-hidden">Contributors: </span>
+
+                  <em><span class="quire-contributor">Judith Keller</span></em>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="quire-cover__more next-page">
+            <div class="quire-cover__more-body hero-more">
+              <a href="#page-cover-content">
+                
+                
+              </a>
+            </div>
+          </section>
+
+          <section id="cover-content" class="section quire-page__content">
+            <div class="container is-fluid">
+              <div class="content">
+                <p>
+                  In the 1930s, during America’s worst financial crises, the
+                  administration of President Franklin D. Roosevelt employed
+                  photographers to document the plight of everyday folk in the
+                  Great Depression in order to push forward with their New Deal
+                  programs. Documentary photographers Dorothea Lange and Walker
+                  Evans were prolific frontrunners of these efforts and their
+                  extraordinary photographs continue to endure today. Their
+                  artistic and documentary mastery and historical importance
+                  provide key insight into a monumental turning point in
+                  American history.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          
+        </section><section class="quire-page frontmatter half-title-page" data-footer-page-title="" id="page-pdf-epub-half-title">
+          <section class="half-title">
+            <p>New Deal Photography</p>
+          </section>
+        </section><section class="quire-page frontmatter title-page" data-footer-page-title="" id="page-pdf-epub-title">
+          <section class="title-block">
+            <h1 class="title">
+              New Deal Photography: The Works of Dorothea Lange and Walker Evans
+            </h1>
+            <p class="contributor">
+              <span class="quire-contributor">Judith Keller</span>
+            </p>
+          </section>
+          <section class="publisher-block">
+            <p class="publisher">J. Paul Getty Trust, Los Angeles</p>
+          </section>
+        </section><section class="quire-page frontmatter copyright-page" data-footer-page-title="" id="page-pdf-epub-copyright">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="undefined"></h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <div class="quire-copyright">
+                  <img src="_assets/images/logo-getty.png" class="copyright__publisher-logo" alt="J. Paul Getty Trust">
+                  <p>© 2022 J. Paul Getty Trust</p>
+                  <a class="quire-copyright__icon__link" href="#page-https-creativecommons-org-licenses-by-4-0" rel="license" target="_blank">
+                    <svg class="quire-copyright__icon">
+                      <use xlink:href="#cc"></use>
+                    </svg>
+                    <svg class="quire-copyright__icon">
+                      <use xlink:href="#by"></use>
+                    </svg>
+                  </a>
+                  <div class="is-screen-only">
+                    This work is licensed under a
+                    <a rel="license" href="#page-https-creativecommons-org-licenses-by-4-0" target="_blank">Creative Commons Attribution 4.0 International License</a>.
+                    <span class="is-print-only">
+                      To view a copy of this license visit
+                      https://creativecommons.org/licenses/by/4.0/.
+                    </span>
+                  </div>
+                  <div class="is-print-only">
+                    This work is licensed under a
+                    <a rel="license" href="#page-https-creativecommons-org-licenses-by-4-0" target="_blank">Creative Commons Attribution 4.0 International License</a>.
+                    <span class="is-print-only">
+                      To view a copy of this license visit
+                      https://creativecommons.org/licenses/by/4.0/.
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page frontmatter quire-contents" data-footer-page-title="Contents" id="page-contents">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="contents">Contents</h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="quire-contents-list list">
+                
+                
+                <nav class="table-of-contents menu-list" data-outputs-include="pdf">
+                  <ol class="table-of-contents-list">
+                    <li class="level-0 page-item">
+                      <a href="#page-intro">Introduction: A Tale of Two Photographers</a>
+                    </li>
+                    <li class="level-0 page-item">
+                      <a href="#page-essay">I. American Photographs: Evans in Middletown<span class="contributor-divider">
+                          — </span><span class="contributor"><span class="quire-contributor">Judith Keller</span></span></a>
+                    </li>
+                    <li class="level-0 section-item">
+                      <a href="#page-catalogue">Catalogue</a>
+
+                      <ol class="table-of-contents-list">
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-1">Cat. 1. Human Erosion in California / Migrant
+                            Mother</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-2">Cat. 2. Bud Fields with His Wife Ivy, and His
+                            Daughter Ellen, Hale County, Alabama</a>
+                        </li>
+                      </ol>
+                    </li>
+                    <li class="level-0 page-item">
+                      <a href="#page-bibliography">Bibliography</a>
+                    </li>
+                    <li class="level-0 page-item">
+                      <a href="#page-contributors">Contributors</a>
+                    </li>
+                  </ol>
+                </nav>
+                <div class="content"></div>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page frontmatter quire-splash" data-footer-page-title="Introduction" id="page-intro">
+          <section class="quire-page__header hero hero-image" style="background-image: url(_assets/images/figures/lange-house.jpg);">
+            <!-- This ensures background image asset gets copied into epub package -->
+            <img class="visually-hidden" src="_assets/images/figures/lange-house.jpg">
+
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="page-header-intro">
+                Introduction: A Tale of Two Photographers
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  Dorothea Lange had an extraordinary life and career as a
+                  prolific photographer. She worked for Arnold Genthe in his
+                  portrait studio in New York and studied photography with
+                  Clarence White at Columbia University. In 1918 she began to
+                  travel around the world to make her living as a photographer.
+                  She found herself stranded in San Francisco, so she opened a
+                  photographic studio there. Paul Taylor, who would become her
+                  second husband, hired her to document migratory workers in
+                  California.
+                </p>
+                <figure id="lange" class="q-figure q-figure--image is-pulled-right">
+                  
+                  
+                  <img alt="" class="q-figure__image" src="_assets/images/figures/lange.jpg" data-outputs-include="epub,pdf">
+                  <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                    <span class="q-figure__caption-content"><em>Dorothea Lange, Resettlement Administration
+                        photographer, in California</em>, 1936.</span>
+                    <span class="q-figure__credit">Library of Congress Prints and Photographs Division</span>
+                  </figcaption>
+                </figure>
+                <p>
+                  In 1935 she began to work for the Resettlement Administration,
+                  later known as the Farm Security Administration. During this
+                  period, she made her most famous image,
+                  <a href="#page-catalogue-1"><em>Human Erosion in California (Migrant Mother)</em></a>, of Native American Florence Owens Thompson and her children
+                  in a pea-pickers’ camp. Other less famous subjects included
+                  Japanese internment camps and scenes of workers in factories
+                  during World War II. Lange became the first woman awarded a
+                  Guggenheim fellowship, and she spent nearly ten years making
+                  photo essays for <em>Life</em> and other magazines. She also
+                  traveled extensively, making photo essays in Vietnam, Ireland,
+                  Pakistan, India, and elsewhere.
+                </p>
+                <figure id="evans" class="q-figure q-figure--image is-pulled-left">
+                  
+                  
+                  <img alt="" class="q-figure__image" src="_assets/images/figures/evans.jpg" data-outputs-include="epub,pdf">
+                  <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                    <span class="q-figure__caption-content"><em>Walker Evans, profile, hand up to face</em>,
+                      1937.</span>
+                    <span class="q-figure__credit">Library of Congress Prints and Photographs Division</span>
+                  </figcaption>
+                </figure>
+                <p>
+                  Walker Evans began to photograph in the late 1920s, making
+                  snapshots during a European trip. Upon his return to New York,
+                  he published his first images in 1930. During the Great
+                  Depression, Evans began to photograph for the Resettlement
+                  Administration, later known as the Farm aecurity
+                  Administration (FSA), documenting workers and architecture in
+                  the Southeastern states. In 1936 he traveled with the writer
+                  James Agee to illustrate an article on tenant farm families
+                  for <em>Fortune</em> magazine; the book
+                  <em>Let Us Now Praise Famous Men</em> came out of this
+                  collaboration.
+                </p>
+                <p>
+                  Throughout his career Evans contributed photographs to
+                  numerous publications, including three devoted solely to his
+                  work. In 1965 he left Fortune, where he had been a staff
+                  photographer for twenty years, to become a professor of
+                  photography and graphic design at Yale University. He remained
+                  in the position until 1974, a year before his death.
+                </p>
+                <figure id="audio-1" class="q-figure q-figure--soundcloud">
+                  
+                  
+                  <div class="q-figure__media-wrapper" data-outputs-include="epub,pdf">
+                    <iframe allow="autoplay" frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?auto_play=false&amp;color=%2523ff5500&amp;hide_related=true&amp;show_comments=false&amp;show_reposts=false&amp;show_teaser=false&amp;show_user=false&amp;url=https%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F336879231" width="100%"></iframe>
+                  </div>
+                  <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                    <span class="q-figure__caption-embed-link"><a href="#page-https-w-soundcloud-com-player-url-https-253a-252f-252fapi-soundcloud-com-252ftracks-252f336879231"><em>https://w.soundcloud.com/player/?url=https%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F336879231</em></a></span>
+                    <span class="q-figure__label q-figure__label--below">
+                      <a class="q-figure__modal-link" href="#page-audio-1"><span class="q-figure__label-icon">
+                           </span><span class="q-figure__label-text">Audio 1</span></a>
+                    </span>
+                    <span class="q-figure__caption-content">Echoing the work of Lange and Evans, contemporary
+                      photographer Chris Killip documents social landscapes and
+                      is known for a series of powerful images of struggling
+                      industrial communities in North East England.</span>
+                    <span class="q-figure__credit">© J. Paul Getty Trust</span>
+                  </figcaption>
+                </figure>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page quire-essay page-one" data-footer-page-title="I. American Photographs" id="page-essay">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="american-photographs">
+                <span class="label">I<span class="visually-hidden">. </span></span>
+                American Photographs: Evans in Middletown
+              </h1>
+              <div class="quire-page__header__contributor">
+                <ul class="quire-contributors-list name-title align-left">
+                  <li class="quire-contributor" id="jkeller">
+                    <span class="quire-contributor__name">Judith Keller</span>,
+                    <span class="quire-contributor__title">Senior Curator of Photographs</span>,
+                    <span class="quire-contributor__affiliation">J. Paul Getty Museum</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <section class="section quire-page__abstract">
+              <div class="container">
+                <div class="content">
+                  <p>
+                    Excerpt from
+                    <em>Walker Evans: Catalogue of the Collection</em> (1995) by
+                    Judith Keller. Available for free download in its entirety,
+                    in the Getty Publications
+                    <a href="#page-https-www-getty-edu-publications-virtuallibrary-0892363177-html" target="_blank">Virtual Library</a>.
+                  </p>
+                </div>
+              </div>
+            </section>
+
+            <div class="container">
+              <div class="content">
+                <p>
+                  When Evans was officially hired in October 1935 as an
+                  Information Specialist by the Historical Section of the
+                  Resettlement Administration, his duties were described as
+                  follows: “Under the general supervision of the Chief of the
+                  Historical Section with wide latitude for the exercise of
+                  independent judgement and decision as Senior Information
+                  Specialist to carry out special assignments in the field;
+                  collect, compile and create photographic material to
+                  illustrate factual and interpretive news releases and other
+                  informational material upon all problems, progress and
+                  activities of the Resettlement Administration.”<sup class="footnote-ref"><a href="#page-essay-fn1" id="page-essay-fnref1" class="footnote-ref-anchor">1</a></sup>
+                  Evans was to make liberal use of his right to exercise
+                  “independent judgement” during his time with the RA, and he
+                  perpetually resisted the idea that his purpose there was to
+                  gather illustrations for the promotion of the RA’s (that is,
+                  the federal government’s New Deal) programs. While considering
+                  a position with the RA in the spring of 1935, he jotted down
+                  those things he would require of his employer, including the
+                  “guarantee of one-man performance,” and what he would provide,
+                  adding that he should not be asked to do anything more in the
+                  way of political propaganda: “[I] Mean never [to] make
+                  photographic statements for the government or do photographic
+                  chores for gov or anyone in gov, no matter how powerful—this
+                  is pure record not propaganda. The value and, if you like,
+                  even the propaganda value for the government lies in the
+                  record itself which in the long run will prove an intelligent
+                  and farsighted thing to have done. NO POLITICS whatever.”
+                  (<cite class="quire-citation expandable"><span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">Evans 1938</span><span class="quire-citation__content" hidden="">Evans, Walker. <em>American Photographs</em>. New York:
+                      Museum of Modern Art, 1938.</span></cite>)
+                </p>
+                <figure id="vid-1" class="q-figure q-figure--youtube">
+                  
+                  
+                  <div class="q-figure__media-wrapper--widescreen" data-outputs-include="epub,pdf">
+                    <img src="_assets/images/figures/evans-video-still.jpg">
+                  </div>
+                  <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                    <span class="q-figure__caption-embed-link"><a href="#page-https-youtu-be-bpgn0uutqqu"><em>https://youtu.be/BpGN0UUtqqU</em></a></span>
+                    <span class="q-figure__label q-figure__label--below">
+                      <a class="q-figure__modal-link" href="#page-vid-1"><span class="q-figure__label-icon">
+                           </span><span class="q-figure__label-text">Video 1</span></a>
+                    </span>
+                    <span class="q-figure__caption-content">A selection of Walker Evans photos from the across the
+                      United States of America, 1930s.</span>
+                    <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                  </figcaption>
+                </figure>
+                <p>
+                  Because his pictures had been issued by the agency with
+                  policy-approved captions for the past three years, Evans felt
+                  the need in 1938 to distance himself from that establishment,
+                  as well as the world of commercial publishing, by prefacing
+                  <em>American Photographs</em> with this statement: “The
+                  responsibility for the selection of the pictures used in this
+                  book has rested with the author, and the choice has been
+                  determined by his opinion: therefore they are presented
+                  without sponsorship or connection with the policies, aesthetic
+                  or political, of any of the institutions, publications or
+                  government agencies for which some of the work has been
+                  done.”<sup class="footnote-ref"><a href="#page-essay-fn2" id="page-essay-fnref2" class="footnote-ref-anchor">2</a></sup>
+                  Stryker’s business was to provide informative images to the
+                  mass media, and he and Evans would always disagree about the
+                  most appropriate vehicle for the latter’s photographs, as well
+                  as the definition of “documentary.” But when the photography
+                  project of the RA began, the two men were able to agree on its
+                  primary subject: American history as exemplified by life in
+                  the average American town. Evans’s vision for documenting
+                  American life had begun to form much earlier; a letter drafted
+                  to his friend Ernestine Evans, an editor at J. B. Lippincott,
+                  in February of 1934, makes clear his aspirations:
+                </p>
+                <blockquote>
+                  <p>
+                    What do I want to do? … I know now is the time for picture
+                    books. An American city is the best, Pittsburgh better than
+                    Washington. I know more about such a place. I would want to
+                    visit several besides Pittsburgh before deciding. Something
+                    perhaps smaller. Toledo, Ohio, maybe. Then I’m not sure a
+                    book of photos should be identified locally. American city
+                    is what I’m after… People, all classes, surrounded by
+                    bunches of the new down-and-out. Automobiles and the
+                    automobile landscape. Architecture, American urban taste,
+                    commerce, small scale, large scale, the city street
+                    atmosphere, the street smell, the hateful stuff, women’s
+                    clubs, fake culture, bad education, religion in decay…<sup class="footnote-ref"><a href="#page-essay-fn3" id="page-essay-fnref3" class="footnote-ref-anchor">3</a></sup>
+                  </p>
+                </blockquote>
+                <p>
+                  The two men could find common ground in part due to the
+                  widespread influence of the 1929 publication
+                  <em>Middletown: A Study in Modern American Culture</em> by
+                  Robert and Helen Lynd, professors of sociology at Columbia and
+                  Sarah Lawrence, respectively. A 550-page field investigation
+                  by social anthropologists with subject headings including
+                  “What Middletown does to get its living” and “The houses in
+                  which Middletown lives,” this pioneering project attempted an
+                  objective analysis of life in a small Midwestern American city
+                  (Muncie, Indiana). The Lynds’ study was hailed as a very
+                  accessible report that was most appealing because it made “no
+                  attempt to prove anything” but simply recorded “what was
+                  observed.” The Lynds introduced their topic by saying their
+                  goal “was to study synchronously the interwoven trends that
+                  are the life of a small American city. A typical city,
+                  strictly speaking, does not exist, but the city studied was
+                  selected a shaving many features in common to a wide group of
+                  communities.” (<cite class="quire-citation expandable"><span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">Lynd 1929, 3</span><span class="quire-citation__content" hidden="">Lynd, Robert S., and Helen Merrell Lynd.
+                      <em>Middletown: A Study in American Culture</em> San
+                      Diego: Harcourt Brace Jovanovich, 1929; reprint,
+                      Harvest/HBJ, 1956.</span></cite>)
+                </p>
+                <figure id="fig-1" class="q-figure q-figure--image">
+                  
+                  
+                  <img alt="" class="q-figure__image" src="_assets/images/figures/evans-legionnaire.jpg" data-outputs-include="epub,pdf">
+                  <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                    <span class="q-figure__label q-figure__label--below">
+                      <a class="q-figure__modal-link" href="#page-fig-1"><span class="q-figure__label-icon">
+                           </span><span class="q-figure__label-text">Figure 1</span></a>
+                    </span>
+                    <span class="q-figure__caption-content">Walker Evans. <em>[American Legionnaire]</em>,
+                      1935.</span>
+                    <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                  </figcaption>
+                </figure>
+                <p>
+                  The “Outline Memorandum” that Evans prepared in October 1935,
+                  probably at Stryker’s request, laying out plans for an
+                  eight-week automobile trip through the Southeast, makes
+                  reference to Middletown and presents thoughts similar to the
+                  photographer’s musings of 1934:
+                </p>
+                <blockquote>
+                  <p>
+                    First objective, Pittsburgh and vicinity, one week;
+                    photography, documentary in style, of industrial subjects,
+                    emphasis on housing and home life of working-class people…
+                    Ohio Valley: rural architecture, including the historical,
+                    contemporary “Middletown” subjects; Cincinnati [sic]
+                    housing; notes on style of Victorian prosperous period…
+                    Indiana, Kentucky, Illinois river towns, gather typical
+                    documents, main streets, etc., in passing. Ditto Mississippi
+                    river towns. Select one of these towns, such as Hannibal,
+                    Missouri, for more thorough treatment, if time allows.<sup class="footnote-ref"><a href="#page-essay-fn4" id="page-essay-fnref4" class="footnote-ref-anchor">4</a></sup>
+                  </p>
+                </blockquote>
+                <figure id="fig-2" class="q-figure q-figure--image is-pulled-right">
+                  
+                  
+                  <img alt="" class="q-figure__image" src="_assets/images/figures/evans-sons.jpg" data-outputs-include="epub,pdf">
+                  <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                    <span class="q-figure__label q-figure__label--below">
+                      <a class="q-figure__modal-link" href="#page-fig-2"><span class="q-figure__label-icon">
+                           </span><span class="q-figure__label-text">Figure 2</span></a>
+                    </span>
+                    <span class="q-figure__caption-content">Walker Evans.
+                      <em>Sons of the American Legion, Bethlehem,
+                        Pennsylvania</em>, 1935.</span>
+                    <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                  </figcaption>
+                </figure>
+                <p>
+                  This document goes on to list antebellum plantation
+                  architecture in Natchez, Mississippi; small rural French towns
+                  in Teche Parish, Louisiana; industrial themes in Birmingham,
+                  Alabama; and a cotton plantation in South Carolina, as
+                  objectives of the proposed trip for gathering still
+                  photography of a “general sociological nature.” In early 1936,
+                  one of <em>Middletown’s</em> authors had a chance to directly
+                  affect the RA’s Photography Section: Stryker showed Robert
+                  Lynd, a former Columbia colleague, some RA pictures and asked
+                  for his opinion while lunching with him in New York. The
+                  result was a “shooting script” for “things which should be
+                  photographed as American Background,” issued by Stryker to his
+                  team of photographers. The script contains an extensive
+                  listing of items like “People on and off the job,” “How do
+                  people look?,” “The wall decoration in homes as an index to
+                  the different income groups and their reactions,” and “A
+                  photographic study of use of leisure time in various income
+                  groups.”<sup class="footnote-ref"><a href="#page-essay-fn5" id="page-essay-fnref5" class="footnote-ref-anchor">5</a></sup>
+                </p>
+                <figure id="fig-3" class="q-figure q-figure--image is-pulled-left">
+                  
+                  
+                  <img alt="" class="q-figure__image" src="_assets/images/figures/evans-graveyard.jpg" data-outputs-include="epub,pdf">
+                  <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                    <span class="q-figure__label q-figure__label--below">
+                      <a class="q-figure__modal-link" href="#page-fig-3"><span class="q-figure__label-icon">
+                           </span><span class="q-figure__label-text">Figure 3</span></a>
+                    </span>
+                    <span class="q-figure__caption-content">Walker Evans.
+                      <em>Graveyard, Houses and Steel Mill, Bethlehem,
+                        Pennsylvania</em>, 1935; printed later.</span>
+                    <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                  </figcaption>
+                </figure>
+                <p>
+                  Once Evans was officially on staff, his first trip under
+                  Stryker’s direction seems to have been an extended fall visit
+                  to Bethlehem, Pennsylvania, where steel mills, workers’
+                  housing, parading legionnaires, and elaborate gravestones (<a class="ref" data-annotation-ids="" data-figure-id="fig-1" data-region="" data-sequence-index="null" data-sequence-transition="30" href="#page-null">Figure 1</a>,
+                  <a class="ref" data-annotation-ids="" data-figure-id="fig-2" data-region="" data-sequence-index="null" data-sequence-transition="30" href="#page-null">Figure 2</a>, and
+                  <a class="ref" data-annotation-ids="" data-figure-id="fig-3" data-region="" data-sequence-index="null" data-sequence-transition="30" href="#page-null">Figure 3</a>) were his subjects. Between November 1935 and April 1936,
+                  Evans made two lengthy road trips that would account for the
+                  bulk of his entire production for the RA and many of the 169
+                  mid-thirties pictures that follow this essay. From November to
+                  mid-January, here turned to industrial centers in
+                  Pennsylvania, finally spending some time in Pittsburgh, and
+                  went on to Ohio, Kentucky, Tennessee, Alabama, Mississippi,
+                  and Louisiana, following to some extent the course outlined in
+                  the memorandum above. In February 1936, he left again, with a
+                  completely Southern itinerary that would take him through many
+                  small cities, some of them renowned for ante-bellum
+                  architecture and Civil War battles, in Louisiana, Mississippi,
+                  Alabama, Georgia, Florida, the Carolinas, and Virginia.
+                </p>
+                <p>
+                  In the spring of 1936, Stryker approved a furlough for Evans
+                  to work on a <em>Fortune</em> story with James Agee. This
+                  leave for mid-July through mid-September allowed Evans to
+                  return to the “middle south” with Agee to prepare “an article
+                  on cotton tenantry in the United States, in the form of a
+                  photographic and verbal record of the daily lives and
+                  environment of an average white family of tenant farmers” (<a class="ref" data-annotation-ids="" data-figure-id="fig-4" data-region="" data-sequence-index="null" data-sequence-transition="30" href="#page-null">Figure 4</a>
+                  and
+                  <a class="ref" data-annotation-ids="" data-figure-id="fig-5" data-region="" data-sequence-index="null" data-sequence-transition="30" href="#page-null">Figure 5</a>). (<cite class="quire-citation expandable"><span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">Agee 1941, viii</span><span class="quire-citation__content" hidden="">Agee, James, and Walker Evans.
+                      <em>Let Us Now Praise Famous Men: Three Tenant Families</em>. Boston: Houghton Mifflin, 1941.</span></cite>) According to the terms of Stryker’s arrangement with
+                  <em>Fortune’s</em> art editor, the pictures Evans produced on
+                  this job would become the property of the RA after the
+                  magazine had run the finished essay in a fall issue.
+                </p>
+                <figure class="q-figure q-figure--group">
+                  <div class="q-figure--group__row columns">
+                    <figure id="fig-4" class="q-figure q-figure--image column q-figure--group__item quire-grid--2">
+                      
+                      
+                      <img alt="" class="q-figure__image" src="_assets/images/figures/evans-hymns.jpg" data-outputs-include="epub,pdf">
+                      <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                        <span class="q-figure__label q-figure__label--below">
+                          <a class="q-figure__modal-link" href="#page-fig-4"><span class="q-figure__label-icon">
+                               </span><span class="q-figure__label-text">Figure 4</span></a>
+                        </span>
+                        <span class="q-figure__caption-content">Walker Evans.
+                          <em>Alabama Tenant Farmer Family Singing Hymns / The
+                            Tengle Family, Hale County, Alabama</em>, 1936.</span>
+                        <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                      </figcaption>
+                    </figure>
+                    <figure id="fig-5" class="q-figure q-figure--image column q-figure--group__item quire-grid--2">
+                      
+                      
+                      <img alt="" class="q-figure__image" src="_assets/images/figures/evans-burroughs.jpg" data-outputs-include="epub,pdf">
+                      <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                        <span class="q-figure__label q-figure__label--below">
+                          <a class="q-figure__modal-link" href="#page-fig-5"><span class="q-figure__label-icon">
+                               </span><span class="q-figure__label-text">Figure 5</span></a>
+                        </span>
+                        <span class="q-figure__caption-content">Walker Evans.
+                          <em>Floyd and Lucille Burroughs, Hale County,
+                            Alabama</em>, 1936.</span>
+                        <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                      </figcaption>
+                    </figure>
+                  </div>
+                </figure>
+                <p>
+                  Once Evans returned from this trip south, during which he and
+                  Agee documented the lives of the Burroughs, Fields, and Tengle
+                  families in Alabama (see
+                  <a href="#page-catalogue-3"><em>Bud Fields with His Wife</em></a>
+                  and <a href="#page-catalogue-4"><em>Burrough’s Family</em></a>), he spent September and October printing his pictures and
+                  preparing presentations for both <em>Fortune</em> and
+                  Stryker.<sup class="footnote-ref"><a href="#page-essay-fn6" id="page-essay-fnref6" class="footnote-ref-anchor">6</a></sup>
+                  Stryker again talked about a New England trip, on which he
+                  planned to accompany the photographer, but it did not
+                  materialize, and Evans was once more sent to the South, this
+                  time to photograph the catastrophe of flooding in Arkansas and
+                  Tennessee. An unusual and demanding assignment for Evans, this
+                  trip of late January and February 1937 was made with another
+                  RA photographer, Edwin Locke, and required that he spend
+                  considerable time in the affected area, photographing the
+                  flood victims and their temporary shelters.
+                </p>
+                <p>
+                  This would be his last travel for the RA, an agency that was
+                  absorbed into the Farm Security Administration at about this
+                  time. Evans’s contributions to the RA’s documentation of
+                  Depression-era America had essentially been obtained between
+                  the summer of 1935 and the spring of 1936, a period of less
+                  than a year. The Alabama pictures made while on leave to
+                  <em>Fortune</em> would become his best-known photographs and,
+                  ironically, those most closely identified with his work as a
+                  New Deal photographer.
+                </p>
+                <div class="backmatter">
+                  <h2>Notes</h2>
+                </div>
+                <section class="footnotes">
+                  <ol class="footnotes-list">
+                    <li id="page-essay-fn1" class="footnote-item">
+                      <p>
+                        Memorandum draft by Walker Evans, reproduced in
+                        <em>Walker Evans at Work</em>, (New York: Harper and
+                        Row, 1982), 112.
+                        <a href="#page-essay-fnref1" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn2" class="footnote-item">
+                      <p>
+                        Walker Evans to Ernestine Evans, unfinished two-page
+                        letter in black ink on hotel stationery, dated Feb.
+                        1934, first published in <em>Walker Evans at Work</em>,
+                        98. This letter is part of the Evans Collection at the
+                        Getty (JPGM84.XG.963.42).
+                        <a href="#page-essay-fnref2" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn3" class="footnote-item">
+                      <p>
+                        From a review by W. B. Shaw, quoted in
+                        <em>Book Review Digest: Books of l929</em> (New York: H.
+                        W. Wilson, 1930), 591.
+                        <a href="#page-essay-fnref3" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn4" class="footnote-item">
+                      <p>
+                        Walker Evans to Roy Stryker, “Outline Memorandum,” ca.
+                        Oct.1935, <em>Stryker Papers</em>. Also published in
+                        Walker Evans at Work, 113.
+                        <a href="#page-essay-fnref4" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn5" class="footnote-item">
+                      <p>
+                        Roy Stryker to all FSA (then RA) photographers, outline
+                        for “Suggestions recently made by Robert Lyndf or things
+                        which should be photo-graphed as ‘American Background,’”
+                        dated by Stryker to early 1936, first published in
+                        Carver, <em>Just Before the War</em>, n.p.
+                        <a href="#page-essay-fnref5" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn6" class="footnote-item">
+                      <p>
+                        For more background on this Alabama series and a
+                        discussion of two photograph albums in the collection of
+                        the Prints and Photographs Division of the Library of
+                        Congress thought to beEvans’s “first draft” for Fortune,
+                        seeJudith Keller and Beverly Brannan, “Walker Evans: Two
+                        Albums in the Library of Congress,”
+                        <em>History of Photography</em> 19:1 (Spring 1995).
+                        <a href="#page-essay-fnref6" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                  </ol>
+                </section>
+
+                <div class="quire-page__content__references backmatter">
+                  <h2>Bibliography</h2>
+                  <dl>
+                    <dt id="agee-1941">Agee 1941</dt>
+                    <dd>
+                      Agee, James, and Walker Evans.
+                      <em>Let Us Now Praise Famous Men: Three Tenant Families</em>. Boston: Houghton Mifflin, 1941.
+                    </dd>
+
+                    <dt id="evans-1938">Evans 1938</dt>
+                    <dd>
+                      Evans, Walker. <em>American Photographs</em>. New York:
+                      Museum of Modern Art, 1938.
+                    </dd>
+
+                    <dt id="lynd-1929">Lynd 1929</dt>
+                    <dd>
+                      Lynd, Robert S., and Helen Merrell Lynd.
+                      <em>Middletown: A Study in American Culture</em> San
+                      Diego: Harcourt Brace Jovanovich, 1929; reprint,
+                      Harvest/HBJ, 1956.
+                    </dd>
+                  </dl>
+                </div>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page quire-contents" data-footer-page-title="Catalogue" id="page-catalogue">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="catalogue">
+                Catalogue
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container is-fullhd">
+              <div class="quire-contents-list grid">
+                
+                
+                <nav class="table-of-contents menu-list" data-outputs-include="pdf">
+                  <ol class="table-of-contents-list">
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-1">
+                        <div class="card image">
+                          <div class="card-image">
+                            <figure class="image">
+                              <img src="_assets/images/figures/lange-mother-a.jpg" alt="">
+                            </figure>
+                          </div>
+
+                          <div class="card-content">
+                            Cat. 1. Human Erosion in California / Migrant
+                            Mother
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-2">
+                        <div class="card image">
+                          <div class="card-image">
+                            <figure class="image">
+                              <img src="_assets/images/figures/evans-fields-family-a.jpg" alt="">
+                            </figure>
+                          </div>
+
+                          <div class="card-content">
+                            Cat. 2. Bud Fields with His Wife Ivy, and His
+                            Daughter Ellen, Hale County, Alabama
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                  </ol>
+                </nav>
+                <div class="content"></div>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat. 1. Migrant Mother" data-footer-section-title="Catalogue" id="page-catalogue-1">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="cat-1" class="q-figure q-figure--image">
+                
+                
+                <img alt="" class="q-figure__image" src="iiif/cat-1/lange-mother-a/print-image.jpg" data-outputs-include="epub,pdf">
+                <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                  <span class="q-figure__caption-content">Dorothea Lange,
+                    <em>Human Erosion in California / Migrant Mother</em>,
+                    1936.</span>
+                  <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                </figcaption>
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-1">
+                    Cat. 1. Human Erosion in California / Migrant Mother
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Artist</td>
+                        <td>Dorothea Lange</td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>1936</td>
+                      </tr>
+                      <tr>
+                        <td>Dimensions</td>
+                        <td>
+                          34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in ×
+                          10 <sup>9</sup>⁄<sub>16</sub> in.)
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>Gelatin silver print</td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>J. Paul Getty Museum</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="#page-https-www-getty-edu-art-collection-object-108e2e" target="_blank">
+                    View in Collection
+                    
+                  </a>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      The first publication of this renowned image occurred on
+                      March 11, 1936, on the third day that the San Francisco
+                      News ran a story about the pea pickers’ camp at Nipomo. It
+                      was also featured as a full-page reproduction in September
+                      1936 issue of <em>Survey Graphic</em>, titled
+                      “Draggin’-Around People” and captioned “A blighted pea
+                      crop in California in 1935 left the pickers without work.
+                      This family sold their tent to get food.” Also in this
+                      issue was an article by Taylor entitled “From the Group
+                      Up.” His report on demonstration projects of the New
+                      Deal’s Resettlement Administration in Arizona, Utah, New
+                      Mexico, and California was illustrated with four more
+                      picture by Lange.
+                    </p>
+                    <p>
+                      Since it was first published, this composition, best known
+                      as <em>Migrant Mother</em>, has come to represent not only
+                      the pictorial archive created by the RA/FSA during the
+                      1930s but also the Great Depression itself. Posters and
+                      other publicity of later activists fighting racial,
+                      economic, and political oppression have borrowed from
+                      Lange’s icon of the time. The
+                      <a class="ref" data-annotation-ids="" data-figure-id="cat-1" data-region="1260,400,2177,2488" data-sequence-index="null" data-sequence-transition="30" href="#page-null">handsome, androgynous face</a>, the pose of stoic anxiety, and the encumbrance of
+                      <a class="ref" data-annotation-ids="" data-figure-id="cat-1" data-region="3020,320,1717,2855" data-sequence-index="null" data-sequence-transition="30" href="#page-null">three</a>
+                      <a class="ref" data-annotation-ids="" data-figure-id="cat-1" data-region="120,1350,1706,1806" data-sequence-index="null" data-sequence-transition="30" href="#page-null">young</a>
+                      <a class="ref" data-annotation-ids="" data-figure-id="cat-1" data-region="3150,3780,1540,1245" data-sequence-index="null" data-sequence-transition="30" href="#page-null">children</a>
+                      proved to be universal attributes. With Lange’s artistry,
+                      Owens took on the timeless quality of Eugéne Delacroix’s
+                      strong female rebel (<em>Liberty Leading the People</em>),
+                      Jean-François Millet’s peasant woman (the agrarian ideal),
+                      Honoré Daumier’s laundresses (the working woman) and Käthe
+                      Kollwitz’s proletarian woman warrior (one of the mothers
+                      leading her <em>Peasants’ War</em>).
+                    </p>
+                    <p>
+                      Owens, although she became famous, did not enjoy, even
+                      momentarily, the life of a celebrity. She had three more
+                      children and kept moving with her family, following the
+                      California crops. She did become involved in efforts to
+                      organize farm labor and would sometimes serve as the straw
+                      boss, one who negotiates wages for migrants as the picking
+                      season begins. She was still working in the fields at age
+                      fifty before finally marrying again (to George Thompson)
+                      and settling into a stable life in Modesto, California.
+                    </p>
+                    <p>
+                      Several Lange images from the same photoshoot with Owens
+                      and her children exist
+                      <a href="#page-https-guides-loc-gov-migrant-mother-introduction" target="_blank">in other collections</a>. These give us the chance to consider the many varied
+                      choices in composition that Lange made in producing her
+                      iconic final image.
+                    </p>
+                    <figure id="mother-variants" class="q-figure q-figure--image">
+                      
+                      
+                    </figure>
+                    <figure id="mother-annotations" class="q-figure q-figure--image">
+                      
+                      
+                      <img alt="" class="q-figure__image" src="iiif/mother-annotations/base/print-image.jpg" data-outputs-include="epub,pdf">
+                      <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                        <span class="q-figure__label q-figure__label--below">
+                          <a class="q-figure__modal-link" href="#page-mother-annotations"><span class="q-figure__label-icon">
+                               </span><span class="q-figure__label-text">Figure 1.2</span></a>
+                        </span>
+                        <span class="q-figure__caption-content">This version of the print from the Library of
+                          Congress Prints and Photographs Division is mounted on
+                          paper board and includes an original FSA label. Note
+                          too the thumb seen in the lower right corner. It is
+                          also visible in the Getty‘s print, but Lange’s
+                          negative was later retouched to remove the thumb and
+                          in later prints, it is only a ghostly shadow.</span>
+                        <span class="q-figure__credit"></span>
+                      </figcaption>
+                    </figure>
+                    <div class="backmatter">
+                      <h2>Exhibitions</h2>
+                      <p>
+                        <em>Tradition and Innovation: Recent Additions to the
+                          Photographs Collection</em>, the J. Paul Getty Museum at the Getty Center (Los
+                        Angeles), June 20–October 8, 2000;
+                        <em>The Public Record: Photographs of the Great
+                          Depression from the J. Paul Getty Museum</em>, Pomona College Museum of Art (Claremont), March
+                        10–May 19, 2002;
+                        <em>About Life: The Photographs of Dorothea Lange</em>,
+                        the J. Paul Getty Museum at the Getty Center (Los
+                        Angeles), October 15, 2002–February 9, 2003;
+                        <em>Photographers of Genius</em>, the J. Paul Getty
+                        Museum at the Getty Center (Los Angeles), March 16–July
+                        25, 2004; <em>In Focus: The Worker</em>, the J. Paul
+                        Getty Museum at the Getty Center (Los Angeles), November
+                        3, 2009–March 21, 2010;
+                        <em>Route 66: The Road and the Romance</em>, Autry
+                        National Center (Los Angeles), June 7–January 4, 2015.
+                      </p>
+                      <h2>Bibliography</h2>
+                      <p>
+                        Keller, Judith. About Life: The Photographs of Dorothea
+                        Lange, exh. brochure (Los Angeles: The J. Paul Getty
+                        Museum), cover; Keller, Judith.
+                        <em>In Focus: Dorothea Lange. Photographs from the J.
+                          Paul Getty Museum.</em>
+                        (Los Angeles: J. Paul Getty Museum, 2002), p.33;
+                        <em>The J. Paul Getty Museum Handbook of the
+                          Collections</em>. 7th ed. (Los Angeles: J. Paul Getty Museum, 2007), p.
+                        309, ill.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat. 2. The Fields Family" data-footer-section-title="Catalogue" id="page-catalogue-2">
+          <div>
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="cat-2" class="q-figure q-figure--image">
+                
+                
+                <img alt="" class="q-figure__image" src="iiif/cat-2/evans-fields-family-a/print-image.jpg" data-outputs-include="epub,pdf">
+                <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                  <span class="q-figure__caption-content">Walker Evans,
+                    <em>Bud Fields with His Wife Ivy, and His Daughter Ellen,
+                      Hale County, Alabama</em>, 1936.</span>
+                  <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                </figcaption>
+              </figure>
+
+              <figure id="cat-2-b" class="q-figure q-figure--image">
+                
+                
+                <img alt="" class="q-figure__image" src="_assets/images/figures/evans-fields-family-b.jpg" data-outputs-include="epub,pdf">
+                <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                  <span class="q-figure__caption-content">Walker Evans,
+                    <em>Sharecropper’s Family, Hale County, Alabama / Bud Fields
+                      and His Family, Hale County, Alabama / Bud Woods and His
+                      Family</em>, 1936.</span>
+                  <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                </figcaption>
+              </figure>
+
+              <figure id="cat-2-c" class="q-figure q-figure--image">
+                
+                
+                <img alt="" class="q-figure__image" src="_assets/images/figures/evans-bud-fields.jpg" data-outputs-include="epub,pdf">
+                <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                  <span class="q-figure__caption-content">Walker Evans, * [William Edward (Bud) Fields, A Cotton
+                    Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant
+                    Farmer]*, 1936.</span>
+                  <span class="q-figure__credit">The J. Paul Getty Museum, Los Angeles</span>
+                </figcaption>
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-2">
+                    Cat. 2. Bud Fields with His Wife Ivy, and His Daughter
+                    Ellen, Hale County, Alabama
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Artist</td>
+                        <td>Walker Evans</td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>1936</td>
+                      </tr>
+                      <tr>
+                        <td>Dimensions</td>
+                        <td>
+                          19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9
+                          <sup>5</sup>⁄<sub>8</sub> in.)
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>Gelatin silver print</td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>J. Paul Getty Museum</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="#page-https-www-getty-edu-art-collection-object-104a2k" target="_blank">
+                    View in Collection
+                    
+                  </a>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      From mid-July to mid-September 1936, Evans took a leave
+                      from his position as an information specialist for the
+                      Historical Section of the Resettlement Administration to
+                      work with the writer James Agee on an assignment for
+                      <em>Fortune</em> magazine. They traveled to the Deep South
+                      to prepare an article on tenant cotton farming. In Alabama
+                      they documented the lives of farmers, including the Fields
+                      family. Evans found in this average American household the
+                      archetypal portrait of the everyman that he treasured. The
+                      straight-forward style of this portrait emphasizes the
+                      family’s hard life as much as their pride.
+                    </p>
+                    <figure id="table-1" class="q-figure q-figure--table">
+                      
+                      
+                      <table data-outputs-include="epub,pdf">
+                        <caption>
+                          <strong>Table 1</strong><br>Other Walker Evans Images from Hale County,
+                          Alabama, 1936, in the J. Paul Getty Museum Collection
+                        </caption>
+                        <thead>
+                          <tr>
+                            <th>Title</th>
+                            <th>Object Number</th>
+                            <th>Link</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td>
+                              Bed, Tenant Farmhouse, Hale County, Alabama /
+                              Floyd Burrough's Bedroom, Hale County, Alabama
+                            </td>
+                            <td>84.XM.956.350</td>
+                            <td>
+                              <a href="#page-https-www-getty-edu-art-collection-object-106h8e" target="_blank">106H8E</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>[Two Mules, Hale County, Alabama]</td>
+                            <td>84.XM.956.314</td>
+                            <td>
+                              <a href="#page-https-www-getty-edu-art-collection-object-106h7p" target="_blank">106H7P</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              Chicken Coop on Floyd Burroughs' Farm, Hale
+                              County, Alabama
+                            </td>
+                            <td>84.XM.956.326</td>
+                            <td>
+                              <a href="#page-https-www-getty-edu-art-collection-object-106h7x" target="_blank">106H7X</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              Washroom in the Dog Run of the Burroughs Home,
+                              Hale County, Alabama
+                            </td>
+                            <td>84.XM.956.335</td>
+                            <td>
+                              <a href="#page-https-www-getty-edu-art-collection-object-106h87" target="_blank">106H87</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              Allie Mae Burroughs, Wife of a Cotton
+                              Sharecropper, Hale County, Alabama
+                            </td>
+                            <td>84.XM.956.517</td>
+                            <td>
+                              <a href="#page-https-www-getty-edu-art-collection-object-106hak" target="_blank">106HAK</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              Othel Lee (Squeakie) Burroughs, Hale County,
+                              Alabama
+                            </td>
+                            <td>84.XM.956.363</td>
+                            <td>
+                              <a href="#page-https-www-getty-edu-art-collection-object-104a3c" target="_blank">104A3C</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              [Gleanhill School House, Hale County, Alabama]
+                            </td>
+                            <td>84.XM.956.324</td>
+                            <td>
+                              <a href="#page-https-www-getty-edu-art-collection-object-106h7w" target="_blank">106H7W</a>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                        <span class="q-figure__caption-content"></span>
+                        <span class="q-figure__credit"></span>
+                      </figcaption>
+                    </figure>
+                    <div class="backmatter">
+                      <h2>Exhibitions</h2>
+                      <p>
+                        <em>Walker Evans: An Alabama Record</em>, the J. Paul
+                        Getty Museum (Malibu), April 7–June 21, 1992;
+                        <em>In Focus: The Portrait</em>, the J. Paul Getty
+                        Museum at the Getty Center (Los Angeles), January
+                        27–June 14, 2009.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page" data-footer-page-title="Bibliography" id="page-bibliography">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="bibliography">
+                Bibliography
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <div class="quire-page__content__references">
+                  <dl>
+                    <dt><span id="1">Agee 1941</span></dt>
+                    <dd>
+                      Agee, James, and Walker Evans.
+                      <em>Let Us Now Praise Famous Men: Three Tenant Families</em>. Boston: Houghton Mifflin, 1941.
+                    </dd>
+                  </dl>
+
+                  <dl>
+                    <dt><span id="2">Evans 1938</span></dt>
+                    <dd>
+                      Evans, Walker. <em>American Photographs</em>. New York:
+                      Museum of Modern Art, 1938.
+                    </dd>
+                  </dl>
+
+                  <dl>
+                    <dt><span id="3">Lynd 1929</span></dt>
+                    <dd>
+                      Lynd, Robert S., and Helen Merrell Lynd.
+                      <em>Middletown: A Study in American Culture</em> San
+                      Diego: Harcourt Brace Jovanovich, 1929; reprint,
+                      Harvest/HBJ, 1956.
+                    </dd>
+                  </dl>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Contributors" id="page-contributors">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="contributors">
+                Contributors
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <ul class="quire-contributors-list bio align-left">
+                  <li class="quire-contributor" id="judith-keller">
+                    <div class="title is-5">
+                      <span class="quire-contributor__name">Judith Keller</span>
+                      <a href="#page-https-news-getty-edu-judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum-htm" class="quire-contributor__url" target="_blank">
+                        
+                      </a>
+                    </div>
+                    <div class="media">
+                      <div class="quire-contributor__details media-content">
+                        <div class="media-left">
+                          <img class="image quire-contributor__pic" src="_assets/images/contributors/judith-keller.jpg" alt="Picture of Judith Keller">
+                        </div>
+                        <div class="quire-contributor__bio">
+                          Judith Keller joined the J. Paul Getty Museum in 1986
+                          and since 2008 was an Associate Curator of
+                          Photographs. In 2010, she was named the Senior Curator
+                          of Photographs. Keller received her B.A. in Art
+                          History and a Masters in Museum Practice and Art
+                          History from the University of Michigan at Ann Arbor.
+                          She also completed course work for a Phd. in Art
+                          History at the University of Michigan. Prior to her
+                          tenure at the Getty, Keller worked at The University
+                          of Michigan Museum of Art (1979 – 1981) and at the
+                          Archer M. Huntington Art Gallery (now the Blanton
+                          Museum of Art) at The University of Texas, Austin, as
+                          Curator of Prints and Drawings.
+                        </div>
+                        <ul>
+                          <li>
+                            <a href="#page-essay" class="quire-contributor__page-link" target="_blank">
+                              I. American Photographs: Evans in Middletown
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section></body></html>
