@@ -13,14 +13,14 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Biophilia
+subtitle: 
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: ""
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -34,10 +34,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: "Denver Art Museum"
+    location: Denver
+    url: https://www.denverartmuseum.org/
+    logo: DAM-logo-white@2x.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,27 +46,62 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
-    type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+  - id: joris-laarman
+    type: secondary
+    first_name: Joris
+    last_name: Laarman
+  - id: sandra-davolio
+    type: secondary
+    first_name: Sandra
+    last_name: Davolio
+  - id: elena-manferdini
+    type: secondary
+    first_name: Elena
+    last_name: Manferdini
+  - id: kim-ruffin
+    type: secondary
+    first_name: Kim
+    last_name: Ruffin
+  - id: florence-williams
+    type: secondary
+    first_name: Florence
+    last_name: Williams
+  - id: mathieu-lehanneur
+    type: secondary
+    first_name: Mathieu
+    last_name: Lehanneur
+  - id: aranda-lasch
+    type: secondary
+    first_name: Aranda
+    last_name: Lasch
+  - id: terrol-dew-johnson
+    type: secondary
+    first_name: Terrol
+    middle_name: Dew
+    last_name: Johnson
+  - id: studio-gang
+    type: secondary
+    first_name: Studio
+    last_name: Gang
+  - id: alexandra-kehayoglou
+    type: secondary
+    first_name: Alexandra
+    last_name: Kehayoglou
+  
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: Publication text and design © 2023 Denver Art Museum
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+  abbreviation: CC BY-NC-SA
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   scope: full # full | text-only | some-exceptions
+  online_text: "Most of the images of the artworks are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. A copyright line accompanies the illustrations that are not covered under this license."
+
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
