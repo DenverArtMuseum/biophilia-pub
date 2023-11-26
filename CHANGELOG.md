@@ -18,6 +18,32 @@ Changelog entries are classified using the following labels:
 
 - `Removed`: for deprecated features removed in this release
 
+## [1.0.0-rc.15]
+
+### Added
+
+- Validation method to check if an image can be tiled, and log error if invalid.
+- `objects-page` layout. This contains the 'Object Filters' feature, which renders a filterable list of all publication objects.
+- `object-filters` WebC components
+
+### Changed
+
+- Increase `print-image` transformation width to `2025px`
+- Remove preceding slash from relative paths in epub output
+- Updated audio component print output to exclude audio embed and include optional poster image.
+
+### Fixed
+
+- Resolved issue with logic rendering external manifests
+- Prefix epub filename with `page-` to ensure validity if filename begins with a number
+- Include `svg` definitions in body of epub pages using `svg`
+- Ensure relative links with hashes are properly transformed for EPUB output
+- Include title in epub manifest if no subtitle
+
+### Removed
+
+- Remove `.jp2` from supported image extensions
+
 ## [1.0.0-rc.14]
 
 ### Fixed

@@ -42,6 +42,29 @@ module.exports = function(eleventyConfig, collections, content) {
   }
 
   /**
+   * Removes preceding slashes from asset paths
+   * @param {HTMLElement} element 
+   */
+  const transformPaths = (element) => {
+    const images = element.querySelectorAll('img')
+    const links = element.querySelectorAll('a')
+    const heros = element.querySelectorAll('.quire-page__header.hero, .quire-cover__overlay')
+    heros.forEach((item) => {
+      item.style.backgroundImage = item.style.backgroundImage.replace(/(?<=url\()\//, '')
+    })
+    images.forEach((item) => {
+      const src = item.getAttribute('src')
+      if (!src) return
+      item.setAttribute('src', src.replace(/^\//, ''))
+    })
+    links.forEach((item) => {
+      const href = item.getAttribute('href')
+      if (!href) return
+      item.setAttribute('href', href.replace(/^\//, ''))
+    })
+  }
+
+  /**
    * Remove pages excluded from this output type
    */
   const epubPages = collections.epub.map(({ outputPath }) => outputPath)
@@ -59,7 +82,7 @@ module.exports = function(eleventyConfig, collections, content) {
     const targetLength = collections.epub.length.toString().length
     const sequenceNumber = index.toString().padStart(targetLength, 0)
     const name = slugify(page.url) || path.parse(page.inputPath).name
-    return `${sequenceNumber}_${name}.xhtml`
+    return `page-${sequenceNumber}_${name}.xhtml`
   }
 
   const outputFilename = filename(index, this)
@@ -70,6 +93,18 @@ module.exports = function(eleventyConfig, collections, content) {
 
   const title = removeHTML(pageTitle(page.data))
   const body = document.createElement('body')
+
+  /**
+   * Add SVGs to body
+  */
+  const svgSymbolElements = document.querySelectorAll('body > svg')
+  const svgsOnPage = mainElement.querySelectorAll('svg')
+  if (Array.from(svgsOnPage).length) {
+    Array.from(svgSymbolElements).forEach((svgSymbolElement) => {
+      body.appendChild(svgSymbolElement)
+    })
+  }
+
   body.innerHTML = mainElement.innerHTML
   body.setAttribute('id', mainElement.dataset.pageId)
 
@@ -77,6 +112,7 @@ module.exports = function(eleventyConfig, collections, content) {
    * Remove elements excluded from this output type
    */
   filterOutputs(body, 'epub')
+
   getAssets(body)
 
   /**
@@ -107,13 +143,28 @@ module.exports = function(eleventyConfig, collections, content) {
     }
     if (!isPageLink(href)) return
 
+    function relativeUrl (path) {
+      const base = eleventyConfig.baseURL || 'http://localhost'
+      let url;
+      try {
+        url = new URL(path)
+      } catch (TypeError) {
+        url = new URL(path, base)
+      } finally {
+        return url
+      }
+    }
+    const { hash, pathname } = relativeUrl(href)
+
     const index = collections.epub
-      .findIndex(({ url }) => url === href)
+      .findIndex(({ url }) => url === pathname)
 
     if (index === -1) return
 
-    linkElement.setAttribute('href', filename(index, collections.epub[index]))
+    linkElement.setAttribute('href', `${filename(index, collections.epub[index])}${hash}`)
   })
+
+  transformPaths(body)
 
   /**
    * Sequence and write files
@@ -126,8 +177,13 @@ module.exports = function(eleventyConfig, collections, content) {
   epubContent = layout({ body: xml, language, title })
 
   const item = {
-    url: outputFilename,
-    encodingFormat: 'application/xhtml+xml'
+    encodingFormat: 'application/xhtml+xml',
+    url: outputFilename
+  }
+
+  const pageHasSvgContent = !!body.querySelector('svg')
+  if (pageHasSvgContent) {
+    item.properties = ['svg']
   }
 
   switch (page.data.layout) {
