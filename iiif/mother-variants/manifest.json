@@ -1,0 +1,61 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/iiif/mother-variants/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Figure 1.1"
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080/iiif/mother-variants/canvas",
+      "type": "Canvas",
+      "height": 1024,
+      "width": 826,
+      "items": [
+        {
+          "id": "http://localhost:8080/iiif/mother-variants/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/iiif/mother-variants/canvas/choices",
+              "motivation": "painting",
+              "target": "http://localhost:8080/iiif/mother-variants/canvas",
+              "type": "Annotation",
+              "body": {
+                "type": "Choice",
+                "items": [
+                  {
+                    "id": "http://localhost:8080/iiif/mother-variants/lange-mother-b.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 1024,
+                    "width": 826,
+                    "label": {
+                      "en": [
+                        "Variant #1"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "http://localhost:8080/iiif/mother-variants/lange-mother-c.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 1024,
+                    "width": 826,
+                    "label": {
+                      "en": [
+                        "Variant #2"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
