@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2023-01-05T12:23:36.454723-08" version="8.13.3">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">1024</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">803</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:4:4</value>
+    </property>
+    <property>
+      <name>exif-data</name>
+      <value type="VipsBlob">RXhpZgAATU0AKgAAAAgABwEOAAIAAADyAAAAYgESAAMAAAABAAEAAAEaAAUAAAABAAABVAEbAAUAAAABAAABXAEoAAMAAAABAAIAAAE7AAIAAAAZAAABZIdpAAQAAAABAAABfgAAAABQZWEgUGlja2VycyBpbiBDYWxpZm9ybmlhIC8gTWVtYmVycyBvZiBhIFJvdmluZyBBcm15IG9mIEZydWl0IFBpY2tlcnM7IERvcm90aGVhIExhbmdlIChBbWVyaWNhbiwgMTg5NSAtIDE5NjUpOyBDYWxpZm9ybmlhLCBVbml0ZWQgU3RhdGVzOyBGZWJydWFyeSAxOTM2OyBHZWxhdGluIHNpbHZlciBwcmludCB3aXRoIGluayBhbmQgY3JheW9uOyAxOC4zIHggMjQuNCBjbSAoNyAzLzE2IHggOSA1LzggaW4uKTsgMjAwMS41MS4zAAAAAEgAAAABAAAASAAAAAFUaGUgSi4gUGF1bCBHZXR0eSBNdXNldW0AAAADoAEAAwAAAAEAAQAAoAIABAAAAAEAAAQAoAMABAAAAAEAAAMjAAAAAA==</value>
+    </property>
+    <property>
+      <name>resolution-unit</name>
+      <value type="VipsRefString">in</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ImageDescription</name>
+      <value type="VipsRefString">Pea Pickers in California / Members of a Roving Army of Fruit Pickers; Dorothea Lange (American, 1895 - 1965); California, United States; February 1936; Gelatin silver print with ink and crayon; 18.3 x 24.4 cm (7 3/16 x 9 5/8 in.); 2001.51.3 (Pea Pick</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Orientation</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Artist</name>
+      <value type="VipsRefString">The J. Paul Getty Museum (The J. Paul Getty Museum, ASCII, 25 components, 25 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelXDimension</name>
+      <value type="VipsRefString">1024 (1024, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelYDimension</name>
+      <value type="VipsRefString">803 (803, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.1 (Exif Version 2.1, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>orientation</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>xmp-data</name>
+      <value type="VipsBlob">PD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnhtcFJpZ2h0cz0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3JpZ2h0cy8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6SXB0YzR4bXBFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOklwdGM0eG1wQ29yZT0iaHR0cDovL2lwdGMub3JnL3N0ZC9JcHRjNHhtcENvcmUvMS4wL3htbG5zLyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiBwaG90b3Nob3A6U291cmNlPSJUaGUgSi4gUGF1bCBHZXR0eSBNdXNldW0sIExvcyBBbmdlbGVzIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDE2LTA0LTE0VDAzOjM2OjM3Ij4gPGRjOmNyZWF0b3I+IDxyZGY6U2VxPiA8cmRmOmxpPlRoZSBKLiBQYXVsIEdldHR5IE11c2V1bTwvcmRmOmxpPiA8L3JkZjpTZXE+IDwvZGM6Y3JlYXRvcj4gPGRjOnRpdGxlPiA8cmRmOkFsdD4gPHJkZjpsaSB4bWw6bGFuZz0ieC1kZWZhdWx0Ij5QZWEgUGlja2VycyBpbiBDYWxpZm9ybmlhIC8gTWVtYmVycyBvZiBhIFJvdmluZyBBcm15IG9mIEZydWl0IFBpY2tlcnM8L3JkZjpsaT4gPC9yZGY6QWx0PiA8L2RjOnRpdGxlPiA8ZGM6ZGVzY3JpcHRpb24+IDxyZGY6QWx0PiA8cmRmOmxpIHhtbDpsYW5nPSJ4LWRlZmF1bHQiPlBlYSBQaWNrZXJzIGluIENhbGlmb3JuaWEgLyBNZW1iZXJzIG9mIGEgUm92aW5nIEFybXkgb2YgRnJ1aXQgUGlja2VyczsgRG9yb3RoZWEgTGFuZ2UgKEFtZXJpY2FuLCAxODk1IC0gMTk2NSk7IENhbGlmb3JuaWEsIFVuaXRlZCBTdGF0ZXM7IEZlYnJ1YXJ5IDE5MzY7IEdlbGF0aW4gc2lsdmVyIHByaW50IHdpdGggaW5rIGFuZCBjcmF5b247IDE4LjMgeCAyNC40IGNtICg3IDMvMTYgeCA5IDUvOCBpbi4pOyAyMDAxLjUxLjM8L3JkZjpsaT4gPC9yZGY6QWx0PiA8L2RjOmRlc2NyaXB0aW9uPiA8eG1wUmlnaHRzOlVzYWdlVGVybXM+IDxyZGY6QWx0PiA8cmRmOmxpIHhtbDpsYW5nPSJ4LWRlZmF1bHQiPmh0dHA6Ly93d3cuZ2V0dHkuZWR1L2xlZ2FsL2ltYWdlX3JlcXVlc3QvPC9yZGY6bGk+IDwvcmRmOkFsdD4gPC94bXBSaWdodHM6VXNhZ2VUZXJtcz4gPElwdGM0eG1wRXh0OkFydHdvcmtPck9iamVjdD4gPHJkZjpCYWc+IDxyZGY6bGk+IDxyZGY6RGVzY3JpcHRpb24gSXB0YzR4bXBFeHQ6QU9Tb3VyY2U9IlRoZSBKLiBQYXVsIEdldHR5IE11c2V1bSwgTG9zIEFuZ2VsZXMiIElwdGM0eG1wRXh0OkFPU291cmNlSW52Tm89IjIwMDEuNTEuMyI+IDxJcHRjNHhtcEV4dDpBT1RpdGxlPiA8cmRmOkFsdD4gPHJkZjpsaSB4bWw6bGFuZz0ieC1kZWZhdWx0Ij5QZWEgUGlja2VycyBpbiBDYWxpZm9ybmlhIC8gTWVtYmVycyBvZiBhIFJvdmluZyBBcm15IG9mIEZydWl0IFBpY2tlcnM8L3JkZjpsaT4gPC9yZGY6QWx0PiA8L0lwdGM0eG1wRXh0OkFPVGl0bGU+IDxJcHRjNHhtcEV4dDpBT0NyZWF0b3I+IDxyZGY6U2VxPiA8cmRmOmxpPkRvcm90aGVhIExhbmdlPC9yZGY6bGk+IDwvcmRmOlNlcT4gPC9JcHRjNHhtcEV4dDpBT0NyZWF0b3I+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpsaT4gPC9yZGY6QmFnPiA8L0lwdGM0eG1wRXh0OkFydHdvcmtPck9iamVjdD4gPElwdGM0eG1wQ29yZTpDcmVhdG9yQ29udGFjdEluZm8gSXB0YzR4bXBDb3JlOkNpQWRyQ3RyeT0iVW5pdGVkIFN0YXRlcyIgSXB0YzR4bXBDb3JlOkNpQWRyRXh0YWRyPSIxMjAwIEdldHR5IENlbnRlciBEcml2ZSIgSXB0YzR4bXBDb3JlOkNpVXJsV29yaz0id3d3LmdldHR5LmVkdSIgSXB0YzR4bXBDb3JlOkNpQWRyUGNvZGU9IjkwMDQ5IiBJcHRjNHhtcENvcmU6Q2lBZHJSZWdpb249IkNhbGlmb3JuaWEiIElwdGM0eG1wQ29yZTpDaUFkckNpdHk9IkxvcyBBbmdlbGVzIiBJcHRjNHhtcENvcmU6Q2lFbWFpbFdvcms9InJpZ2h0c0BnZXR0eS5lZHUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD94cGFja2V0IGVuZD0idyI/PgA=</value>
+    </property>
+    <property>
+      <name>iptc-data</name>
+      <value type="VipsBlob">UGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAZYcAVoAAxslRxwCAAACAAIcAnMAJVRoZSBKLiBQYXVsIEdldHR5IE11c2V1bSwgTG9zIEFuZ2VsZXMcAlAAGFRoZSBKLiBQYXVsIEdldHR5IE11c2V1bRwCBQBFUGVhIFBpY2tlcnMgaW4gQ2FsaWZvcm5pYSAvIE1lbWJlcnMgb2YgYSBSb3ZpbmcgQXJteSBvZiBGcnVpdCBQaWNrZXJzHAJ4APFQZWEgUGlja2VycyBpbiBDYWxpZm9ybmlhIC8gTWVtYmVycyBvZiBhIFJvdmluZyBBcm15IG9mIEZydWl0IFBpY2tlcnM7IERvcm90aGVhIExhbmdlIChBbWVyaWNhbiwgMTg5NSAtIDE5NjUpOyBDYWxpZm9ybmlhLCBVbml0ZWQgU3RhdGVzOyBGZWJydWFyeSAxOTM2OyBHZWxhdGluIHNpbHZlciBwcmludCB3aXRoIGluayBhbmQgY3JheW9uOyAxOC4zIHggMjQuNCBjbSAoNyAzLzE2IHggOSA1LzggaW4uKTsgMjAwMS41MS4zOEJJTQQlAAAAAAAQDhbkx6mLRQZ5WFA0Mh0HGA==</value>
+    </property>
+  </properties>
+</image>
