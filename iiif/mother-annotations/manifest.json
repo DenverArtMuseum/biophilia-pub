@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:8080/iiif/mother-annotations/manifest.json",
+  "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,22 +9,22 @@
   },
   "items": [
     {
-      "id": "http://localhost:8080/iiif/mother-annotations/canvas",
+      "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas",
       "type": "Canvas",
       "height": 1455,
       "width": 1200,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/mother-annotations/canvas/annotation-page",
+          "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/mother-annotations/canvas/base",
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas/base",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/mother-annotations/canvas",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/mother-annotations/base/tiles/info.json",
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/base/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1455,
@@ -37,7 +37,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "http://localhost:8080/iiif/mother-annotations/base/tiles/info.json",
+                    "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/base/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }
@@ -45,12 +45,12 @@
               }
             },
             {
-              "id": "http://localhost:8080/iiif/mother-annotations/canvas/original-label",
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas/original-label",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/mother-annotations/canvas",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/mother-annotations/original-label.png",
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/original-label.png",
                 "type": "Image",
                 "format": "image/png",
                 "height": 1455,
@@ -63,12 +63,12 @@
               }
             },
             {
-              "id": "http://localhost:8080/iiif/mother-annotations/canvas/additional-label",
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas/additional-label",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/mother-annotations/canvas",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/mother-annotations/additional-label.png",
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/additional-label.png",
                 "type": "Image",
                 "format": "image/png",
                 "height": 1455,
@@ -81,12 +81,12 @@
               }
             },
             {
-              "id": "http://localhost:8080/iiif/mother-annotations/canvas/scratches",
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas/scratches",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/mother-annotations/canvas",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/mother-annotations/scratches.png",
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/scratches.png",
                 "type": "Image",
                 "format": "image/png",
                 "height": 1455,
@@ -99,12 +99,12 @@
               }
             },
             {
-              "id": "http://localhost:8080/iiif/mother-annotations/canvas/thumb",
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas/thumb",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/mother-annotations/canvas",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/canvas",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/mother-annotations/thumb.png",
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-annotations/thumb.png",
                 "type": "Image",
                 "format": "image/png",
                 "height": 1455,

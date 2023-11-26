@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:8080/iiif/cat-2/manifest.json",
+  "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/cat-2/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,22 +9,22 @@
   },
   "items": [
     {
-      "id": "http://localhost:8080/iiif/cat-2/canvas",
+      "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/cat-2/canvas",
       "type": "Canvas",
       "height": 4276,
       "width": 5365,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/cat-2/canvas/annotation-page",
+          "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/cat-2/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/cat-2/canvas/evans-fields-family-a",
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/cat-2/canvas/evans-fields-family-a",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/cat-2/canvas",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/cat-2/canvas",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/cat-2/evans-fields-family-a/tiles/info.json",
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/cat-2/evans-fields-family-a/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4276,
@@ -37,7 +37,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "http://localhost:8080/iiif/cat-2/evans-fields-family-a/tiles/info.json",
+                    "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/cat-2/evans-fields-family-a/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }

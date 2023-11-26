@@ -143,21 +143,9 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
-  "_assets/images/DAM-logo-white@2x.png": {
-    "file": "_assets/DAM-logo-white@2x.png",
-    "src": "_assets/images/DAM-logo-white@2x.png"
-  },
-  "_assets/images/figures/evans.jpg": {
-    "file": "_assets/evans.jpg",
-    "src": "_assets/images/figures/evans.jpg"
-  },
   "_assets/images/figures/lange-house.jpg": {
     "file": "_assets/lange-house.jpg",
     "src": "_assets/images/figures/lange-house.jpg"
-  },
-  "_assets/images/figures/lange.jpg": {
-    "file": "_assets/lange.jpg",
-    "src": "_assets/images/figures/lange.jpg"
   },
   "_assets/images/spiral-overlay.png": {
     "file": "_assets/spiral-overlay.png",
