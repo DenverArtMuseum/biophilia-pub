@@ -1,5 +1,5 @@
 ---
-title: Entry 2:
+title: Entry 2
 subtitle: Alexandra Kehayoglou, *Pastizal*, 2023
 contributor:
     - id: kit-bernal

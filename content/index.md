@@ -7,4 +7,6 @@ toc: false
 image: spiral-overlay.png
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+*Biophilia: Nature Reimagined* brings together more than seventy imaginative works, including architectural models and photographs, objects, fashion, digital installations, and immersive art experiences that collectively highlight the transformative power of nature.
+
+*Biophilia* is a term popularized by American biologist and author Edward O. Wilson to describe his theory that, as humans have evolved as a species, they have been intricately intertwined with the natural world. Wilson’s hypothesis invites deep reflection and poses relevant questions for audiences to consider life in our hyper-accelerated digital and urban-centric world. Organized by Darrin Alfred, Curator of Architecture and Design, Biophilia provides a space for leading architects, artists, and designers to re-examine and reanimate our intrinsic bond with the natural world.
