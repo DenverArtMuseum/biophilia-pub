@@ -1,6 +1,8 @@
 ---
 title: Natural Analogs
 subtitle: Form and Pattern
+contributor:
+    - id: darrin-alfred
 layout: essay
 order: 110
 image:

@@ -1,8 +1,8 @@
 ---
-title: Topophilia
+title: Entry 2:
 subtitle: Alexandra Kehayoglou, *Pastizal*, 2023
 contributor:
-    - id: alexandra-kehayoglou
+    - id: kit-bernal
 layout: entry
 order: 330
 #image: PTL-24707

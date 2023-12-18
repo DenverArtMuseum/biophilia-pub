@@ -1,9 +1,8 @@
 ---
-title: Topophilia
+title: Entry 1
 subtitle: Aranda\\Lasch and Terrol Dew Johnson, *Desert Paper Baskets*
 contributor:
-    - id: aranda-lasch
-    - id: terrol-dew-johnson
+    - id: kit-bernal
 layout: entry
 order: 320
 #image: 2022.160.1

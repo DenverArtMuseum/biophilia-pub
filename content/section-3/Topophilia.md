@@ -1,6 +1,8 @@
 ---
 title: Topophilia
 subtitle: People and Place
+contributor: 
+    - id: darrin-alfred
 layout: essay
 order: 310
 image:

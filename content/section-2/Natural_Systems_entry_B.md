@@ -1,8 +1,8 @@
 ---
-title: Natural Systems 
+title: Entry 2
 subtitle: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un Autre Jour*), 2011
 contributor:
-    - id: mathieu-lehanneur
+    - id: kit-bernal
 layout: entry
 presentation: side-by-side
 order: 230

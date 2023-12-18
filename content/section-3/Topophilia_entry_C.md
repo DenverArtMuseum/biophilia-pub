@@ -1,8 +1,8 @@
 ---
-title: Topophilia
+title: Entry 3
 subtitle: "Studio Gang, *Populus*, Denver, Colorado"
 contributor:
-    - id: studio-gang
+    - id: kit-bernal
 layout: entry
 order: 340
 #image: EXRR.2023.31.1

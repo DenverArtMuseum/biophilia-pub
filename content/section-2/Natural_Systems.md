@@ -1,6 +1,8 @@
 ---
 title: Natural Systems
 subtitle: Processes and Phenomena
+contributor:
+    - id: darrin-alfred
 layout: essay
 order: 210
 image:

@@ -1,6 +1,8 @@
 ---
 title: Natural Systems 
 subtitle: teamLab, *Flowers and People—A Whole Year per Hour*, 2020
+contributor:
+    - id: kit-bernal
 layout: entry
 presentation: side-by-side
 order: 240

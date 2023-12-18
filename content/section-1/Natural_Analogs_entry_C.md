@@ -1,8 +1,8 @@
 ---
-title: Natural Analogs"
+title: Entry 3
 subtitle: "Elena Manferdini, *Wall Flowers: Clover*, 2022"
 contributor:
-    - id: elena-manferdini
+    - id: kit-bernal
 layout: entry
 order: 140
 #image: TL-45469A-C

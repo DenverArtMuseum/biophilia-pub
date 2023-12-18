@@ -1,8 +1,8 @@
 ---
-title: Natural Analogs
+title: Entry 2
 subtitle: Joris Laarman, *Microstructures Adaptation Chair* *(Long Cell) Prototype*, 2014, and Nervous System, *Floraform Chandelier*, 2017
 contributor:
-    - id: joris-laarman
+    - id: kit-bernal
 layout: entry
 order: 130
 #image: FIGURE 2015.263

@@ -1,6 +1,8 @@
 ---
-title: Natural Systems 
+title: Entry 1
 subtitle: Drift, *Meadow*, 2017/2023
+contributor:
+    - id: kit-bernal
 layout: entry
 presentation: side-by-side
 order: 220
