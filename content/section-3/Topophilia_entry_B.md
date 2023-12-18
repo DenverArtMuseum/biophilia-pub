@@ -4,6 +4,7 @@ subtitle: Alexandra Kehayoglou, *Pastizal*, 2023
 contributor:
     - id: kit-bernal
 layout: entry
+presentation: side-by-side
 order: 330
 #image: PTL-24707
 ---

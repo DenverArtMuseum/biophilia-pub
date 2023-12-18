@@ -4,6 +4,7 @@ subtitle: "Studio Gang, *Populus*, Denver, Colorado"
 contributor:
     - id: kit-bernal
 layout: entry
+presentation: side-by-side
 order: 340
 #image: EXRR.2023.31.1
 ---

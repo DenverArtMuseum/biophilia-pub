@@ -4,6 +4,7 @@ subtitle: Sandra Davolio, *Coral Flower IV*, 2017
 contributor:
     - id: kit-bernal
 layout: entry
+presentation: side-by-side
 order: 120
 #image: 2023.6
 ---

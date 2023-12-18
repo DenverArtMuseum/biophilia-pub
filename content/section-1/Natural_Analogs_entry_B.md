@@ -4,6 +4,7 @@ subtitle: Joris Laarman, *Microstructures Adaptation Chair* *(Long Cell) Prototy
 contributor:
     - id: kit-bernal
 layout: entry
+presentation: side-by-side
 order: 130
 #image: FIGURE 2015.263
 ---

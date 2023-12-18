@@ -4,6 +4,7 @@ subtitle: Aranda\\Lasch and Terrol Dew Johnson, *Desert Paper Baskets*
 contributor:
     - id: kit-bernal
 layout: entry
+presentation: side-by-side
 order: 320
 #image: 2022.160.1
 ---

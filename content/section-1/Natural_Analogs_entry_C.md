@@ -4,6 +4,7 @@ subtitle: "Elena Manferdini, *Wall Flowers: Clover*, 2022"
 contributor:
     - id: kit-bernal
 layout: entry
+presentation: side-by-side
 order: 140
 #image: TL-45469A-C
 ---
