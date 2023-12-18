@@ -1,10 +1,12 @@
 ---
-title: Natural Systems 
+title: Entry 3
 subtitle: teamLab, *Flowers and People—A Whole Year per Hour*, 2020
 contributor:
     - id: kit-bernal
 layout: entry
 presentation: side-by-side
+object: 
+    - id: ptl-25755
 order: 240
 #image: PTL-25755~2
 ---

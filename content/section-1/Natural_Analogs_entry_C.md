@@ -6,7 +6,7 @@ contributor:
 layout: entry
 presentation: side-by-side
 object:
-    - id: tl-45469-1
+    - id: tl-45469
 order: 140
 #image: TL-45469A-C
 ---
