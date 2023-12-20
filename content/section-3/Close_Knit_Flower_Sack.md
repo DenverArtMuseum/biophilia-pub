@@ -8,9 +8,8 @@ order: 350
 image:
 ---
 
-
 > Seedless golden tears,
->
+
 > ferns bound to flesh at off angles,
 >
 > busted out rez towns,
@@ -37,17 +36,25 @@ image:
 >
 > wending along with a spot of sunlight,
 
-“The bone frame was made for
+“The bone frame was made
 
-> No such shock, knit within terror
+for
+
+> no such shock, knit within
 >
-> yet the skeleton stood up.”
+> terror
 >
-> They are not artifacts but fit to our hand, our daily voice,
+> yet the skeleton stood up to it.”
+>
+> They are not artifacts but fit to our hand,
+>
+> our daily voice,
 >
 > the short mouth line erased.
 >
-> The marsh revels in its glitter and occasional cranberry.
+> The marsh revels in its glitter
+>
+> and occasional cranberry.
 >
 > The subject is left purposely unstable,
 >
@@ -55,17 +62,29 @@ image:
 >
 > The shells fly out from the dress,
 >
-> on strings, according to demands left in the music.
+> on strings, according
 >
-> Certain stories are told in full frog regalia, the music is allowed its wet set of wings and room to lie down.
+> to demands left in the music.
 >
-> Words arranged for prayer are in fact geometric forms
+> Certain stories are told in full frog regalia,
+>
+> the music is allowed its wet set of wings
+>
+> and room to lie down.
+>
+> Words arranged for prayer
+>
+> are in fact geometric forms
 >
 > or portraits of poets themselves,
 >
 > uncovering the dictates of a graven line.
 >
-> Orlando, are we even allowing ourselves the present moment anymore?
+> Orlando, are we even
+>
+> allowing ourselves the present
+>
+> moment anymore?
 >
 > There are still two blankets that sit on either side
 >
@@ -73,4 +92,7 @@ image:
 >
 > out of all necessity
 >
-> we convert the elements as a matter of course.
+> we convert the elements
+>
+> as a matter of course.
+
