@@ -14,19 +14,19 @@ url: 'https://denverartmuseum.github.io/biophilia-pub/'
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Biophilia
-subtitle: 
+subtitle: Nature Reimagined
 reading_line:
 short_title:
 
 description:
-  one_line:
-  full: ""
+  one_line: "*Biophilia: Nature Reimagined* brings together more than 70 imaginative works, including architectural models and photographs, objects, fashion, digital installations, and immersive art experiences that collectively highlight the transformative power of nature."
+  full: "*Biophilia* is a term popularized by American biologist and author Edward O. Wilson to describe his theory that, as humans have evolved as a species, they have been intricately intertwined with the natural world. Wilson’s hypothesis invites deep reflection and poses relevant questions for audiences to consider life in our hyper-accelerated digital and urban-centric world. Organized by Darrin Alfred, Curator of Architecture and Design, Biophilia provides a space for leading architects, artists, and designers to re-examine and reanimate our intrinsic bond with the natural world. The exhibition features works by an international roster of designers and artists including Iris van Herpen, Studio Gang, teamLab, Joris Laarman and DRIFT, among others."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2024-12-02 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -46,18 +46,10 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: joris-laarman
-    type: secondary
-    first_name: Joris
-    last_name: Laarman
-  - id: sandra-davolio
-    type: secondary
-    first_name: Sandra
-    last_name: Davolio
-  - id: elena-manferdini
-    type: secondary
-    first_name: Elena
-    last_name: Manferdini
+  - id: darrin-alfred
+    type: primary
+    first_name: Darrin
+    last_name: Alfred
   - id: kim-ruffin
     type: secondary
     first_name: Kim
@@ -66,34 +58,22 @@ contributor:
     type: secondary
     first_name: Florence
     last_name: Williams
-  - id: mathieu-lehanneur
+  - id: kit-bernal
     type: secondary
-    first_name: Mathieu
-    last_name: Lehanneur
-  - id: aranda-lasch
+    first_name: Kit
+    last_name: Bernal
+  - id: cedar-sigo
     type: secondary
-    first_name: Aranda
-    last_name: Lasch
-  - id: terrol-dew-johnson
-    type: secondary
-    first_name: Terrol
-    middle_name: Dew
-    last_name: Johnson
-  - id: studio-gang
-    type: secondary
-    first_name: Studio
-    last_name: Gang
-  - id: alexandra-kehayoglou
-    type: secondary
-    first_name: Alexandra
-    last_name: Kehayoglou
+    first_name: Cedar
+    last_name: Sigo
+
   
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: Publication text and design © 2023 Denver Art Museum
+copyright: Publication text and design © 2024 Denver Art Museum
 
 license:
   name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
@@ -137,10 +117,16 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: ART / Collections, Catalogs, Exhibitions / Group Shows
+    identifer: ART006010
+  - type: bisac
+    name: ART / Mixed Media
+    identifier: ART017000
+  - type: bisac
+    name: ARCHITECTURE / General
+    identifier: ARC000000
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: architecture, design, biophilia, 
 
 # ------------------------------------------------------------------------------
 # Revision History

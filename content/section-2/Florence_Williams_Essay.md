@@ -32,21 +32,29 @@ In his 2023 book, *Awe: The New Science of Everyday Wonder and How It Can Transf
 
 To figure out how often people experience awe and under what conditions, Keltner and colleagues gathered thousands of narratives from twenty-six countries. They broke the results into eight major categories of awe, or as Keltner puts it, “wonders of life”:
 
-**Moral Beauty**: People around the world are most moved to awe by witnessing other people in acts of courage, love, strength, kindness, and overcoming.
+#### Moral Beauty 
+People around the world are most moved to awe by witnessing other people in acts of courage, love, strength, kindness, and overcoming.
 
-**Collective Effervescence**: A phrase coined by French sociologist Émile Durkheim, it refers to shared experiences leading to an electric and powerful sense of “we,” including weddings, funerals, political rallies, dancing, singing, or marching together, and watching an eclipse in a group, and so on.
+#### Collective Effervescence
+A phrase coined by French sociologist Émile Durkheim, it refers to shared experiences leading to an electric and powerful sense of “we,” including weddings, funerals, political rallies, dancing, singing, or marching together, and watching an eclipse in a group, and so on.
 
-**Nature**: Nature-elicited awe, such as from viewing impressive features or encountering wildlife, accounts for about a quarter of contemporary awe experiences.
+#### Nature
+Nature-elicited awe, such as from viewing impressive features or encountering wildlife, accounts for about a quarter of contemporary awe experiences.
 
-**Music**: Hearing music, playing music, chanting, and singing can transport us, fill us with vibrations, and make us feel connected to something beyond ourselves through symbols and physical sensation.
+#### Music
+Hearing music, playing music, chanting, and singing can transport us, fill us with vibrations, and make us feel connected to something beyond ourselves through symbols and physical sensation.
 
-**Visual Design**: From patterns to colors to hallucinations to architectural grandeur, visual design can open, in Aldous Huxley’s famous phrase, the “doors of perception.”
+#### Visual Design
+ From patterns to colors to hallucinations to architectural grandeur, visual design can open, in Aldous Huxley’s famous phrase, the “doors of perception.”
 
-**Spirituality and Religion**: Whether through dramatic conversions and visitation or simple meditative practice, the very definition of spiritual means connecting with forces larger than the self.
+#### Spirituality and Religion
+ Whether through dramatic conversions and visitation or simple meditative practice, the very definition of spiritual means connecting with forces larger than the self.
 
-**Life and Death**: Few things move us as profoundly as witnessing these fundamental and universal passages.
+#### Life and Death 
+Few things move us as profoundly as witnessing these fundamental and universal passages.
 
-**Epiphany**: A classic feature of conceptual awe, this is the moment we achieve insight or view an idea in a wholly new way.[^6]
+#### Epiphany
+ A classic feature of conceptual awe, this is the moment we achieve insight or view an idea in a wholly new way.[^6]
 
 ————
 
@@ -56,17 +64,17 @@ Consider the installation *Clay Houses* by Andy Goldsworthy at the Glenstone Mus
 
 The small stone cabins arise without fanfare alongside a wooded trail. Handcrafted from small stones, they look like something you might stumble upon on a desolate Scottish moor. (fig. 1) From the outside, they appear the same: approximately thirteen feet high, sixteen feet wide, and nineteen feet long, topped by a simple pointed slate roof. You walk in through the first cabin’s wooden door, and it takes your eyes a moment to adjust to the dark interior. You might let out a small squeal of delight or surprise as your eyes settle on a large perfectly round earthen orb in the middle of the otherwise empty room. (fig. 2) The orb is much larger than the doorway, substantially taller than a person, cracked and slightly desiccated. How did it get here? Why doesn’t it crumble? Further investigation reveals that it’s made of brown clay from the site mixed with horsehair, human hair, and sheep’s wool. People around you take selfies in front of the orb as if they have just emerged from a giant dirt bubble. You smile at each other. The room is called simply *Boulder*.
 
-{% figuregroup '2', 'EXRR.2023.91.1, EXRR.2023.91.2' %}
+{% figuregroup '2', 'exrr-2023-91-1, exrr-2023-91-2' %}
 
 “What could possibly be in the next hut,” you wonder. This is the artist’s intention. In his statement for the museum, Goldsworthy wrote, “I don’t want to give anything away. Finding the work inside is part of the sculpture’s nature. If you let it be known they are art, it takes away from the art.”[^7]
 
 And so you amble over to that entrance. Only a few people are allowed in at one time. You step over the threshold. This room contains no object. Titled *Room*, it is simply plastered with the earthen material on every wall, ceiling, and floor surface, giving the space an ancient, cave-like quality. (fig. 3) It absorbs sound and light. Is it a house? A mud-covered church? A gremlin’s secret lair? If it rains, will it wash away? A stone exterior, a mud interior. It is unlike anything you have ever seen. You stop to take it in, to consider. In the stopping and sensing, there is a feeling of alertness, and then peace. Time slows down.
 
-{% figure 'EXRR.2023.91.3', 'is-pulled-left' %}
+{% figure 'exrr-2023-91-3', 'is-pulled-left' %}
 
 And finally: the third stone cottage. This one also contains no object, but it holds another surprise. The small room’s back wall recedes in a series of concentric circles that telescope away from the viewer into a false rear wall. (fig. 4) The symmetry is perfect, but organic. Circles inside a Euclidean room. The pleasing shapes are universal, mysterious, and safe at the same time. This could be the site of a primeval ritual, harkening back to a womb or a giant owl’s eye or a cosmic wormhole. The room is titled *Holes*.
 
-{% figure 'EXRR.2023.91.4', 'is-pulled-right' %}
+{% figure 'exrr-2023-91-4', 'is-pulled-right' %}
 
 You step out into the forest. You feel lighter. Amused. Curious. Tender.
 
