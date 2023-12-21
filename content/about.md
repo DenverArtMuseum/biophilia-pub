@@ -1,23 +1,39 @@
 ---
 title: About
 layout: page
-order: 503
+order: 603
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+Published in conjunction with *Biophilia: Nature Reimagined*, organized by the Denver Art Museum, May 5–August 11, 2024
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+This exhibition is supported by the donors to the Annual Fund Leadership Campaign and the residents who support the Scientific and Cultural Facilities District (SCFD).
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+**insert SCFD here**
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+Publication text and design © 2023 Denver Art Museum
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+Copyright sources accompany applicable images and illustrations.
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+This publication was created using Quire™, a multiplatform publishing tool created by the J. Paul Getty Trust and customized for the Denver Art Museum by Design for Context.
+
+All rights reserved. This book may not be reproduced, in whole or in part, including illustrations, in any form or by any means, electronic or mechanical, including photocopy, recording, or other information storage and retrieval system, without prior written permission from the publisher. For questions, email publicationsdept@denverartmuseum.org with the subject line “Publication Permission.”
+
+**insert DAM logo here**
+
+Published by the Denver Art Museum
+100 West 14th Avenue Parkway
+Denver, CO 80204
+denverartmuseum.org
+
+The Denver Art Museum is located on the homeland of the Arapaho, Cheyenne, and Ute people, along with many people from other Indigenous nations that call this place home. Learn more about our commitments to better represent, elevate, and support Indigenous cultures and people, past and present, on our [website](https://www.denverartmuseum.org/en/values-and-philosophy#indigenous_communities).
+
+Managing Editor: Valerie Hellstein
+Editor: Leslie Murrell
+Curatorial Assistant: Kit Bernal
+Senior Developer: Matt Popke
+Development and Design: Darcy Christ
+Manager of Rights and Reproductions: Renée B. Miller
+
+**Landing page image credit goes here**
