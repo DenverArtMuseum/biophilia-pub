@@ -1,7 +1,7 @@
 ---
 title: Contents
 layout: table-of-contents
-order: 6
+order: 2
 presentation: list
 search: false
 ---
