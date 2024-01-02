@@ -2,7 +2,7 @@
 title: Director's Foreword
 subtitle:
 layout: essay
-order: 2
+order: 3
 image:
 ---
 

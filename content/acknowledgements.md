@@ -2,7 +2,7 @@
 title: Acknowledgements
 subtitle: 
 layout: splash
-order: 3
+order: 5
 image: 
 ---
 
