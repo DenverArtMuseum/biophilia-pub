@@ -119,18 +119,10 @@ module.exports = function(eleventyConfig) {
         </a>
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
-            <button
-              class="quire-navbar-button search-button"
-              aria-controls="quire-search"
-              onclick="toggleSearch()"
-            >
-              <svg data-outputs-exclude="epub,pdf">
-                <switch>
-                  <use xlink:href="#search-icon"></use>
-                </switch>
-              </svg>
-              <span class="visually-hidden">Search</span>
-            </button>
+            <div class="logos">
+              <img class="dam-logo" src="/_assets/images/DAM-logo-white@2x.png" alt="Denver Art Museum Logo" />
+              <img class="biophilia-logo" src="/_assets/images/biophilia-logo.png" alt="Biophilia Exhibition Logo" />
+            </div>
           </div>
           <div class="quire-navbar-controls__center">
             <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
@@ -155,6 +147,18 @@ module.exports = function(eleventyConfig) {
                 </switch>
               </svg>
               <span class="visually-hidden">Table of Contents</span>
+            </button>
+            <button
+              class="quire-navbar-button search-button"
+              aria-controls="quire-search"
+              onclick="toggleSearch()"
+            >
+              <svg data-outputs-exclude="epub,pdf">
+                <switch>
+                  <use xlink:href="#search-icon"></use>
+                </switch>
+              </svg>
+              <span class="visually-hidden">Search</span>
             </button>
           </div>
         </nav>

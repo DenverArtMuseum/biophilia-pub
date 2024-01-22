@@ -1,0 +1,388 @@
+/* Theme Colors */
+:root {
+    --black-olive: rgba(63, 64, 47, 1);
+    --light-green: rgba(191, 185, 101, 1);
+    --dark-green: rgba(140, 136, 74, 1);
+    --limesicle: rgba(242, 239, 189, 1);
+    --gray15: rgba(38, 38, 38, 1);
+}
+
+
+
+html {
+    font-size: 100%; /* 16px */
+}
+
+@media screen and (min-width: 108rem) and (orientation: landscape) {
+    html {
+        font-size: 1vw;
+    }
+}
+
+/*
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *  contenteditable attribute is included anywhere else in the document.
+ *  Otherwise it causes space to appear at the top and bottom of elements
+ *  that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ * `:before` to contain the top-margins of child elements.
+ */
+ #content .container .content:before,
+ #content .container .content:after,
+ .clearfix:before,
+ .clearfix:after {
+   content: " "; /* 1 */
+   display: table; /* 2 */
+ }
+ 
+ #content .container .content:after,
+ .clearfix:after {
+   clear: both;
+ }
+ 
+ /*
+  * For IE 6/7 only
+  * Include this rule to trigger hasLayout and contain floats.
+  */
+  #content .container .content,
+ .clearfix {
+   zoom: 1;
+ }
+
+ /* Clear header for anchors */
+ :target:before {
+    content: "";
+    display: block;
+    height: 100px;
+    margin: -100px 0 0;
+}
+
+
+
+
+body {
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 1.25rem;
+    line-height: 1.4;
+    /* lining numerals, ss02 = alternate a, ss09 = alternate W/w */
+    -webkit-font-feature-settings: "lnum", "ss02", "ss09";
+    -moz-font-feature-settings: "lnum", "ss02", "ss09";
+    font-feature-settings: "lnum", "ss02", "ss09"; 
+    margin: 0;
+}
+
+:lang(ja) {
+    font-family: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
+    -webkit-font-feature-settings: normal;
+    -moz-font-feature-settings: normal;
+    font-feature-settings: normal;
+    word-break: keep-all;
+    font-style: normal !important;
+}
+  
+h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
+    font-size: 0.9em;
+    line-height: 1.555555em;
+}
+
+.quire-page h2,
+.quire-page h3 {
+    font-style: normal;
+}
+
+h1 > * {
+    display: inherit;
+}
+.quire-featured .quire-page__header .hero-body .quire-page__header__title {
+    color: #333;
+}
+.quire-page__header__contributor {
+    color: #333;
+    margin-top: 0;
+}
+.quire #main {
+    background-color: #fff;
+}
+
+
+
+/* Navbar */
+
+.quire:not(.no-js) .quire__primary .quire-navbar {
+    background-color: #333333;
+}
+.quire-navbar a {
+    background-color: #333333;
+    color: #ffffff !important;
+}
+.quire-navbar svg {
+    fill: #ffffff;
+}
+.quire-navbar-controls__left {
+    display: flex;
+    align-self: center;
+    width: 300px;
+}
+.quire-navbar-controls__left .logos {    
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: space-evenly;
+}
+.quire-navbar-controls__left .logos .dam-logo {
+    height: 48px;
+    max-width: auto;
+}
+.quire-navbar-controls__left .logos .biophilia-logo {
+    height: 48px;
+    max-width: auto;
+}
+.quire-navbar-controls__right {
+    display: flex;
+    width: 300px;
+}
+.quire-search__close-button {
+    right: 0;
+    left: auto;
+}
+
+.quire-navbar-page-controls__item.quire-previous-page {
+    width: 500px;
+    text-align: right;
+}
+.quire-navbar-page-controls__item.quire-next-page {
+    width: 500px;
+    text-align: left;
+}
+
+.quire-contents-buttons li.quire-nav-button.prev a {
+    color: var(--light-green);
+}
+.quire-contents-buttons li.quire-nav-button.prev svg {
+    fill: var(--light-green);
+}
+.quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, 
+.quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
+    background-color: var(--light-green);
+}
+
+.quire-progress-bar div {
+    background-color: var(--light-green);
+}
+
+.quire-cover__more .hero-more.next-page {
+    transform: rotate(-90deg);
+}
+.quire-cover__more .hero-more svg {
+    width: 54px;
+    height: 54px;
+}
+
+
+
+/* Page Layout */
+
+.quire-page--list.quire-contents .section.quire-page__content .container {
+    max-width: 1400px;
+    width: 1400px;
+}
+
+.quire:not(.no-js) .quire__secondary {
+    top: 48px;
+}
+
+article.quire-page .quire-page__content .container
+article.quire-page--full-width .quire-page__content .container,
+article.quire-page--left-column .quire-page__content .container,
+article.quire-page--right-column .quire-page__content .container {
+    max-width: 1400px;
+    width: 1400px;
+}
+article.quire-page--left-column .quire-page__content .container .content > p,
+article.quire-page--right-column .quire-page__content .container .content > p,
+article.quire-page--left-column .quire-page__content > figure,
+article.quire-page--right-column .quire-page__content > figure {
+    max-width: 70%;
+    width: 70%;
+}
+article.quire-page--left-column .quire-page__content .container .content blockquote,
+article.quire-page--right-column .quire-page__content .container .content blockquote {
+    max-width: 60% !important;
+    width: 60% !important;
+}
+
+article.quire-page__content .container .content > .full-width,
+article .quire-page__content .container .content > figure.full-width {
+    margin-left: calc( -100vw / 2 + 100% / 2 + 50px );
+    margin-right: calc(-100vw / 2 + 100% / 2 - 50px );
+    max-width: calc( 100vw - 100px );
+    width: auto;
+    max-width: auto;
+    clear: both;
+    margin-bottom: 1.4em;
+}
+article .quire-page__content .container .content > .threefourths-width,
+article .quire-page__content .container .content > figure.threefourths-width
+article .quire-page__content .container .content > .threefourths-width,
+article .quire-page__content .container .content > figure.threefourths-width {
+    /* margin-left: calc( -50vw / 2 + 50% / 2 + 50px );
+    margin-right: calc(-50vw / 2 + 50% / 2 - 50px ); */
+    max-width: calc( 75vw - 100px );
+}
+article .quire-page__content .container .content > .half-width,
+article .quire-page__content .container .content > figure.half-width {
+    /* margin-left: calc( -50vw / 2 + 50% / 2 + 50px );
+    margin-right: calc(-50vw / 2 + 50% / 2 - 50px ); */
+    max-width: calc( 50vw - 100px );
+}
+.quire-page__content .container .content > .centered {
+    margin-left: auto;
+    margin-right: auto;
+}
+article .quire-page__content .container .content > figure.float {
+    float: left;
+}
+
+article.quire-page--left-column .quire-page__content .container .content figure.right-column {
+    float: right;
+    max-width: 500px;
+    width: 30%;
+    clear: right;
+    padding-left: 10px;
+}
+
+article.quire-page--right-column .quire-page__content .container .content figure.left-column {
+    float: left;
+    right: 0;
+    max-width: 500px;
+    width: 30%;
+    clear: left;
+    padding-left: 10px;
+}
+
+article.quire-page--left-column .quire-page__content .container .content .is-pulled-left {
+    width: 30%;
+}
+article.quire-page--right-column .quire-page__content .container .content .is-pulled-right {
+    width: 30%;
+}
+
+.content figure.hidden {
+    display: none;
+}
+
+.content figure.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+}
+
+/* Special class to make sure the image is fully visible when it sticks */
+.content figure.sticky.fit .q-figure__wrapper {
+    text-align: left;
+}
+.content figure.sticky.fit img {
+    width: auto;
+    max-height: 90vh;
+    float: left;
+}
+
+.test-spacer {
+    background-color: red;
+    height: 200px;
+    float: right;
+}
+
+.spacer {
+    width: auto;
+    clear: both;
+}
+.spacer-100 {
+    width: auto;
+    height: 1em;
+    clear: both;
+}
+.spacer-200 {
+    width: auto;
+    height: 2em;
+    clear: both;
+}
+.spacer-300 {
+    width: auto;
+    height: 3em;
+    clear: both;
+}
+
+.padding-20 {
+    padding: 20px;
+}
+
+
+/* Content Styles */
+
+.content figure:not(:first-child) {
+    margin-top: 0;
+}
+
+.quire-figure {
+    border-top: none;
+    border-bottom: none;
+    padding: 0;
+}
+
+/* Remove large quotation mark before quotes */
+.quire-page__content .container .content blockquote p:first-child:before,
+.quire-page__content .container .content blockquote ul:first-child:before,
+.quire-page__content .container .content blockquote ol:first-child:before,
+.quire-page__content .container .content blockquote dl:first-child:before,
+.quire-page__content .container .content blockquote h1:first-child:before,
+.quire-page__content .container .content blockquote h2:first-child:before,
+.quire-page__content .container .content blockquote h3:first-child:before,
+.quire-page__content .container .content blockquote h4:first-child:before,
+.quire-page__content .container .content blockquote h5:first-child:before,
+.quire-page__content .container .content blockquote h6:first-child:before {
+    display: none;
+}
+
+.content p:not(:last-child), .content dl:not(:last-child),
+.content ol:not(:last-child), .content ul:not(:last-child),
+.content blockquote:not(:last-child), .content pre:not(:last-child),
+.content table:not(:last-child) {
+    margin-bottom: 1.4em;
+}
+
+.quire-contents-buttons {
+    clear: both;
+}
+
+
+.footnotes hr {
+    clear: both;
+}
+
+.footnotes.footnote-print-only,
+.footnotes .footnote-print-only {
+    display: block !important;
+}
+::marker {
+    display: none;
+}
+.footnotes li.footnote-print-only {
+    list-style-type: decimal;
+    display: list-item !important;
+}
+
+
+/* Text Styles */
+
+.quire-page__content .container .content p:first-child:first-letter{
+    font-size: 1em; /* 8em; */
+    float: none; /* left; */
+    margin-top: 0; /* 0.1em !important; */
+    margin-left:  0; /*  -0.09em; */
+    padding-right: 0; /* 0.025em; */
+    line-height: 1; /* 0.85em */
+}
