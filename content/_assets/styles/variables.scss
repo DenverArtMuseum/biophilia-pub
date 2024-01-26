@@ -8,7 +8,7 @@
 
 $accent-color: null;
 $content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$secondary-background-color: $white; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -26,10 +26,12 @@ $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
+$pt-serif: "PT Serif", serif;
+$lato-sans: "Lato", sans-serif;
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
+$quire-base-font-size: 20px;
 $quire-page-paragraph-style: line-space; // or use indent
 
 // Cover typography
@@ -94,11 +96,11 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $noto-sans !default;
-  $quire-headings-font: $ibm-sans !default;
-  $quire-footnotes-font: $noto-serif !default;
-  $quire-navigation-font: $noto-sans !default;
-  $accent-color: $red !default;
+  $quire-primary-font: $pt-serif !default;
+  $quire-headings-font: $lato-sans !default;
+  $quire-footnotes-font: $pt-serif !default;
+  $quire-navigation-font: $lato-sans !default;
+  $accent-color: $light-green !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;
 }
@@ -123,9 +125,9 @@ $quire-navbar-text-color: null;
   $quire-navbar-color: $white !default;
   $quire-navbar-hover-color: darken($quire-navbar-color, 5%) !default;
   @if $theme == classic {
-    $quire-navbar-text-color: lighten($off-black, 20%) !default;
+    $quire-navbar-text-color: lighten($black-olive, 20%) !default;
   } @else {
-    $quire-navbar-text-color: $off-black !default;
+    $quire-navbar-text-color: $black-olive !default;
   }
 }
 

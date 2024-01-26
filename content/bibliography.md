@@ -1,7 +1,7 @@
 ---
 title: Suggested and Recommended Readings
 layout: essay
-order: 500
+order: 503
 ---
 
 ### Books

@@ -50,22 +50,47 @@ contributor:
     type: primary
     first_name: Darrin
     last_name: Alfred
+    title: 
+    affiliation: Denver Art Museum
+    bio: "bio"
+    url:
+    pic:
   - id: kim-ruffin
     type: secondary
     first_name: Kim
     last_name: Ruffin
+    title: 
+    affiliation: Denver Art Museum
+    bio: "bio"
+    url:
+    pic:
   - id: florence-williams
     type: secondary
     first_name: Florence
     last_name: Williams
+    title: 
+    affiliation: Denver Art Museum
+    bio: "bio"
+    url:
+    pic:
   - id: kit-bernal
     type: secondary
     first_name: Kit
     last_name: Bernal
+    title: 
+    affiliation: Denver Art Museum
+    bio: "bio"
+    url:
+    pic:
   - id: cedar-sigo
     type: secondary
     first_name: Cedar
     last_name: Sigo
+    title: 
+    affiliation: Denver Art Museum
+    bio: "bio"
+    url:
+    pic:
 
   
 

@@ -146,7 +146,7 @@ module.exports = function(eleventyConfig) {
                   <use xlink:href="#nav-icon"></use>
                 </switch>
               </svg>
-              <span class="visually-hidden">Table of Contents</span>
+              <span class="is-hidden-touch">Contents</span>
             </button>
             <button
               class="quire-navbar-button search-button"
@@ -158,7 +158,7 @@ module.exports = function(eleventyConfig) {
                   <use xlink:href="#search-icon"></use>
                 </switch>
               </svg>
-              <span class="visually-hidden">Search</span>
+              <span class="is-hidden-touch">Search</span>
             </button>
           </div>
         </nav>

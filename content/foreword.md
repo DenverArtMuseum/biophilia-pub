@@ -3,7 +3,7 @@ title: Director's Foreword
 subtitle:
 layout: essay
 order: 3
-image:
+class: full-width page-one black-page sticky-hero-image
 ---
 
 Here in Denver, Colorado, we are fortunate to have so many opportunities to find ourselves in nature: to explore aspen forests, to hike along pristine alpine lakes, and to climb majestic mountains. For centuries, people have been partaking in the health benefits of Colorado’s environment and weather. It has also become clearer, with the ravages and unpredictability of climate change, that these connections to nature can be tenuous and fragile but are more important than ever.

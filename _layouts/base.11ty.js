@@ -18,7 +18,7 @@ module.exports = async function(data) {
     <!doctype html>
     <html lang="${publication.language}">
       ${this.head(data)}
-      <body>
+      <body id="${pageId}">
         ${this.icons(data)}
         ${this.iconscc(data)}
         <div class="quire no-js" id="container">

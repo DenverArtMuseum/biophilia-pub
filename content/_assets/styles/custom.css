@@ -62,29 +62,29 @@ html {
 
 
 body {
-    font-family: 'Raleway', sans-serif !important;
+    /* font-family: 'Raleway', sans-serif !important;
     font-size: 1.25rem;
-    line-height: 1.4;
+    line-height: 1.4; */
     /* lining numerals, ss02 = alternate a, ss09 = alternate W/w */
-    -webkit-font-feature-settings: "lnum", "ss02", "ss09";
+    /* -webkit-font-feature-settings: "lnum", "ss02", "ss09";
     -moz-font-feature-settings: "lnum", "ss02", "ss09";
     font-feature-settings: "lnum", "ss02", "ss09"; 
-    margin: 0;
+    margin: 0; */
 }
 
-:lang(ja) {
+/* :lang(ja) {
     font-family: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
     -webkit-font-feature-settings: normal;
     -moz-font-feature-settings: normal;
     font-feature-settings: normal;
     word-break: keep-all;
     font-style: normal !important;
-}
+} */
   
-h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
+/* h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     font-size: 0.9em;
     line-height: 1.555555em;
-}
+} */
 
 .quire-page h2,
 .quire-page h3 {
@@ -109,12 +109,18 @@ h1 > * {
 
 /* Navbar */
 
+.quire:not(.no-js) .quire__secondary.is-expanded + .quire__primary {
+    transform: none;
+}
 .quire:not(.no-js) .quire__primary .quire-navbar {
     background-color: #333333;
 }
+/* .quire:not(.no-js) .quire__secondary {
+    top: 0px !important;
+} */
 .quire-navbar a {
     background-color: #333333;
-    color: #ffffff !important;
+    color: #ffffff !important;    
 }
 .quire-navbar svg {
     fill: #ffffff;
@@ -122,29 +128,57 @@ h1 > * {
 .quire-navbar-controls__left {
     display: flex;
     align-self: center;
+    flex: 1 0 3rem;
     width: 300px;
 }
 .quire-navbar-controls__left .logos {    
     display: flex;
     flex-direction: row;
     align-self: center;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
 }
 .quire-navbar-controls__left .logos .dam-logo {
-    height: 48px;
-    max-width: auto;
+    height: 40px;
+    width: auto;
+    margin: 0 10px;
 }
 .quire-navbar-controls__left .logos .biophilia-logo {
-    height: 48px;
-    max-width: auto;
+    height: 40px;
+    width: auto;
+    margin: 0 10px;
+}
+.quire-navbar-controls .quire-navbar-controls__center {
+    flex: 0 1 auto;
+    visibility: hidden;
+}
+.quire-navbar-controls:hover .quire-navbar-controls__center {
+    visibility: visible;
 }
 .quire-navbar-controls__right {
-    display: flex;
+    -webkit-box-flex: 0;
+    flex: 0 1 16rem;
+    justify-content: center;
+    align-items: center;
     width: 300px;
+}
+.quire-navbar-controls__right button {
+    width: auto;
+    border: none;
+    /* border-radius: 15px; */
+    padding: 5px 15px 5px 15px;
+    margin-right: 15px;
+}
+.quire-navbar-controls__right button > * {
+    position: static;
+    display: inline;
+    color: #ffffff;
 }
 .quire-search__close-button {
     right: 0;
     left: auto;
+}
+.quire-navbar-controls .quire-navbar-page-controls__item a {
+    transition: none;
 }
 
 .quire-navbar-page-controls__item.quire-previous-page {
@@ -156,6 +190,12 @@ h1 > * {
     text-align: left;
 }
 
+.quire-contents-buttons ul {
+    visibility: hidden;
+}
+.quire-contents-buttons:hover ul {
+    visibility: visible;
+}
 .quire-contents-buttons li.quire-nav-button.prev a {
     color: var(--light-green);
 }
@@ -167,6 +207,10 @@ h1 > * {
 .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
 .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
     background-color: var(--light-green);
+}
+
+.quire-menu__header {
+    display: none;
 }
 
 .quire-progress-bar div {
@@ -224,6 +268,22 @@ article .quire-page__content .container .content > figure.full-width {
     clear: both;
     margin-bottom: 1.4em;
 }
+.quire-page__content .container .content .pull-quote {
+    font-size: 2.2rem;
+    margin-left: calc( -100vw / 2 + 100% / 2 + 150px );
+    margin-right: calc(-100vw / 2 + 100% / 2 - 150px );
+    padding: 40px;
+    max-width: calc( 100vw - 300px );
+    width: auto;
+    max-width: auto;
+    clear: both;
+    margin-bottom: 1.4em;
+    animation: fadeIn 5s;
+}
+.quire-page__content .container .content .pull-quote p {
+    line-height: 1;
+}
+
 article .quire-page__content .container .content > .threefourths-width,
 article .quire-page__content .container .content > figure.threefourths-width
 article .quire-page__content .container .content > .threefourths-width,
@@ -262,6 +322,7 @@ article.quire-page--right-column .quire-page__content .container .content figure
     clear: left;
     padding-left: 10px;
 }
+
 
 article.quire-page--left-column .quire-page__content .container .content .is-pulled-left {
     width: 30%;
@@ -363,26 +424,34 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     clear: both;
 }
 
+.footnotes.littlefoot--print,
+.footnotes .littlefoot--print,
 .footnotes.footnote-print-only,
 .footnotes .footnote-print-only {
     display: block !important;
 }
-::marker {
-    display: none;
-}
+.footnotes .littlefoot--print,
 .footnotes li.footnote-print-only {
     list-style-type: decimal;
     display: list-item !important;
 }
+::marker {
+    display: none;
+}
 
 
-/* Text Styles */
 
-.quire-page__content .container .content p:first-child:first-letter{
-    font-size: 1em; /* 8em; */
-    float: none; /* left; */
-    margin-top: 0; /* 0.1em !important; */
-    margin-left:  0; /*  -0.09em; */
-    padding-right: 0; /* 0.025em; */
-    line-height: 1; /* 0.85em */
+/* Specific page styles */
+
+body#page-index .quire-navbar-controls__left {
+    display: none;
+}
+
+main.quire-page[data-page-id="page-contributors"] .quire-contributor__bio {
+    margin-bottom: 1rem;
+}
+main.quire-page[data-page-id="page-contributors"] .media ul {
+    display: none;
+    padding-left: 2rem;
+    margin-bottom: 0px !important;
 }

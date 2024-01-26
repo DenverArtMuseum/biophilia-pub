@@ -368,3 +368,52 @@ window.addEventListener('load', () => {
     })
   }
 })
+
+import $ from "jquery"
+
+import { KeyNavigation } from './keyNavigation'
+KeyNavigation.init();
+
+
+import littlefoot from 'littlefoot'
+import 'littlefoot/dist/littlefoot.css'
+
+littlefoot({
+  buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>',
+  //anchorPattern: '/(fn|footnote|note)[:\-_\d]/gi',
+});
+
+// Prepends "#lf-"" to  footnote's link to anchor, to match Littlefoot's button
+$('a.footnote-backref').each(function() {
+    var href = $(this).attr('href');
+    if( !/^\#lf-/.test(href) ) {
+        var newhref = href.replace(/#/, "#lf-");
+        $(this).attr('href',newhref);
+
+        //location.href = href;
+    }
+});
+// Makes sure anchor links do not open new tab
+$("body").on("click", "a.footnote-backref[data-href]", function() {
+    var href = $(this).data("href");
+    if (href) {
+        location.href = href;
+    }
+});
+
+
+
+// Hero Image credit
+$('.quire-page__header.hero__image .hero-credit-icon').on("click", function() {
+  console.log($('.quire-page__header.hero__image .hero-credit:visible').length)
+  if( $('.quire-page__header.hero__image .hero-credit:visible').length ) {
+      $('.quire-page__header.hero__image .hero-credit').hide('slow');
+  } else {
+      $('.quire-page__header.hero__image .hero-credit').show('slow');    
+  }
+});
+
+
+if( $('body#page-index').length ) {
+  toggleMenu();
+}

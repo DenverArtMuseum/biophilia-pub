@@ -2,7 +2,7 @@
 layout: base.11ty.js
 classes:
   - title-page
-order: 3
+order: 703
 outputs:
   - pdf
   - epub

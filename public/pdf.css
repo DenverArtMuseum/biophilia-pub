@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @font-face {
   font-family: "IBM Plex Sans Condensed";
   src: url("_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.eot");
@@ -8790,7 +8792,7 @@ html {
   width: 100%;
 }
 .quire main {
-  background-color: #EEF2F3;
+  background-color: #ffffff;
 }
 @media print {
   .quire main {
@@ -8926,8 +8928,8 @@ html {
 }
 
 .accordion-section__heading .accordion-section__copy-link-button, .accordion-section__heading:after {
-  font-size: 16px;
-  height: 32px;
+  font-size: 20px;
+  height: 40px;
 }
 .accordion-section__heading-level-1 .accordion-section__copy-link-button, .accordion-section__heading-level-1:after {
   font-size: 2.4em;
@@ -8950,7 +8952,7 @@ html {
   height: 1.75rem;
 }
 .accordion-section__heading-level-6 .accordion-section__copy-link-button, .accordion-section__heading-level-6:after {
-  font-size: 16px;
+  font-size: 20px;
   height: 1.6625rem;
 }
 
@@ -8971,7 +8973,7 @@ html {
 .accordion-section__copy-link-button {
   cursor: pointer;
   color: #000000;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   display: flex;
   align-items: center;
   justify-content: right;
@@ -8989,7 +8991,7 @@ html {
   }
 }
 .accordion-section__copy-link-button:active, .accordion-section__copy-link-button:hover, .accordion-section__copy-link-button:focus {
-  color: #a02a2a;
+  color: #98923f;
 }
 .accordion-section__copy-link-button:focus:not(:focus-visible) {
   outline: none;
@@ -8998,20 +9000,20 @@ html {
 @media screen and (min-width: 500px) {
   .accordion-section__heading:hover .accordion-section__copy-link-button,
   .accordion-section__heading:focus-visible .accordion-section__copy-link-button {
-    color: #CF4747;
+    color: rgb(191, 185, 101);
   }
   .accordion-section__heading:hover .accordion-section__copy-link-button:hover,
   .accordion-section__heading:focus-visible .accordion-section__copy-link-button:hover {
-    color: #a02a2a;
+    color: #98923f;
   }
 }
 
 @media (pointer: fine) and (hover: none) {
   .accordion-section__heading:focus .accordion-section__copy-link-button {
-    color: #CF4747;
+    color: rgb(191, 185, 101);
   }
   .accordion-section__heading:focus .accordion-section__copy-link-button:focus {
-    color: #a02a2a;
+    color: #98923f;
   }
 }
 
@@ -9059,7 +9061,7 @@ html {
 .accordion-tooltip {
   position: absolute;
   z-index: 1;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 1em;
   display: none;
   background: black;
@@ -9156,9 +9158,9 @@ html {
   border: none;
   padding: 0;
   outline: inherit;
-  color: #CF4747;
+  color: rgb(191, 185, 101);
   text-decoration: underline;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 0.875em;
   margin-top: 20px;
 }
@@ -9175,7 +9177,7 @@ html {
 }
 
 .quire-navbar {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 400;
   font-size: 0.875em;
   position: sticky;
@@ -9193,23 +9195,23 @@ html {
   vertical-align: sub;
 }
 .quire-navbar * {
-  color: #333333;
+  color: rgb(63, 64, 47);
 }
 .quire-navbar svg {
-  fill: #333333;
+  fill: rgb(63, 64, 47);
 }
 .quire-navbar svg:hover {
-  fill: #333333;
+  fill: rgb(63, 64, 47);
   background-color: transparent;
 }
 .quire-navbar a,
 .quire-navbar button,
 .quire-navbar .button {
   background-color: #ffffff;
-  color: #333333 !important;
+  color: rgb(63, 64, 47) !important;
 }
 .quire-navbar a {
-  border-bottom-color: #333333 !important;
+  border-bottom-color: rgb(63, 64, 47) !important;
 }
 .quire-navbar a {
   display: block;
@@ -9225,9 +9227,9 @@ html {
   height: 2px;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 0.75rem;
-  background-color: #d0dbde;
+  background-color: #e6e6e6;
   border-bottom: none;
 }
 .quire-progress-bar span {
@@ -9237,7 +9239,7 @@ html {
 .quire-progress-bar div {
   height: 2px;
   width: 100%;
-  background-color: #CF4747;
+  background-color: rgb(191, 185, 101);
   text-align: right;
   padding-right: 0.5em;
   position: relative;
@@ -9285,7 +9287,7 @@ html {
 }
 .quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, .quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
   color: #fff !important;
-  background-color: #CF4747;
+  background-color: rgb(191, 185, 101);
 }
 .quire-navbar-controls__left a:hover svg, .quire-navbar-controls__left button:hover svg, .quire-navbar-controls__left .button:hover svg, .quire-navbar-controls__right a:hover svg, .quire-navbar-controls__right button:hover svg, .quire-navbar-controls__right .button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item a:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover svg {
   fill: #fff;
@@ -9436,7 +9438,7 @@ html {
 }
 .quire-navbar-button.arrow-button a:hover {
   color: #fff !important;
-  background-color: #CF4747;
+  background-color: rgb(191, 185, 101);
 }
 .quire-navbar-button.arrow-button a:hover svg {
   fill: #fff;
@@ -9483,7 +9485,7 @@ html {
 }
 
 .quire-menu {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
   line-height: 1.25;
   /* "Cite this Page" Section */
 }
@@ -9504,7 +9506,7 @@ html {
   font-weight: 700;
   line-height: 1.2em;
   color: #ffffff;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 .quire-menu__header__contributors {
   margin: 0.25em 0 1.5em;
@@ -9512,11 +9514,10 @@ html {
 }
 .quire-menu__header h1, .quire-menu__header h2, .quire-menu__header h3, .quire-menu__header h4, .quire-menu__header h5, .quire-menu__header h6 {
   color: #ffffff;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  letter-spacing: -0.025em;
+  font-family: "Lato", sans-serif;
 }
 .quire-menu h6 {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   letter-spacing: 0.25px;
   color: #333333;
   font-size: 0.875rem;
@@ -9569,12 +9570,12 @@ html {
   background-color: inherit;
 }
 .quire-menu .page-item a, .quire-menu .section-item a {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
 }
 .quire-menu .page-item a.active, .quire-menu .section-item a.active {
   margin-left: -1.25em;
-  border-left: 4px solid #CF4747;
-  color: #CF4747 !important;
+  border-left: 4px solid rgb(191, 185, 101);
+  color: rgb(191, 185, 101) !important;
   text-decoration: none;
   padding-left: calc(0.75em + 4px);
 }
@@ -9582,7 +9583,7 @@ html {
   border-left-width: 4px;
 }
 .quire-menu .page-item a.active *, .quire-menu .section-item a.active * {
-  color: #CF4747 !important;
+  color: rgb(191, 185, 101) !important;
 }
 .quire-menu .page-item .page-item a.active, .quire-menu .section-item .page-item a.active {
   margin-left: calc(-2.75em - 4px);
@@ -9686,28 +9687,28 @@ html {
   border-radius: 0;
 }
 .quire-search__inner__list-item {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
   margin: 1.5rem 0;
 }
 .quire-search__inner__list-item a {
   display: block;
   margin-bottom: 0.25em;
   width: fit-content;
-  color: #CF4747;
-  border-bottom: 1px dotted #CF4747;
+  color: rgb(191, 185, 101);
+  border-bottom: 1px dotted rgb(191, 185, 101);
 }
 .quire-search__inner__list-item a * {
-  color: #CF4747;
+  color: rgb(191, 185, 101);
 }
 .quire-search__inner__list-item a:hover {
-  border-bottom: 1px solid #a02a2a;
+  border-bottom: 1px solid #98923f;
 }
 .quire-search__inner__list-item a:hover * {
-  color: #a02a2a;
+  color: #98923f;
 }
 .quire-search__inner__list-item .title {
   font-size: 1.25rem;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   text-transform: none;
   margin-bottom: 0.1em;
 }
@@ -9738,7 +9739,7 @@ html {
   bottom: 0;
 }
 .quire-search__close-button:hover {
-  background-color: #CF4747;
+  background-color: rgb(191, 185, 101);
   border: 0;
 }
 .quire-search__close-button:hover svg {
@@ -9746,7 +9747,7 @@ html {
 }
 
 html {
-  font-size: 16px;
+  font-size: 20px;
   overflow-y: visible;
 }
 @media print {
@@ -9790,8 +9791,7 @@ html div {
 .quire-page h6 {
   margin-bottom: 1rem;
   color: #333333;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  letter-spacing: -0.025em;
+  font-family: "Lato", sans-serif;
 }
 @media print {
   .quire-page h1,
@@ -9838,7 +9838,7 @@ html div {
   line-height: 1.25;
 }
 .quire-page__header__contributor {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
   font-weight: 400;
   font-style: italic;
   margin-top: 3rem;
@@ -9868,7 +9868,7 @@ html div {
   line-height: 1.4;
 }
 .quire-page__content {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 1em;
   line-height: 1.78;
   font-weight: 400;
@@ -10028,7 +10028,7 @@ html div {
   .quire-page__content .container .content blockquote h4:first-child:before,
   .quire-page__content .container .content blockquote h5:first-child:before,
   .quire-page__content .container .content blockquote h6:first-child:before {
-    color: #c1d0d3;
+    color: #d9d9d9;
     font-size: 5em;
     line-height: 0.1em;
     margin-right: 0.25em;
@@ -10049,7 +10049,7 @@ html div {
   left: -0.75em;
 }
 .quire-page__content .container .content .backmatter {
-  font-family: "Noto Serif", serif;
+  font-family: "PT Serif", serif;
   font-size: 0.875rem;
   line-height: 1.6;
   padding-top: 0;
@@ -10057,7 +10057,7 @@ html div {
 .quire-page__content .container .content .backmatter h2,
 .quire-page__content .container .content .backmatter h3,
 .quire-page__content .container .content .backmatter h4 {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   letter-spacing: 0.25px;
   color: #333333;
   font-size: 1em;
@@ -10112,7 +10112,7 @@ html div {
 }
 .quire-page__content .container .content .footnotes {
   font-size: 0.875em;
-  font-family: "Noto Serif", serif;
+  font-family: "PT Serif", serif;
 }
 .quire-page__content .container .content .footnotes hr {
   display: none;
@@ -10148,7 +10148,7 @@ html div {
 .quire-page__abstract h2 {
   font-weight: 400;
   font-size: 1.625em;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 .quire-page__abstract .container {
   background-color: #ffffff;
@@ -10202,7 +10202,7 @@ html div {
 }
 
 .quire-page__header {
-  background-color: #EEF2F3;
+  background-color: #ffffff;
   color: #333333;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10246,8 +10246,8 @@ html div {
   width: fit-content;
   font-size: 1.2rem;
   color: #333333;
-  border-top: 2px solid #CF4747;
-  border-bottom: 2px solid #CF4747;
+  border-top: 2px solid rgb(191, 185, 101);
+  border-bottom: 2px solid rgb(191, 185, 101);
   padding: 0.2rem 0.3rem;
   letter-spacing: 0;
   margin: 0 auto 1.9em;
@@ -10330,35 +10330,14 @@ html div {
     color: #333333;
   }
 }
-.quire-splash .quire-page__content .container .content {
-  background-color: #EEF2F3;
-}
-@media print {
-  .quire-splash .quire-page__content .container .content {
-    background-color: transparent;
-  }
-}
-.quire-splash .quire-page__content .container .content > p:first-child:first-letter {
-  font-size: 9em;
-  float: left;
-  margin-top: 0;
-  margin-left: -0.09em;
-  padding-right: 0.025em;
-  line-height: 0.85em;
-}
-@supports (-moz-appearance: none) {
-  .quire-splash .quire-page__content .container .content > p:first-child:first-letter {
-    margin-top: 0.1em !important;
-  }
-}
 
 .quire-page__content {
   padding-bottom: 0;
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
   line-height: inherit;
-  color: #CF4747;
-  border-bottom: 1px dotted #CF4747;
+  color: rgb(191, 185, 101);
+  border-bottom: 1px dotted rgb(191, 185, 101);
 }
 @media print {
   .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
@@ -10367,8 +10346,8 @@ html div {
   }
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
-  color: #a02a2a !important;
-  border-bottom: 1px solid #a02a2a !important;
+  color: #98923f !important;
+  border-bottom: 1px solid #98923f !important;
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):focus {
   background-color: #F9F9A3;
@@ -10400,7 +10379,7 @@ html div {
 .quire-page__content .content a.footnote-return:hover,
 .quire-page__content .content a.footnote-backref:hover,
 .quire-page__content .content a.footnote-ref:hover {
-  color: #a02a2a !important;
+  color: #98923f !important;
   border-bottom-width: 0 !important;
 }
 .quire-page__content .content .quire-page__content__references dl {
@@ -10553,7 +10532,7 @@ html div {
 }
 .quire-cover__hero {
   background-color: #6A8EB8;
-  background-image: linear-gradient(90deg, #6A8EB8, #CF4747);
+  background-image: linear-gradient(90deg, #6A8EB8, rgb(191, 185, 101));
   position: relative;
   text-align: left;
   display: flex;
@@ -10581,7 +10560,7 @@ html div {
   }
 }
 .quire-cover__hero .title {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: calc(2rem * 1);
   font-weight: 700;
   line-height: 1.07;
@@ -10613,7 +10592,7 @@ html div {
   }
 }
 .quire-cover__hero .reading-line {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   font-style: italic;
   font-size: calc(1.25rem * 1);
   line-height: 1.2;
@@ -10626,7 +10605,7 @@ html div {
   }
 }
 .quire-cover__hero .contributor {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: calc(1em * 1);
   margin-top: calc(0.5rem * 1);
   color: #ffffff;
@@ -10674,11 +10653,11 @@ html div {
   margin-bottom: 0;
 }
 .quire-cover__button {
-  background-color: #CF4747;
+  background-color: rgb(191, 185, 101);
   color: #fff;
   border-width: 0px;
   border-radius: 2px;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 1rem !important;
   padding: 0 !important;
   width: 140px;
@@ -10692,7 +10671,7 @@ html div {
   fill: #fff;
 }
 .quire-cover__button:hover {
-  background-color: #a02a2a;
+  background-color: #98923f;
   color: #ffffff;
 }
 .quire-cover .quire-page__content {
@@ -10701,11 +10680,11 @@ html div {
 .quire-cover .quire-page__content .container.is-fluid .content {
   padding-top: 2em !important;
   color: #333333;
-  background-color: #EEF2F3;
+  background-color: #ffffff;
 }
 .quire-cover .quire-page__content .container.is-fluid .content p {
   line-height: 2em;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
 }
 @media screen and (min-width: 1028px) {
   .quire-cover .quire-page__content .container.is-fluid {
@@ -10807,7 +10786,7 @@ html div {
   border-bottom: 1px dotted #333333;
 }
 .quire-contents-list ol.arrow .section-indent a:hover {
-  border-bottom: 1px solid #a02a2a;
+  border-bottom: 1px solid #98923f;
 }
 .quire-contents-list ol.arrow .section-indent a .title span {
   padding-left: 0.2em;
@@ -10869,12 +10848,12 @@ html div {
   display: none;
 }
 .quire-contents-list .menu-list .section-item ol a:hover {
-  border-bottom: 1px solid #a02a2a;
+  border-bottom: 1px solid #98923f;
 }
 .quire-contents-list .menu-list .page-item.no-landing,
 .quire-contents-list .menu-list .section-item.no-landing {
   font-size: 1.375em;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   color: #333333;
 }
 @media print {
@@ -10914,18 +10893,18 @@ html div {
 }
 .quire-contents-list .menu-list a:hover {
   background-color: inherit;
-  color: #a02a2a;
+  color: #98923f;
 }
 .quire-contents-list .menu-list a:hover .arrow {
   transform: translateX(0.75em);
   -webkit-transition: all 0.25s ease;
-  fill: #a02a2a;
+  fill: #98923f;
 }
 .quire-contents-list .menu-list a:hover .arrow svg {
-  fill: #a02a2a !important;
+  fill: #98923f !important;
 }
 .quire-contents-list .menu-list a:hover * {
-  color: #a02a2a;
+  color: #98923f;
 }
 .quire-contents-list .menu-list a:hover figure.image {
   -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
@@ -10942,11 +10921,11 @@ html div {
   }
 }
 .quire-contents-list.list, .quire-contents-list.brief {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 @media print {
   .quire-contents-list.list, .quire-contents-list.brief {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "PT Serif", serif;
   }
 }
 .quire-contents-list.list li > ol, .quire-contents-list.brief li > ol {
@@ -10971,7 +10950,7 @@ html div {
   font-weight: 400;
   line-height: 1.35;
   margin-bottom: 0;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 .quire-contents-list.abstract .abstract-text {
   font-size: 0.875em;
@@ -11011,7 +10990,7 @@ html div {
   padding-right: 2.25em;
   padding-left: 2.25em;
   font-size: 0.75em;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 @media screen and (min-width: 500px) {
   .quire-contents-list.grid {
@@ -11043,8 +11022,8 @@ html div {
   font-size: inherit;
   font-weight: inherit;
   line-height: inherit;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  color: #CF4747;
+  font-family: "Lato", sans-serif;
+  color: rgb(191, 185, 101);
 }
 @media print {
   .quire-contents-list.grid .title {
@@ -11072,7 +11051,7 @@ html div {
   margin-top: 0.1625em;
 }
 .quire-contents-list.grid .menu-list a .arrow {
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
 }
 .quire-contents-list.grid .menu-list a .card.no-image .arrow {
   margin-top: 0;
@@ -11087,7 +11066,7 @@ html div {
   }
 }
 .quire-contents-list.grid .menu-list ol.arrow a .arrow {
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
 }
 .quire-contents-list.grid .menu-list ol.arrow .section-item {
   border-top: 1px solid #e6e6e6;
@@ -11159,7 +11138,7 @@ html div {
   border-radius: 2px;
   box-shadow: none;
   background-color: #ffffff;
-  color: #CF4747;
+  color: rgb(191, 185, 101);
 }
 @media print {
   .quire-contents-list.grid ol li .card {
@@ -11171,14 +11150,14 @@ html div {
   border-bottom: none;
 }
 .quire-contents-list.grid ol li .card a:hover {
-  color: #a02a2a;
+  color: #98923f;
   border-bottom: none;
 }
 .quire-contents-list.grid ol li .card a:hover svg {
-  fill: #a02a2a;
+  fill: #98923f;
 }
 .quire-contents-list.grid ol li .card a svg {
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
   vertical-align: text-bottom;
 }
 .quire-contents-list.grid ol li .card .card-image {
@@ -11245,10 +11224,10 @@ html div {
   margin-top: 0;
 }
 .quire-contents-list.grid ol li .card-content:hover {
-  color: #a02a2a;
+  color: #98923f;
 }
 .quire-contents-list.grid ol li .card-content:hover .title {
-  color: #a02a2a;
+  color: #98923f;
 }
 .quire-contents-list.grid ol li .card-content .artist {
   text-transform: uppercase;
@@ -11262,7 +11241,7 @@ html div {
 .quire-contents-list.grid ol li.section-item {
   border-top: 1px solid;
   border-bottom: 1px solid;
-  border-color: #c1d0d3;
+  border-color: #d9d9d9;
 }
 @media print {
   .quire-contents-list.grid ol li.section-item {
@@ -11405,8 +11384,8 @@ html div {
   margin-top: 0.5em;
   margin-left: 0;
   margin-right: 0;
-  border-top: 1px solid #CF4747;
-  border-bottom: 1px solid #CF4747;
+  border-top: 1px solid rgb(191, 185, 101);
+  border-bottom: 1px solid rgb(191, 185, 101);
   padding: 1rem 0;
 }
 .q-figure > a {
@@ -11425,10 +11404,10 @@ html div {
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
 }
 .q-figure > a:hover .q-figure__label--below {
-  color: #a02a2a;
+  color: #98923f;
 }
 .q-figure > a:hover .q-figure__label--below svg {
-  fill: #a02a2a;
+  fill: #98923f;
 }
 .q-figure img {
   object-fit: cover;
@@ -11438,7 +11417,7 @@ html div {
   color: currentColor;
 }
 .q-figure--table table caption {
-  color: #CF4747;
+  color: rgb(191, 185, 101);
   font-size: 1rem;
   margin: 0 1rem 1rem;
 }
@@ -11510,7 +11489,7 @@ html div {
   margin-right: 0.5rem;
 }
 .q-figure__label a {
-  color: #CF4747;
+  color: rgb(191, 185, 101);
 }
 .q-figure__label .q-figure__label-icon {
   display: inline-block;
@@ -11525,7 +11504,7 @@ html div {
   }
 }
 .q-figure__label .q-figure__label-icon svg {
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
   width: 1.5rem;
   height: 1.5rem;
 }
@@ -11572,7 +11551,7 @@ html div {
   position: relative;
 }
 .q-figure__media-fallback h5.header {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 0.85em;
   color: #000000;
   font-weight: 400;
@@ -11858,11 +11837,11 @@ div.multimedia .caption {
 }
 .q-figure__label--below .q-figure__modal-link {
   display: inline;
-  color: #CF4747;
+  color: rgb(191, 185, 101);
   transition: color 0.35s;
 }
 .q-figure__label--below .q-figure__modal-link:hover {
-  color: #a02a2a;
+  color: #98923f;
 }
 
 /** VIDEO/AUDIO FALLBACK ELEMENTS **/
@@ -12361,7 +12340,7 @@ q-modal[data-modal-active=true] {
   display: block;
   padding: 6px 10px;
   background: rgba(0, 0, 0, 0.5);
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 0.875rem;
   font-weight: bold;
 }
@@ -12507,15 +12486,15 @@ q-modal[data-modal-active=true] {
   }
 }
 .quire-entry__tombstone {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
 }
 .quire-entry__tombstone a {
-  color: #CF4747;
-  border-bottom: 1px dotted #CF4747;
+  color: rgb(191, 185, 101);
+  border-bottom: 1px dotted rgb(191, 185, 101);
 }
 .quire-entry__tombstone a:hover {
-  color: #a02a2a;
-  border-bottom: 1px solid #a02a2a;
+  color: #98923f;
+  border-bottom: 1px solid #98923f;
 }
 @media print {
   .quire-entry__tombstone a {
@@ -12526,11 +12505,11 @@ q-modal[data-modal-active=true] {
 .quire-entry__tombstone a.button {
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
-  color: #CF4747;
+  color: rgb(191, 185, 101);
 }
 .quire-entry__tombstone a.button:hover {
-  background-color: #a02a2a;
-  border-color: #a02a2a;
+  background-color: #98923f;
+  border-color: #98923f;
   color: #fff;
 }
 .quire-entry__tombstone a.button:hover svg {
@@ -12586,14 +12565,14 @@ q-modal[data-modal-active=true] {
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  border: 1px solid #CF4747;
+  border: 1px solid rgb(191, 185, 101);
 }
 .quire-entry__tombstone svg {
   position: relative;
   height: 1em;
   width: 1em;
   margin-left: 0.5em;
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
 }
 .quire-entry__tombstone svg img {
   position: absolute;
@@ -12750,7 +12729,7 @@ q-modal[data-modal-active=true] {
     height: 100vh;
     width: 44%;
     right: 0;
-    background: #EEF2F3;
+    background: #ffffff;
   }
 }
 @media screen and (min-width: 700px) {
@@ -12862,7 +12841,7 @@ q-modal[data-modal-active=true] {
   font-style: normal;
   color: inherit;
   cursor: pointer;
-  border-bottom: 1px dotted #CF4747;
+  border-bottom: 1px dotted rgb(191, 185, 101);
 }
 @media print {
   .quire-citation__button {
@@ -12870,19 +12849,19 @@ q-modal[data-modal-active=true] {
   }
 }
 .quire-citation__button:hover {
-  color: #a02a2a !important;
-  border-bottom: 1px solid #a02a2a;
+  color: #98923f !important;
+  border-bottom: 1px solid #98923f;
 }
 .quire-citation__button:hover {
-  color: #a02a2a !important;
-  border-bottom: 1px solid #a02a2a;
+  color: #98923f !important;
+  border-bottom: 1px solid #98923f;
 }
 .quire-citation__button--icon {
   border-bottom-width: 0;
   margin-left: 2px;
 }
 .quire-citation__button--icon svg {
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
   width: 1em;
   height: 1em;
   pointer-events: none;
@@ -12945,7 +12924,7 @@ q-modal[data-modal-active=true] {
   color: #333333;
 }
 .quire-copyright__icon__link svg:hover {
-  fill: #a02a2a;
+  fill: #98923f;
 }
 .quire-copyright .copyright__publisher-logo {
   display: inline-block;
@@ -13039,13 +13018,13 @@ q-modal[data-modal-active=true] {
 .quire-page__content .content .quire-contributor__url svg {
   width: 0.875em;
   height: 0.875em;
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
 }
 .quire-page__content .content .quire-contributor__url:hover {
   border-bottom-width: 0px !important;
 }
 .quire-page__content .content .quire-contributor__url:hover svg {
-  fill: #a02a2a;
+  fill: #98923f;
 }
 .quire-contributor__pic {
   width: 100px;
@@ -13104,7 +13083,7 @@ q-modal[data-modal-active=true] {
   overflow: auto;
   background: #ffffff;
   color: #333333;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Serif", serif;
 }
 .quire-deepzoom .leaflet-table table {
   table-layout: auto;
@@ -13249,7 +13228,7 @@ div.quire-counter-container {
   z-index: 1046;
 }
 div.quire-counter-container > span {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 1rem;
   font-weight: bold;
 }
@@ -13267,11 +13246,11 @@ div.quire-caption-container > .caption {
   display: block;
   padding: 6px 10px;
   background: rgba(0, 0, 0, 0.5);
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 0.875rem;
 }
 div.quire-caption-container > .caption a {
-  color: #CF4747;
+  color: rgb(191, 185, 101);
   border-bottom: 1px dotted;
 }
 div.quire-caption-container .q-figure__label-text {
@@ -13279,7 +13258,7 @@ div.quire-caption-container .q-figure__label-text {
   font-weight: bold;
 }
 div.quire-caption-container a {
-  color: #CF4747;
+  color: rgb(191, 185, 101);
   border-bottom: 1px dotted;
 }
 div.mfp-title {
@@ -13436,8 +13415,8 @@ body > div.mfp-bg.mfp-ready {
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
   font-size: 1rem;
-  border: 1px solid #CF4747;
-  color: #CF4747;
+  border: 1px solid rgb(191, 185, 101);
+  color: rgb(191, 185, 101);
 }
 .quire-contents-buttons li.quire-nav-button a {
   display: inline-block;
@@ -13445,7 +13424,7 @@ body > div.mfp-bg.mfp-ready {
   height: 3.25em;
   margin-top: 0;
   padding-top: 0.6em;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 1rem;
 }
 .quire-contents-buttons li.quire-nav-button.prev {
@@ -13453,11 +13432,11 @@ body > div.mfp-bg.mfp-ready {
   margin-right: 0.55rem;
 }
 .quire-contents-buttons li.quire-nav-button.prev a {
-  color: #CF4747;
+  color: rgb(191, 185, 101);
   margin-right: 0.5rem;
 }
 .quire-contents-buttons li.quire-nav-button.prev svg {
-  fill: #CF4747;
+  fill: rgb(191, 185, 101);
   margin-right: 0.5rem;
 }
 .quire-contents-buttons li.quire-nav-button svg {
@@ -13470,20 +13449,20 @@ body > div.mfp-bg.mfp-ready {
   vertical-align: super;
 }
 .quire-contents-buttons li.quire-nav-button.next {
-  background-color: #CF4747;
+  background-color: rgb(191, 185, 101);
 }
 .quire-contents-buttons li.quire-nav-button.next svg {
   fill: #fff;
 }
 .quire-contents-buttons li.quire-nav-button.next:hover {
-  background-color: #a02a2a !important;
+  background-color: #98923f !important;
 }
 .quire-contents-buttons li.quire-nav-button.next a {
   color: #fff;
 }
 .quire-contents-buttons li.quire-nav-button:hover {
-  background-color: #a02a2a;
-  border-color: #a02a2a;
+  background-color: #98923f;
+  border-color: #98923f;
 }
 .quire-contents-buttons li.quire-nav-button:hover a {
   color: #fff;
@@ -13501,7 +13480,7 @@ body > div.mfp-bg.mfp-ready {
     marks: crop;
     margin-top: 0.75in;
     margin-bottom: 0.875in;
-    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 8pt;
     color: #000000;
   }
@@ -13778,7 +13757,7 @@ body > div.mfp-bg.mfp-ready {
   .quire-contents-list.grid .menu-list ol .page-item .card.image .card-content {
     padding: 0.1875in 0;
     font-size: 1.25rem;
-    font-family: "Noto Sans", sans-serif;
+    font-family: "PT Serif", serif;
   }
   .quire-contents-list.grid .menu-list ol .page-item .card.image img {
     max-height: 1.25in;
@@ -13876,7 +13855,7 @@ body > div.mfp-bg.mfp-ready {
     justify-content: space-around;
     align-items: flex-end;
     text-align: right;
-    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-family: "Lato", sans-serif;
   }
   .title-page * {
     max-width: 5.5in;
@@ -13884,7 +13863,7 @@ body > div.mfp-bg.mfp-ready {
   .title-page .title {
     font-size: 4em;
     font-weight: 700;
-    color: #CF4747;
+    color: rgb(191, 185, 101);
     line-height: 1.1;
     margin-bottom: 0.3em;
   }
@@ -13902,9 +13881,9 @@ body > div.mfp-bg.mfp-ready {
     flex-direction: column;
     justify-content: center;
     align-items: flex-end;
-    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 1.5em;
-    color: #CF4747;
+    color: rgb(191, 185, 101);
     text-align: right;
   }
   .copyright-page {
@@ -13993,30 +13972,28 @@ html {
 }
 
 body {
-  font-family: "Raleway", sans-serif !important;
+  /* font-family: 'Raleway', sans-serif !important;
   font-size: 1.25rem;
-  line-height: 1.4;
+  line-height: 1.4; */
   /* lining numerals, ss02 = alternate a, ss09 = alternate W/w */
-  -webkit-font-feature-settings: "lnum", "ss02", "ss09";
+  /* -webkit-font-feature-settings: "lnum", "ss02", "ss09";
   -moz-font-feature-settings: "lnum", "ss02", "ss09";
-  font-feature-settings: "lnum", "ss02", "ss09";
-  margin: 0;
+  font-feature-settings: "lnum", "ss02", "ss09"; 
+  margin: 0; */
 }
 
-:lang(ja) {
-  font-family: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック", "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
-  -webkit-font-feature-settings: normal;
-  -moz-font-feature-settings: normal;
-  font-feature-settings: normal;
-  word-break: keep-all;
-  font-style: normal !important;
-}
-
-h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
-  font-size: 0.9em;
-  line-height: 1.555555em;
-}
-
+/* :lang(ja) {
+    font-family: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
+    -webkit-font-feature-settings: normal;
+    -moz-font-feature-settings: normal;
+    font-feature-settings: normal;
+    word-break: keep-all;
+    font-style: normal !important;
+} */
+/* h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
+    font-size: 0.9em;
+    line-height: 1.555555em;
+} */
 .quire-page h2,
 .quire-page h3 {
   font-style: normal;
@@ -14040,10 +14017,17 @@ h1 > * {
 }
 
 /* Navbar */
+.quire:not(.no-js) .quire__secondary.is-expanded + .quire__primary {
+  transform: none;
+}
+
 .quire:not(.no-js) .quire__primary .quire-navbar {
   background-color: #333333;
 }
 
+/* .quire:not(.no-js) .quire__secondary {
+    top: 0px !important;
+} */
 .quire-navbar a {
   background-color: #333333;
   color: #ffffff !important;
@@ -14056,31 +14040,67 @@ h1 > * {
 .quire-navbar-controls__left {
   display: flex;
   align-self: center;
+  flex: 1 0 3rem;
+  width: 300px;
 }
 
 .quire-navbar-controls__left .logos {
   display: flex;
   flex-direction: row;
   align-self: center;
+  /* justify-content: space-evenly; */
 }
 
 .quire-navbar-controls__left .logos .dam-logo {
-  height: 48px;
+  height: 40px;
   width: auto;
+  margin: 0 10px;
 }
 
 .quire-navbar-controls__left .logos .biophilia-logo {
-  height: 54px;
+  height: 40px;
   width: auto;
+  margin: 0 10px;
+}
+
+.quire-navbar-controls .quire-navbar-controls__center {
+  flex: 0 1 auto;
+  visibility: hidden;
+}
+
+.quire-navbar-controls:hover .quire-navbar-controls__center {
+  visibility: visible;
 }
 
 .quire-navbar-controls__right {
-  display: flex;
+  -webkit-box-flex: 0;
+  flex: 0 1 16rem;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+}
+
+.quire-navbar-controls__right button {
+  width: auto;
+  border: none;
+  /* border-radius: 15px; */
+  padding: 5px 15px 5px 15px;
+  margin-right: 15px;
+}
+
+.quire-navbar-controls__right button > * {
+  position: static;
+  display: inline;
+  color: #ffffff;
 }
 
 .quire-search__close-button {
   right: 0;
   left: auto;
+}
+
+.quire-navbar-controls .quire-navbar-page-controls__item a {
+  transition: none;
 }
 
 .quire-navbar-page-controls__item.quire-previous-page {
@@ -14091,6 +14111,14 @@ h1 > * {
 .quire-navbar-page-controls__item.quire-next-page {
   width: 500px;
   text-align: left;
+}
+
+.quire-contents-buttons ul {
+  visibility: hidden;
+}
+
+.quire-contents-buttons:hover ul {
+  visibility: visible;
 }
 
 .quire-contents-buttons li.quire-nav-button.prev a {
@@ -14108,8 +14136,21 @@ h1 > * {
   background-color: var(--light-green);
 }
 
+.quire-menu__header {
+  display: none;
+}
+
 .quire-progress-bar div {
   background-color: var(--light-green);
+}
+
+.quire-cover__more .hero-more.next-page {
+  transform: rotate(-90deg);
+}
+
+.quire-cover__more .hero-more svg {
+  width: 54px;
+  height: 54px;
 }
 
 /* Page Layout */
@@ -14152,6 +14193,23 @@ article .quire-page__content .container .content > figure.full-width {
   max-width: auto;
   clear: both;
   margin-bottom: 1.4em;
+}
+
+.quire-page__content .container .content .pull-quote {
+  font-size: 2.2rem;
+  margin-left: calc(-50vw + 50% + 150px);
+  margin-right: calc(-50vw + 50% - 150px);
+  padding: 40px;
+  max-width: calc(100vw - 300px);
+  width: auto;
+  max-width: auto;
+  clear: both;
+  margin-bottom: 1.4em;
+  animation: fadeIn 5s;
+}
+
+.quire-page__content .container .content .pull-quote p {
+  line-height: 1;
 }
 
 article .quire-page__content .container .content > .threefourths-width,
@@ -14297,26 +14355,34 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
   clear: both;
 }
 
+.footnotes.littlefoot--print,
+.footnotes .littlefoot--print,
 .footnotes.footnote-print-only,
 .footnotes .footnote-print-only {
   display: block !important;
+}
+
+.footnotes .littlefoot--print,
+.footnotes li.footnote-print-only {
+  list-style-type: decimal;
+  display: list-item !important;
 }
 
 ::marker {
   display: none;
 }
 
-.footnotes li.footnote-print-only {
-  list-style-type: decimal;
-  display: list-item !important;
+/* Specific page styles */
+body#page-index .quire-navbar-controls__left {
+  display: none;
 }
 
-/* Text Styles */
-.quire-page__content .container .content p:first-child:first-letter {
-  font-size: 1em; /* 8em; */
-  float: none; /* left; */
-  margin-top: 0; /* 0.1em !important; */
-  margin-left: 0; /*  -0.09em; */
-  padding-right: 0; /* 0.025em; */
-  line-height: 1; /* 0.85em */
+main.quire-page[data-page-id=page-contributors] .quire-contributor__bio {
+  margin-bottom: 1rem;
+}
+
+main.quire-page[data-page-id=page-contributors] .media ul {
+  display: none;
+  padding-left: 2rem;
+  margin-bottom: 0px !important;
 }
