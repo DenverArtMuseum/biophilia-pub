@@ -4,21 +4,25 @@ figure_list:
     src: figures/2008_163.jpg
     caption: "Joris Laarman, Bone Armchair (prototype), 2008. Cast marble resin and ground bone china; 29 1/2 × 31 1/2 × 39 1/2 in."
     credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
 
   - id: 2008-163-2
     src: figures/EXRR_2023_87.jpg
     caption: "Joris Laarman, Bone Armchair (prototype), 2008. Cast marble resin and ground bone china; 29 1/2 × 31 1/2 × 39 1/2 in."
     credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
 
   - id: 2015-263
     src: figures/2015_263.jpg
     caption: "Joris Laarman, Microstructures Adaptation Chair (Long Cell) Prototype, 2014. 3-D printed polyamide and copper; 28 3/8 × 27 ½ × 30 ¼ in."
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman"
+    alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
 
   - id: "2017-89-91"
     src: figures/2017_89-91.jpg
     caption: "gt2P (great things to People), Remolten N1: Revolution Stools and Aux Table, 2016–2017. Stoneware and volcanic lava; variable dimensions."
     credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)"
+    alt: Three cylindrically shaped stools. The left and center stools are the same height; the stool on the right is half the height of the others. The surface of the stools is a dark, brownish gray volcanic lava that drips down the sides.
 
   - id: 2022-57-1
     src: figures/2022_57~1.jpg
@@ -59,6 +63,7 @@ figure_list:
     src: figures/2022_161.jpg
     caption: Aranda\Lasch and Terrol Dew Johnson, Desert Paper 05, 2022. Desert marigold, jute, and abaca; 19 1/2 × 13 × 10 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    alt: A light sandy-brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and folds that reach upward into jagged points at the top.
 
   - id: 2022-162-1
     src: figures/2022_162.jpg
@@ -74,16 +79,19 @@ figure_list:
     src: figures/2023_6.jpg
     caption: Sandra Davolio, Coral Flower IV, 2022. Porcelain; 9 ¾ × 11 in. diam. 
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photography by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
+    alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain.
 
   - id: 2023-186-92
     src: figures/2023_186-92.jpg
     caption: Front Design, Curve Lamps, 2018-2019. Painted metal base and painted glass or metal shades; variable dimensions. Manufactured by Zero Lighting, Nybro, Sweden.
     credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–92. © Front. Image courtesy of Zero Lighting"
+    alt: Seven bright green lamps with thin necks of various heights, and mushroom shaped tops. From left to right, two tall lamps on a rectangular pedestal, two short lamps on an oval pedestal in the center, and three medium and tall lamps on an oval pedestal on the right. They cast a soft glow against the sage green background. 
 
   - id: exrr-2023-94
     src: figures/AF_2000_gottlieb-me_mcdowell.jpg
     caption: McDowell Sonoran Sunset.
     credit: Photograph © by Marc Elliot Gottlieb, 2009, licensed courtesy of Artifract®.
+    alt: Color photograph of the Sonoran Desert at sunset. Cacti and yellow desert flowers populate the foreground, with gentle mountains in the background.
 
   - id: exacc-2022-74
     src: figures/EXACC_2022_74.jpg
@@ -207,21 +215,25 @@ figure_list:
     src: figures/EXRR_2023_91_1.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
 
   - id: exrr-2023-91-2
     src: figures/EXRR_2023_91_2.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: A large clay sphere with cracks running like veins over the surface. 
 
   - id: exrr-2023-91-3
     src: figures/EXRR_2023_91_3.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: View of interior of Clay Houses. Empty room with a lofted ceiling that comes to a point. The light brown walls look like cracked clay. 
 
   - id: exrr-2023-91-4
     src: figures/EXRR_2023_91_4.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: Close-up image of a wall from Clay Houses that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
 
   - id: exrr-2023-92
     src: figures/EXRR_2023_92.jpg
@@ -237,10 +249,12 @@ figure_list:
     src: figures/EXRR_2023_95_1.jpg
     caption: Osorno Volcano, Chile.
     credit: © Gt2P Spa.
+    alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
 
   - id: exrr-2023-95-2
     src: figures/EXRR_2023_95~2.jpg
     caption: Osorno Volcano, Chile.
+    alt: A vertical photograph of the rocky landscape around the Osorno Volcano. Dark gray rocks fill the bottom two-thirds of the composition. A line of green trees in front of the Andes Mountains and a bright blue sky with white clouds at the top.
 
   - id: exrr-2023-101
     src: figures/EXRR_2023_101.jpg
@@ -271,16 +285,19 @@ figure_list:
     src: figures/EXRR_2023_104.jpg
     caption: Wildflowers in the Gore Range, Colorado.
     credit: iStock.com/Adventure_Photo 
+    alt: Color photograph of wildflowers in the Colorado mountains. In the foreground, the mountain slopes downward from left to right. Hundreds of colorful flowers in orange, purple, red, and yellow, all with green leaves, cover the mountainside. Pine trees and mountain peaks in the background. 
 
   - id: exrr-2023-111
     src: figures/EXRR_2023_111.jpg
     caption: Jason DeMarte, Arcadia, 2021. Pigmented ink print; variable dimensions.
     credit: Courtesy of RULE Gallery, Denver. © Jason DeMarte 
+    alt: Mossy vines stretch vertically against a dusky jungle background. They are dotted with green and purple hummingbirds, orange and red berries, different shapes of green leaves, large purple passion flowers, purple and orange butterflies, and ripening fruit.
 
   - id: exrr-2023-137
     src: figures/EXRR_2023_137.jpg
     caption: Alexandra Kehayoglou, Santa Cruz River, 2017. Wool; 382 7/8 × 165 3/8 in.
     credit: "National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photo: National Gallery of Victoria, Melbourne"
+    alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
   - id: ptl-24369
     src: figures/PTL-24369_1-5.jpg
@@ -301,16 +318,19 @@ figure_list:
     src: figures/PTL-24455.jpg
     caption: threeASFOUR, Autumn Leaf Suit, Human Plant Collection, Spring/Summer 2020, Look 6. Digitally printed cotton voile and broadcloth.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    alt: Front view of a model walking down the runway wearing a three-piece suit with a light-brown, autumn leaf print.
 
   - id: ptl-24456
     src: figures/PTL-24456.jpg
     caption: threeASFOUR, Eve Dress, Human Plant Collection, Spring/Summer 2020, Look 19. Laser-cut backed brown cork.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    alt: Front view of a model walking down the runway wearing a short, brown dress. The fabric is laser cut in the shape of leaves.
 
   - id: ptl-24457
     src: figures/PTL-24457.jpg
     caption: threeASFOUR, Lily Dress, Human Plant Collection, Spring/Summer 2020, Look 25. Hand-pleated organdy and cotton binding.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    alt: Front view of a model walking down the runway wearing a short, ivory colored dress. The dress is circular with the bottom of the circle mid-thigh and the top covering the bottom half of the model’s face. Large pleats radiate around the dress like a folding fan.
 
   - id: ptl-24649-1
     src: figures/PTL-24649~1_FPO.jpg
@@ -356,11 +376,13 @@ figure_list:
     src: figures/PTL-24663.jpg
     caption: "Álvaro Catalán de Ocón, Plastic River No. 6: Ganges, 2022. Hand-tufted recycled plastic PET (polyethylene terephthalate); 118 × 158 in. Manufactured by GAN, Valencia, Spain."
     credit: Courtesy of GAN by Gandia Blasco Group. 
+    alt: Topographic and precisely scaled map of a region of the Ganges River. From a bright blue tuft at the bottom-right of the rug, the river flows horizontally through the center of the piece with many tributaries, surrounded by a deep forest green. The top is a mixture of grays and whites. The bottom left corner is made of browns and greens.
 
   - id: ptl-24672
     src: figures/PTL-24672.jpg
     caption: PELLE, Nana Lure Chandelier, 2021. Painted cast cotton paper, patinated steel, and LEDs; 96 × 82 in. diam.
     credit: Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image courtesy of PELLE.
+    alt: A chandelier with six large leaves radiating out from the center. The centers of the leaves are green, gradually turning a brownish red around the edges. The warm glow of light emanates from under each leaf.
 
   - id: ptl-24698-1
     src: figures/PTL-24698~1.jpg
@@ -416,6 +438,7 @@ figure_list:
     src: figures/PTL-24700.jpg
     caption: Mathieu Lehanneur, Permanent Flame, [date?]. Polished bronze; 17 3/4 × 14 1/2 × 21 1/4 in.
     credit: Courtesy of the artist. © Mathieu Lehanneur Image © Leandro Viana, courtesy of Mathieu Lehanneur.
+    alt: A shiny, metallic gold bronze resembling the dynamic flames of a flickering fire.
 
   - id: ptl-24701-1
     src: figures/PTL-24701~1.jpg
@@ -441,6 +464,7 @@ figure_list:
     src: figures/PTL-24704_FPO.jpg
     caption: Humberto Campana and Fernando Campana, Bulbo, 2019. Fabric and leather; 59 × 47 × 48 in. Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
     credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana
+    alt: A bright red chair shaped like a flower bulb – round at the bottom, tapering to a point at the top. It is made of overlapping layers of long, oval-shaped leather and fabric petals.
 
   - id: ptl-24705
     src: figures/PTL-24705.jpg
@@ -471,6 +495,7 @@ figure_list:
     src: figures/PTL-24721~1.jpg
     caption: Iris van Herpen, Diatom Gown, Sensory Seas Collection, Spring/Summer 2020.
     credit: © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen Atelier.
+    alt: Front view of a model wearing a floor-length dress with long sleeves that completely cover their arms. The drapey material has an aquatic print in seafoam green, black, blue, and purple.
 
   - id: ptl-24735
     src: figures/PTL-24735.jpg
@@ -631,6 +656,7 @@ figure_list:
     src: figures/PTL-26101.jpg
     caption: Simon Heijdens, Lightweeds, 2005-ongoing. Self-developed software; variable dimensions.
     credit: © Simon Heijdens
+    alt: Image of digital light projection on the wall of plant life that reacts to visitors as they pass by. The projection is several feet high.
 
   - id: ptl-26114
     src: figures/PTL-26114.jpg
