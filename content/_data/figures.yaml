@@ -4,201 +4,241 @@ figure_list:
     src: figures/2008_163.jpg
     caption: "Joris Laarman, Bone Armchair (prototype), 2008. Cast marble resin and ground bone china; 29 1/2 × 31 1/2 × 39 1/2 in."
     credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
 
   - id: 2008-163-2
     src: figures/EXRR_2023_87.jpg
     caption: "Joris Laarman, Bone Armchair (prototype), 2008. Cast marble resin and ground bone china; 29 1/2 × 31 1/2 × 39 1/2 in."
     credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
 
   - id: 2015-263
     src: figures/2015_263.jpg
     caption: "Joris Laarman, Microstructures Adaptation Chair (Long Cell) Prototype, 2014. 3-D printed polyamide and copper; 28 3/8 × 27 ½ × 30 ¼ in."
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman"
+    alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
 
   - id: "2017-89-91"
     src: figures/2017_89-91.jpg
     caption: "gt2P (great things to People), Remolten N1: Revolution Stools and Aux Table, 2016–2017. Stoneware and volcanic lava; variable dimensions."
     credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)"
+    alt: Three cylindrically shaped stools. The left and center stools are the same height; the stool on the right is half the height of the others. The surface of the stools is a dark, brownish gray volcanic lava that drips down the sides.
 
   - id: 2022-57-1
     src: figures/2022_57~1.jpg
     caption: Nervous System, Floraform Chandelier, 2017. 3-D-printed nylon; 43 ¼ in. diam. Manufactured by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System"
+    alt: Image of a person lying under Floraform Chandelier, an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
 
   - id: 2022-57-2
     src: figures/2022_57~2.jpg
     caption: Nervous System, Floraform Chandelier, 2017. 3-D-printed nylon; 43 ¼ in. diam. Manufactured by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System"
+    alt: Image of the Floraform Chandelier lit and casting shadows. It is an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
 
   - id: 2022-57-3
     src: figures/2022_57~3.jpg
     caption: Nervous System, Floraform Chandelier, 2017. 3-D-printed nylon; 43 ¼ in. diam. Manufactured by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System"
+    alt: An undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
 
   - id: 2022-57-4
     src: figures/2022_57~4.jpg
     caption: Nervous System, Floraform Chandelier, 2017. 3-D-printed nylon; 43 ¼ in. diam. Manufactured by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System"
+    alt: View of the interior of Floraform Chandelier.
 
   - id: 2022-57-5
     src: figures/2022_57~5.jpg
     caption: Nervous System, Floraform Chandelier, 2017. 3-D-printed nylon; 43 ¼ in. diam. Manufactured by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System"
+    alt: A person stands under Floraform Chandelier and holds out an arm, which is cast in shadows from the artwork, as is the wall behind. 
 
   - id: 2022-160-1
     src: figures/2022_160.jpg
     caption: Aranda\Lasch and Terrol Dew Johnson, Desert Paper 02, 2022. Desert globemallow, agave fiber, and jute; 17 × 13 × 10 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    alt: A white basket construction sprinkled with brown and red flecks. It is made of desert matter mixed with natural pulp. The basket has a flat base and gentle folds that reach upward into two points on either side.
 
   - id: 2022-160-2
     src: figures/2022_160~2_FPO.jpg
     caption: Aranda\Lasch and Terrol Dew Johnson, Desert Paper 02, 2022. Desert globemallow, agave fiber, and jute; 17 × 13 × 10 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    alt: Close-up detail image of Desert Paper 02 basket. Small flecks of brown and red in the textured, white material of the basket.
 
   - id: 2022-161
     src: figures/2022_161.jpg
     caption: Aranda\Lasch and Terrol Dew Johnson, Desert Paper 05, 2022. Desert marigold, jute, and abaca; 19 1/2 × 13 × 10 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    alt: A light sandy-brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and folds that reach upward into jagged points at the top.
 
   - id: 2022-162-1
     src: figures/2022_162.jpg
     caption: Aranda\Lasch and Terrol Dew Johnson, Desert Paper 09, 2022. Creosote and jute; 15 × 9 × 9 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    alt: A light brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and gentle folds that reach upward into several points at the top.
 
   - id: 2022-162-2
     src: figures/2022_162~2_FPO.jpg
     caption: Aranda\Lasch and Terrol Dew Johnson, Desert Paper 09, 2022. Creosote and jute; 15 × 9 × 9 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    alt: Close-up detail image of Desert Paper 09 basket. The surface is light brown with flecks of dark organic material, and a bumpy but delicate texture.
 
   - id: 2023-6
     src: figures/2023_6.jpg
     caption: Sandra Davolio, Coral Flower IV, 2022. Porcelain; 9 ¾ × 11 in. diam. 
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photography by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
+    alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain.
 
   - id: 2023-186-92
     src: figures/2023_186-92.jpg
     caption: Front Design, Curve Lamps, 2018-2019. Painted metal base and painted glass or metal shades; variable dimensions. Manufactured by Zero Lighting, Nybro, Sweden.
     credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–92. © Front. Image courtesy of Zero Lighting"
+    alt: Seven bright green lamps with thin necks of various heights, and mushroom shaped tops. From left to right, two tall lamps on a rectangular pedestal, two short lamps on an oval pedestal in the center, and three medium and tall lamps on an oval pedestal on the right. They cast a soft glow against the sage green background. 
 
   - id: exrr-2023-94
     src: figures/AF_2000_gottlieb-me_mcdowell.jpg
     caption: McDowell Sonoran Sunset.
     credit: Photograph © by Marc Elliot Gottlieb, 2009, licensed courtesy of Artifract®.
+    alt: Color photograph of the Sonoran Desert at sunset. Cacti and yellow desert flowers populate the foreground, with gentle mountains in the background.
 
   - id: exacc-2022-74
     src: figures/EXACC_2022_74.jpg
     caption: Nao Tamura, Seasons Plates, 2011. Silicone; 9 1/2 × 7 7/8 in. Manufactured by COVO, Rome, Italy.
     credit: Exhibition purchase. © Nao Tamura
+    alt: A green silicone plate shaped like a leaf with one pointed side that fans out into a rounded shape.
 
   - id: exacc-2022-75
     src: figures/EXACC_2022_75.jpg
     caption: Nao Tamura, Seasons Plates, 2011. Silicone; 12 3/8 × 8 5/8 in. Manufactured by COVO, Rome, Italy.
     credit: Exhibition purchase. © Nao Tamura
+    alt: A green silicone plate shaped like an oval leaf with wide sides that fan upward. 
 
   - id: exacc-2022-76
     src: figures/EXACC_2022_76.jpg
     caption: Nao Tamura, Petals Plates, 2011. Silicone; 7 1/4 × 6 1/4 in. Manufactured by COVO, Rome, Italy.
     credit: Exhibition purchase. © Nao Tamura
+    alt: A small, yellow, silicone plate shaped like a petal laying on its side. 
 
   - id: exacc-2022-77
     src: figures/EXACC_2022_77.jpg
     caption: Nao Tamura, Seasons Serving Platter, 2011. Silicone, 20 1/2 × 11 3/4 in. Manufactured by COVO, Rome, Italy.
     credit: Exhibition purchase. © Nao Tamura
+    alt: A dark green, oval-shaped serving tray that comes to a point on both ends. 
 
   - id: exrr-2023-78-1
     src: figures/EXRR_2023_78.jpg
     caption: Ronan Bouroullec and Erwan Bouroullec, Algues, 2004. Injection-molded plastic; variable dimensions, 12 ½ × 10 in.each. Manufactured by Vitra, Birsfelden, Switzerland.
     credit: Exhibition purchase. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Taham and R. Bouroullec and E. Bouroullec
+    alt: Image of Algues installation with many individual, yellow-green colored, seaweed-like components attached together at multiple points. The resulting screen looks like organically branching structures. 
 
   - id: exrr-2023-78-2
     src: figures/EXACC_2023_78~2_FPO.jpg
     caption: Ronan Bouroullec and Erwan Bouroullec, Algues, 2004. Injection-molded plastic; variable dimensions, 12 ½ × 10 in.each. Manufactured by Vitra, Birsfelden, Switzerland.
     credit: Exhibition purchase. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Taham and R. Bouroullec and E. Bouroullec
+    alt: A singular algae component from the larger Algues artwork. Yellow-green plastic branching out in different directions like the branches of a tree. 
 
   - id: exrr-2022-264
     src: figures/EXRR_2022_264.jpg
     caption: Greg Lynn, Flatware Prototype Sketch, 2003-2005. Ink on paper; 9 × 11 in. 
     credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
+    alt: "Black ink sketch of flatware. From left to right: a “matrix” sketch of several pieces of overlapping utensils, a “table fork,” a “soup spoon,” a “mocha spoon,” and a “salad fork.” The bottom lefthand corner reads: “Alessi Webbed Flatware, 7 September 2003.”"
 
   - id: exrr-2022-265
     src: figures/EXRR_2022_265.jpg
     caption: Greg Lynn, Flatware Prototype Sketch, 2003-2005. Ink on paper; 9 × 11 in.
     credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
+    alt: "Black ink sketch of four pieces of flatware. From left to right: a “table knife,” a “serving” utensil, a “ladle,” and a “cake spatula.” The bottom righthand corner reads: “Alessi Webbed Flatware, 7 September 2003.”"
 
   - id: exrr-2023-31-1
     src: figures/EXRR_2023_31_1.jpg
     caption: Studio Gang, Populus, Denver, Colorado, Digital Rendering, 2020.
     credit: © Studio Gang
+    alt: Digital rendering of a white building with architecture inspired by the Aspen tree. It is between two one-way streets, with cars going in different directions
 
   - id: exrr-2023-31-2
     src: figures/EXRR_2023_31_2.jpg
     caption: Studio Gang, Populus, Denver, Colorado, Digital Rendering, 2020.
     credit: © Studio Gang
+    alt: A street-view, digital rendering of the lower half of a white building with an exterior that looks like dozens of Aspen tree trunks aligned tightly and vertically. There are three green trees at the base of the building, and people milling about on the sidewalk. 
 
   - id: exrr-2023-31-3
     src: figures/EXRR_2023_31_3.jpg
     caption: Studio Gang, Populus, Denver, Colorado, Digital Rendering, 2020.
     credit: © Studio Gang
+    alt: "Architectural plan of the side of the Populus building showing elevations and window modules. At the top, details of the “Micro-Unit Grand Window,” “Micro-Unit Seat Window,” “Micro-Unit Lounge Window,” Ground Floor Storefront,” and “Rooftop Lounge.”"
 
   - id: exrr-2023-31-4
     src: figures/EXRR_2023_31_4.jpg
     caption: Studio Gang, Populus, Denver, Colorado, Digital Rendering, 2020.
     credit: © Studio Gang
+    alt: Digital rendering of the Populus hotel, situating it to Downtown, the Rocky Mountains, and the State Capital and Civic Center Park.
 
   - id: exrr-2023-31-5
     src: figures/EXRR_2023_31_5.jpg
     caption: Studio Gang, Populus, Denver, Colorado, Digital Rendering, 2020.
     credit: © Studio Gang
+    alt: "diagram of the Populus building. It highlights VIEWS: Aspen Eye and Roof Terrace; ENERGY: Efficient Mechanical Systems, Concrete Structure, High Performance Envelope; URBAN AMENITIES: Café, Bike Share Stations, Bike Lanes, No On-Site Parking; and SOCIAL CONNECTIVITY: Urban Living Room, and Local Food.""
 
   - id: exrr-2023-31-6
     src: figures/EXRR_2023_31_6.jpg
     caption: Studio Gang, Populus, Denver, Colorado, Digital Rendering, 2020.
     credit: © Studio Gang
+    alt: A picture of aspen trees with drawings of their eyes broken down by height, direction, width, and scale.
 
   - id: exrr-2023-32
     src: figures/EXRR_2023_32.jpg
     caption: Joris Laarman, drawings for Microstructures Adaptation Chair (Long Cell) Prototype, year. Digital drawings.
     credit: Courtesy of the artist and Friedman Benda.
+    alt: Digital process rendering sketch.
 
   - id: exrr-2023-33
     src: figures/EXRR_2023_33.jpg
     caption: Joris Laarman, drawings for Microstructures Adaptation Chair (Long Cell) Prototype, year. Digital drawings. 
     credit: Courtesy of the artist and Friedman Benda.
+    alt: Digital process rendering sketch. Side view.
 
   - id: exrr-2023-43-1
     src: figures/EXRR_2023_43_1.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
     credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    alt: Aerial color photograph of the Metropol Parasol in Seville, Spain. The giant latticed timber canopy is surrounded by the red tiled roofed buildings of the city.
 
   - id: exrr-2023-43-2
     src: figures/EXRR_2023_43_2.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
     credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    alt: Color photograph of the plaza underneath the Metropol Parasol in Seville, Spain. Light shines through the latticed roof casting a checker-like pattern on the ground. Dozens of people mill about. 
 
   - id: exrr-2023-43-3
     src: figures/EXRR_2023_43_2_BW.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
     credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    alt: Black-and-white photograph of the plaza underneath the Metropol Parasol in Seville, Spain. Light shines through the latticed roof casting a checker-like pattern on the ground. Dozens of people mill about. 
 
   - id: exrr-2023-43-4
     src: figures/EXRR_2023_85_1.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
     credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    alt: Color photograph taken underneath the Metropol Parasol in Seville, Spain, featuring a column and part of the latticed roof. Sunshine comes through the lattices and casts rectangles of light on the column and the ground.
 
   - id: exrr-2023-43-5
     src: figures/EXRR_2023_85_2.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
     credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    alt: Color photograph taken underneath the Metropol Parasol in Seville, Spain, featuring a column and part of the latticed roof. Sunshine comes through the lattices and casts rectangles of light on the column and the ground.
 
   - id: exrr-2023-43-6
     src: figures/EXRR_2023_86_BW.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
     credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    alt: Black-and-white photograph taken underneath the Metropol Parasol in Seville, Spain, featuring a column and part of the latticed roof. Sunshine comes through the lattices and casts rectangles of light on the column and the ground.
 
   - id: exrr-2023-43-7
     src: figures/EXRR_2023_86.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
     credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    alt: Color photograph taken underneath the Metropol Parasol in Seville, Spain, featuring a column and part of the latticed roof. Sunshine comes through the lattices and casts rectangles of light on the column and the ground.
 
   - id: exrr-2023-43-8
     src: figures/PTL-24370~3.jpg
@@ -207,145 +247,174 @@ figure_list:
     src: figures/EXRR_2023_91_1.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
 
   - id: exrr-2023-91-2
     src: figures/EXRR_2023_91_2.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: A large clay sphere with cracks running like veins over the surface. 
 
   - id: exrr-2023-91-3
     src: figures/EXRR_2023_91_3.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: View of interior of Clay Houses. Empty room with a lofted ceiling that comes to a point. The light brown walls look like cracked clay. 
 
   - id: exrr-2023-91-4
     src: figures/EXRR_2023_91_4.jpg
     caption: Andy Goldsworthy, Clay Houses (Boulder-Room-Holes), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m.
     credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    alt: Close-up image of a wall from Clay Houses that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
 
   - id: exrr-2023-92
     src: figures/EXRR_2023_92.jpg
     caption: DRIFT, Shylight, 2006. Aluminum, polished stainless steel, silk, LEDs, robotics.
     credit: NYCB Art Series 2023. ©  DRIFT, represented by Pace Gallery. Photo by Andy Romer, courtesy of NYCB.
+    alt: Color photograph of Shylight displayed in a gallery. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
 
   - id: exrr-2023-93
     src: figures/EXRR_2023_93_FPO.jpg
     caption: DRIFT, Shylight, 2006. Aluminum, polished stainless steel, silk, LEDs, robotics. 
     credit: © DRIFT, represented by Pace Gallery.
+    alt: Side view of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
 
   - id: exrr-2023-95
     src: figures/EXRR_2023_95_1.jpg
     caption: Osorno Volcano, Chile.
     credit: © Gt2P Spa.
+    alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
 
   - id: exrr-2023-95-2
     src: figures/EXRR_2023_95~2.jpg
     caption: Osorno Volcano, Chile.
+    alt: A vertical photograph of the rocky landscape around the Osorno Volcano. Dark gray rocks fill the bottom two-thirds of the composition. A line of green trees in front of the Andes Mountains and a bright blue sky with white clouds at the top.
 
   - id: exrr-2023-101
     src: figures/EXRR_2023_101.jpg
     caption: Aspen Grove.
     credit: Photo by Peng Chen on Unsplash, 2017. 
+    alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
 
   - id: exrr-2023-102
     src: figures/EXRR_2023_102.jpg
     caption: Aspen Grove.
     credit: Photo by Patrick Hendry on Unsplash, 2017. 
+    alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. 
 
   - id: exrr-2023-103-1
     src: figures/EXRR_2023_103_1.jpg
     caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2021.
     credit: Courtesy of the artists. © MAD Architects. Photography by CreatAR Images
+    alt: Color photo of the Nanjing Zendai Himalayas Center. Towering buildings with articulated white ridges soar above smaller scale buildings and connecting pathways and green spaces in a city center. 
 
   - id: exrr-2023-103-2
     src: figures/EXRR_2023_103_2.jpg
     caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2021.
     credit: Courtesy of the artists. © MAD Architects. Photography by CreatAR Images
+    alt: View of Nanjing Zendai Himalayas Center from high above. A grid of three horizontal by two vertical city blocks. Surrounded by wide streets and other city buildings. 
 
   - id: exrr-2023-103-3
     src: figures/EXRR_2023_103_3.jpg
     caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2021.
     credit: Courtesy of the artists. © MAD Architects. Photography by CreatAR Images
+    alt: Aerial view at dusk of Nanjing Zendai Himalayas Center. The center is brightly lit and surrounded by the rest of the city; a major road, and a river to the left. Soft gray clouds in the orange sky at the top of the frame.
 
   - id: exrr-2023-104
     src: figures/EXRR_2023_104.jpg
     caption: Wildflowers in the Gore Range, Colorado.
     credit: iStock.com/Adventure_Photo 
+    alt: Color photograph of wildflowers in the Colorado mountains. In the foreground, the mountain slopes downward from left to right. Hundreds of colorful flowers in orange, purple, red, and yellow, all with green leaves, cover the mountainside. Pine trees and mountain peaks in the background. 
 
   - id: exrr-2023-111
     src: figures/EXRR_2023_111.jpg
     caption: Jason DeMarte, Arcadia, 2021. Pigmented ink print; variable dimensions.
     credit: Courtesy of RULE Gallery, Denver. © Jason DeMarte 
+    alt: Mossy vines stretch vertically against a dusky jungle background. They are dotted with green and purple hummingbirds, orange and red berries, different shapes of green leaves, large purple passion flowers, purple and orange butterflies, and ripening fruit.
 
   - id: exrr-2023-137
     src: figures/EXRR_2023_137.jpg
     caption: Alexandra Kehayoglou, Santa Cruz River, 2017. Wool; 382 7/8 × 165 3/8 in.
     credit: "National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photo: National Gallery of Victoria, Melbourne"
+    alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
   - id: ptl-24369
     src: figures/PTL-24369_1-5.jpg
     caption: Greg Lynn, Flatware Set, 2007. Sterling silver; variable dimensions.
     credit: The Art Institute of Chicago, Celia and David Hilliard Fund; purchased with funds provided by the Architecture & Design Society, 2007.646.1-5. © Greg Lynn FORM. Art Institute of Chicago/Art Resource, NY
+    alt: A five-piece, silver, botanical-themed flatware set with two types of forks, two types of spoons, and one knife. The base of each piece is bulbous with vertical lines going up the handle, reminiscent of a seed.
 
   - id: ptl-24375-1
     src: figures/PTL-24375_FPO.jpg
     caption: Andreea Avram Rusu, Botanica Chandelier, 2023. Glass, brass, steel, leather, and LED; 135 × 56 × 33 in.
     credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    alt: A chandelier with light green, light yellow, and light purple features.
 
   - id: ptl-24375-2
     src: figures/PTL-24375~2_FPO.jpg
     caption: Andreea Avram Rusu, Botanica Chandelier, 2023. Glass, brass, steel, leather, and LED; 135 × 56 × 33 in.
     credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    alt: A diagram of the Botanica Chandelier.
 
   - id: ptl-24455
     src: figures/PTL-24455.jpg
     caption: threeASFOUR, Autumn Leaf Suit, Human Plant Collection, Spring/Summer 2020, Look 6. Digitally printed cotton voile and broadcloth.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    alt: Front view of a model walking down the runway wearing a three-piece suit with a light-brown, autumn leaf print.
 
   - id: ptl-24456
     src: figures/PTL-24456.jpg
     caption: threeASFOUR, Eve Dress, Human Plant Collection, Spring/Summer 2020, Look 19. Laser-cut backed brown cork.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    alt: Front view of a model walking down the runway wearing a short, brown dress. The fabric is laser cut in the shape of leaves.
 
   - id: ptl-24457
     src: figures/PTL-24457.jpg
     caption: threeASFOUR, Lily Dress, Human Plant Collection, Spring/Summer 2020, Look 25. Hand-pleated organdy and cotton binding.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    alt: Front view of a model walking down the runway wearing a short, ivory colored dress. The dress is circular with the bottom of the circle mid-thigh and the top covering the bottom half of the model’s face. Large pleats radiate around the dress like a folding fan.
 
   - id: ptl-24649-1
     src: figures/PTL-24649~1_FPO.jpg
     caption: Andrés Reisinger, Hortensia Armchair, 2018. Molded foam, metal frame, and laser-cut upholstery; 30 × 42 × 37 1/2 in.
     credit: Textile design by Júlia Esqué. Courtesy of Reisinger Studio.
-
+    alt: A wide armchair with short, squat legs, and a deeply indented seat. It is upholstered with light, soft-pink polyester petals. 
+    
   - id: ptl-24649-2
     src: figures/PTL-24649~2_FPO.jpg
     caption: Andrés Reisinger, Hortensia Armchair, 2018. Molded foam, metal frame, and laser-cut upholstery; 30 × 42 × 37 1/2 in. 
     credit: Textile design by Júlia Esqué. Courtesy of Reisinger Studio.
+    alt: A close-up, color photo of the polyester petals of Hortensia Armchair. The pastel-pink petals form a plush, carpet-like texture.
 
   - id: ptl-24650-59-63-64
     src: figures/PTL-24650-59_PTL-26463-64_FPO.jpg
     caption: David Valner, Fungus Vases and Polypore Bowl, 2018–2023. Handcrafted glass; variable dimensions.
     credit: © and courtesy of the artist.
+    alt: Eleven vases and one bowl inspired by the different shapes of mushrooms in different colors, including orange, pink, turquoise, lavender, dark green, and brown.
 
   - id: ptl-24660-1
     src: figures/PTL-24660~1.jpg
     caption: Fredrikson Stallard, Species 1, 2021. Polyurethane, rubber, fiberglass, and polyester; 36 × 98 × 59 in.
     credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Images courtesy David Gill Gallery. Photo by Alejandro Olaya Torres
+    alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
 
   - id: ptl-24660-2
     src: figures/PTL-24660~2.jpg
     caption: Fredrikson Stallard, Species 1, 2021. Polyurethane, rubber, fiberglass, and polyester; 36 × 98 × 59 in.
     credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Images courtesy David Gill Gallery. Photo by Alejandro Olaya Torres
+    alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
 
   - id: ptl-24660-3
     src: figures/PTL-24660~3.jpg
     caption: Fredrikson Stallard, Species 1, 2021. Polyurethane, rubber, fiberglass, and polyester; 36 × 98 × 59 in.
     credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Images courtesy David Gill Gallery. Photo by Alejandro Olaya Torres
+    alt: A detail of a deep red sofa that looks as if it is a mountainous rock formation. 
 
   - id: ptl-24661-1
     src: figures/PTL-24661~1.jpg
     caption: "Fredrikson Stallard, Rock #22, 2022. Polyurethane, pigment, and steel; 21 × 15 × 7 in."
     credit: Courtesy of the artists. Artwork and image  © and courtesy Fredrikson Stallard
+    alt: A bright, Kelly-green colored, rock-shaped sculptural object. It is loosely in the shape of an inverted triangle, smaller at the bottom and wider at the top. The top surface slopes upward from left to right. It is supported by a dark gray mount.
 
   - id: ptl-24661-2
     src: figures/PTL-24661~2.jpg
@@ -356,171 +425,205 @@ figure_list:
     src: figures/PTL-24663.jpg
     caption: "Álvaro Catalán de Ocón, Plastic River No. 6: Ganges, 2022. Hand-tufted recycled plastic PET (polyethylene terephthalate); 118 × 158 in. Manufactured by GAN, Valencia, Spain."
     credit: Courtesy of GAN by Gandia Blasco Group. 
+    alt: Topographic and precisely scaled map of a region of the Ganges River. From a bright blue tuft at the bottom-right of the rug, the river flows horizontally through the center of the piece with many tributaries, surrounded by a deep forest green. The top is a mixture of grays and whites. The bottom left corner is made of browns and greens.
 
   - id: ptl-24672
     src: figures/PTL-24672.jpg
     caption: PELLE, Nana Lure Chandelier, 2021. Painted cast cotton paper, patinated steel, and LEDs; 96 × 82 in. diam.
     credit: Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image courtesy of PELLE.
+    alt: A chandelier with six large leaves radiating out from the center. The centers of the leaves are green, gradually turning a brownish red around the edges. The warm glow of light emanates from under each leaf.
 
   - id: ptl-24698-1
     src: figures/PTL-24698~1.jpg
     caption: Mathieu Lehanneur, Ocean Memories (Circular Low Table Black XL), 2017. Nero Marquina marble; 15 3/4 × 43 1/4 in. diam.
     credit: Courtesy of the designer. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
 
   - id: ptl-24698-2
     src: figures/PTL-24698~2.jpg
     caption: Mathieu Lehanneur, Ocean Memories (Circular Low Table Black XL), 2017. Nero Marquina marble; 15 3/4 × 43 1/4 in. diam.
     credit: Courtesy of the designer. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
 
   - id: ptl-24698-3
     src: figures/PTL-24698~3.jpg
     caption: Mathieu Lehanneur, Ocean Memories (Circular Low Table Black XL), 2017. Nero Marquina marble; 15 3/4 × 43 1/4 in. diam.
     credit: Courtesy of the designer. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Eight sculptures of various shapes and sizes in a gallery, all with surfaces that are half smooth and half with the relief of gently rolling waves.
 
   - id: ptl-24698-4
     src: figures/PTL-24698~4.jpg
     caption: Mathieu Lehanneur, Ocean Memories (Circular Low Table Black XL), 2017. Nero Marquina marble; 15 3/4 × 43 1/4 in. diam.
     credit: Courtesy of the designer. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: A detail of the half of the surface that looks like gently rolling waves.
 
   - id: ptl-24699-1
     src: figures/PTL-24699~1.jpg
     caption: Mathieu Lehanneur, Demain est un Autre Jour (Tomorrow is Another Day), 2011. Digital weather station; 10 × 37 1/8 in. diam.
     credit: Courtesy of the artist. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Image of Tomorrow is Another Day, which looks like an airplane window with a bright blue sky and two clouds. In the lower righthand corner, the back of a person’s head and shoulders as they look at the artwork.
 
   - id: ptl-24699-2
     src: figures/PTL-24699~2.jpg
     caption: Mathieu Lehanneur, Demain est un Autre Jour (Tomorrow is Another Day), 2011. Digital weather station; 10 × 37 1/8 in. diam.
     credit: Courtesy of the artist. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
 
   - id: ptl-24699-3
     src: figures/PTL-24699~3.jpg
     caption: Mathieu Lehanneur, Demain est un Autre Jour (Tomorrow is Another Day), 2011. Digital weather station; 10 × 37 1/8 in. diam.
     credit: Courtesy of the artist. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
 
   - id: ptl-24699-4
     src: figures/PTL-24699~4.jpg
     caption: Mathieu Lehanneur, Demain est un Autre Jour (Tomorrow is Another Day), 2011. Digital weather station; 10 × 37 1/8 in. diam.
     credit: Courtesy of the artist. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud. The artwork is a bright spot in an otherwise sparse and dimmed setting. On the left-hand side, a person stands with their back to the viewer, looking at the artwork. 
 
   - id: ptl-24699-5
     src: figures/PTL-24699~5.jpg
     caption: Mathieu Lehanneur, Demain est un Autre Jour (Tomorrow is Another Day), 2011. Digital weather station; 10 × 37 1/8 in. diam.
     credit: Courtesy of the artist. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud.
 
   - id: ptl-24699-6
     src: figures/PTL-24699~6.jpg
     caption: Mathieu Lehanneur, Demain est un Autre Jour (Tomorrow is Another Day), 2011. Digital weather station; 10 × 37 1/8 in. diam.
     credit: Courtesy of the artist. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Close-up of the screen from Tomorrow is Another Day and gauzy white clouds set against a blue sky.
 
   - id: ptl-24700
     src: figures/PTL-24700.jpg
     caption: Mathieu Lehanneur, Permanent Flame, [date?]. Polished bronze; 17 3/4 × 14 1/2 × 21 1/4 in.
     credit: Courtesy of the artist. © Mathieu Lehanneur Image © Leandro Viana, courtesy of Mathieu Lehanneur.
+    alt: A shiny, metallic gold bronze resembling the dynamic flames of a flickering fire.
 
   - id: ptl-24701-1
     src: figures/PTL-24701~1.jpg
     caption: Mathieu Lehanneur, 50 Seas, 2018. Enameled faience; 19 5/8 in. diam. each.
     credit: Courtesy of the artist. © Mathieu Lehanneur
+    alt: Installation photo of 50 Seas, a series of circular, textured enamel, plate-like works, all in different shades of the sea, from light blue to dark blue.
 
   - id: ptl-24701-2
     src: figures/PTL-24701~2.jpg
     caption: Mathieu Lehanneur, 50 Seas, 2018. Enameled faience; 19 5/8 in. diam. each.
     credit: Courtesy of the artist. © Mathieu Lehanneur
+    alt: Installation photo of 50 Seas, a series of circular, textured enamel, plate-like works, all in different shades of the sea, from light blue to dark blue.
 
   - id: ptl-24701-3
     src: figures/PTL-24701~3.jpg
     caption: Mathieu Lehanneur, 50 Seas, 2018. Enameled faience; 19 5/8 in. diam. each.
     credit: Courtesy of the artist. © Mathieu Lehanneur
+    alt: Two examples of circular, blue elements from 50 Seas.
 
   - id: ptl-24701-4
     src: figures/PTL-24701~4.jpg
     caption: Mathieu Lehanneur, 50 Seas, 2018. Enameled faience; 19 5/8 in. diam. each.
     credit: Courtesy of the artist. © Mathieu Lehanneur
+    alt: One example of circular, blue elements from 50 Seas.
 
   - id: ptl-24704
     src: figures/PTL-24704_FPO.jpg
     caption: Humberto Campana and Fernando Campana, Bulbo, 2019. Fabric and leather; 59 × 47 × 48 in. Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
     credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana
+    alt: A bright red chair shaped like a flower bulb – round at the bottom, tapering to a point at the top. It is made of overlapping layers of long, oval-shaped leather and fabric petals.
 
   - id: ptl-24705
     src: figures/PTL-24705.jpg
     caption: J. Mayer H., Metropol Parasol, Seville, Spain, 2004-11. Drawings, 2007. Graphite pencil on paper; 22 × 15 3/4 in. each. Drawings by Jürgen Mayer H.
     credit: Private collection, Berlin, Germany. © J.Mayer.H
+    alt: A sketch of the Metropol Parasol in graphite pencil spanning two pieces of vertically oriented paper. 
 
   - id: ptl-24706-1
     src: figures/PTL-24706.jpg
     caption: DRIFT, Meadow, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics. © 2023 DRIFT.
     credit: Represented by Pace Gallery. Photo by Oriol Tarridas, courtesy Superblue Miami. 
+    alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights.
 
   - id: ptl-24706-2
     src: figures/PTL-24706~2.jpg
     caption: DRIFT, Meadow, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics. © 2023 DRIFT.
     credit: Represented by Pace Gallery. Photo by Oriol Tarridas, courtesy Superblue Miami. 
+    alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
 
   - id: ptl-24710-1
     src: figures/PTL-24710~1.jpg
     caption: Nacho Carbonell, One-seater Concrete Tree, 2022. Metal mesh, cork, steel, concrete, and light fittings; 139 3/4 × 74 3/4 × 112 1/4 in.
     credit: © Nacho Carbonell. Photo by Ronald Smiths, Courtesy of Carpenters Workshop Gallery.
+    alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
 
   - id: ptl-24710-2
     src: figures/PTL-24710~2.jpg
     caption: Nacho Carbonell, One-seater Concrete Tree, 2022. Metal mesh, cork, steel, concrete, and light fittings; 139 3/4 × 74 3/4 × 112 1/4 in.
     credit: © Nacho Carbonell. Photo by Ronald Smiths, Courtesy of Carpenters Workshop Gallery.
+    alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
 
   - id: ptl-24721-1
     src: figures/PTL-24721~1.jpg
     caption: Iris van Herpen, Diatom Gown, Sensory Seas Collection, Spring/Summer 2020.
     credit: © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen Atelier.
+    alt: Front view of a model wearing a floor-length dress with long sleeves that completely cover their arms. The drapey material has an aquatic print in seafoam green, black, blue, and purple.
 
   - id: ptl-24735
     src: figures/PTL-24735.jpg
     caption: Andreea Avram Rusu, Botanica Chandelier, 2023. Glass, brass, steel, leather, and LED; 135 × 56 × 33 in.
     credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    alt: A chandelier with orange, black, and green tones of blown glass light fixtures hanging from leather stems, inspired by banana flowers and the botanical gardens of Lisbon.
 
   - id: ptl-24736-1
     src: figures/PTL-24736.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-2
     src: figures/PTL-24736~1.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: View from top of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-3
     src: figures/PTL-24736~2.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: View from top of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-4
     src: figures/PTL-24736~3.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: Detail of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-5
     src: figures/PTL-24736~4.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: Detail of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-6
     src: figures/PTL-24736~5.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: Detail of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-7
     src: figures/PTL-24736~6.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-8
     src: figures/PTL-24736~7.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-9
     src: figures/PTL-24736~8.jpg
     caption: Marc Fish, Ethereal Double Console, 2022. Sycamore veneers and resin; 39 3/8 × 110 1/4 × 15 3/4 in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-10
     src: figures/PTL-24736~9.jpg
@@ -531,128 +634,154 @@ figure_list:
     src: figures/PTL-25093.jpg
     caption: Zaha Hadid, Tau Vase, 2015. Bardiglio Nuvolato marble; 7 7/8 × 13 3/8 in. Manufactured by Citco, Rivoli Veronese, Italy.
     credit: Courtesy of CITCO USA CORP. 
+    alt: A gray marble vase that is squatly shaped and resembles a flower bud.
 
   - id: ptl-25094
     src: figures/PTL-25094.jpg
     caption: Zaha Hadid, Tau Vase, 2015. Statuario marble; 7 7/8 × 17 in. diam. Manufactured by Citco, Rivoli Veronese, Italy.
     credit: Courtesy of CITCO USA CORP. 
+    alt: A white marble vase that is squatly shaped and resembles a flower bud.
 
   - id: ptl-25095
     src: figures/PTL-25095.jpg
     caption: Zaha Hadid, Tau Vase, 2015. Bianco Covelano Bluette marble; 13 3/8 × 15 3/4 in. diam. Manufactured by Citco, Rivoli Veronese, Italy.
     credit: Courtesy of CITCO USA CORP. 
+    alt: A light gray marble vase that resembles a flower bud.
 
   - id: ptl-25096
     src: figures/PTL-25096.jpg
     caption: Zaha Hadid, Tau Vase, 2015. Bianco Carrara marble; 18 7/8 × 15 3/4 in. diam. Manufactured by Citco, Rivoli Veronese, Italy.
     credit: Courtesy of CITCO USA CORP. 
+    alt: A light gray marble vase that resembles a flower bud.
 
   - id: ptl-25097
     src: figures/PTL-25097.jpg
     caption: Zaha Hadid, Tau Vase, 2015. Bardiglio Nuvolato marble; 29 1/8 × 19 5/8 in. diam. Manufactured by Citco, Rivoli Veronese, Italy.
     credit: Courtesy of CITCO USA CORP. 
+    alt: A tall, dark gray marble vase that resembles a flower bud
 
   - id: ptl-25107-1
     src: figures/PTL-25107~1.jpg
     caption: Iris van Herpen, Dress, Syntopia Collection, Autumn/Winter 2018. [materials tbd].
     credit: CREDIT LINE TBC © Iris van Herpen. Image courtesy of Iris van Herpen Atelier.
+    alt: Front view of a model walking down a runway wearing an asymmetrical, one shouldered, short sleeved dress that hits mid-thigh. Horizontally, the dress has alternating lines of moss green and sheer material. Thin, white zig-zagged lines run vertically from top to bottom.
 
   - id: ptl-25107-2
     src: figures/PTL-25107~2.jpg
     caption: Iris van Herpen, Dress, Syntopia Collection, Autumn/Winter 2018. [materials tbd].
     credit: CREDIT LINE TBC © Iris van Herpen. Image courtesy of Iris van Herpen Atelier.
+    alt: Rear view of a model walking down a runway wearing an asymmetrical, one shouldered, short sleeved dress that hits mid-thigh. Horizontally, the dress has alternating lines of moss green and sheer material. Thin, white zig-zagged lines run vertically from top to bottom.
 
   - id: ptl-25721-1
     src: figures/PTL-25721.jpg
     caption: Brad Miller, Plate, 2019-2023. Unglazed porcelain, 3 1/2 × 14 in. diam.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: A circular white plate with a concave, cratered surface. 
 
   - id: ptl-25721-2
     src: figures/PTL-25721~2.jpg
     caption: Brad Miller, Plate, 2019-2023. Unglazed porcelain, 3 1/2 × 14 in. diam.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: A circular white plate with a concave, cratered surface. 
 
   - id: ptl-25722-1
     src: figures/PTL-25722.jpg
     caption: Brad Miller, Plate, 2019-2023. Stoneware, 3 × 13 in. diam.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena  
+    alt: A circular plate with black, oval shaped craters set against a stone white background. The ovals spiral in a clockwise pattern. 
 
   - id: ptl-25722-2
     src: figures/PTL-25722~2.jpg
     caption: Brad Miller, Plate, 2019-2023. Stoneware, 3 × 13 in. diam.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena  
+    alt: A circular plate with black, oval shaped craters set against a stone white background. The ovals spiral in a clockwise pattern. 
 
   - id: ptl-25723-1
     src: figures/PTL-25723.jpg
     caption: Brad Miller, Vessel, 2019-2023. Glazed stoneware, 19 × 15 in. diam.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: A shiny, dark gray ceramic vessel. It is smaller at the bottom and slightly larger at the top, like a corn kernel. The surface is sprinkled with deep indentations that look like fingerprints, as well as protrusions that look like long fingernails. 
 
   - id: ptl-25723-2
     src: figures/PTL-25723~2.jpg
     caption: Brad Miller, Vessel, 2019-2023. Glazed stoneware, 19 × 15 in. diam.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: Detail of a shiny, dark gray ceramic vessel. The surface is sprinkled with deep indentations that look like fingerprints, as well as protrusions that look like long fingernails. 
 
   - id: ptl-25723-3
     src: figures/PTL-25723~3.jpg
     caption: Brad Miller, Vessel, 2019-2023. Glazed stoneware, 19 × 15 in. diam.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: A shiny, dark gray ceramic vessel. It is smaller at the bottom and slightly larger at the top, like a corn kernel. The surface is sprinkled with deep indentations that look like fingerprints, as well as protrusions that look like long fingernails. 
 
   - id: ptl-25724-1
     src: figures/PTL-25724.jpg
     caption: Brad Miller, Vessel, 2019-2023. Glazed stoneware, 13 × 17 × 18 in.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: A squat, gray vessel that is smaller at the base and wider at the top. It has an all over texture like fingers of coral growing upward and ending with rounded ridges along the rim of the opening.
 
   - id: ptl-25724-2
     src: figures/PTL-25724~2.jpg
     caption: Brad Miller, Vessel, 2019-2023. Glazed stoneware, 13 × 17 × 18 in.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: Detail of a squat, gray vessel. It has an all over texture like fingers of coral growing upward and ending with rounded ridges along the rim of the opening.
 
   - id: ptl-25724-3
     src: figures/PTL-25724~3.jpg
     caption: Brad Miller, Vessel, 2019-2023. Glazed stoneware, 13 × 17 × 18 in.
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    alt: A squat, gray vessel that is smaller at the base and wider at the top. It has an all over texture like fingers of coral growing upward and ending with rounded ridges along the rim of the opening.
 
   - id: ptl-25755-1
     src: figures/PTL-25755~1.jpg
     caption: teamLab, Flowers and People – A Whole Year per Hour, 2020. Interactive Digital Work, 6 channels, endless.
     credit: "Sound: Hideaki Takahashi. © teamLab, courtesy Pace Gallery"
+    alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
   - id: ptl-25755-2
     src: figures/PTL-25755~2.jpg
     caption: teamLab, Flowers and People – A Whole Year per Hour, 2020. Interactive Digital Work, 6 channels, endless.
     credit: "Sound: Hideaki Takahashi. © teamLab, courtesy Pace Gallery"
+    alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
   - id: ptl-25755-3
     src: figures/PTL-25755~3.jpg
     caption: teamLab, Flowers and People – A Whole Year per Hour, 2020. Interactive Digital Work, 6 channels, endless.
     credit: "Sound: Hideaki Takahashi. © teamLab, courtesy Pace Gallery"
+    alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
   - id: ptl-26101
     src: figures/PTL-26101.jpg
     caption: Simon Heijdens, Lightweeds, 2005-ongoing. Self-developed software; variable dimensions.
     credit: © Simon Heijdens
+    alt: Image of digital light projection on the wall of plant life that reacts to visitors as they pass by. The projection is several feet high.
 
   - id: ptl-26114
     src: figures/PTL-26114.jpg
     caption: Sandra Davolio, Coral Flower I, 2023. Porcelain; 16 1/2 × 10 in. diam.
     credit: Courtesy J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
+    alt: A white ceramic vessel shaped like coral, with delicate fringe-like protrusions or pleats of white porcelain. It is smallest at the base, and subtly gets larger, before going back in at the top. 
 
   - id: ptl-26115
     src: figures/PTL-26115.jpg
     caption: Sandra Davolio, Vessel with Blue Edges III, 8 × 8 in. diam.
     credit: Courtesy J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
+    alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain with blue edges.
 
   - id: tl-45469-1
     src: figures/TL-45469~1.jpg
     caption: Elena Manferdini, Wall Flowers (Clover), 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
     credit: Courtesy of and © Elena Manferdini.
+    alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-2
     src: figures/TL-45469~2.jpg
     caption: Elena Manferdini, Wall Flowers (Clover), 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
     credit: Courtesy of and © Elena Manferdini.
+    alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-3
     src: figures/TL-45469~3.jpg
     caption: Elena Manferdini, Wall Flowers (Clover), 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
     credit: Courtesy of and © Elena Manferdini.
+    alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
