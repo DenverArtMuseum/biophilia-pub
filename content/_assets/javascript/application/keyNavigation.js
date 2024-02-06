@@ -16,11 +16,11 @@ var KeyNavigation = {
         //console.log(`jQuery{event.key} jQuery{event.code} jQuery{event.keyCode}`);
         //console.log(event)
 
-        if (event.key === "ArrowLeft") {
+        if( ( event.ctrlKey || event.metaKey ) && event.key === "ArrowLeft" ) {
             var leftarrow = document.querySelector('.quire-navbar-page-controls__item.quire-previous-page > a');
             if( leftarrow ) var url = leftarrow.getAttribute('href');
         }
-        if (event.key === "ArrowRight") {
+        if( ( event.ctrlKey || event.metaKey ) && event.key === "ArrowRight" ) {
             var rightarrow = document.querySelector('.quire-navbar-page-controls__item.quire-next-page > a');
             if( rightarrow ) {
                 var url = rightarrow.getAttribute('href');

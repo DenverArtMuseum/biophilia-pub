@@ -29,8 +29,8 @@ object_list:
     figure:
       - id: "2015-263"
 
-  - id: 2017-89-91
-    artist: gt2P (great things to People)
+  - id: "2017-89-91"
+    artist: "gt2P (great things to People)"
     title: "Remolten N1: Revolution Stools and Aux Table"
     year: 2016–2017
     medium: Stoneware and volcanic lava

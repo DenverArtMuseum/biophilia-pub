@@ -114,6 +114,14 @@ h1 > * {
 }
 .quire:not(.no-js) .quire__primary .quire-navbar {
     background-color: #333333;
+    min-height: 4.375rem;
+}
+.quire-navbar-controls {
+    line-height: 4.375rem;
+    height: 4.375rem;
+}
+.quire-navbar-page-controls__item {
+    max-height: 4.375rem;
 }
 /* .quire:not(.no-js) .quire__secondary {
     top: 0px !important;
@@ -128,8 +136,7 @@ h1 > * {
 .quire-navbar-controls__left {
     display: flex;
     align-self: center;
-    flex: 1 0 3rem;
-    width: 300px;
+    flex: 0 1 16rem;
 }
 .quire-navbar-controls__left .logos {    
     display: flex;
@@ -149,17 +156,18 @@ h1 > * {
 }
 .quire-navbar-controls .quire-navbar-controls__center {
     flex: 0 1 auto;
-    visibility: hidden;
+    /* visibility: hidden; */
 }
+/* 
 .quire-navbar-controls:hover .quire-navbar-controls__center {
     visibility: visible;
-}
+} */
 .quire-navbar-controls__right {
     -webkit-box-flex: 0;
     flex: 0 1 16rem;
     justify-content: center;
     align-items: center;
-    width: 300px;
+    max-width: 300px;
 }
 .quire-navbar-controls__right button {
     width: auto;
@@ -182,17 +190,17 @@ h1 > * {
 }
 
 .quire-navbar-page-controls__item.quire-previous-page {
-    width: 500px;
+    /* width: 500px; */
     text-align: right;
 }
 .quire-navbar-page-controls__item.quire-next-page {
-    width: 500px;
+    /* width: 500px; */
     text-align: left;
 }
 
-.quire-contents-buttons ul {
+/* .quire-contents-buttons ul {
     visibility: hidden;
-}
+} */
 .quire-contents-buttons:hover ul {
     visibility: visible;
 }
@@ -447,11 +455,22 @@ body#page-index .quire-navbar-controls__left {
     display: none;
 }
 
-main.quire-page[data-page-id="page-contributors"] .quire-contributor__bio {
+body#page-contributors .quire-contributor__bio {
     margin-bottom: 1rem;
 }
-main.quire-page[data-page-id="page-contributors"] .media ul {
+body#page-contributors .media ul {
     display: none;
     padding-left: 2rem;
     margin-bottom: 0px !important;
+}
+
+body#page-checklist .quire-page__header,
+body#page-checklist .quire:not(.no-js) .quire__primary main {
+    background-color: --var(--black-olive);
+}
+body#page-checklist .quire-page__header h1 {
+    color: #fff;
+}
+body#page-checklist .quire-contents-list.grid .page-item {
+    background-color: #fff;
 }

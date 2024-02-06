@@ -120,8 +120,7 @@ module.exports = function(eleventyConfig) {
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
             <div class="logos">
-              <img class="dam-logo" src="/_assets/images/DAM-logo-white@2x.png" alt="Denver Art Museum Logo" />
-              <img class="biophilia-logo" src="/_assets/images/biophilia-logo.png" alt="Biophilia Exhibition Logo" />
+              <h1>Biophilia: Nature Reimagined</h1>
             </div>
           </div>
           <div class="quire-navbar-controls__center">

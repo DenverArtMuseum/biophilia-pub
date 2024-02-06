@@ -1,9 +1,8 @@
 ---
 title: Section 1
-layout: table-of-contents
-presentation: grid
+layout: cover
 order: 100
-outputs:
-    - pdf
-    - html
+outputs: none
+menu: true
+toc: true
 ---
