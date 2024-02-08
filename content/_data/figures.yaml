@@ -1,5 +1,15 @@
 figure_list:
 
+  - id: forest-walk-audio
+    media_type: audiofile
+    title: "Kim Ruffin: Guided Forest Walk"
+    audio_src: /figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
+
+  - id: close-knit-audio
+    media_type: audiofile
+    title: Close Knit Flower Sack
+    audio_src: figures/audio/Close_Knit_Flower_Sack_recording.mp3
+
   - id: 2008-163-1
     src: figures/2008_163.jpg
     caption: "Joris Laarman, Bone Armchair (prototype), 2008. Cast marble resin and ground bone china; 29 1/2 × 31 1/2 × 39 1/2 in."

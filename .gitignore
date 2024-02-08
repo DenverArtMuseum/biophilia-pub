@@ -44,3 +44,5 @@ desktop.ini
 thumbs.db
 
 biophilia.code-workspace
+.vscode
+.vscode/*

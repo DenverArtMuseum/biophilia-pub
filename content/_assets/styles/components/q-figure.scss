@@ -226,6 +226,13 @@
       }
     }
 
+    &.audiofile-container {
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: center;
+      align-items: center;
+    }
+
     .q-figure-video-element--embed {
       position: absolute;
       top: 0;

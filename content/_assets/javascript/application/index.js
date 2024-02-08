@@ -16,6 +16,7 @@ import '../../styles/custom.css'
 // Modules (feel free to define your own and import here)
 import './canvas-panel'
 import './soundcloud-api.min.js'
+import './audio.js'
 import { goToFigureState, setUpUIEventHandlers } from './canvas-panel'
 import Accordion from './accordion'
 import Search from '../../../../_plugins/search/search.js'
