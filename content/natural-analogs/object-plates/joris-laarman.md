@@ -1,6 +1,7 @@
 ---
 title: Entry 2
 subtitle: Joris Laarman, *Microstructures Adaptation Chair* *(Long Cell) Prototype*, 2014, and Nervous System, *Floraform Chandelier*, 2017
+short_title: Joris Laarman
 contributor:
     - id: kit-bernal
 layout: entry

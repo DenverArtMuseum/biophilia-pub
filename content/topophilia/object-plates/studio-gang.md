@@ -1,6 +1,7 @@
 ---
 title: Entry 3
 subtitle: "Studio Gang, *Populus*, Denver, Colorado"
+short_title: Studio Gang
 contributor:
     - id: kit-bernal
 layout: entry

@@ -1,6 +1,7 @@
 ---
 title: Entry 1
 subtitle: Drift, *Meadow*, 2017/2023
+short_title: Drift
 contributor:
     - id: kit-bernal
 layout: entry

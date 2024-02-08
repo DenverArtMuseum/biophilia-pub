@@ -1,6 +1,7 @@
 ---
 title: Entry 3
 subtitle: teamLab, *Flowers and People—A Whole Year per Hour*, 2020
+short_title: teamLab
 contributor:
     - id: kit-bernal
 layout: entry

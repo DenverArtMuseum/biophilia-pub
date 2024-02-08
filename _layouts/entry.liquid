@@ -74,12 +74,13 @@ Entry content, including entry image and tombstone data
 
     <section class="section quire-page__content">
       <div class="container">
+        <div class="centered" data-outputs-exclude="epub,pdf">
+          <ul>
+            <li class="button link-to-checklist"><a href="../"><span class="button-title">Return to Checklist</span></a></li>
+          </ul>
+        </div>
         {% pageButtons pagination=pagination %}
       </div>
     </section>
-
-    <footer>
-      <button class="quire-nav-button link-to-checklist"><a href="../">Return to Checklist</a></button>
-    </footer>
   </div>
 </div>

@@ -1,6 +1,7 @@
 ---
 title: Entry 3
 subtitle: "Elena Manferdini, *Wall Flowers: Clover*, 2022"
+short_title: Elena Manferdini
 contributor:
     - id: kit-bernal
 layout: entry

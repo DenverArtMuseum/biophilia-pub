@@ -1,6 +1,7 @@
 ---
 title: Entry 2
 subtitle: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un Autre Jour*), 2011
+short_title: Mathieu Lehanneur
 contributor:
     - id: kit-bernal
 layout: entry

@@ -1,6 +1,7 @@
 ---
 title: Entry 2
 subtitle: Alexandra Kehayoglou, *Pastizal*, 2023
+short_title: Alexandra Kehayoglou
 contributor:
     - id: kit-bernal
 layout: entry

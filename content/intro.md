@@ -6,6 +6,8 @@ contributor:
 layout: splash
 order: 4
 image: 
+classes:
+  - page-one
 ---
 
 <blockquote class="pull-quote">

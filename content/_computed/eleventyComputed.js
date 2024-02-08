@@ -17,6 +17,7 @@ module.exports = {
      * since eleventyNavigation does not include the entire page object
      */
     data: (data) => {
+      data.linked_page = data.linked_page ?? true
       return {
         abstract: data.abstract,
         classes: data.classes,
@@ -30,7 +31,8 @@ module.exports = {
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,
-        title: data.title
+        title: data.title,
+        linked_page: data.linked_page
       }
     },
     key: (data) => data.key,

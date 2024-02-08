@@ -8,7 +8,7 @@ object_display_order:
 
 object_list:
 
-  - id: 2008-163
+  - id: "2008-163"
     artist: Joris Laarman
     title: Bone Armchair (prototype)
     year: 2008
@@ -19,7 +19,7 @@ object_list:
       - id: "2008-163-1"
       - id: "2008-163-2"
 
-  - id: 2015-263
+  - id: "2015-263"
     artist: Joris Laarman
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
@@ -39,7 +39,7 @@ object_list:
     figure:
       - id: "2017-89-91"
   
-  - id: 2022-57
+  - id: "2022-57"
     artist: Nervous System
     title: Floraform Chandelier
     year: 2017
@@ -54,39 +54,39 @@ object_list:
       - id: "2022-57-4"
       - id: "2022-57-5"
   
-  - id: 2022-160
-    artist: Aranda\Lasch and Terrol Dew Johnson
+  - id: "2022-160"
+    artist: Aranda&#92;Lasch and Terrol Dew Johnson
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
     dimensions: 17 × 13 × 10 in.
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-160-1"
       - id: "2022-160-2"
   
-  - id: 2022-161
-    artist: Aranda\Lasch and Terrol Dew Johnson
+  - id: "2022-161"
+    artist: Aranda&#92;Lasch and Terrol Dew Johnson
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
     dimensions: 19 1/2 × 13 × 10 in.
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-161"
 
-  - id: 2022-162
-    artist: Aranda\Lasch and Terrol Dew Johnson
+  - id: "2022-162"
+    artist: Aranda&#92;Lasch and Terrol Dew Johnson
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
     dimensions: 15 × 9 × 9 in.
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-162-1"
       - id: "2022-162-2"
 
-  - id: 2023-6
+  - id: "2023-6"
     artist: Sandra Davolio
     title: Coral Flower IV
     year: 2022
@@ -96,7 +96,7 @@ object_list:
     figure:
       - id: "2023-6"
 
-  - id: 2023-186-92
+  - id: "2023-186-92"
     artist: Front Design
     title: Curve Lamps
     year: 2018-2019

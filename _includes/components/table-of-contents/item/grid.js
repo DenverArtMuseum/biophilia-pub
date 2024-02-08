@@ -95,8 +95,9 @@ module.exports = function (eleventyConfig) {
     }
 
     if (!children) {
+      let page_id = ( page.object && page.object.id ) ? page.object.id : page.url
       mainElement = html`
-        <div class="card ${imageAttribute} ${slugPageAttribute}">
+        <div id="${page_id}" class="card ${imageAttribute} ${slugPageAttribute}">
           ${imageElement}
           <div class="card-content">
             ${mainElement}

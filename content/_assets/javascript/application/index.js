@@ -413,7 +413,7 @@ $('.quire-page__header.hero__image .hero-credit-icon').on("click", function() {
   }
 });
 
-
-if( $('body#page-index').length ) {
-  toggleMenu();
-}
+// Open Menu on load
+// if( $('body#page-index').length ) {
+//   toggleMenu();
+// }
