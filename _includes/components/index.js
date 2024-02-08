@@ -17,6 +17,8 @@ module.exports = {
   copyright: require('./copyright/index.js'),
   copyrightLicensing: require('./copyright/licensing.js'),
   dublinCore: require('./head-tags/dublin-core.js'),
+  figureAudiofile: require('./figure/audiofile'),
+  figureAudiofileElement: require('./figure/audiofile/element'),
   figureCaption: require('./figure/caption'),
   figureImage: require('./figure/image'),
   figureImageElement: require('./figure/image/element'),

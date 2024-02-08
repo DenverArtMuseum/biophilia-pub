@@ -21,6 +21,7 @@ const logger = chalkFactory('shortcodes:figure')
  */
 module.exports = function (eleventyConfig) {
   const figureAudio = eleventyConfig.getFilter('figureAudio')
+  const figureAudiofile = eleventyConfig.getFilter('figureAudiofile')
   const figureImage = eleventyConfig.getFilter('figureImage')
   const figureLabel = eleventyConfig.getFilter('figureLabel')
   const figureModalLink = eleventyConfig.getFilter('figureModalLink')
@@ -48,6 +49,8 @@ module.exports = function (eleventyConfig) {
 
     const component = async (figure) => {
       switch (true) {
+        case mediaType === 'audiofile':
+          return figureAudiofile(figure)
         case mediaType === 'soundcloud':
           return figureAudio(figure)
         case mediaType === 'table':

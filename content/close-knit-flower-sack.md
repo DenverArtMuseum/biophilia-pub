@@ -8,6 +8,8 @@ order: 350
 image:
 ---
 
+{% figure 'close-knit-audio' %}
+
 > Seedless golden tears,
 
 > ferns bound to flesh at off angles,
