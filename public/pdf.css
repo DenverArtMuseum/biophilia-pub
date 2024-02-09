@@ -8928,8 +8928,8 @@ html {
 }
 
 .accordion-section__heading .accordion-section__copy-link-button, .accordion-section__heading:after {
-  font-size: 20px;
-  height: 40px;
+  font-size: 18px;
+  height: 36px;
 }
 .accordion-section__heading-level-1 .accordion-section__copy-link-button, .accordion-section__heading-level-1:after {
   font-size: 2.4em;
@@ -8952,7 +8952,7 @@ html {
   height: 1.75rem;
 }
 .accordion-section__heading-level-6 .accordion-section__copy-link-button, .accordion-section__heading-level-6:after {
-  font-size: 20px;
+  font-size: 18px;
   height: 1.6625rem;
 }
 
@@ -9747,7 +9747,7 @@ html {
 }
 
 html {
-  font-size: 20px;
+  font-size: 18px;
   overflow-y: visible;
 }
 @media print {
@@ -13923,15 +13923,14 @@ body > div.mfp-bg.mfp-ready {
   --gray15: rgba(38, 38, 38, 1);
 }
 
-html {
-  font-size: 100%; /* 16px */
-}
-
-@media screen and (min-width: 108rem) and (orientation: landscape) {
-  html {
-    font-size: 1vw;
-  }
-}
+/* html {
+    font-size: 100%;
+} */
+/* @media screen and (min-width: 108rem) and (orientation: landscape) {
+    html {
+        font-size: 1vw;
+    }
+} */
 /*
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
@@ -14042,9 +14041,10 @@ h1 > * {
   max-height: 4.375rem;
 }
 
-/* .quire:not(.no-js) .quire__secondary {
-    top: 0px !important;
-} */
+.quire:not(.no-js) .quire__secondary {
+  top: 4.375rem;
+}
+
 .quire-navbar a {
   background-color: #333333;
   color: #ffffff !important;
@@ -14151,8 +14151,16 @@ h1 > * {
   color: var(--light-green);
 }
 
+.quire-contents-buttons li.quire-nav-button.prev:hover a {
+  color: #fff;
+}
+
 .quire-contents-buttons li.quire-nav-button.prev svg {
   fill: var(--light-green);
+}
+
+.quire-contents-buttons li.quire-nav-button.prev:hover svg {
+  fill: #fff;
 }
 
 .quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover,
@@ -14160,6 +14168,50 @@ h1 > * {
 .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover,
 .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
   background-color: var(--light-green);
+}
+
+.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  display: inline-block;
+  /* width: 9.25em; */
+  height: 2.9em;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  font-size: 1rem;
+  border: 1px solid rgb(191, 185, 101);
+  color: rgb(191, 185, 101);
+}
+
+.button:hover {
+  background-color: #98923f;
+  border-color: #98923f;
+}
+
+.button:hover a {
+  color: #fff;
+}
+
+.button a {
+  color: var(--light-green);
+  display: inline-block;
+  width: 8.75em;
+  height: 3.25em;
+  margin-top: 0;
+  padding-top: 0.2em;
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+}
+
+.button span.button-title {
+  vertical-align: super;
 }
 
 .quire-menu__header .quire-menu__header__contributors {
@@ -14179,23 +14231,14 @@ h1 > * {
   height: 54px;
 }
 
-/* Contents */
-.table-of-contents .contributor-divider, .table-of-contents .contributor {
-  display: none;
-}
-
-.quire-contents-list .menu-list a .arrow {
-  display: none;
-}
-
 /* Page Layout */
+.quire-page {
+  min-height: calc(100vh - 4.375rem - 2px);
+}
+
 .quire-page--list.quire-contents .section.quire-page__content .container {
   max-width: 1400px;
   width: 1400px;
-}
-
-.quire:not(.no-js) .quire__secondary {
-  top: 48px;
 }
 
 article.quire-page .quire-page__content .container article.quire-page--full-width .quire-page__content .container,
@@ -14408,12 +14451,73 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 }
 
 /* Lightbox / Slides */
-.q-lightbox-slides__element canvas-panel, .q-lightbox-slides__element img, .q-lightbox-slides__element image-service {
+.q-lightbox-slides__element canvas-panel,
+.q-lightbox-slides__element img,
+.q-lightbox-slides__element image-service {
   height: calc(100% - 140px) !important;
 }
 
+/* .side-by-side .q-lightbox-slides__element canvas-panel, 
+.side-by-side .q-lightbox-slides__element img, 
+.side-by-side .q-lightbox-slides__element image-service {
+    height: 100% !important;
+} */
 /* Specific page styles */
-body#page-index .quire-navbar-controls__left {
+/* Contents */
+.table-of-contents .contributor-divider, .table-of-contents .contributor {
+  display: none;
+}
+
+.quire-contents-list .menu-list a .arrow {
+  display: none;
+}
+
+.quire-contents-list .page-item.level-1 ol, .quire-contents-list .section-item.level-1 ol {
+  margin-top: 0.5em;
+}
+
+.quire-contents-list .page-item.level-1, .quire-contents-list .section-item.level-1,
+.quire-contents-list .page-item.level-2, .quire-contents-list .section-item.level-2 {
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+/* Cover */
+body#page-index .quire-cover__hero-body .title {
+  font-size: 3rem;
+  word-spacing: 0.4em;
+  font-weight: bold;
+  letter-spacing: 0.9rem;
+  margin: auto;
+  text-transform: uppercase;
+  -webkit-animation: fadeIn 4s;
+  animation: fadeIn 4s;
+  -webkit-animation-fill-mode: backwards;
+  animation-fill-mode: backwards;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+
+body#page-index .quire-cover__hero-body .title .subtitle {
+  padding-left: 6px;
+  font-size: 2rem;
+  word-spacing: 0.3rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  text-transform: none;
+  -webkit-animation: fadeIn 4s;
+  animation: fadeIn 4s;
+  -webkit-animation-fill-mode: backwards;
+  animation-fill-mode: backwards;
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+}
+
+body#page-index .contributor {
+  display: none;
+}
+
+body#page-index .quire-navbar-controls__left .logos {
   display: none;
 }
 
@@ -14438,4 +14542,17 @@ body#page-checklist .quire-page__header h1 {
 
 body#page-checklist .quire-contents-list.grid .page-item {
   background-color: #fff;
+}
+
+@media screen and (min-width: 700px) {
+  .container {
+    margin: 0 auto;
+    max-width: 840px;
+    width: 840px;
+  }
+  .side-by-side .quire-entry__lightbox {
+    top: 4.375rem;
+    width: calc(56% - 8px);
+    height: calc(100vh - 50px);
+  }
 }

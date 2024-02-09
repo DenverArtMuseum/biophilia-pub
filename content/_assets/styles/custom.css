@@ -95,6 +95,9 @@ body {
 h1 > * {
     display: inherit;
 }
+h1 > em {
+    display: inline;
+}
 .quire-featured .quire-page__header .hero-body .quire-page__header__title {
     color: #333;
 }
