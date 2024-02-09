@@ -20,7 +20,7 @@ Laarman’s shimmering copper *Microstructures Adaptation Chair*, also referred 
 
 {% figuregroup '2', '2022-57-5, 2022-57-4' %}
 
-{% figure 'exrr-2023-89', 'is-pulled-left' %}
+{% figure 'vid-exrr-2023-89' %}
 
 While these objects are influenced by the biosphere, neither would have been possible without advanced technology. Both *Microstructures Adaptation Chair* and *Floraform Chandelier* were developed from complex software and then fabricated with an additive 3-D-printing process. Laarman and Nervous System created unique algorithms based on the differential growth of plants, where certain parts of the cellular structure grow more or differently than others; rather than environmental factors, the designers manipulated the objects’ growth and shape through mathematical inputs. (fig. 5--EXRR.2023.89) Nervous System explained their process: “We consider this work a kind of digital gardening, except instead of growing plants we’re cultivating algorithms.”[^1] Similarly, Laarman describes his *Microstructures Adaptation Chair* as “more like an organism instead of an industrial design.”[^2] The comparable technical processes resulted in very different appearances and functions for these two objects, mirroring the diversity found within the natural world.
 

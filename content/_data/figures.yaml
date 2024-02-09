@@ -10,6 +10,38 @@ figure_list:
     title: Close Knit Flower Sack
     audio_src: figures/audio/Close_Knit_Flower_Sack_recording.mp3
 
+  - id: vid-ptl-24721
+    media_type: vimeo
+    media_id: "911667351"
+
+  - id: vid-exrr-2023-44
+    media_type: vimeo
+    media_id: "911666850"
+
+  - id: vid-exrr-2023-89
+    media_type: vimeo
+    media_id: "911666902"
+
+  - id: vid-exrr-2023-90
+    media_type: vimeo
+    media_id: "911666911"
+
+  - id: vid-exrr-2023-93
+    media_type: vimeo
+    media_id: "911666928"
+
+  - id: vid-exrr-2023-96
+    media_type: vimeo
+    media_id: "911666952"
+
+  - id: vid-exrr-2023-133
+    media_type: vimeo
+    media_id: "911666976"
+
+  - id: vid-exrr-2023-135
+    media_type: vimeo
+    media_id: "911666993"
+
   - id: 2008-163-1
     src: figures/2008_163.jpg
     caption: "Joris Laarman, Bone Armchair (prototype), 2008. Cast marble resin and ground bone china; 29 1/2 × 31 1/2 × 39 1/2 in."

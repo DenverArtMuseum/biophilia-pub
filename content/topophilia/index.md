@@ -30,6 +30,8 @@ The work of Santiago-based design collective gt2P (great things to People) often
 
 After collecting the volcanic stone, gt2P grinds it into a powder, applies it by hand to the surface of stoneware structures, and then fires the objects in a kiln, treating the volcanic powderas a ceramic glaze. Through extensive experimentation, gt2P discovered that the melting points of certain volcanic rock perfectly coincide with the firing temperature of porcelain. This convergence enables the lava to melt as the ceramic hardens within a specific temperature range. By adjusting the firing process at various temperature curves, they control the resulting colors, resistance, and surface texture, yielding an array of unique objects such as planters, side tables, stools, mirrors, and chairs. Each piece showcases distinctive tactile characteristics, ranging from smooth to dripped and rough finishes (fig. 8, **EXRR.2023.96, embedded video TK**).
 
+{% figure 'vid-exrr-2023-96' %}
+
 Imbued with emotion and the spirit of the natural world, artist Alexandra Kehayoglou’s lush and tactile carpets depict the disappearing and decimated ecosystems of her native Argentina. Kehayoglou’s hand-tufted landscapes also draw attention to the beauty and importance of safeguarding her homeland’s fragile ecological resources. “If activism has the task of ringing the alarm, art and design can offer ways to connect us with something beyond. Something more spiritual,” Kehayoglou explains. “We must hold on to hope . . . hope offers a path forward.”[^4]
 
 {% figure 'ptl-24707' %}
@@ -57,7 +59,7 @@ Completed in 2021, the Nanjing Zendai Himalayas Center by Beijing-based MAD Arch
 
 Located in the capital of China’s eastern Jiangsu province, the Nanjing Zendai Himalayas Center is a 138-acre urban development consisting of commercial, hotel, office, and residential spaces (figs. 13a–c). The complex is made up of thirteen mountainous towers intended to evoke a natural landscape. Placed along the edge of the site, the lofty structures are delineated by their vertical white glass fins that flow like waterfalls. The development’s elevated vertical park features meandering pathways that serve as an invitation for people to wander among water features, gardens, and buildings. At the center of the site is a village-like community of low buildings, connected by footbridges and nestled into the landscape. By bringing people up from the busy street level, MAD has created an inviting landscape integrating the different elements (fig. 14 **EXRR.2023.44 embedded video**).
 
-{% figure 'exrr-2023-44' %}
+{% figure 'vid-exrr-2023-44' %}
 
 The Nanjing Zendai Himalayas Center seeks to challenge the prevailing typology of rectangular, homogenous, linear structures that have shaped our urban environment. In describing cities as “steel concrete forests,” Ma suggests that our urban environments fail to match the thriving ecosystem of a forest and argues that a forest requires a state of symbiosis between every organism.”[^9]
 
