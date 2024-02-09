@@ -6,9 +6,9 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
-$content-background-color: null; // main text area background color
-$secondary-background-color: $white; // only for modern theme
+$accent-color: $link-blue;
+$content-background-color: $off-white; // main text area background color
+$secondary-background-color: $off-white; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;

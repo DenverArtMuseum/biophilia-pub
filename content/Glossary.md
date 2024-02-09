@@ -6,6 +6,8 @@ order: 502
 image:
 ---
 
+<div style="text-align:center;"><a href="#affective">A</a> <a href="#biodiversity">B</a> <a href="#climate-change">C</a> <a href="#deep-ecology">D</a> <a href="#ecological-aesthetic-theory">E</a> <a href="#fractal">F</a> <a href="#generative-design">G</a> <a href="#heraclitean-motion">H</a> <a href="#inherent">I</a> J K L <a href="#morphogenesis">M</a> <a href="#nastic-movement">N</a> O <a href="#parametric-design">P</a> Q R <a href="#sociobiology">S</a> <a href="#topography">T</a> U V W X Y Z</div>
+
 ##### Affective {#affective}
 relating to, arising from, or influencing feelings or emotions; expressing emotion
 
