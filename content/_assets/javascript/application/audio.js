@@ -98,6 +98,7 @@
       }
     });
 
+    // TODO: finish this up properly
     /* if Media Session API is available */
     if ('mediaSession' in navigator) {
       this.metadata = new MediaMetadata({

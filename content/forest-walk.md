@@ -8,6 +8,7 @@ order: 150
 image:
 ---
 
+{% figure 'forest-walk-audio' %}
 
 The effects of time in nature on humans’ well-being have been thoroughly and scientifically investigated over the last few decades, with documented results including decreases in cortisol and heart rate. In Japan, people who spent time walking through forests also reported feeling comfortable, soothed, or refreshed afterward.[^1] For certified nature and forest therapy guide Kimberly Ruffin, nature is also an experience of faith, which she defines in this forest walk as “a continuous exchange of belonging.”
 
