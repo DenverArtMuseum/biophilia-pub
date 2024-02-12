@@ -1,9 +1,8 @@
 ---
-title: Entry 1
-subtitle: "Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper Baskets*"
+title: "Aranda&#92;Lasch and Terrol Dew Johnson"
+subtitle: 
 short_title: "Aranda&#92;Lasch and Terrol Dew Johnson"
 contributor:
-    - id: kit-bernal
 layout: entry
 presentation: side-by-side
 object:
@@ -20,8 +19,10 @@ The artistic collaboration between New York– and Tucson-based architecture fir
 
 The baskets in the *Desert Paper* series are more formally recognizable as vessels, but their unique materiality creates unexpected textures and shapes. Formed from paper created out of a slurry of desert matter and natural pulps, the baskets appear delicate and lacey or thin and rigid, with irregular and curling edges. This new approach reflects Aranda&#92;Lasch and Johnson’s shift in focus from basket processes to functions.
 
-Baskets both rely on and facilitate the exchange of knowledge, combining physical and spiritual expressions of utility, tradition, and symbolism. For the *Desert Paper* series, Johnson gathered regionally and culturally significant materials such as yucca, wildflowers, creosote, agave, and stone from the Sonoran Desert around Tucson and Sells, Arizona, the capital of the Tohono O'odham Nation. These components remain visible in the finished baskets: in *Desert Paper 02*, the otherwise pale fibers are flecked with the vibrant pink of globe mallow petals, and in *Desert Paper 09*, the paper surface skims over creosote twigs. (figs. 1 and 2—2022.160.2 and 2022.162.2) To Johnson, the usage of these traditional materials in experimental baskets is a reaffirmation of Tohono O'odham identity. The place and physicality of the Sonoran Desert is fundamentally inseparable from the work, linking the baskets and their weaver to a continuing tradition of Tohono O'odham craft and knowledge sharing and rooting them firmly in a sacred landscape.[^1]
+Baskets both rely on and facilitate the exchange of knowledge, combining physical and spiritual expressions of utility, tradition, and symbolism. For the *Desert Paper* series, Johnson gathered regionally and culturally significant materials such as yucca, wildflowers, creosote, agave, and stone from the Sonoran Desert around Tucson and Sells, Arizona, the capital of the Tohono O'odham Nation. These components remain visible in the finished baskets: in *Desert Paper 02*, the otherwise pale fibers are flecked with the vibrant pink of globe mallow petals, and in *Desert Paper 09*, the paper surface skims over creosote twigs (figs. 1 and 2). To Johnson, the usage of these traditional materials in experimental baskets is a reaffirmation of Tohono O'odham identity. The place and physicality of the Sonoran Desert is fundamentally inseparable from the work, linking the baskets and their weaver to a continuing tradition of Tohono O'odham craft and knowledge sharing and rooting them firmly in a sacred landscape.[^1]
 
 {% figuregroup '2', '2022-160-2, 2022-162-2' %}
+
+<p class="is-aligned-right">Kit Bernal</p>
 
 [^1]: Terrol Dew Johnson and Kimi Eisele, “What a Basket Can Hold,” Border Lore: Heritage and Culture of the US Southwest and Northern Mexico, September 3, 2020, <https://borderlore.org/what-a-basket-can-hold/>.
