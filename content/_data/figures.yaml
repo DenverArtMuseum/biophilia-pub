@@ -380,6 +380,11 @@ figure_list:
     credit: "National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photo: National Gallery of Victoria, Melbourne"
     alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
+  - id: ptl-24707
+    src: figures EXRR_2024_35_FPO.jpg
+    caption: 'TK'
+    credit: 'TK'
+
   - id: ptl-24369
     src: figures/PTL-24369_1-5.jpg
     caption: Greg Lynn, Flatware Set, 2007. Sterling silver; variable dimensions.
