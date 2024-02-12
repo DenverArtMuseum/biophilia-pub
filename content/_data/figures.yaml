@@ -2,7 +2,8 @@ figure_list:
 
   - id: forest-walk-audio
     media_type: audiofile
-    title: "Kim Ruffin: Guided Forest Walk"
+    title: "Kim Ruffin, A Forest Walk: An Audio-Guided Practice"
+    caption: Courtesy Emergence Magazine
     audio_src: /figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
 
   - id: close-knit-audio
