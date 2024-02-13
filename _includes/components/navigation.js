@@ -32,6 +32,7 @@ module.exports = function(eleventyConfig) {
     
     const home = '/'
     const isHomePage = currentPage.url === home
+    const isChecklist = ( currentPage.title === 'Checklist' || currentPage.type === 'entry' )
 
     const navBarLabel = ({ label, short_title, title }) => {
       return pageTitle({ label, title: short_title || truncate(title, 34)})
@@ -57,7 +58,7 @@ module.exports = function(eleventyConfig) {
     }
 
     const navBarPreviousButton = () => {
-      if (!previousPage) return ''
+      if (!previousPage || isChecklist ) return ''
       const { data, url } = previousPage
       const { label, short_title, title } = data
       return html`
@@ -94,7 +95,7 @@ module.exports = function(eleventyConfig) {
     }
 
     const navBarNextButton = () => {
-      if (isHomePage || !nextPage) return ''
+      if (isHomePage || isChecklist || !nextPage) return ''
       const { data, url } = nextPage
       const { label, short_title, title } = data
       return html`

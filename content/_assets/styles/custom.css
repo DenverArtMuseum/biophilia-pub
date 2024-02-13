@@ -20,6 +20,7 @@
 } */
 
 
+
 /*
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
@@ -41,6 +42,23 @@
  .clearfix:after {
    clear: both;
  }
+ 
+ /*
+  * For IE 6/7 only
+  * Include this rule to trigger hasLayout and contain floats.
+  */
+  #content .container .content,
+ .clearfix {
+   zoom: 1;
+ }
+
+ /* Clear header for anchors */
+ /* :target:before {
+    content: "";
+    display: block;
+    height: 100px;
+    margin: -100px 0 0;
+} */
  
  /*
   * For IE 6/7 only
@@ -590,6 +608,12 @@ body#page-index .quire-navbar-controls__left .logos {
     display: none;
 }
 
+
+body#page-contributors li.quire-contributor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 body#page-contributors .quire-contributor__bio {
     margin-bottom: 1rem;
 }
@@ -606,7 +630,8 @@ body#page-checklist .quire:not(.no-js) .quire__primary main {
 body#page-checklist .quire-page__header h1 {
     color: #fff;
 }
-body#page-checklist .quire-contents-list.grid .page-item {
+body#page-checklist .quire-contents-list.grid .page-item,
+body#page-checklist .quire-contents-list.grid ol li .card {
     background-color: #fff;
 }
 
