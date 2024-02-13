@@ -1,5 +1,5 @@
 ---
-title: Acknowledgements
+title: Acknowledgments
 subtitle: 
 layout: splash
 order: 5

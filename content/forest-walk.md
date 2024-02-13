@@ -1,6 +1,6 @@
 ---
-title: Forest Walk
-subtitle: An Audio-Guided Walk
+title: A Forest Walk
+subtitle: An Audio-Guided Practice
 contributor:
     - id: kim-ruffin
 layout: essay

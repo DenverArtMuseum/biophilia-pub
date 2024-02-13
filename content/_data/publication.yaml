@@ -52,7 +52,7 @@ contributor:
     last_name: Alfred
     title: 
     affiliation: Denver Art Museum
-    bio: "bio"
+    bio: "Darrin Alfred is curator of architecture and design at the Denver Art Museum. He has contributed to numerous publications, including [*Gio Ponti in the American West*](https://www.rizzoliusa.com/book/9780847868964), [*Serious Play: Design in Midcentury America*](https://yalebooks.yale.edu/book/9780300234220/serious-play), and *Campana Brothers: Complete Works (So Far)*."
     url:
     pic:
   - id: kim-ruffin
@@ -60,8 +60,8 @@ contributor:
     first_name: Kim
     last_name: Ruffin
     title: 
-    affiliation: Denver Art Museum
-    bio: "bio"
+    affiliation: 
+    bio: "Kimberley Ruffin is a Certified Nature and Forest Therapy Guide who leads walks and gives talks in the Chicagoland area and wherever else she is called to serve. She is the author of [*Black on Earth: African American Ecoliterary Traditions*](https://ugapress.org/book/9780820337203/black-on-earth) and Associate Professor of English at Roosevelt University."
     url:
     pic:
   - id: florence-williams
@@ -69,8 +69,8 @@ contributor:
     first_name: Florence
     last_name: Williams
     title: 
-    affiliation: Denver Art Museum
-    bio: "bio"
+    affiliation: 
+    bio: "Florence Williams is a PEN-Award winning science journalist and the author of [*Breasts: A Natural and Unnatural History*](https://wwnorton.com/books/breasts), [*The Nature Fix: Why Being in Nature Makes us Happier, Healthier, and More Creative*](https://wwnorton.com/books/the-nature-fix), and [*Heartbreak: A Personal and Scientific Journey*](https://wwnorton.com/books/9781324003489)."
     url:
     pic:
   - id: kit-bernal
@@ -79,7 +79,7 @@ contributor:
     last_name: Bernal
     title: 
     affiliation: Denver Art Museum
-    bio: "bio"
+    bio: "Kit Bernal is Curatorial Assistant, Architecture and Design at the Denver Art Museum."
     url:
     pic:
   - id: cedar-sigo
@@ -87,8 +87,8 @@ contributor:
     first_name: Cedar
     last_name: Sigo
     title: 
-    affiliation: Denver Art Museum
-    bio: "bio"
+    affiliation: 
+    bio: "Cedar Sigo is a poet and member of the Suquamish Tribe. His books include [*Guard the Mysteries* (lectures)](https://www.wavepoetry.com/products/guard-the-mysteries) and most recently [*All This Time* (poems)](https://www.wavepoetry.com/products/all-this-time) both from Wave Books. He lives in Lofall, Washington."
     url:
     pic:
 
