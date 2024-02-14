@@ -809,6 +809,7 @@ figure_list:
     caption: Sandra Davolio, Coral Flower I, 2023. Porcelain; 16 1/2 × 10 in. diam.
     credit: Courtesy J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
     alt: A white ceramic vessel shaped like coral, with delicate fringe-like protrusions or pleats of white porcelain. It is smallest at the base, and subtly gets larger, before going back in at the top. 
+    zoom: true
 
   - id: ptl-26115
     src: figures/PTL-26115.jpg

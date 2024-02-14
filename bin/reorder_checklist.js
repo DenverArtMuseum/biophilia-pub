@@ -39,7 +39,8 @@ try {
                         md_doc.order = order
                         order++
 
-                        md_doc.title = object.title+' - '+object.artist
+                        if( !md_doc.title ) md_doc.title = object.title+' - '+object.artist
+                        md_doc.short_title = " "
                         delete md_doc.artist
 
                         //if( md_doc.order === 401 ) { 
@@ -107,9 +108,15 @@ function compareByArtistAndTitle(a, b) {
  * Get the alphabetical portion of the name for sorting
  */
 function get_alphabetical_artist_name( artist ) {
-    let artist_exceptions = [ 'MAD Architects', 'Front Design', 'Studio Gang', 'gt2P (great things to People)', 'Nervous System' ];
+    let artist_sorting = [ 
+        'MAD Architects', 
+        'Front Design', 
+        'Studio Gang', 
+        'gt2P (great things to People)', 
+        'Nervous System' 
+    ];
 
-    if( artist_exceptions.includes(artist) ) {
+    if( artist_sorting.includes(artist) ) {
         var artist_last = artist;
     } else {
         var artist_last = artist.split(/[, ]+/).pop();
@@ -122,6 +129,6 @@ function get_alphabetical_artist_name( artist ) {
  * Sort according to fixed order
  */
 function sortOrder( a, b ) {
-    fixed_order = [ 'title', 'artist', 'layout', 'presentation', 'object', 'order', 'menu' ]
+    fixed_order = [ 'title', 'short_title', 'artist', 'layout', 'presentation', 'object', 'order', 'menu' ]
     return fixed_order.indexOf(a) - fixed_order.indexOf(b);
 }

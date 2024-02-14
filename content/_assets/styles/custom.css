@@ -1,5 +1,8 @@
 /* Theme Colors */
 :root {
+    --off-black: #311508;
+    --off-white: #f3f4ee;
+    --link-blue: #536a93;
     --black-olive: rgba(63, 64, 47, 1);
     --light-green: rgba(191, 185, 101, 1);
     --dark-green: rgba(140, 136, 74, 1);
@@ -225,18 +228,40 @@ h1 > em {
     right: 0;
     left: auto;
 }
+.quire-navbar-controls .quire-navbar-page-controls {
+    flex-direction: row;
+}
+.quire-navbar-controls .quire-navbar-page-controls > * {
+    flex-direction: row;
+}
 .quire-navbar-controls .quire-navbar-page-controls__item a {
     transition: none;
 }
 
-.quire-navbar-page-controls__item.quire-previous-page {
-    /* width: 500px; */
-    text-align: right;
-}
+.quire-navbar-page-controls__item.quire-previous-page,
 .quire-navbar-page-controls__item.quire-next-page {
-    /* width: 500px; */
-    text-align: left;
+    min-width: 20rem;
 }
+.quire-navbar-page-controls__item.quire-previous-page {
+    text-align: right;
+    /* flex-direction: row;
+    flex: 0 1 50rem; */
+}
+/* .quire-navbar-page-controls__item.quire-previous-page a {
+    text-align: left;
+} */
+/* .quire-navbar-page-controls__item.quire-home-page {
+    flex-direction: row;
+    flex: 1 0 6rem;
+} */
+.quire-navbar-page-controls__item.quire-next-page {
+    text-align: left;
+    /* flex-direction: row;
+    flex: 0 1 50rem; */
+}
+/* .quire-navbar-page-controls__item.quire-next-page a {
+    text-align: right;
+} */
 
 /* .quire-contents-buttons ul {
     visibility: hidden;
@@ -244,14 +269,19 @@ h1 > em {
 /* .quire-contents-buttons:hover ul {
     visibility: visible;
 } */
+.quire-contents-buttons li.quire-nav-button:empty,
+.quire-contents-buttons li.quire-nav-button:empty:hover {
+   border: none; 
+   background-color: transparent;
+}
 .quire-contents-buttons li.quire-nav-button.prev a {
-    color: var(--light-green);
+    color: var(--link-blue);
 }
 .quire-contents-buttons li.quire-nav-button.prev:hover a {
     color: #fff;
 }
 .quire-contents-buttons li.quire-nav-button.prev svg {
-    fill: var(--light-green);
+    fill: var(--link-blue);
 }
 .quire-contents-buttons li.quire-nav-button.prev:hover svg {
     fill: #fff;
@@ -260,7 +290,7 @@ h1 > em {
 .quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, 
 .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
 .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
-    background-color: var(--light-green);
+    background-color: var(--link-blue);
 }
 
 .centered {
@@ -289,7 +319,7 @@ h1 > em {
     color: #fff;
 }
 .button a {
-    color: var(--light-green);
+    color: var(--link-blue);
     display: inline-block;
     width: 8.75em;
     height: 3.25em;
@@ -309,7 +339,7 @@ h1 > em {
 }
 
 .quire-progress-bar div {
-    background-color: var(--light-green);
+    background-color: var(--link-blue);
 }
 
 .quire-cover__more .hero-more.next-page {
@@ -547,6 +577,9 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 } */
 
 
+.audio-player-container {
+    background-color: transparent;
+}
 
 
 /* Specific page styles */
@@ -609,6 +642,8 @@ body#page-index .quire-navbar-controls__left .logos {
 }
 
 
+/* Contributors */
+
 body#page-contributors li.quire-contributor {
     display: flex;
     flex-direction: column;
@@ -623,19 +658,56 @@ body#page-contributors .media ul {
     margin-bottom: 0px !important;
 }
 
+
+/* Checklist */
+
 body#page-checklist .quire-page__header,
 body#page-checklist .quire:not(.no-js) .quire__primary main {
     background-color: --var(--black-olive);
 }
-body#page-checklist .quire-page__header h1 {
+/* body#page-checklist .quire-page__header h1 {
     color: #fff;
-}
+} */
 body#page-checklist .quire-contents-list.grid .page-item,
 body#page-checklist .quire-contents-list.grid ol li .card {
     background-color: #fff;
 }
 
+/* Glossary */
 
+body#page-glossary .quire-page__content .container .content > p {
+    margin-left: 1rem;
+}
+
+body#page-glossary .alphabetical-index {
+    position: -webkit-sticky; /* for browser compatibility */
+    position: sticky;
+    top: 4.375rem;
+    background-color: var(--off-white);
+    padding: 10px;
+}
+body#page-glossary .alphabetical-index p {
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+body#page-glossary .alphabetical-index a {
+    border-bottom: none;
+}
+
+body#page-glossary .glossary-terms h3 {
+    text-align: center;
+}
+
+/* Close-knit Flower-sack */
+
+body#page-close-knit-flower-sack .quire-page__content .container .content p {
+    font-size: 2rem;
+    line-height: 0.8em;
+    opacity:0;
+}
 
 @media screen and (min-width: 700px) {
 

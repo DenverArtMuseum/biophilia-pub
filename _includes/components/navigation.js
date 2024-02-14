@@ -32,7 +32,6 @@ module.exports = function(eleventyConfig) {
     
     const home = '/'
     const isHomePage = currentPage.url === home
-    const isChecklist = ( currentPage.title === 'Checklist' || currentPage.type === 'entry' )
 
     const navBarLabel = ({ label, short_title, title }) => {
       return pageTitle({ label, title: short_title || truncate(title, 34)})
@@ -58,7 +57,12 @@ module.exports = function(eleventyConfig) {
     }
 
     const navBarPreviousButton = () => {
-      if (!previousPage || isChecklist ) return ''
+      if (!previousPage) {
+        return html`
+          <li class="quire-navbar-page-controls__item quire-previous-page">
+          </li>
+        `
+      }
       const { data, url } = previousPage
       const { label, short_title, title } = data
       return html`
@@ -77,7 +81,13 @@ module.exports = function(eleventyConfig) {
     }
 
     const navBarHomeButton = () => {
-      if (!previousPage) return ''
+      if (isHomePage) return navBarStartButton()
+      if (!previousPage) {
+        return html`
+          <li class="quire-navbar-page-controls__item quire-home-page">
+          </li>
+        `
+      }
       return html`
         <li class="quire-navbar-page-controls__item quire-home-page">
           <a href="${home}" rel="home">
@@ -95,7 +105,12 @@ module.exports = function(eleventyConfig) {
     }
 
     const navBarNextButton = () => {
-      if (isHomePage || isChecklist || !nextPage) return ''
+      if (isHomePage || !nextPage) {
+        return html`
+          <li class="quire-navbar-page-controls__item quire-next-page">
+          </li>
+        `
+      }
       const { data, url } = nextPage
       const { label, short_title, title } = data
       return html`
@@ -126,7 +141,6 @@ module.exports = function(eleventyConfig) {
           </div>
           <div class="quire-navbar-controls__center">
             <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
-              ${navBarStartButton()}
               ${navBarPreviousButton()}
               ${navBarHomeButton()}
               ${navBarNextButton()}
