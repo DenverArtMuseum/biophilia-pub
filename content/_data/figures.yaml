@@ -2,7 +2,8 @@ figure_list:
 
   - id: forest-walk-audio
     media_type: audiofile
-    title: "Kim Ruffin: Guided Forest Walk"
+    title: "Kim Ruffin, A Forest Walk: An Audio-Guided Practice"
+    caption: Courtesy Emergence Magazine
     audio_src: /figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
 
   - id: close-knit-audio
@@ -404,19 +405,19 @@ figure_list:
     alt: A diagram of the Botanica Chandelier.
 
   - id: ptl-24455
-    src: figures/PTL-24455.jpg
+    src: figures/PTL-24455_1-3.jpg
     caption: threeASFOUR, Autumn Leaf Suit, Human Plant Collection, Spring/Summer 2020, Look 6. Digitally printed cotton voile and broadcloth.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
     alt: Front view of a model walking down the runway wearing a three-piece suit with a light-brown, autumn leaf print.
 
   - id: ptl-24456
-    src: figures/PTL-24456.jpg
+    src: figures/PTL-24456A-B.jpg
     caption: threeASFOUR, Eve Dress, Human Plant Collection, Spring/Summer 2020, Look 19. Laser-cut backed brown cork.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
     alt: Front view of a model walking down the runway wearing a short, brown dress. The fabric is laser cut in the shape of leaves.
 
   - id: ptl-24457
-    src: figures/PTL-24457.jpg
+    src: figures/PTL-24457A-B.jpg
     caption: threeASFOUR, Lily Dress, Human Plant Collection, Spring/Summer 2020, Look 25. Hand-pleated organdy and cotton binding.
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke
     alt: Front view of a model walking down the runway wearing a short, ivory colored dress. The dress is circular with the bottom of the circle mid-thigh and the top covering the bottom half of the model’s face. Large pleats radiate around the dress like a folding fan.
@@ -678,7 +679,7 @@ figure_list:
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
 
   - id: ptl-25093
-    src: figures/PTL-25093.jpg
+    src: figures/PTL-25093_FPO.jpg
     caption: Zaha Hadid, Tau Vase, 2015. Bardiglio Nuvolato marble; 7 7/8 × 13 3/8 in. Manufactured by Citco, Rivoli Veronese, Italy.
     credit: Courtesy of CITCO USA CORP. 
     alt: A gray marble vase that is squatly shaped and resembles a flower bud.
@@ -808,6 +809,7 @@ figure_list:
     caption: Sandra Davolio, Coral Flower I, 2023. Porcelain; 16 1/2 × 10 in. diam.
     credit: Courtesy J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
     alt: A white ceramic vessel shaped like coral, with delicate fringe-like protrusions or pleats of white porcelain. It is smallest at the base, and subtly gets larger, before going back in at the top. 
+    zoom: true
 
   - id: ptl-26115
     src: figures/PTL-26115.jpg

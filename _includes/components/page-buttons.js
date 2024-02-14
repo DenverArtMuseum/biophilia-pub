@@ -22,7 +22,11 @@ module.exports = function(eleventyConfig) {
     const { nextPage, previousPage } = pagination
 
     const prevPageButton = () => {
-      if (!previousPage) return
+      if (!previousPage) {
+        return html`
+          <li class="quire-nav-button prev">
+        `
+      }
       return html`
         <li class="quire-nav-button prev">
           <a href="${previousPage.url}">${icon({ type: 'left-arrow', description: 'Go back a page'})}\u0020<span class="nav-title">${prevButtonText}</span></a>
@@ -32,7 +36,11 @@ module.exports = function(eleventyConfig) {
     }
 
     const nextPageButton = () => {
-      if (!nextPage) return
+      if (!nextPage){
+        return html`
+          <li class="quire-nav-button next">
+        `
+      }
       return html`
         <li class="quire-nav-button next">
           <a href="${nextPage.url}"><span class="nav-title">${nextButtonText}</span>\u0020${icon({ type: 'right-arrow', description: 'Go back next page' })}</a>

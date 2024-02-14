@@ -1,5 +1,5 @@
 ---
-title: Suggested and Recommended Readings
+title: Recommended Readings
 layout: essay
 order: 503
 ---

@@ -6,7 +6,16 @@ order: 502
 image:
 ---
 
-<div style="text-align:center;"><a href="#affective">A</a> <a href="#biodiversity">B</a> <a href="#climate-change">C</a> <a href="#deep-ecology">D</a> <a href="#ecological-aesthetic-theory">E</a> <a href="#fractal">F</a> <a href="#generative-design">G</a> <a href="#heraclitean-motion">H</a> <a href="#inherent">I</a> J K L <a href="#morphogenesis">M</a> <a href="#nastic-movement">N</a> O <a href="#parametric-design">P</a> Q R <a href="#sociobiology">S</a> <a href="#topography">T</a> U V W X Y Z</div>
+<div class="alphabetical-index">
+
+<a href="#a">A</a> <a href="#b">B</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#e">E</a> <a href="#f">F</a> <a href="#g">G</a> <a href="#h">H</a> <a href="#i">I</a> <span>J</span> <span>K</span> <span>L</span> <a href="#m">M</a> <a href="#n">N</a> <span>O</span> <a href="#p">P</a> <span>Q</span> <span>R</span> <a href="#s">S</a> <a href="#t">T</a> <span>U</span> <span>V</span> <span>W</span> <span>X</span> <span>Y</span> <span>Z</span>
+
+</div>
+
+<div class="glossary-terms">
+
+
+### A {#a}
 
 ##### Affective {#affective}
 relating to, arising from, or influencing feelings or emotions; expressing emotion
@@ -38,6 +47,9 @@ a theory that holds that mental fatigue and concentration can be improved by tim
 ##### Awe {#awe}
 a feeling of reverential respect mixed with wonder or fear, often in response to that which is considered sacred or sublime
 
+
+### B {#b}
+
 ##### Biodiversity {#biodiversity}
 the variety and variability of life forms in a particular ecosystem, region, or the entire planet. It encompasses the multitude of species of plants, animals, fungi, microorganisms, and their interactions within their environment.
 
@@ -64,11 +76,20 @@ relating to plants
 ##### Built Environment {#built-environment}
 places and spaces created or modified by people with particular emphasis on buildings, parks, streetscapes, and other spaces that provide the setting for human activity
 
+
+### C {#c}
+
 ##### Climate change {#climate-change}
 long-term shifts in temperatures and weather patterns, either natural or caused by human activities, such as the burning of fossil fuels.
 
+
+### D {#d}
+
 ##### Deep Ecology {#deep-ecology}
  an environmental philosophy based in the belief that humans must radically change their relationship to nature from one that values nature solely for its usefulness to human beings to one that recognizes that nature has an inherent value. Sometimes called an “ecosophy,” deep ecology is a social movement that sometimes has religious and mystical undertones. The phrase originated in 1972 with Norwegian philosopher Arne Naess.
+
+
+### E {#e}
 
 ##### Ecological Aesthetic Theory {#ecological-aesthetic-theory}
 proclaims that knowledge about the ecological functions of a landscape will increase preference ratings for that landscape. The theory depends on knowledge as a key driver of landscape preference.
@@ -94,11 +115,20 @@ an interdisciplinary practice that studies the relationship between human behavi
 ##### Environmental Quality {#environmental-quality}
 an umbrella term that refers to the sum of the properties and characteristics of a specific environment and how it affects human beings and other organisms
 
+
+### F {#f}
+
 ##### Fractal {#fractal}
 a never-ending pattern. Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems—the pictures of chaos. Geometrically, they exist in between our familiar dimensions and can be found in trees, rivers, coastlines, mountains, clouds, seashells, hurricanes, etc.
 
+
+### G {#g}
+
 ##### Generative Design {#generative-design}
 the process of using algorithms to generate a batch of design options for evaluation
+
+
+### H {#h}
 
 ##### Heraclitean Motion {#heraclitean-motion}
 a pattern of movement that always changes, yet always stays the same; examples are the movement of trees or grasses in a light breeze, aquarium fish, or the pattern of light and shade created by cumulus clouds
@@ -109,6 +139,9 @@ a place where a cultural, national, or racial identity has formed; often associa
 ##### Human Ecology Theory {#human-ecology-theory}
 a theoretical framework that considers the interactions of humans with their environments, including biological, social, and physical aspects, as a system
 
+
+### I {#i}
+
 ##### Inherent {#inherent}
 existing in something as a permanent, essential, or characteristic attribute; involved in the constitution or essential character of something; belonging by nature or habit; intrinsic
 
@@ -118,8 +151,14 @@ inborn; natural; originating in the mind; existing in, belonging to, or determin
 ##### Intrinsic {#intrinsic}
 belonging to the essential nature or constitution of a thing; originating or due to causes within a body, organ, or part; originating and included wholly within an organ or part
 
+
+### M {#m}
+
 ##### Morphogenesis {#morphogenesis}
 formation of the structure of an organism or part; differentiation and growth of tissues during development; concerns the fundamental question of how biological form and structure are generated
+
+
+### N {#n}
 
 ##### Nastic Movement {#nastic-movement}
 a nondirectional response to environmental stimuli (e.g., temperature, humidity, light irradiance) usually associated with plants
@@ -133,11 +172,17 @@ events that occur in nature without human involvement. Natural phenomena can be 
 ##### Nyctinasty {#nyctinasty}
 a circadian rhythm–based nastic movement (as the opening and closing of some flowers) that is associated with diurnal changes of temperature or light intensity; a highly evolved natural process that protects delicate structures and conserves resources when conditions are not optimal
 
+
+### P {#p}
+
 ##### Parametric Design {#parametric-design}
 the process of using parameters and rules to create a design solution that is easily modified
 
 ##### Placemaking {#placemaking}
 a multi-faceted approach to the planning, design, and management of public spaces, capitalizing on a local community’s assets, inspiration, and potential, with the intention of creating public spaces that promote people’s health, happiness, and well being
+
+
+### S {#s}
 
 ##### Sociobiology {#sociobiology}
 a field of scientific study based on the assumption that social behavior has resulted from evolution
@@ -154,6 +199,9 @@ a thing or event that evokes a specific functional reaction in an organ, cell, o
 ##### Stress Reduction Theory {#stress-reduction-theory}
 a theory that holds that experiencing natural environments can reduce physiological stress and negative emotion
 
+
+### T {#t}
+
 ##### Topography {#topography}
 the physical landforms and features of an area
 
@@ -162,3 +210,5 @@ the love of or emotional connection with place or physical environment; a strong
 
 **Note to reader** 
 *These definitions are synthesized from Merriam-Webster Dictionary and various sources included in the Selected Readings and essay citations.*
+
+</div>

@@ -39,7 +39,8 @@ try {
                         md_doc.order = order
                         order++
 
-                        md_doc.title = object.title+' - '+object.artist
+                        if( !md_doc.title ) md_doc.title = object.title+' - '+object.artist
+                        md_doc.short_title = " "
                         delete md_doc.artist
 
                         //if( md_doc.order === 401 ) { 
@@ -74,7 +75,7 @@ try {
     });
 
 } catch (e) {
-    //console.log(e);
+    console.log(e);
 }   
 
 /** ************************* FUNCTIONS **************************************/
@@ -83,32 +84,51 @@ try {
  * A compare function that compares by artist and then by title 
  */
 function compareByArtistAndTitle(a, b) {
-
     if( a.artist === null ) return 1;
     if( b.artist === null ) return -1;
 
+    let a_last = get_alphabetical_artist_name( a.artist );
+    let b_last = get_alphabetical_artist_name( b.artist );
 
-    var a_last = a.artist.split(/[, ]+/).pop();
-    var b_last = b.artist.split(/[, ]+/).pop();
-
-    var artistDiff = a_last.localeCompare(b_last);
+    let artistDiff = a_last.localeCompare(b_last);
     //console.log(artistDiff)
 
     // If the artists are equal, compare by title
     if (artistDiff === 0) {
         if( a.title === null ) return 1;
-        if( b.title === null ) return -1
+        if( b.title === null ) return -1;
 
-        return a.title.localeCompare(b.title);
+        return a.title.localeCompare(b.title)
     }
     
     return artistDiff;
 }
 
 /**
+ * Get the alphabetical portion of the name for sorting
+ */
+function get_alphabetical_artist_name( artist ) {
+    let artist_sorting = [ 
+        'MAD Architects', 
+        'Front Design', 
+        'Studio Gang', 
+        'gt2P (great things to People)', 
+        'Nervous System' 
+    ];
+
+    if( artist_sorting.includes(artist) ) {
+        var artist_last = artist;
+    } else {
+        var artist_last = artist.split(/[, ]+/).pop();
+    }
+
+    return artist_last;
+}
+
+/**
  * Sort according to fixed order
  */
 function sortOrder( a, b ) {
-    fixed_order = [ 'title', 'artist', 'layout', 'presentation', 'object', 'order', 'menu' ]
+    fixed_order = [ 'title', 'short_title', 'artist', 'layout', 'presentation', 'object', 'order', 'menu' ]
     return fixed_order.indexOf(a) - fixed_order.indexOf(b);
 }
