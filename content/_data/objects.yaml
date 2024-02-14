@@ -1,5 +1,6 @@
 object_display_order:
   - artist
+  - bio
   - year
   - medium
   - dimensions
@@ -8,19 +9,9 @@ object_display_order:
 
 object_list:
 
-  - id: "2008-163"
-    artist: Joris Laarman
-    title: Bone Armchair (prototype)
-    year: 2008
-    medium: Cast marble resin and ground bone china
-    dimensions: 29 1/2 × 31 1/2 × 39 1/2 in.
-    credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
-    figure:
-      - id: "2008-163-1"
-      - id: "2008-163-2"
-
   - id: "2015-263"
     artist: Joris Laarman
+    bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
     medium: 3-D printed polyamide and copper
@@ -31,6 +22,7 @@ object_list:
 
   - id: "2017-89-91"
     artist: "gt2P (great things to People)"
+    bio: Established 2009, Santiago, Chile
     title: "Remolten N1: Revolution Stools and Aux Table"
     year: 2016–2017
     medium: Stoneware and volcanic lava
@@ -41,12 +33,13 @@ object_list:
   
   - id: "2022-57"
     artist: Nervous System
+    bio: Established 2007, Palenville, New York<br>Jessica Rosenkrantz, American, born 1983<br>Jesse Louis-Rosenberg, American, born 1986
     title: Floraform Chandelier
     year: 2017
-    medium: 3-D-printed nylon
-    dimensions: 43 ¼ in. diam.
-    manufacturer: Manufactured by Shapeways, New York City.
-    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System"
+    medium: 3-D-printed nylon and LED
+    dimensions: 43¼ in. dia. (109.9 cm dia.)
+    manufacturer: Produced by Shapeways, New York City.
+    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     figure:
       - id: "2022-57-1"
       - id: "2022-57-2"
@@ -56,6 +49,7 @@ object_list:
   
   - id: "2022-160"
     artist: Aranda&#92;Lasch and Terrol Dew Johnson
+    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
@@ -67,6 +61,7 @@ object_list:
   
   - id: "2022-161"
     artist: Aranda&#92;Lasch and Terrol Dew Johnson
+    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
@@ -77,6 +72,7 @@ object_list:
 
   - id: "2022-162"
     artist: Aranda&#92;Lasch and Terrol Dew Johnson
+    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
@@ -88,6 +84,7 @@ object_list:
 
   - id: "2023-6"
     artist: Sandra Davolio
+    bio: Italian, born 1951, active in Copenhagen, Denmark
     title: Coral Flower IV
     year: 2022
     medium: Porcelain
@@ -98,6 +95,7 @@ object_list:
 
   - id: "2023-186-92"
     artist: Front Design
+    bio: Established 2004, Stockholm
     title: Curve Lamps
     year: 2018–19
     medium: Painted metal base and painted glass or metal shades
@@ -109,50 +107,22 @@ object_list:
 
   - id: exacc-2022-74
     artist: Nao Tamura
-    title: Seasons Plates
+    bio: Japanese, born 1976, active in Brooklyn, New York
+    title: Seasons and Petal Servingware
     year: 2011
     medium: Silicone
-    dimensions: 9 1/2 × 7 7/8 in
+    dimensions: Dimensions variable
     manufacturer: Manufactured by COVO, Rome, Italy.
-    credit: Exhibition purchase. © Nao Tamura
+    credit: Exhibition funds from the Denver Art Museum. © Nao Tamura
     figure:
       - id: "exacc-2022-74"
-
-  - id: exacc-2022-75
-    artist: Nao Tamura
-    title: Seasons Plates
-    year: 2011
-    medium: Silicone
-    dimensions: 12 3/8 × 8 5/8 in
-    manufacturer: Manufactured by COVO, Rome, Italy.
-    credit: Exhibition purchase. © Nao Tamura
-    figure:
       - id: "exacc-2022-75"
-
-  - id: exacc-2022-76
-    artist: Nao Tamura
-    title: Petals Plates
-    year: 2011
-    medium: Silicone
-    dimensions: 7 1/4 × 6 1/4 in
-    manufacturer: Manufactured by COVO, Rome, Italy.
-    credit: Exhibition purchase. © Nao Tamura
-    figure:
       - id: "exacc-2022-76"
-
-  - id: exacc-2022-77
-    artist: Nao Tamura
-    title: Seasons Serving Platter
-    year: 2011
-    medium: Silicone
-    dimensions: 20 1/2 × 11 3/4 in
-    manufacturer: Manufactured by COVO, Rome, Italy.
-    credit: Exhibition purchase. © Nao Tamura
-    figure:
       - id: "exacc-2022-77"
 
   - id: exrr-2023-78
     artist: Ronan Bouroullec and Erwan Bouroullec
+    bio: Ronan Bouroullect, French, born 1971, active in Paris<br>Erwan Bouroullec, French, born 1976, active in Paris
     title: Algues
     year: 2004
     medium: Injection-molded plastic
@@ -165,9 +135,10 @@ object_list:
       
   - id: exrr-2022-264
     artist: Greg Lynn
+    bio: American, born 1964, active in Los Angeles
     title: Flatware Prototype Sketch
     year: 2003-2005
-    medium: Ink on paper
+    medium: Reproduction of ink-on-paper drawing
     dimensions: 9 × 11 in. 
     credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
     figure:
@@ -175,9 +146,10 @@ object_list:
 
   - id: exrr-2022-265
     artist: Greg Lynn
+    bio: American, born 1964, active in Los Angeles
     title: Flatware Prototype Sketch
     year: 2003-2005
-    medium: Ink on paper
+    medium: Reproduction of ink-on-paper drawing
     dimensions: 9 × 11 in. 
     credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
     figure:
@@ -185,9 +157,10 @@ object_list:
 
   - id: exrr-2023-31
     artist: Studio Gang
+    bio: Established 1997, Chicago
     title: Populus, Denver, Colorado
-    medium: Digital Rendering
-    year: 2020
+    medium: 
+    year: 2019–24
     credit: © Studio Gang
     figure:
       - id: "exrr-2023-31-1"
@@ -199,6 +172,7 @@ object_list:
   
   - id: exrr-2023-43
     artist: J. MAYER H.
+    bio: Established 1996, Berlin
     title: Metropol Parasol, Seville, Spain
     year: 2004–11
     credit: © J.MAYER.H.
@@ -238,9 +212,10 @@ object_list:
 
   - id: exrr-2023-103
     artist: MAD Architects
+    bio: Established 2004, Beijing
     title: Nanjing Zendai Himalayas Center, Nanjing, China
     year: 2021
-    credit: Courtesy of the artists. © MAD Architects. Photography by CreatAR Images
+    credit: Courtesy of MAD Architects. © MAD Architects. 
     figure:
       - id: "exrr-2023-103-1"
       - id: "exrr-2023-103-2"
@@ -248,6 +223,7 @@ object_list:
 
   - id: exrr-2023-111
     artist: Jason DeMarte
+    bio: American, born 1973, active in Ann Arbor, Michigan
     title: Arcadia
     year: 2021
     medium: Pigmented ink print
@@ -258,6 +234,7 @@ object_list:
 
   - id: ptl-24707
     artist: Alexandra Kehayoglou
+    bio: Argentine, born 1981, active in Buenos Aires, Argentina, and Athens, Greece
     title: Bajío
     year: 2024
     medium: Hand-tufted wool
@@ -268,16 +245,18 @@ object_list:
 
   - id: ptl-24369
     artist: Greg Lynn
+    bio: American, born 1964, active in Los Angeles
     title: Flatware Set
     year: 2007
     medium: Sterling silver
-    dimensions: variable dimensions
+    dimensions: Dimensions variable
     credit: The Art Institute of Chicago, Celia and David Hilliard Fund; purchased with funds provided by the Architecture & Design Society, 2007.646.1-5. © Greg Lynn FORM. Art Institute of Chicago/Art Resource, NY
     figure:
       - id: "ptl-24369"
 
   - id: ptl-25375
     artist: Andreea Avram Rusu
+    bio: American, born Romania, 1974, active in Brooklyn, NY
     title: Botanica Chandelier
     year: 2023
     medium: Glass, brass, steel, leather, and LED
@@ -289,37 +268,41 @@ object_list:
 
   - id: ptl-24455
     artist: threeASFOUR
-    title: Autumn Leaf Suit, Human Plant Collection, Spring/Summer 2020, Look 6.
+    bio: Established 2005, New York
+    title: Autumn Leaf Suit, Human Plant Collection, Spring/Summer 2020
     year: 2020
     medium: Digitally printed cotton voile and broadcloth
-    credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
     figure:
       - id: "ptl-24455"
 
   - id: ptl-24456
     artist: threeASFOUR
-    title: Eve Dress, Human Plant Collection, Spring/Summer 2020, Look 19
+    bio: Established 2005, New York
+    title: Eve Dress, Human Plant Collection, Spring/Summer 2020
     year: 2020
     medium: Laser-cut backed brown cork
-    credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
     figure:
       - id: "ptl-24456"
 
   - id: ptl-24457
     artist: threeASFOUR
-    title: Lily Dress, Human Plant Collection, Spring/Summer 2020, Look 25
+    bio: Established 2005, New York
+    title: Lily Dress, Human Plant Collection, Spring/Summer 2020
     year: 2020
-    medium: Hand-pleated organdy and cotton binding
-    credit: Courtesy of threeASFOUR. Photo by Randy Brooke
+    medium: Hand-pleated organdy with cotton binding
+    credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
     figure:
       - id: "ptl-24457"
 
   - id: ptl-24649
     artist: Andrés Reisinger
+    bio: Argentine, born 1990, active in Barcelona, Spain
     title: Hortensia Armchair
     year: 2018
     medium: Molded foam, metal frame, and laser-cut upholstery
-    dimensions: 30 × 42 × 37 1/2 in
+    dimensions: 34⅝ × 43⅜ × 44 in. (87.9 × 110.2 × 111.8 cm)
     credit: Textile design by Júlia Esqué. Courtesy of Reisinger Studio.
     figure:
       - id: "ptl-24649-1"
@@ -327,16 +310,18 @@ object_list:
 
   - id: ptl-24650-59-63-64
     artist: David Valner
+    bio: Czech, born 1990, active in Olomouc, Czech Republic
     title: Fungus Vases and Polypore Bowl
-    year: 2018–2023
+    year: 2018–23
     medium: Handcrafted glass
-    dimensions: variable dimensions
-    credit: © and courtesy of the artist.
+    dimensions: Dimensions variable
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2024"
     figure:
       - id: ptl-24650-59-63-64
 
   - id: ptl-24660
     artist: Fredrikson Stallard
+    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
     title: Species 1
     year: 2015
     medium: Polyurethane, rubber, fiberglass, and polyester
@@ -349,6 +334,7 @@ object_list:
 
   - id: ptl-24661
     artist: Fredrikson Stallard
+    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
     title: "Rock #22"
     year: 2022
     medium: Polyurethane, pigment, and steel
@@ -360,6 +346,7 @@ object_list:
 
   - id: ptl-24663
     artist: Álvaro Catalán de Ocón
+    bio: Spanish, born 1975, active in Madrid
     title: "Plastic River No. 6: Ganges"
     year: 2022
     medium: Hand-tufted recycled plastic PET (polyethylene terephthalate)
@@ -371,16 +358,18 @@ object_list:
 
   - id: ptl-24672
     artist: PELLE
+    bio: Established 2011, Brooklyln, New York
     title: Nana Lure Chandelier
     year: 2021
     medium: Painted cast cotton paper, patinated steel, and LEDs
-    dimensions: 96 × 82 in. diam.
+    dimensions: 96 × 82 in. dia. (243.8 × 208.3 cm dia.)
     credit: Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image courtesy of PELLE.
     figure:
       - id: "ptl-24672"
 
   - id: ptl-24698
     artist: Mathieu Lehanneur
+    bio: French, born 1974, active in Paris
     title: Ocean Memories (Circular Low Table Black XL)
     year: 2017
     medium: Nero Marquina marble
@@ -394,6 +383,7 @@ object_list:
 
   - id: ptl-24699
     artist: Mathieu Lehanneur
+    bio: French, born 1974, active in Paris
     title: Tomorrow Is Another Day (Demain est un Autre Jour)
     year: 2011
     medium: Digital weather station with steel, resin, and light fittings
@@ -409,6 +399,7 @@ object_list:
 
   - id: ptl-24700
     artist: Mathieu Lehanneur
+    bio: French, born 1974, active in Paris
     title: Permanent Flame
     medium: Polished bronze
     dimensions: 17¾ × 14½ × 21¼ in. (45.1 × 36.8 × 54 cm)
@@ -418,6 +409,7 @@ object_list:
 
   - id: ptl-24701
     artist: Mathieu Lehanneur
+    bio: French, born 1974, active in Paris
     title: 50 Seas
     year: 2018
     medium: Enameled faience
@@ -431,6 +423,7 @@ object_list:
 
   - id: ptl-24704
     artist: Humberto Campana and Fernando Campana
+    bio: Humberto Campana, Brazilian, born 1953, active in São Paulo<br>Fernando Campana, Brazilian, 1961–2022
     title: Bulbo
     year: 2019
     medium: Leather and fabric
@@ -451,6 +444,7 @@ object_list:
 
   - id: ptl-24706
     artist: DRIFT
+    bio: Established 2007, Amsterdam
     title: Meadow
     year: 2017
     medium: Site-specific kinetic sculpture with aluminum, stainless steel, printed fabric, LEDs, and robotics
@@ -462,6 +456,7 @@ object_list:
 
   - id: ptl-24710
     artist: Nacho Carbonell
+    bio: Spanish, born 1980, active in Eindhoven, Netherlands
     title: One-Seater Concrete Tree
     year: 2022
     medium: Metal mesh, cork, steel, concrete, and light fittings
@@ -473,8 +468,11 @@ object_list:
 
   - id: ptl-24721
     artist: Iris van Herpen
-    title: Diatom Gown, Sensory Seas Collection, Spring/Summer 2020.
-    credit: © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen Atelier.
+    bio: Dutch, born 1984, active in Amsterdam
+    title: Diatom Gown, Sensory Seas Collection, Spring/Summer 2020
+    year: 2020
+    medium: Oil paintings by Shelee Carruthers digitally printed on organza
+    credit: Courtesy of Iris van Herpen. © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen Atelier.
     figure:
       - id: "ptl-24721-1"
 
@@ -490,6 +488,7 @@ object_list:
 
   - id: ptl-24736
     artist: Marc Fish
+    bio: British, born 1971, active in Newhaven, England
     title: Ethereal Double Console
     year: 2022
     medium: Sycamore veneers and resin
@@ -509,6 +508,7 @@ object_list:
 
   - id: ptl-25093
     artist: Zaha Hadid
+    bio: Iraqi British, born Iraq, 1950–2016
     title: Tau Vases
     year: 2015
     medium: 
@@ -520,41 +520,47 @@ object_list:
 
   - id: ptl-25107
     artist: Iris van Herpen
-    title: Dress Syntopia Collection, Autumn/Winter 2018.
-    credit: CREDIT LINE TBC © Iris van Herpen. Image courtesy of Iris van Herpen Atelier.
+    bio: Dutch, born 1984, active in Amsterdam
+    title: Dress, Syntopia Collection, Autumn/Winter 2018
+    year: 2018
+    medium: Laser-cut Mylar and cotton heat bonded onto organza
+    credit: Courtesy of Iris van Herpen. © Iris van Herpen. Image courtesy of Iris van Herpen Atelier.
     figure:
       - id: "ptl-25107-1"
       - id: "ptl-25107-2"
 
   - id: ptl-25721
     artist: Brad Miller
+    bio: American, born 1950, active in Venice, California
     title: Plate
-    year: 2019-2023
+    year: 2019-23
     medium: Unglazed porcelain
-    dimensions: 3 1/2 × 14 in. diam.
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    dimensions: 3½  × 14 in. dia. (8.3 × 35.6 cm dia.)
+    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
     figure:
       - id: "ptl-25721-1"
       - id: "ptl-25721-2"
 
   - id: ptl-25722
     artist: Brad Miller
+    bio: American, born 1950, active in Venice, California
     title: Plate
-    year: 2019-2023
+    year: 2019-23
     medium: Stoneware
-    dimensions: 3 × 13 in. diam.
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    dimensions: 3 × 13 in. dia. (7.6 × 33 cm dia.)
+    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
     figure:
       - id: "ptl-25722-1"
       - id: "ptl-25722-2"
 
   - id: ptl-25723
     artist: Brad Miller
+    bio: American, born 1950, active in Venice, California
     title: Vessel
-    year: 2019-2023
+    year: 2019-23
     medium: Glazed stoneware
-    dimensions: 19 × 15 in. diam.
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    dimensions: 19 × 15 in. dia. (48.3 × 38.1 cm)
+    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
     figure:
       - id: "ptl-25723-1"
       - id: "ptl-25723-2"
@@ -562,22 +568,35 @@ object_list:
 
   - id: ptl-25724
     artist: Brad Miller
+    bio: American, born 1950, active in Venice, California
     title: Vessel
-    year: 2019-2023
+    year: 2019-23
     medium: Glazed stoneware
-    dimensions: 13 × 17 × 18 in.
+    dimensions: 13 × 17 × 18 in. (7.6 × 43.2 × 45.7 cm)
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
     figure:
       - id: "ptl-25724-1"
       - id: "ptl-25724-2"
       - id: "ptl-25724-3"
 
+  - id: ptl-25725
+    artist: Brad Miller
+    bio: American, born 1950, active in Venice, California
+    title: Vessel
+    year: 2019-23
+    medium: Glazed stoneware
+    dimensions: 15 × 16½ in. dia. (38.1 × 41.9 cm dia.)
+    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    figure:
+      - id: 
+
   - id: ptl-25755
     artist: teamLab
+    bio: Established 2001, Tokyo
     title: Flowers and People – A Whole Year per Hour
     year: 2020
-    medium: Interactive Digital Work, 6 channels, endless.
-    credit: "Sound: Hideaki Takahashi. © teamLab, courtesy Pace Gallery"
+    medium: Six-channel interactive digital installation, endless loop.
+    credit: "Courtesy of the artist and Pace Gallery. Sound by Hideaki Takahashi. © teamLab, courtesy Pace Gallery."
     figure:
       - id: "ptl-25755-1"
       - id: "ptl-25755-2"
@@ -585,6 +604,7 @@ object_list:
 
   - id: ptl-26101
     artist: Simon Heijdens
+    bio: Dutch, born 1978, active in London
     title: Lightweeds
     year: 2005-ongoing
     medium: Location-responsive light projection
@@ -595,6 +615,7 @@ object_list:
 
   - id: ptl-26114
     artist: Sandra Davolio
+    bio: Italian, born 1951, active in Copenhagen, Denmark
     title: Coral Flower I
     year: 2023
     medium: Porcelain
@@ -605,7 +626,10 @@ object_list:
 
   - id: ptl-26115
     artist: Sandra Davolio
+    bio: Italian, born 1951, active in Copenhagen, Denmark
     title: Vessel with Blue Edges III
+    year: 2023
+    medium: Porcelain
     dimensions: 8 × 8 in. dia. (20.3 × 20.3 cm dia.)
     credit: Courtesy of J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
     figure:
@@ -613,10 +637,12 @@ object_list:
   
   - id: tl-45469
     artist: Elena Manferdini
+    bio: Italian, born 1974, active in Venice, California
     title: Wall Flowers (Clover)
     year: 2022
-    medium: Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering
-    credit: Courtesy of and © Elena Manferdini.
+    medium: Vinyl on acrylic mirrors mounted on medium-density fiberboard and vinyl wall covering
+    dimensions: Dimensions variable
+    credit: Courtesy of and © Elena Manferdini
     figure:
       - id: "tl-45469-1"
       - id: "tl-45469-2"
@@ -628,6 +654,7 @@ object_list:
 
   - id: 2015-267
     artist: Daniel Brown
+    bio: British, born 1977, active in London
     title: Secret Garden
     year: 2008, updated 2015
     medium: Interactive software program
@@ -638,6 +665,7 @@ object_list:
 
   - id: ptl-24662
     artist: Fredrikson Stallard
+    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
     title: "Rock #23"
     year: 2022
     medium: Polyurethane, pigment, and steel
@@ -645,3 +673,26 @@ object_list:
     credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard.
     figure:
       - id:
+
+  - id: tl-45470
+    artist: Elena Manferdini
+    bio: Italian, born 1974, active in Venice, California
+    title: Botanical Garden Smoke Set
+    year: 2009
+    medium: Cast ceramic covered by fused silver
+    dimensions: Dimensions variable
+    manufacturer: Manufactured by Ottaviani, Recanati, Italy
+    credit: Courtesy of and © Elena Manferdini
+    figure:
+      - id:
+
+  - id: exacc-1023-105
+    artist: David Wiseman
+    bio: American, born 1981, active in Los Angeles
+    title: Midnight in the Meadow Wallpaper
+    year: 2023
+    medium: 
+    dimensions: 
+    credit: 
+    figure:
+      - id: 
