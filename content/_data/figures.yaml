@@ -61,6 +61,11 @@ figure_list:
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman"
     alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
 
+  - id: 2015-267
+    src: figures/2015_267_1-5_FPO.jpg
+    caption: Daniel Brown, *Secret Garden*, 2008, updated 2015. Interactive software program; variable dimensions.
+    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
+
   - id: "2017-89-91"
     src: figures/2017_89-91.jpg
     caption: "gt2P (great things to People), Remolten N1: Revolution Stools and Aux Table, 2016–2017. Stoneware and volcanic lava; variable dimensions."
@@ -383,8 +388,8 @@ figure_list:
 
   - id: ptl-24707
     src: figures EXRR_2024_35_FPO.jpg
-    caption: 'TK'
-    credit: 'TK'
+    caption: Alexandra Kehayoglou, Bajío, 2024. Hand tufted wool; 118 × 147 1/2 in.
+    credit: Courtesy of the artist. © Alexandra Kehayoglou
 
   - id: ptl-24369
     src: figures/PTL-24369_1-5.jpg
@@ -464,10 +469,10 @@ figure_list:
     credit: Courtesy of the artists. Artwork and image  © and courtesy Fredrikson Stallard
     alt: A bright, Kelly-green colored, rock-shaped sculptural object. It is loosely in the shape of an inverted triangle, smaller at the bottom and wider at the top. The top surface slopes upward from left to right. It is supported by a dark gray mount.
 
-  - id: ptl-24661-2
-    src: figures/PTL-24661~2.jpg
-    caption: "Fredrikson Stallard, Rock #22, 2022. Polyurethane, pigment, and steel; 21 × 15 × 7 in."
-    credit: Courtesy of the artists. Artwork and image  © and courtesy Fredrikson Stallard
+  - id: ptl-24662
+    src: figures/PTL-24662.jpg
+    caption: "Fredrikson Stallard, <em>Rock #23</em>, 2022. Polyurethane, pigment, and steel; 24 × 12 × 7 in."
+    credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard
 
   - id: ptl-24663
     src: figures/PTL-24663.jpg
@@ -780,6 +785,11 @@ figure_list:
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
     alt: A squat, gray vessel that is smaller at the base and wider at the top. It has an all over texture like fingers of coral growing upward and ending with rounded ridges along the rim of the opening.
 
+  - id: ptl-25725
+    src: figures/PTL-25725.jpg
+    caption: Brad Miller, Vessel, 2021. Glazed stoneware, 15 × 16 1/2 in. diam.
+    credit: Courtesy of the artist and R & Company. © Brad Miller. Image courtesy of R & Company and Brad Miller.
+
   - id: ptl-25755-1
     src: figures/PTL-25755~1.jpg
     caption: teamLab, Flowers and People – A Whole Year per Hour, 2020. Interactive Digital Work, 6 channels, endless.
@@ -819,18 +829,24 @@ figure_list:
 
   - id: tl-45469-1
     src: figures/TL-45469~1.jpg
-    caption: Elena Manferdini, Wall Flowers (Clover), 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
     credit: Courtesy of and © Elena Manferdini.
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-2
     src: figures/TL-45469~2.jpg
-    caption: Elena Manferdini, Wall Flowers (Clover), 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
     credit: Courtesy of and © Elena Manferdini.
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-3
     src: figures/TL-45469~3.jpg
-    caption: Elena Manferdini, Wall Flowers (Clover), 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on MDF and vinyl wall covering; [size].
     credit: Courtesy of and © Elena Manferdini.
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
+
+  - id: tl-45470
+    src: figures/TL-45470_FPO.jpg
+    caption: Elena Manferdini, *Botanical Garden Smoke Set*, 2009. Cast ceramic covered by fused silver; various dimensions. Manufactured by Ottaviani, Recanati, Italy.
+    credit: Courtesy of and © Elena Manferdini.
+

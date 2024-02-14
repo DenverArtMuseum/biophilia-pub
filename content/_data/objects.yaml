@@ -183,6 +183,14 @@ object_list:
     figure:
       - id: "exrr-2022-265"
 
+  - id: ptl-24707
+    artist: Alexandra Kehayoglou
+    title: Bajío
+    year: 2024
+    medium: Hand tufted wool
+    dimensions: 118 × 147 1/2 in.
+    credit: Courtesy of the artist. © Alexandra Kehayoglou
+
   - id: exrr-2023-31
     artist: Studio Gang
     title: Populus, Denver, Colorado
@@ -365,7 +373,16 @@ object_list:
     credit: Courtesy of the artists. Artwork and image  © and courtesy Fredrikson Stallard
     figure:
       - id: "ptl-24661-1"
-      - id: "ptl-24661-2"
+
+  - id: ptl-24662
+    artist: Fredrikson Stallard
+    title: "Rock #23"
+    year: 2022
+    medium: Polyurethane, pigment, and steel
+    dimensions: 24 × 12 × 7 in.
+    credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard
+    figure:
+      - id: "ptl-24662"
 
   - id: ptl-24663
     artist: Álvaro Catalán de Ocón
@@ -436,6 +453,16 @@ object_list:
       - id: "ptl-24701-2"
       - id: "ptl-24701-3"
       - id: "ptl-24701-4"
+
+  - id: 2015-267
+    artist: Daniel Brown
+    title: Secret Garden
+    year: 2008, updated 2015
+    medium: Interactive software program
+    dimensions: variable dimensions
+    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
+    figure:
+      - id: "2015-267"
 
   - id: ptl-24704
     artist: Humberto Campana and Fernando Campana
@@ -623,6 +650,16 @@ object_list:
       - id: "ptl-25724-2"
       - id: "ptl-25724-3"
 
+  - id: ptl-25725
+    artist: Brad Miller
+    title: Vessel
+    year: 2021
+    medium: Glazed stoneware
+    dimensions: 15 x 16 1/2 in. diam.
+    credit: Courtesy of the artist and R & Company. © Brad Miller. Image courtesy of R & Company and Brad Miller.
+    figure:
+      - id: "ptl-25725"
+
   - id: ptl-25755
     artist: teamLab
     title: Flowers and People – A Whole Year per Hour
@@ -673,6 +710,13 @@ object_list:
       - id: "tl-45469-2"
       - id: "tl-45469-3"
 
-  - id: ptl-24707
-    artist:
-    title:
+  - id: tl-45470
+    artist: Elena Manferdini
+    title: Botanical Garden Smoke Set
+    year: 2009
+    medium: Cast ceramic covered by fused silver
+    dimensions: various dimensions
+    manufacturer: Manufactured by Ottaviani, Recanati, Italy.
+    credit: Courtesy of and © Elena Manferdini.
+    figure:
+      - id: "tl-45470"
