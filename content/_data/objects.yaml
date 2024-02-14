@@ -24,8 +24,8 @@ object_list:
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
     medium: 3-D printed polyamide and copper
-    dimensions: 28 3/8 × 27 ½ × 30 ¼ in.
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman"
+    dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     figure:
       - id: "2015-263"
 
@@ -34,8 +34,8 @@ object_list:
     title: "Remolten N1: Revolution Stools and Aux Table"
     year: 2016–2017
     medium: Stoneware and volcanic lava
-    dimensions: variable dimensions.
-    credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)"
+    dimensions: Dimensions variable
+    credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
     figure:
       - id: "2017-89-91"
   
@@ -59,7 +59,7 @@ object_list:
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
-    dimensions: 17 × 13 × 10 in.
+    dimensions: 16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-160-1"
@@ -70,7 +70,7 @@ object_list:
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
-    dimensions: 19 1/2 × 13 × 10 in.
+    dimensions: 19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-161"
@@ -80,8 +80,8 @@ object_list:
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
-    dimensions: 15 × 9 × 9 in.
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    dimensions: 13⅜ × 10¼ × 6¾ in. (34 × 26 × 17.1 cm)
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.162. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-162-1"
       - id: "2022-162-2"
@@ -91,7 +91,7 @@ object_list:
     title: Coral Flower IV
     year: 2022
     medium: Porcelain
-    dimensions: 9 ¾ × 11 in. diam. 
+    dimensions: 9¾ × 11 in. dia. (24.8 × 27.9 cm) 
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photography by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
     figure:
       - id: "2023-6"
@@ -99,11 +99,11 @@ object_list:
   - id: "2023-186-92"
     artist: Front Design
     title: Curve Lamps
-    year: 2018-2019
+    year: 2018–19
     medium: Painted metal base and painted glass or metal shades
-    dimensions: variable dimensions
-    manufacturer: Manufactured by Zero Lighting, Nybro, Sweden.
-    credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–92. © Front. Image courtesy of Zero Lighting"
+    dimensions: Dimensions variable
+    manufacturer: Manufactured by Zero Lighting, Nybro, Sweden
+    credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–192. © Front. Image courtesy of Zero Lighting."
     figure:
       - id: "2023-186-92"
 
@@ -156,9 +156,9 @@ object_list:
     title: Algues
     year: 2004
     medium: Injection-molded plastic
-    dimensions: variable dimensions, 12 ½ × 10 in.each.
+    dimensions: Dimensions variable, each component 12½ × 10 in. (31.8 × 25.4 cm)
     manufacturer: Manufactured by Vitra, Birsfelden, Switzerland.
-    credit: Exhibition purchase. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Taham and R. Bouroullec and E. Bouroullec
+    credit: Exhibition funds from the Denver Art Museum. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Taham and R. Bouroullec and E. Bouroullec.
     figure:
       - id: "exrr-2023-78-1"
       - id: "exrr-2023-78-2"
@@ -196,21 +196,12 @@ object_list:
       - id: "exrr-2023-31-4"
       - id: "exrr-2023-31-5"
       - id: "exrr-2023-31-6"
-    
-  - id: exrr-2023-32
-    artist: Joris Laarman
-    title: drawings for Microstructures Adaptation Chair (Long Cell) Prototype
-    medium: Digital drawings.
-    credit: Courtesy of the artist and Friedman Benda.
-    figure:
-      - id: "exrr-2023-32"
-      - id: "exrr-2023-33"
   
   - id: exrr-2023-43
     artist: J. MAYER H.
     title: Metropol Parasol, Seville, Spain
-    year: 2004–11.
-    credit: 2021 © J.MAYER.H.  Photograph by Fernando Alda Fotógrafo
+    year: 2004–11
+    credit: © J.MAYER.H.
     figure:
       - id: "exrr-2023-43-1"
       - id: "exrr-2023-43-2"
@@ -260,20 +251,20 @@ object_list:
     title: Arcadia
     year: 2021
     medium: Pigmented ink print
-    dimensions: variable dimensions
-    credit: Courtesy of RULE Gallery, Denver. © Jason DeMarte 
+    dimensions: Dimensions variable
+    credit: Courtesy of RULE Gallery, Denver. © Jason DeMarte. 
     figure:
       - id: "exrr-2023-111"
 
-  - id: exrr-2023-137
+  - id: ptl-24707
     artist: Alexandra Kehayoglou
-    title: Santa Cruz River
-    year: 2017
-    medium: Wool
-    dimensions: 382 7/8 × 165 3/8 in
-    credit: "National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photo: National Gallery of Victoria, Melbourne"
+    title: Bajío
+    year: 2024
+    medium: Hand-tufted wool
+    dimensions: 118 × 147½ in. (299.7 × 374.7 cm)
+    credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115"
     figure:
-      - id: "exrr-2023-137"
+      - id:
 
   - id: ptl-24369
     artist: Greg Lynn
@@ -290,7 +281,7 @@ object_list:
     title: Botanica Chandelier
     year: 2023
     medium: Glass, brass, steel, leather, and LED
-    dimensions: 135 × 56 × 33 in.
+    dimensions: 135 × 56 × 33 in. (342.9 × 142.2 × 83.8 cm)
     credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
     figure:
       - id: "ptl-24375-1"
@@ -347,10 +338,10 @@ object_list:
   - id: ptl-24660
     artist: Fredrikson Stallard
     title: Species 1
-    year: 2021
+    year: 2015
     medium: Polyurethane, rubber, fiberglass, and polyester
-    dimensions: 36 × 98 × 59 in
-    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Images courtesy David Gill Gallery. Photo by Alejandro Olaya Torres
+    dimensions: 36 × 98 × 59 in. (91.4 × 248.9 × 149.9 cm)
+    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Images courtesy David Gill Gallery. Photo by Alejandro Olaya Torres.
     figure:
       - id: "ptl-24660-1"
       - id: "ptl-24660-2"
@@ -361,8 +352,8 @@ object_list:
     title: "Rock #22"
     year: 2022
     medium: Polyurethane, pigment, and steel
-    dimensions: 21 × 15 × 7 in
-    credit: Courtesy of the artists. Artwork and image  © and courtesy Fredrikson Stallard
+    dimensions: 21 × 15 × 7 in. (53.3 × 38.1 × 17.8 cm)
+    credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard.
     figure:
       - id: "ptl-24661-1"
       - id: "ptl-24661-2"
@@ -372,8 +363,9 @@ object_list:
     title: "Plastic River No. 6: Ganges"
     year: 2022
     medium: Hand-tufted recycled plastic PET (polyethylene terephthalate)
-    dimensions: 118 × 158 in. Manufactured by GAN, Valencia, Spain
-    credit: Courtesy of GAN by Gandia Blasco Group. 
+    dimensions: 118 × 158 in. (299.7 ×  401.3 cm.)
+    manufacturer: Manufactured by GAN, Valencia, Spain
+    credit: Courtesy of GAN by Gandia Blasco Group 
     figure:
       - id: "ptl-24663"
 
@@ -392,7 +384,7 @@ object_list:
     title: Ocean Memories (Circular Low Table Black XL)
     year: 2017
     medium: Nero Marquina marble
-    dimensions: 15 3/4 × 43 1/4 in. diam.
+    dimensions: 15¾ × 43¼ in. dia.
     credit: Courtesy of the designer. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     figure:
       - id: "ptl-24698-1"
@@ -402,11 +394,11 @@ object_list:
 
   - id: ptl-24699
     artist: Mathieu Lehanneur
-    title: Demain est un Autre Jour (Tomorrow is Another Day)
+    title: Tomorrow Is Another Day (Demain est un Autre Jour)
     year: 2011
-    medium: Digital weather station
-    dimensions: 10 × 37 1/8 in. diam.
-    credit: Courtesy of the artist. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    medium: Digital weather station with steel, resin, and light fittings
+    dimensions: 10 × 37⅛ in. dia. (25.4 × 94.3 cm dia.)
+    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     figure:
       - id: "ptl-24699-1"
       - id: "ptl-24699-2"
@@ -419,8 +411,8 @@ object_list:
     artist: Mathieu Lehanneur
     title: Permanent Flame
     medium: Polished bronze
-    dimensions: 17 3/4 × 14 1/2 × 21 1/4 in
-    credit: Courtesy of the artist. © Mathieu Lehanneur Image © Leandro Viana, courtesy of Mathieu Lehanneur.
+    dimensions: 17¾ × 14½ × 21¼ in. (45.1 × 36.8 × 54 cm)
+    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Leandro Viana, courtesy of Mathieu Lehanneur.
     figure:
       - id: "ptl-24700"
 
@@ -429,8 +421,8 @@ object_list:
     title: 50 Seas
     year: 2018
     medium: Enameled faience
-    dimensions: 19 5/8 in. diam. each
-    credit: Courtesy of the artist. © Mathieu Lehanneur
+    dimensions: Each 19⅝ in. dia. (49.9 cm dia.)
+    credit: Courtesy of the designer. © Mathieu Lehanneur.
     figure:
       - id: "ptl-24701-1"
       - id: "ptl-24701-2"
@@ -441,9 +433,9 @@ object_list:
     artist: Humberto Campana and Fernando Campana
     title: Bulbo
     year: 2019
-    medium: Fabric and leather
-    dimensions: 59 × 47 × 48 in
-    manufacturer: Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
+    medium: Leather and fabric
+    dimensions: 59 × 47 × 48 in. (149.9 × 119.4 × 121.9 cm)
+    manufacturer: Manufactured by Louis Vuitton, Paris, France for Objets Nomades
     credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana
     figure:
       - id: "ptl-24704"
@@ -461,19 +453,20 @@ object_list:
     artist: DRIFT
     title: Meadow
     year: 2017
-    medium: Aluminum, stainless steel, printed fabric, LEDs, and robotics
-    credit: © 2023 DRIFT. Represented by Pace Gallery. Photo by Oriol Tarridas, courtesy Superblue Miami. 
+    medium: Site-specific kinetic sculpture with aluminum, stainless steel, printed fabric, LEDs, and robotics
+    dimensions: Dimensions variable
+    credit: Represented by Pace Gallery. © 2023 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
     figure:
       - id: "ptl-24706-1"
       - id: "ptl-24706-2"
 
   - id: ptl-24710
     artist: Nacho Carbonell
-    title: One-seater Concrete Tree
+    title: One-Seater Concrete Tree
     year: 2022
     medium: Metal mesh, cork, steel, concrete, and light fittings
-    dimensions: 139 3/4 × 74 3/4 × 112 1/4 in.
-    credit: © Nacho Carbonell. Photo by Ronald Smiths, Courtesy of Carpenters Workshop Gallery.
+    dimensions: 139¾ × 74¾ × 112¼ in. (355 × 189.9 × 285.1 cm)
+    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photo by Ronald Smiths.
     figure:
       - id: "ptl-24710-1"
       - id: "ptl-24710-2"
@@ -500,7 +493,7 @@ object_list:
     title: Ethereal Double Console
     year: 2022
     medium: Sycamore veneers and resin
-    dimensions: 39 3/8 × 110 1/4 × 15 3/4 in.
+    dimensions: 39⅜ × 110¼ × 15¾ in. (100 × 280 × 40 cm)
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
     figure:
       - id: "ptl-24736-1"
@@ -516,58 +509,14 @@ object_list:
 
   - id: ptl-25093
     artist: Zaha Hadid
-    title: Tau Vase
+    title: Tau Vases
     year: 2015
-    medium: Bardiglio Nuvolato marble
-    dimensions: 7 7/8 × 13 3/8 in.
-    manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
-    credit: Courtesy of CITCO USA CORP. 
+    medium: 
+    dimensions: 
+    manufacturer: 
+    credit:  
     figure:
       - id: "ptl-25093"
-
-  - id: ptl-25094
-    artist: Zaha Hadid
-    title: Tau Vase
-    year: 2015
-    medium: Statuario marble
-    dimensions: 7 7/8 × 17 in. diam.
-    manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
-    credit: Courtesy of CITCO USA CORP. 
-    figure:
-      - id: "ptl-25094"
-
-  - id: ptl-25095
-    artist: Zaha Hadid
-    title: Tau Vase
-    year: 2015
-    medium: Bianco Covelano Bluette marble
-    dimensions: 13 3/8 × 15 3/4 in. diam.
-    manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
-    credit: Courtesy of CITCO USA CORP. 
-    figure:
-      - id: "ptl-25095"
-
-  - id: ptl-25096
-    artist: Zaha Hadid
-    title: Tau Vase
-    year: 2015
-    medium: Bianco Carrara marble
-    dimensions: 18 7/8 × 15 3/4 in. diam.
-    manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
-    credit: Courtesy of CITCO USA CORP. 
-    figure:
-      - id: "ptl-25096"
-
-  - id: ptl-25097
-    artist: Zaha Hadid
-    title: Tau Vase
-    year: 2015
-    medium: Bardiglio Nuvolato marble
-    dimensions: 29 1/8 × 19 5/8 in. diam.
-    manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
-    credit: Courtesy of CITCO USA CORP. 
-    figure:
-      - id: "ptl-25097"
 
   - id: ptl-25107
     artist: Iris van Herpen
@@ -638,9 +587,9 @@ object_list:
     artist: Simon Heijdens
     title: Lightweeds
     year: 2005-ongoing
-    medium: Self-developed software
-    dimensions: variable dimensions.
-    credit: © Simon Heijdens
+    medium: Location-responsive light projection
+    dimensions: Dimensions variable
+    credit: Courtesy of the artist. © Simon Heijdens.
     figure:
       - id: "ptl-26101"
 
@@ -649,16 +598,16 @@ object_list:
     title: Coral Flower I
     year: 2023
     medium: Porcelain
-    dimensions: 16 1/2 × 10 in. diam.
-    credit: Courtesy J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
+    dimensions: 16½ × 10 in. dia. (41.9 × 25.4 cm)
+    credit: Courtesy of J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
     figure:
       - id: "ptl-26114"
 
   - id: ptl-26115
     artist: Sandra Davolio
     title: Vessel with Blue Edges III
-    dimensions: 8 × 8 in. diam.
-    credit: Courtesy J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
+    dimensions: 8 × 8 in. dia. (20.3 × 20.3 cm dia.)
+    credit: Courtesy of J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
     figure:
       - id: "ptl-26115"
   
@@ -676,3 +625,23 @@ object_list:
   - id: ptl-24707
     artist:
     title:
+
+  - id: 2015-267
+    artist: Daniel Brown
+    title: Secret Garden
+    year: 2008, updated 2015
+    medium: Interactive software program
+    dimensions: Dimensions variable 
+    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267"
+    figure:
+      - id: 
+
+  - id: ptl-24662
+    artist: Fredrikson Stallard
+    title: "Rock #23"
+    year: 2022
+    medium: Polyurethane, pigment, and steel
+    dimensions: 24 × 12 × 7 in. (61 × 30.5 × 17.8 cm)
+    credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard.
+    figure:
+      - id:
