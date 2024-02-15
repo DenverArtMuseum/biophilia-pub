@@ -1,7 +1,7 @@
 ---
 title: Installation Photographs
 subtitle: 
-layout: essay
+layout: page
 order: 500
 image:
 ---

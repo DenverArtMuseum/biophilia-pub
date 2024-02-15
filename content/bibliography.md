@@ -1,6 +1,6 @@
 ---
 title: Recommended Readings
-layout: essay
+layout: page
 order: 503
 ---
 

@@ -703,7 +703,7 @@ body#page-checklist .quire-contents-list.grid ol li .card {
 
 /* Glossary */
 body#page-glossary .quire-page__header,
-body#page-glossary .quire-page__content {
+body#page-glossary .quire-page__content:not(:nth-child(3)) {
     background-color: var(--dark-green);
     animation: fadeIn 2s;
 }

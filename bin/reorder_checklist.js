@@ -59,7 +59,7 @@ try {
                         md_doc.order = order
                         order++
 
-                        if( !md_doc.title ) md_doc.title = object.title+' - '+object.artist
+                        if( !md_doc.title ) md_doc.title = object.artist+', '+object.title
                         md_doc.short_title = " "
                         delete md_doc.artist
 
@@ -75,6 +75,7 @@ try {
                             })
                             content += '---\n\n';
                             content += other_content;
+
                             // try {
                             //     fs.writeFileSync(md_file, content);
                             // } catch (err) {
@@ -87,14 +88,6 @@ try {
                 });
             }
         });
-        // const doc = yaml.load(fs.readFileSync(yaml_filename, 'utf8'));
-        // yaml.dump(object, {
-        //     flowLevel: 3,
-        //     styles: {
-        //         '!!int'  : 'hexadecimal',
-        //         '!!null' : 'camelcase'
-        //     }
-        // });
 
     });
 
@@ -132,16 +125,21 @@ function compareByArtistAndTitle(a, b) {
  * Get the alphabetical portion of the name for sorting
  */
 function get_alphabetical_artist_name( artist ) {
-    let artist_sorting = [ 
-        'MAD Architects', 
-        'Front Design', 
-        'Studio Gang', 
-        'gt2P (great things to People)', 
-        'Nervous System' 
-    ];
+    let artist_sorting = {
+        'Aranda&#92;Lasch and Terrol Dew Johnson': 'Aranda',
+        'Andreea Avram Rusu': 'Avram',
+        'Fredrikson Stallard': 'Fredrikson',
+        'Iris van Herpen': 'van Herpen',
+        'J. Mayer H.': 'J. Mayer H.',
+        'MAD Architects': 'MAD Architects', 
+        'Front Design': 'Front Design', 
+        'Studio Gang': 'Studio Gang', 
+        'gt2P (great things to People)': 'gt2P (great things to People)', 
+        'Nervous System': 'Nervous System',
+    };
 
-    if( artist_sorting.includes(artist) ) {
-        var artist_last = artist;
+    if( Object.keys(artist_sorting).includes(artist) ) {
+        var artist_last = artist_sorting[artist];
     } else {
         var artist_last = artist.split(/[, ]+/).pop();
     }

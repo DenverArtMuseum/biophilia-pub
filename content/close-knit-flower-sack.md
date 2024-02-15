@@ -3,7 +3,7 @@ title: Close-Knit Flower Sack
 subtitle:
 contributor:
     - id: cedar-sigo
-layout: essay
+layout: page
 order: 350
 image:
 ---

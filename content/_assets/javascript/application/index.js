@@ -426,7 +426,7 @@ $(window).scroll( function(){
   /* Check the location of each desired element */
   $('body#page-close-knit-flower-sack .quire-page__content .container .content p').each( function(i){
       
-    var bottom_of_object = $(this).position().top + $(this).outerHeight() + 50;
+    var bottom_of_object = $(this).position().top + $(this).outerHeight() + 100;
     var bottom_of_window = $(window).scrollTop() + $(window).height();
     
     /* If the object is completely visible in the window, fade it it */
