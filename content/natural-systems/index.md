@@ -5,7 +5,7 @@ contributor:
     - id: darrin-alfred
 layout: essay
 order: 210
-image:
+image: figures/PTL-24699~6.jpg
 ---
 
 Natural systems describe nature’s processes and phenomena, especially seasonal and temporal changes characteristic of a healthy ecosystem, such as climate and weather patterns, hydrology, and plant receptivity and cycles. Social ecologist Stephen Kellert, whose research and writing advanced the understanding of the connection between humans and the natural world, pointed to biophilia as “the inherent human inclination to affiliate with natural systems and processes, most particularly life and life-like (e.g., ecosystems) features of the nonhuman environment.”[^1] There is limited, but growing, scientific documentation of the health impacts associated with access to natural systems. These systems, or at least their observable characteristics, are believed to enhance positive health responses. Kellert acknowledged that seeing and understanding the processes of nature can create a perceptual shift in what’s being seen and experienced.[^2] This relationship has a strong temporal element, which can be expressed culturally. Japanese culture celebrates the ephemerality of cherry blossoms, and in some Indigenous cultures, the auroras—natural light displays in the earth’s sky—are seen as the spirits of ancestors or celestial dancers.

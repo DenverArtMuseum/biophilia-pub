@@ -18,6 +18,7 @@ module.exports = function(eleventyConfig) {
     const {
       byline_format: bylineFormat,
       image,
+      image_credit,
       object,
       label,
       pageContributors,
@@ -35,12 +36,20 @@ module.exports = function(eleventyConfig) {
       ? `<span class="label">${label}<span class="visually-hidden">${labelDivider}</span></span>`
       : ''
 
+    const imageCredit = image_credit
+      ? html`
+          <span class="hero-credit-icon"></span>
+          <span class="hero-credit">${image_credit}</span>
+        `
+      : ''
+
     const imageElement = image
       ? html`
           <section
             class="${classes} hero__image"
            style="background-image: url('${path.join(imageDir, image)}');"
           >
+           ${imageCredit}
           </section>
         `
       : ''

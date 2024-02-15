@@ -155,14 +155,6 @@ object_list:
     figure:
       - id: "exrr-2022-265"
 
-  - id: ptl-24707
-    artist: Alexandra Kehayoglou
-    title: Bajío
-    year: 2024
-    medium: Hand tufted wool
-    dimensions: 118 × 147 1/2 in.
-    credit: Courtesy of the artist. © Alexandra Kehayoglou
-
   - id: exrr-2023-31
     artist: Studio Gang
     bio: Established 1997, Chicago
@@ -249,7 +241,7 @@ object_list:
     dimensions: 118 × 147½ in. (299.7 × 374.7 cm)
     credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115"
     figure:
-      - id:
+      - id: ptl-24707
 
   - id: ptl-24369
     artist: Greg Lynn
@@ -349,17 +341,18 @@ object_list:
     dimensions: 21 × 15 × 7 in. (53.3 × 38.1 × 17.8 cm)
     credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard.
     figure:
-      - id: "ptl-24661-1"
+      - id: "ptl-24661"
 
   - id: ptl-24662
     artist: Fredrikson Stallard
+    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
     title: "Rock #23"
     year: 2022
     medium: Polyurethane, pigment, and steel
-    dimensions: 24 × 12 × 7 in.
-    credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard
+    dimensions: 24 × 12 × 7 in. (61 × 30.5 × 17.8 cm)
+    credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard.
     figure:
-      - id: "ptl-24662"
+      - id: ptl-24662
 
   - id: ptl-24663
     artist: Álvaro Catalán de Ocón
@@ -675,12 +668,6 @@ object_list:
       - id: "tl-45469-2"
       - id: "tl-45469-3"
 
-  - id: ptl-24707
-    artist: Alexandra Kehayoglou
-    title: Bajío
-    figure:
-      - id: ptl-24707
-
   - id: 2015-267
     artist: Daniel Brown
     bio: British, born 1977, active in London
@@ -691,17 +678,6 @@ object_list:
     credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267"
     figure:
       - id: 
-
-  - id: ptl-24662
-    artist: Fredrikson Stallard
-    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
-    title: "Rock #23"
-    year: 2022
-    medium: Polyurethane, pigment, and steel
-    dimensions: 24 × 12 × 7 in. (61 × 30.5 × 17.8 cm)
-    credit: Courtesy of the artists. Artwork and image © and courtesy Fredrikson Stallard.
-    figure:
-      - id: ptl-24662
 
   - id: tl-45470
     artist: Elena Manferdini

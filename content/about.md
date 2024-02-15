@@ -20,7 +20,11 @@ This publication was created using Quire™, a multiplatform publishing tool cre
 
 All rights reserved. This book may not be reproduced, in whole or in part, including illustrations, in any form or by any means, electronic or mechanical, including photocopy, recording, or other information storage and retrieval system, without prior written permission from the publisher. For questions, email publicationsdept@denverartmuseum.org with the subject line “Publication Permission.”
 
-**insert DAM logo here**
+<div class="dam-logo">
+
+{% figure 'dam-logo' %}
+
+</div>
 
 Published by the Denver Art Museum
 100 West 14th Avenue Parkway

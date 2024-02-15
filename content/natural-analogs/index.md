@@ -6,8 +6,6 @@ contributor:
 layout: essay
 order: 110
 image: figures/PTL-24672.jpg
-object: 
-    - id: ptl-24672
 ---
 
 

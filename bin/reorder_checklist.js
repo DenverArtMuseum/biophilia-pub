@@ -73,14 +73,14 @@ try {
                                 // },
                                 'sortKeys': sortOrder
                             })
-                            content += '---\n\n';
+                            content += '---\n';
                             content += other_content;
 
-                            // try {
-                            //     fs.writeFileSync(md_file, content);
-                            // } catch (err) {
-                            //     console.error(err);
-                            // }
+                            try {
+                                fs.writeFileSync(md_file, content);
+                            } catch (err) {
+                                console.error(err);
+                            }
                             //console.log(content)
                         //}
                         console.log( md_doc.order+' '+md_doc.title )

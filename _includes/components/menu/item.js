@@ -21,7 +21,7 @@ module.exports = function(eleventyConfig) {
      * @type {Boolean}
      */
     var isPage = !!layout 
-    if( linked_page ) isPage = linked_page
+    //if( linked_page ) isPage = linked_page  // does not work yet
     if( title == 'Object Plates' ) isPage = false
     return isPage
       ? `<a href="${url}" class="${currentURL === url ? 'active' : ''}">${titleText}</a>`

@@ -5,7 +5,7 @@ contributor:
     - id: darrin-alfred
 layout: splash
 order: 4
-image: 
+image: figures/PTL-25755~1.jpg
 classes:
   - page-one
 ---

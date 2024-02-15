@@ -1,7 +1,7 @@
 ---
 title: Director's Foreword
 subtitle:
-layout: essay
+layout: page
 order: 3
 class: full-width page-one black-page sticky-hero-image
 ---

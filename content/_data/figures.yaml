@@ -1,5 +1,17 @@
 figure_list:
 
+  - id: dam-logo
+    title: "Denver Art Museum logo"
+    src: DAM-logo@2x.png
+
+  - id: dam-logo-white
+    title: "Denver Art Museum logo"
+    src: DAM-logo-white@2x.png
+
+  - id: biophilia-logo
+    title: "Denver Art Museum logo"
+    src: biophilia-logo.png
+
   - id: forest-walk-audio
     media_type: audiofile
     title: "Kim Ruffin, A Forest Walk: An Audio-Guided Practice"
@@ -463,15 +475,15 @@ figure_list:
     credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Images courtesy David Gill Gallery. Photo by Alejandro Olaya Torres.
     alt: A detail of a deep red sofa that looks as if it is a mountainous rock formation. 
 
-  - id: ptl-24661-1
-    src: figures/PTL-24661~1.jpg
+  - id: ptl-24661
+    src: figures/PTL-24661.jpg
     caption: "Fredrikson Stallard, *Rock #22*, 2022. Polyurethane, pigment, and steel, 21 × 15 × 7 in."
     credit: Courtesy of the artists. Artwork and image  © and courtesy Fredrikson Stallard.
     alt: A bright, Kelly-green colored, rock-shaped sculptural object. It is loosely in the shape of an inverted triangle, smaller at the bottom and wider at the top. The top surface slopes upward from left to right. It is supported by a dark gray mount.
 
-  - id: ptl-24661-2
-    src: figures/PTL-24661~2.jpg
-    caption: "Fredrikson Stallard, *Rock #22*, 2022. Polyurethane, pigment, and steel, 21 × 15 × 7 in."
+  - id: ptl-24662
+    src: figures/PTL-24662.jpg
+    caption: "Fredrikson Stallard, *Rock #23*, 2022. Polyurethane, pigment, and steel, 21 × 15 × 7 in."
     credit: Courtesy of the artists. Artwork and image  © and courtesy Fredrikson Stallard.
 
   - id: ptl-24663

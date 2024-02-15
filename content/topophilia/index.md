@@ -5,7 +5,7 @@ contributor:
     - id: darrin-alfred
 layout: essay
 order: 310
-image:
+image: figures/2017_89-91.jpg
 ---
 
 Popularized by the Chinese-born American geographer Yi-Fu Tuan in 1974, the term [*topophilia*](/glossary/#topophilia) describes the affective bond between people and place or physical environment.[^1] Topophilia, Tuan wrote, “varies greatly in emotional range and intensity,” such as fleeting visual pleasure, a sensual connection that delights the senses, a fondness for that which we call home, and joy on account of well-being and vitality.[^2] Topophilia emphasizes our attachment to place and the symbolic meanings that underlie this attachment. It encompasses both the physical and psychological dimensions of our relationship with the environment we live in.
