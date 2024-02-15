@@ -22,11 +22,31 @@ try {
             //console.log(object.id+': '+object.title);
             var md_file = 'content/checklist/'+object.id+'.md';
             if (fs.existsSync(md_file)) {
-                markdown_file = fs.readFileSync(md_file, 'utf8')
-                //console.log(markdown_file);
+                markdown_lines = fs.readFileSync(md_file, 'utf8').split('\n')
+                var yaml_content = ''
+                var other_content = ''
+                let capture_yaml = false
+                markdown_lines.forEach(async (line) => {
+                    if( line == '---' ) {
+                        if( !capture_yaml ) {
+                            capture_yaml = true
+                        } else {
+                            capture_yaml = false
+                        }
+                        return
+                    }
+
+                    if( capture_yaml ) {
+                        yaml_content += line+"\n"
+                    } else {
+                        other_content += line+"\n"
+                    }
+                });
+                //console.log(yaml_content)
+                //console.log(other_content)
 
                 //var md_doc = yaml.load(fs.readFileSync(file, 'utf8'));
-                yaml.loadAll(markdown_file, function( md_doc ) {
+                yaml.loadAll(yaml_content, function( md_doc ) {
                     //if( md_doc === null ) return
 
                     // if( object.id != md_doc.object[0].id ) {
@@ -43,8 +63,9 @@ try {
                         md_doc.short_title = " "
                         delete md_doc.artist
 
-                        //if( md_doc.order === 401 ) { 
-                            console.log(md_doc);
+                        //if( md_doc.object[0].id === '2023-186-92' ) { 
+                            //console.log(md_doc);
+
                             var content = '---\n';
                             content += yaml.dump(md_doc, {
                                 // 'styles': {
@@ -52,13 +73,16 @@ try {
                                 // },
                                 'sortKeys': sortOrder
                             })
-                            content += '---';
-                            try {
-                                fs.writeFileSync(md_file, content);
-                            } catch (err) {
-                                console.error(err);
-                            }
+                            content += '---\n\n';
+                            content += other_content;
+                            // try {
+                            //     fs.writeFileSync(md_file, content);
+                            // } catch (err) {
+                            //     console.error(err);
+                            // }
+                            //console.log(content)
                         //}
+                        console.log( md_doc.order+' '+md_doc.title )
                     }
                 });
             }

@@ -83,7 +83,7 @@ module.exports = function (eleventyConfig) {
       case 'name':
       case 'name-title':
       case 'name-title-block': {
-        const separator = (format === 'name-title') ? ', ' : ''
+        const separator = (format === 'name-title') ? '<span class="quire-contributor__comma">,</span> ' : ''
         const listItems = contributorList.map((contributor) => {
           const contributorParts = [
             `<span class="quire-contributor__name">${fullname(contributor)}</span>`

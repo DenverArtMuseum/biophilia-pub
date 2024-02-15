@@ -5,7 +5,9 @@ contributor:
     - id: darrin-alfred
 layout: essay
 order: 110
-image:
+image: figures/PTL-24672.jpg
+object: 
+    - id: ptl-24672
 ---
 
 

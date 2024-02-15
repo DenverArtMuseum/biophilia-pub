@@ -18,6 +18,7 @@ module.exports = function(eleventyConfig) {
     const {
       byline_format: bylineFormat,
       image,
+      object,
       label,
       pageContributors,
       subtitle,

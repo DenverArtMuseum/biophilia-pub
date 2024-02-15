@@ -119,8 +119,9 @@ h1 > * {
 h1 > em {
     display: inline;
 }
-.quire-featured .quire-page__header .hero-body .quire-page__header__title {
+.quire-page__header .hero-body .quire-page__header__title {
     color: #333;
+    text-transform: uppercase;
 }
 .quire-page__header__contributor {
     color: #333;
@@ -308,12 +309,11 @@ h1 > em {
     -webkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
     font-size: 1rem;
-    border: 1px solid rgb(191, 185, 101);
-    color: rgb(191, 185, 101);
+    border: 1px solid var(--link-blue);
+    background-color: transparent;
 }
 .button:hover {
-    background-color: #98923f;
-    border-color: #98923f;
+    background-color: var(--link-blue);
 }
 .button:hover a {
     color: #fff;
@@ -641,6 +641,34 @@ body#page-index .quire-navbar-controls__left .logos {
     display: none;
 }
 
+/* Essay pages */
+
+.quire-page.quire-essay .quire-page__header.hero__image {
+    height: calc( 100vh - 4.375rem );
+    padding: 5rem 5rem;
+}
+.quire-page.quire-essay {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.quire-page.quire-essay .hero, .quire-page.quire-essay .hero-image {
+    width: 50%;
+    height: calc( 100vh - 4.375rem );
+}
+.quire-page.quire-essay section.quire-page__content {
+    width: 100%;
+}
+.quire-page.quire-essay .hero-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.quire-page.quire-essay .quire-page__header__contributor .quire-contributor__affiliation,
+.quire-page.quire-essay .quire-page__header__contributor .quire-contributor__comma {
+    display: none;
+}
 
 /* Contributors */
 
@@ -663,20 +691,27 @@ body#page-contributors .media ul {
 
 body#page-checklist .quire-page__header,
 body#page-checklist .quire:not(.no-js) .quire__primary main {
-    background-color: --var(--black-olive);
+    background-color: var(--dark-green);
 }
-/* body#page-checklist .quire-page__header h1 {
+body#page-checklist .quire-page__header h1 {
     color: #fff;
-} */
+}
 body#page-checklist .quire-contents-list.grid .page-item,
 body#page-checklist .quire-contents-list.grid ol li .card {
     background-color: #fff;
 }
 
 /* Glossary */
-
+body#page-glossary .quire-page__header,
+body#page-glossary .quire-page__content {
+    background-color: var(--dark-green);
+    animation: fadeIn 2s;
+}
 body#page-glossary .quire-page__content .container .content > p {
     margin-left: 1rem;
+}
+body#page-glossary .quire-page__content .container .content {
+    margin-top: 0px;
 }
 
 body#page-glossary .alphabetical-index {
