@@ -605,7 +605,8 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     display: none;
 }
 
-.quire-contents-list .menu-list .section-item ol a {
+.quire-contents-list .menu-list .section-item ol a,
+.quire-contents-list .menu-list .section-item ol a:hover {
     border-bottom: none;
 }
 
