@@ -80,9 +80,6 @@
     margin: -100px 0 0;
 }
 
-
-
-
 body {
     /* font-family: 'Raleway', sans-serif !important;
     font-size: 1.25rem;
@@ -560,6 +557,18 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     clear: both;
 }
 
+.littlefoot {
+    --button-background-color: rgb(191,185,101) !important;
+    --button-text-color: #311508 !important;
+    --button-active-background-color: #311508 !important;
+    --button-active-text-color: #fff !important;
+    --button-padding: .0125rem 0.5rem .125rem !important;
+    --button-font-size: 12px;
+}
+
+.littlefoot__button {
+    vertical-align: super !important;
+}
 
 .footnotes hr {
     clear: both;
