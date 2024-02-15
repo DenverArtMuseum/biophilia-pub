@@ -558,9 +558,9 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 }
 
 .littlefoot {
-    --button-background-color: rgb(191,185,101) !important;
-    --button-text-color: #311508 !important;
-    --button-active-background-color: #311508 !important;
+    --button-background-color: var(--light-green) !important;
+    --button-text-color: var(--off-black) !important;
+    --button-active-background-color: var(--off-black) !important;
     --button-active-text-color: #fff !important;
     --button-padding: .0125rem 0.5rem .125rem !important;
     --button-font-size: 12px;
