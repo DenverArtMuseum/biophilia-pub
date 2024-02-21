@@ -370,6 +370,12 @@ window.addEventListener('load', () => {
   }
 })
 
+
+/**
+ * Custom Additions
+ */
+
+
 import $ from "jquery"
 
 import { KeyNavigation } from './keyNavigation'

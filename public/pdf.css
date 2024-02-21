@@ -14687,7 +14687,6 @@ article .quire-page__content .container .content > figure.full-width {
   padding: 40px;
   max-width: calc(100vw - 300px);
   width: auto;
-  max-width: auto;
   clear: both;
   margin-bottom: 1.4em;
   animation: fadeIn 5s;
@@ -14878,7 +14877,8 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
   display: none;
 }
 
-.quire-contents-list .menu-list .section-item ol a {
+.quire-contents-list .menu-list .section-item ol a,
+.quire-contents-list .menu-list .section-item ol a:hover {
   border-bottom: none;
 }
 
@@ -15078,6 +15078,15 @@ body#page-about .dam-logo {
   height: auto;
 }
 
+/* Search */
+.quire-search {
+  height: auto;
+}
+
+.quire-search__close-button {
+  top: 12px;
+}
+
 @media screen and (min-width: 700px) {
   .container {
     margin: 0 auto;
@@ -15088,5 +15097,43 @@ body#page-about .dam-logo {
     top: 4.375rem;
     width: calc(56% - 8px);
     height: calc(100vh - 50px);
+  }
+}
+@media screen and (max-width: 50.25rem) {
+  .quire-navbar-controls__left {
+    flex: 0 0 130px;
+  }
+  .quire-navbar-controls__right {
+    flex: 0 0 130px;
+  }
+  .quire-navbar-page-controls__item,
+  .quire-navbar-page-controls__item a {
+    padding: 0px !important;
+  }
+  .quire-navbar-page-controls__item.quire-previous-page,
+  .quire-navbar-page-controls__item.quire-next-page {
+    min-width: auto;
+  }
+  .quire-navbar-page-controls__item.quire-previous-page a span.nav-text,
+  .quire-navbar-page-controls__item.quire-next-page a span.nav-text {
+    display: none;
+  }
+  .quire-navbar .logos h1 {
+    font-size: 14px !important;
+  }
+  .quire-navbar-button.menu-button .is-hidden-touch,
+  .quire-navbar-button.search-button .is-hidden-touch {
+    display: none;
+  }
+  .quire-navbar svg {
+    max-height: 1.4rem;
+    max-width: 1.4rem;
+  }
+  .quire-page__content .container .content .pull-quote {
+    font-size: 1.4rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100vw;
+    padding: 0px 0px 20px;
   }
 }
