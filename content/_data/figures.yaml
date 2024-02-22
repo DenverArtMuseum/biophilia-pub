@@ -186,6 +186,11 @@ figure_list:
     credit: Exhibition funds from Denver Art Museum. © Nao Tamura.
     alt: A dark green, oval-shaped serving tray that comes to a point on both ends. 
 
+  - id: exacc-2023-105
+    src: figures/EXRR_2023_105.jpg
+    caption: David Wiseman, Midnight in the Meadow Wallpaper, 2023.
+    credit: Courtesy of Wiseman Studio. © David Wiseman
+
   - id: exrr-2023-78-1
     src: figures/EXRR_2023_78.jpg
     caption: Ronan Bouroullec and Erwan Bouroullec, *Algues*, 2004. Injection-molded plastic; dimensions variable, each component 12½ × 10 in. Manufactured by Vitra, Birsfelden, Switzerland.
@@ -334,7 +339,7 @@ figure_list:
     alt: Color photograph of Shylight displayed in a gallery. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
 
   - id: exrr-2023-93
-    src: figures/EXRR_2023_93_FPO.jpg
+    src: figures/EXRR_2023_93.jpg
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. 
     credit: Represented by Pace Gallery. © DRIFT.
     alt: Side view of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
@@ -399,7 +404,7 @@ figure_list:
     alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
   - id: ptl-24707
-    src: figures EXRR_2024_35_FPO.jpg
+    src: figures EXRR_2024_35.jpg
     caption: Alexandra Kehayoglou, *Bajío*, 2024. Hand tufted wool, 118 × 147½ in. 
     credit: Courtesy of the artist. © Alexandra Kehayoglou.
 
@@ -452,7 +457,7 @@ figure_list:
     alt: A close-up, color photo of the polyester petals of Hortensia Armchair. The pastel-pink petals form a plush, carpet-like texture.
 
   - id: ptl-24650-59-63-64
-    src: figures/PTL-24650-59_PTL-26463-64_FPO.jpg
+    src: figures/PTL-24650-59_PTL-26463-64.jpg
     caption: David Valner, *Fungus Vases* and *Polypore Bowl*, 2018–23. Handcrafted glass, dimensions variable.
     credit: Courtesy and © of the artist.
     alt: Eleven vases and one bowl inspired by the different shapes of mushrooms in different colors, including orange, pink, turquoise, lavender, dark green, and brown.
@@ -497,6 +502,16 @@ figure_list:
     caption: PELLE, *Nana Lure Chandelier*, 2021. Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia.
     credit: Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image courtesy of PELLE.
     alt: A chandelier with six large leaves radiating out from the center. The centers of the leaves are green, gradually turning a brownish red around the edges. The warm glow of light emanates from under each leaf.
+
+  - id: ptl-24672-1
+    src: figures/PTL-24672~1.jpg
+    caption: PELLE, *Nana Lure Chandelier*, 2021. Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia.
+    credit: Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image courtesy of PELLE.
+
+  - id: ptl-24672-2
+    src: figures/PTL-24672~2.jpg
+    caption: PELLE, *Nana Lure Chandelier*, 2021. Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia.
+    credit: Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image courtesy of PELLE.
 
   - id: ptl-24698-1
     src: figures/PTL-24698~1.jpg
@@ -694,6 +709,11 @@ figure_list:
     src: figures/PTL-24736~9.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+
+  - id: ptl-25093-97
+    src: figures/PTL-25093-97.jpg
+    caption: Zaha Hadid, *Tau Vases*, 2015. Bardiglio Nuvolato marble, 7⅞ × 13⅜ in. Manufactured by Citco, Rivoli Veronese, Italy.
+    credit: Courtesy of CITCO USA CORP. 
 
   - id: ptl-25093
     src: figures/PTL-25093_FPO.jpg
