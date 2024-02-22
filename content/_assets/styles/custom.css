@@ -159,6 +159,9 @@ h1 > em {
     background-color: #333333;
     color: #ffffff !important;    
 }
+.quire-navbar .nav-text {
+    color: #ffffff !important;    
+}
 .quire-navbar svg {
     fill: #ffffff;
 }
@@ -573,6 +576,9 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     clear: both;
 }
 
+.footnotes.littlefoot--print {
+    padding-top: 40px;
+}
 .footnotes.littlefoot--print,
 .footnotes .littlefoot--print,
 .footnotes.footnote-print-only,
