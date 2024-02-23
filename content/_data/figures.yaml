@@ -58,14 +58,14 @@ figure_list:
   - id: 2008-163-1
     src: figures/2008_163.jpg
     caption: "Joris Laarman, *Bone Armchair (prototype)*, 2008. Cast marble resin and ground bone china, 29½ × 31½ × 39½ in."
-    credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    credit: "High Museum of Art, Atlanta, purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photography by Peter Harholdt, courtesy of the High Museum of Art."
     alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
     zoom: true
 
   - id: 2008-163-2
     src: figures/EXRR_2023_87.jpg
     caption: "Joris Laarman, *Bone Armchair (prototype)*, 2008. Cast marble resin and ground bone china, 29½ × 31½ × 39½ in."
-    credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    credit: "High Museum of Art, Atlanta, Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photogrpahy by Peter Harholdt, courtesy of the High Museum of Art."
     alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
     zoom: true
 
@@ -90,35 +90,35 @@ figure_list:
 
   - id: 2022-57-1
     src: figures/2022_57~1.jpg
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
+    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon and LED, 43¼ in. diam. Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: Image of a person lying under Floraform Chandelier, an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
     zoom: true
 
   - id: 2022-57-2
     src: figures/2022_57~2.jpg
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
+    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon and LED, 43¼ in. diam. Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: Image of the Floraform Chandelier lit and casting shadows. It is an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
     zoom: true
 
   - id: 2022-57-3
     src: figures/2022_57~3.jpg
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
+    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon and LED, 43¼ in. diam. Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: An undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
     zoom: true
 
   - id: 2022-57-4
     src: figures/2022_57~4.jpg
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
+    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon and LED, 43¼ in. diam. Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: View of the interior of Floraform Chandelier.
     zoom: true
 
   - id: 2022-57-5
     src: figures/2022_57~5.jpg
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
+    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon and LED, 43¼ in. diam. Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: A person stands under Floraform Chandelier and holds out an arm, which is cast in shadows from the artwork, as is the wall behind. 
     zoom: true
@@ -160,7 +160,7 @@ figure_list:
 
   - id: 2023-6
     src: figures/2023_6.jpg
-    caption: Sandra Davolio, *Coral Flower IV*, 2022. Porcelain, 9¾ × 11 in. dia. 
+    caption: Sandra Davolio, *Coral Flower IV*, 2022. Porcelain, 9¾ × 11 in. diam. 
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photography by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
     alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain.
     zoom: true
@@ -175,7 +175,7 @@ figure_list:
   - id: exrr-2023-94
     src: figures/AF_2000_gottlieb-me_mcdowell.jpg
     caption: McDowell Sonoran Sunset.
-    credit: Photograph © by Marc Elliot Gottlieb, 2009, licensed courtesy of Artifract®.
+    credit: Photography © by Marc Elliot Gottlieb, 2009, licensed courtesy of Artifract®.
     alt: Color photograph of the Sonoran Desert at sunset. Cacti and yellow desert flowers populate the foreground, with gentle mountains in the background.
     zoom: true
 
@@ -222,89 +222,89 @@ figure_list:
   - id: exrr-2023-78-2
     src: figures/EXACC_2023_78~2_FPO.jpg
     caption: Ronan Bouroullec and Erwan Bouroullec, *Algues*, 2004. Injection-molded plastic; dimensions variable dimensions, each component 12½ × 10 in. Manufactured by Vitra, Birsfelden, Switzerland.
-    credit: Exhibition purchase. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Taham and R. Bouroullec and E. Bouroullec.
+    credit: Exhibition purchase. © Ronan Bouroullec and Erwan Bouroullec.
     alt: A singular algae component from the larger Algues artwork. Yellow-green plastic branching out in different directions like the branches of a tree. 
 
   - id: exrr-2022-264
     src: figures/EXRR_2022_264.jpg
     caption: Greg Lynn, *Flatware Prototype Sketch*, 2003-2005. Ink on paper, 9 × 11 in. 
-    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
+    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NY."
     alt: "Black ink sketch of flatware. From left to right: a “matrix” sketch of several pieces of overlapping utensils, a “table fork,” a “soup spoon,” a “mocha spoon,” and a “salad fork.” The bottom lefthand corner reads: “Alessi Webbed Flatware, 7 September 2003.”"
     zoom: true
 
   - id: exrr-2022-265
     src: figures/EXRR_2022_265.jpg
     caption: Greg Lynn, *Flatware Prototype Sketch*, 2003-2005. Ink on paper, 9 × 11 in.
-    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
+    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NY."
     alt: "Black ink sketch of four pieces of flatware. From left to right: a “table knife,” a “serving” utensil, a “ladle,” and a “cake spatula.” The bottom righthand corner reads: “Alessi Webbed Flatware, 7 September 2003.”"
     zoom: true
 
   - id: exrr-2023-31-1
     src: figures/EXRR_2023_31_1.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: Studio Gang, Populus, Denver, Colorado, 2019-24. Exterior view, 2020. Digital rendering.
+    credit: Courtesy of and © Studio Gang
     alt: Digital rendering of a white building with architecture inspired by the Aspen tree. It is between two one-way streets, with cars going in different directions
     zoom: true
 
   - id: exrr-2023-31-2
     src: figures/EXRR_2023_31_2.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: Studio Gang, Populus, Denver, Colorado, 2019-24. Exterior view into lobby, restaurant, and amenity spaces, 2020. Digital rendering.
+    credit: Courtesy of and © Studio Gang
     alt: A street-view, digital rendering of the lower half of a white building with an exterior that looks like dozens of Aspen tree trunks aligned tightly and vertically. There are three green trees at the base of the building, and people milling about on the sidewalk. 
     zoom: true
 
   - id: exrr-2023-31-3
     src: figures/EXRR_2023_31_3.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: Studio Gang, Populus, Denver, Colorado, 2019-24. Unrolled elevation and window modules, 2019; digital drawing.
+    credit: Courtesy of and © Studio Gang
     alt: "Architectural plan of the side of the Populus building showing elevations and window modules. At the top, details of the “Micro-Unit Grand Window,” “Micro-Unit Seat Window,” “Micro-Unit Lounge Window,” Ground Floor Storefront,” and “Rooftop Lounge.”"
     zoom: true
 
   - id: exrr-2023-31-4
     src: figures/EXRR_2023_31_4.jpg
     caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    credit: Courtesy of and © Studio Gang
     alt: Digital rendering of the Populus hotel, situating it to Downtown, the Rocky Mountains, and the State Capital and Civic Center Park.
     zoom: true
 
   - id: exrr-2023-31-5
     src: figures/EXRR_2023_31_5.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: Studio Gang, Populus, Denver, Colorado, 2019-24. Environmental systems and social connectivity, 2023; digital diagram.
+    credit: Courtesy of and © Studio Gang
     alt: "diagram of the Populus building. It highlights VIEWS: Aspen Eye and Roof Terrace; ENERGY: Efficient Mechanical Systems, Concrete Structure, High Performance Envelope; URBAN AMENITIES: Café, Bike Share Stations, Bike Lanes, No On-Site Parking; and SOCIAL CONNECTIVITY: Urban Living Room, and Local Food."
     zoom: true
 
   - id: exrr-2023-31-6
     src: figures/EXRR_2023_31_6.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: "Studio Gang, Aspen Eye Research: Diagram, Denver, Colorado, digital rendering, 2020."
+    credit: Diagram © Studio Gang. Photo by Peng Chen on Unsplash, 2017.
     alt: A picture of aspen trees with drawings of their eyes broken down by height, direction, width, and scale.
 
   - id: exrr-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
-    credit: Courtesy of the artist and Friedman Benda.
+    caption: Joris Laarman, Adaptation Chair Design Study, 2013. Digital drawing.
+    credit: Courtesy of Joris Laarman and Friedman Benda.
     alt: Digital process rendering sketch.
     zoom: true
 
   - id: exrr-2023-33
     src: figures/EXRR_2023_33.jpg
-    caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013.  
-    credit: Courtesy of the artist and Friedman Benda.
+    caption: Joris Laarman, Adaptation Chair Design Study, 2013. Digital drawing.  
+    credit: Courtesy of Joris Laarman and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
     zoom: true
 
   - id: exrr-2023-43-1
     src: figures/EXRR_2023_43_1.jpg
-    caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
-    credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
+    caption: J. MAYER H., *Metropol Parasol, Seville, Spain*, 2004–11. Aerial view, 2011.
+    credit: © J.MAYER.H. Photography by Fernando Alda Fotógrafo.
     alt: Aerial color photograph of the Metropol Parasol in Seville, Spain. The giant latticed timber canopy is surrounded by the red tiled roofed buildings of the city.
     zoom: true
 
   - id: exrr-2023-43-2
     src: figures/EXRR_2023_43_2.jpg
-    caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
-    credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
+    caption: J. MAYER H., *Metropol Parasol, Seville, Spain*, 2004–11. View of plaza, 2011.
+    credit: © J.MAYER.H. Photography by Fernando Alda Fotógrafo.
     alt: Color photograph of the plaza underneath the Metropol Parasol in Seville, Spain. Light shines through the latticed roof casting a checker-like pattern on the ground. Dozens of people mill about. 
     zoom: true
 
@@ -338,8 +338,8 @@ figure_list:
 
   - id: exrr-2023-43-7
     src: figures/EXRR_2023_86.jpg
-    caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
-    credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
+    caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. View of column and roof, 2011.
+    credit: © J.MAYER.H. Photography © Iñigo Bujedo Aguirre.
     alt: Color photograph taken underneath the Metropol Parasol in Seville, Spain, featuring a column and part of the latticed roof. Sunshine comes through the lattices and casts rectangles of light on the column and the ground.
     zoom: true
 
@@ -350,89 +350,90 @@ figure_list:
   - id: exrr-2023-91-1
     src: figures/EXRR_2023_91_1.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. (4 × 4.9 × 5.8 m).
-    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
     zoom: true
 
   - id: exrr-2023-91-2
     src: figures/EXRR_2023_91_2.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. (4 × 4.9 × 5.8 m).
-    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A large clay sphere with cracks running like veins over the surface. 
     zoom: true
 
   - id: exrr-2023-91-3
     src: figures/EXRR_2023_91_3.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. (4 × 4.9 × 5.8 m).
-    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: View of interior of Clay Houses. Empty room with a lofted ceiling that comes to a point. The light brown walls look like cracked clay. 
     zoom: true
 
   - id: exrr-2023-91-4
     src: figures/EXRR_2023_91_4.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. (4 × 4.9 × 5.8 m).
-    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: Close-up image of a wall from Clay Houses that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
     zoom: true
 
   - id: exrr-2023-92
     src: figures/EXRR_2023_92.jpg
-    caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics.
-    credit: NYCB Art Series 2023. ©  DRIFT, represented by Pace Gallery. Photo by Andy Romer, courtesy of NYCB.
+    caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. NYCB Art Series 2023.
+    credit: © 2024 DRIFT. Photography by Andy Romer, courtesy of NYCB.
     alt: Color photograph of Shylight displayed in a gallery. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
     zoom: true
 
   - id: exrr-2023-93
     src: figures/EXRR_2023_93.jpg
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. 
-    credit: Represented by Pace Gallery. © DRIFT.
+    credit: © 2024 DRIFT. Photography by Juuke Schoorl, courtesy of DRIFT.
     alt: Side view of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
     zoom: true
 
   - id: exrr-2023-95
     src: figures/EXRR_2023_95_1.jpg
     caption: Osorno Volcano, Chile.
-    credit: © Gt2P Spa.
+    credit: © and image courtesy Gt2P Spa.
     alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
     zoom: true
 
   - id: exrr-2023-95-2
     src: figures/EXRR_2023_95~2.jpg
     caption: Osorno Volcano, Chile.
+    credit: © and image courtesy Gt2P Spa.
     alt: A vertical photograph of the rocky landscape around the Osorno Volcano. Dark gray rocks fill the bottom two-thirds of the composition. A line of green trees in front of the Andes Mountains and a bright blue sky with white clouds at the top.
     zoom: true
 
   - id: exrr-2023-101
     src: figures/EXRR_2023_101.jpg
     caption: Aspen Grove.
-    credit: Photo by Peng Chen on Unsplash, 2017. 
+    credit: Courtesy Unsplash / Photography by Peng Chen, 2017.
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
     zoom: true
 
   - id: exrr-2023-102
     src: figures/EXRR_2023_102.jpg
     caption: Aspen Grove.
-    credit: Photo by Patrick Hendry on Unsplash, 2017. 
+    credit: Courtesy Unsplash/Photography by Patrick Hendry, 2017. 
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. 
     zoom: true
 
   - id: exrr-2023-103-1
     src: figures/EXRR_2023_103_1.jpg
-    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2021.
+    caption: MAD Architects, *Nanjing Zendai Himalayas Center, Nanjing, China*, 2012-2021. View of center of complex, 2021.
     credit: Courtesy of MAD Architects. © MAD Architects. Photography by CreatAR Images.
     alt: Color photo of the Nanjing Zendai Himalayas Center. Towering buildings with articulated white ridges soar above smaller scale buildings and connecting pathways and green spaces in a city center. 
     zoom: true
 
   - id: exrr-2023-103-2
     src: figures/EXRR_2023_103_2.jpg
-    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2021.
+    caption: MAD Architects, *Nanjing Zendai Himalayas Center, Nanjing, China*, 2012-2021. Aerial view, 2021.
     credit: Courtesy of MAD Architects. © MAD Architects. Photography by CreatAR Images.
     alt: View of Nanjing Zendai Himalayas Center from high above. A grid of three horizontal by two vertical city blocks. Surrounded by wide streets and other city buildings. 
     zoom: true
 
   - id: exrr-2023-103-3
     src: figures/EXRR_2023_103_3.jpg
-    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2021.
+    caption: MAD Architects, *Nanjing Zendai Himalayas Center, Nanjing, China*, 2012-2021. Aerial view; 2021.
     credit: Courtesy of MAD Architects. © MAD Architects. Photography by CreatAR Images.
     alt: Aerial view at dusk of Nanjing Zendai Himalayas Center. The center is brightly lit and surrounded by the rest of the city; a major road, and a river to the left. Soft gray clouds in the orange sky at the top of the frame.
     zoom: true
