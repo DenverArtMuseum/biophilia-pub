@@ -561,22 +561,28 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 
 .canvas-panel-ui {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: column nowrap;
     position: absolute;
-    top: -58px;
-    left: 44px;
+    top: -24px;
+    right: 10px;
 }
 .canvas-panel-ui .canvas-panel-ui-button {
     background: transparent;
     border: none;
     height: 30px;
     width: 30px;
-    margin: 0 4px;
+    margin: 4px 0;
     padding: 0;
 }
 .canvas-panel-ui svg {
     width: 100%;
     height: 100%;
+}
+
+.quire-entry .side-by-side .q-lightbox-ui__fullscreen-button {
+    right: 11px;
+    left: unset;
+    margin-left: 0;
 }
 
 .littlefoot {
