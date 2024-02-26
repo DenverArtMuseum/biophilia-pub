@@ -39,7 +39,7 @@ object_list:
     medium: 3-D-printed nylon and LED
     dimensions: 43¼ in. dia. (109.9 cm dia.)
     manufacturer: Produced by Shapeways, New York City.
-    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
+    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, Inc. Image courtesy of Nervous System."
     figure:
       - id: "2022-57-1"
       - id: "2022-57-2"
@@ -48,36 +48,36 @@ object_list:
       - id: "2022-57-5"
   
   - id: "2022-160"
-    artist: Aranda&#92;Lasch and Terrol Dew Johnson
-    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
+    artist: Aranda\Lasch and Terrol Dew Johnson
+    bio: "Aranda\Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
     dimensions: 16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-160-1"
       - id: "2022-160-2"
   
   - id: "2022-161"
-    artist: Aranda&#92;Lasch and Terrol Dew Johnson
-    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
+    artist: Aranda\Lasch and Terrol Dew Johnson
+    bio: "Aranda\Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
     dimensions: 19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-161"
 
   - id: "2022-162"
-    artist: Aranda&#92;Lasch and Terrol Dew Johnson
-    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
+    artist: Aranda\Lasch and Terrol Dew Johnson
+    bio: "Aranda\Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
     dimensions: 13⅜ × 10¼ × 6¾ in. (34 × 26 × 17.1 cm)
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.162. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.162. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-162-1"
       - id: "2022-162-2"
@@ -89,7 +89,7 @@ object_list:
     year: 2022
     medium: Porcelain
     dimensions: 9¾ × 11 in. dia. (24.8 × 27.9 cm) 
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photography by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photograph by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
     figure:
       - id: "2023-6"
 
@@ -98,7 +98,7 @@ object_list:
     bio: Established 2004, Stockholm
     title: Curve Lamps
     year: 2018–19
-    medium: Painted metal base and painted glass or metal shades
+    medium: Painted metal base and painted glass shade
     dimensions: Dimensions variable
     manufacturer: Manufactured by Zero Lighting, Nybro, Sweden
     credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–192. © Front. Image courtesy of Zero Lighting."
@@ -108,12 +108,12 @@ object_list:
   - id: exacc-2022-74
     artist: Nao Tamura
     bio: Japanese, born 1976, active in Brooklyn, New York
-    title: Seasons and Petal Servingware
+    title: Seasons and Petal Serving Ware
     year: 2011
     medium: Silicone
-    dimensions: Dimensions variable
+    dimensions: 9½ × 7⅞ in. each
     manufacturer: Manufactured by COVO, Rome, Italy.
-    credit: Exhibition funds from the Denver Art Museum. © Nao Tamura
+    credit: Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura
     figure:
       - id: "exacc-2022-74"
       - id: "exacc-2022-75"
@@ -128,7 +128,7 @@ object_list:
     medium: Injection-molded plastic
     dimensions: Dimensions variable, each component 12½ × 10 in. (31.8 × 25.4 cm)
     manufacturer: Manufactured by Vitra, Birsfelden, Switzerland.
-    credit: Exhibition funds from the Denver Art Museum. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Taham and R. Bouroullec and E. Bouroullec.
+    credit: Exhibition funds from the Denver Art Museum. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Tahon and R. Bouroullec and E. Bouroullec.
     figure:
       - id: "exrr-2023-78-1"
       - id: "exrr-2023-78-2"
@@ -137,10 +137,10 @@ object_list:
     artist: Greg Lynn
     bio: American, born 1964, active in Los Angeles
     title: Flatware Prototype Sketch
-    year: 2003-2005
+    year: 2003-05
     medium: Reproduction of ink-on-paper drawing
-    dimensions: 9 × 11 in. 
-    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
+    dimensions: 9 × 11 in. (22.9 × 27.9 cm)
+    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates/LACMA. Licensed by Art Resource, NY."
     figure:
       - id: "exrr-2022-264"
 
@@ -148,10 +148,10 @@ object_list:
     artist: Greg Lynn
     bio: American, born 1964, active in Los Angeles
     title: Flatware Prototype Sketch
-    year: 2003-2005
+    year: 2003-05
     medium: Reproduction of ink-on-paper drawing
-    dimensions: 9 × 11 in. 
-    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NYM."
+    dimensions: 9 × 11 in. (22.9 × 27.9 cm)
+    credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates/LACMA. Licensed by Art Resource, NY."
     figure:
       - id: "exrr-2022-265"
 
@@ -159,9 +159,9 @@ object_list:
     artist: Studio Gang
     bio: Established 1997, Chicago
     title: Populus, Denver, Colorado
-    medium: 
+    medium: Digital rendering
     year: 2019–24
-    credit: © Studio Gang
+    credit: © and courtesy of Studio Gang
     figure:
       - id: "exrr-2023-31-1"
       - id: "exrr-2023-31-2"
@@ -175,7 +175,7 @@ object_list:
     bio: Established 1996, Berlin
     title: Metropol Parasol, Seville, Spain
     year: 2004–11
-    credit: © J.MAYER.H.
+    credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo
     figure:
       - id: "exrr-2023-43-1"
       - id: "exrr-2023-43-2"
@@ -191,9 +191,9 @@ object_list:
     artist: Andy Goldsworthy
     title: Clay Houses (Boulder-Room-Holes)
     year: 2007
-    medium: Mica-schist, clay, hair, slate
-    dimensions: exterior of each house 4 × 4.9 × 5.8 m.
-    credit: "© Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photo: Jerry Thompson. Glenstone Museum, Potomac, Maryland"
+    medium: Mica-schist, clay, hair, and slate
+    dimensions: exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
+    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland"
     figure:
       - id: "exrr-2023-91-1"
       - id: "exrr-2023-91-2"
@@ -239,7 +239,7 @@ object_list:
     year: 2024
     medium: Hand-tufted wool
     dimensions: 118 × 147½ in. (299.7 × 374.7 cm)
-    credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115"
+    credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115.  © and courtesy of Alexandra Kehayoglou" 
     figure:
       - id: ptl-24707
 
