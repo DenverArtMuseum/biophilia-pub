@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exrr-2023-104/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exrr-2023-104/canvas",
+      "type": "Canvas",
+      "height": 1543,
+      "width": 2400,
+      "items": [
+        {
+          "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exrr-2023-104/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exrr-2023-104/canvas/EXRR_2023_104",
+              "motivation": "painting",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/exrr-2023-104/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exrr-2023-104/EXRR_2023_104/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1543,
+                "width": 2400,
+                "label": {
+                  "en": [
+                    "E X R R 2023 104"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exrr-2023-104/EXRR_2023_104/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

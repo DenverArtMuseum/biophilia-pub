@@ -1,0 +1,28 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/2022-160-2/2022_160~2_FPO/tiles",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1200,
+  "height": 887
+}
