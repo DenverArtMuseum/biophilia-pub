@@ -296,7 +296,7 @@ figure_list:
 
   - id: exrr-2023-43-1
     src: figures/EXRR_2023_43_1.jpg
-    caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view.
+    caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view, 
     credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Aerial color photograph of the Metropol Parasol in Seville, Spain. The giant latticed timber canopy is surrounded by the red tiled roofed buildings of the city.
     zoom: true
@@ -378,16 +378,17 @@ figure_list:
   - id: exrr-2023-92
     src: figures/EXRR_2023_92.jpg
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics.
-    credit: NYCB Tenth Annual Art Series, winter 2023. © DRIFT, represented by Pace Gallery. Photography by Andy Romer, image courtesy of NYCB.
-    alt: Color photograph of *Shylight* displayed in a gallery. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
+    credit: © 2023 DRIFT, represented by Pace Gallery. NYCB Tenth Annual Art Series, winter 2023. Photography by Andy Romer, image courtesy of NYCB.
+    alt: Color photograph of Shylight displayed in a gallery. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
     zoom: true
 
   - id: exrr-2023-93
     src: figures/EXRR_2023_93.jpg
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. 
-    credit: © DRIFT. Represented by Pace Gallery. Photograph by Juuke Schoorl, image courtesy of DRIFT.
-    alt: Side view of a single chandelier from *Shylight*. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
+    credit: © 2023 DRIFT, represented by Pace Gallery. Photography by Juuke Schoorl, image courtesy of DRIFT.
+    alt: Side view of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
     zoom: true
+
 
   - id: exrr-2023-95
     src: figures/EXRR_2023_95_1.jpg
@@ -399,21 +400,21 @@ figure_list:
   - id: exrr-2023-95-2
     src: figures/EXRR_2023_95~2.jpg
     caption: Osorno Volcano, Chile.
-    credit: "© and image courtesy of Gt2P Spa."
+    credit: © and image courtesy of Gt2P Spa.
     alt: A vertical photograph of the rocky landscape around the Osorno Volcano. Dark gray rocks fill the bottom two-thirds of the composition. A line of green trees in front of the Andes Mountains and a bright blue sky with white clouds at the top.
     zoom: true
 
   - id: exrr-2023-101
     src: figures/EXRR_2023_101.jpg
     caption: Aspen Grove.
-    credit: Photofraph by Peng Chen on Unsplash, 2017. 
+    credit: Courtesy Unsplash/Photography by Peng Chen, 2017.
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
     zoom: true
 
   - id: exrr-2023-102
     src: figures/EXRR_2023_102.jpg
     caption: Aspen Grove.
-    credit: Photograph by Patrick Hendry on Unsplash, 2017. 
+    credit: Courtesy Unsplash/Photography by Patrick Hendry, 2017. 
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. 
     zoom: true
 
@@ -474,21 +475,21 @@ figure_list:
   - id: ptl-24375-1
     src: figures/PTL-24375_FPO.jpg
     caption: Andreea Avram Rusu, *Botanica Chandelier*, 2023. Glass, brass, steel, leather, and LED; 135 × 56 × 33 in.
-    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
+    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy courtesy of Wexler Gallery.
     alt: A chandelier with light green, light yellow, and light purple features.
     zoom: true
 
   - id: ptl-24375-2
     src: figures/PTL-24375~2_FPO.jpg
     caption: Andreea Avram Rusu, *Botanica Chandelier*, 2023. Glass, brass, steel, leather, and LED; 135 × 56 × 33 in.
-    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
-    alt: A diagram of the *Botanica Chandelier*.
+    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    alt: A diagram of the Botanica Chandelier.
     zoom: true
 
   - id: ptl-24455
     src: figures/PTL-24455_1-3.jpg
     caption: threeASFOUR, *Autumn Leaf Suit*, from the *Human Plant* Collection, Spring/Summer 2020, Look 6. Digitally printed cotton voile and broadcloth.
-    credit: Courtesy of threeASFOUR. Photograph by Randy Brooke.
+    credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
     alt: Front view of a model walking down the runway wearing a three-piece suit with a light-brown, autumn leaf print.
     zoom: true
 
@@ -523,28 +524,28 @@ figure_list:
   - id: ptl-24650-59-63-64
     src: figures/PTL-24650-59_PTL-26463-64.jpg
     caption: David Valner, *Fungus Vases* and *Polypore Bowl*, 2018–23. Handcrafted glass, dimensions variable.
-    credit: © and courtesy of the artist. Photograph by Tereza Valnerová.
+    credit: Courtesy and © of the artist. Photography by Tereza Valnerová.
     alt: Eleven vases and one bowl inspired by the different shapes of mushrooms in different colors, including orange, pink, turquoise, lavender, dark green, and brown.
     zoom: true
 
   - id: ptl-24660-1
     src: figures/PTL-24660~1.jpg
-    caption: Fredrikson Stallard, *Species 1*, 2015. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
-    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy of David Gill Gallery. Photograph by Alejandro Olaya Torres.
+    caption: Fredrikson Stallard, *Species 1*, 2021. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
+    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photography by Alejandro Olaya Torres.
     alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
     zoom: true
 
   - id: ptl-24660-2
     src: figures/PTL-24660~2.jpg
-    caption: Fredrikson Stallard, *Species 1*, 2015. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
-    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photograph by Alejandro Olaya Torres.
+    caption: Fredrikson Stallard, *Species 1*, 2021. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
+    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photography by Alejandro Olaya Torres.
     alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
     zoom: true
 
   - id: ptl-24660-3
     src: figures/PTL-24660~3.jpg
-    caption: Fredrikson Stallard, *Species 1*, 2015. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
-    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photograph by Alejandro Olaya Torres.
+    caption: Fredrikson Stallard, *Species 1*, 2021. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
+    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photography by Alejandro Olaya Torres.
     alt: A detail of a deep red sofa that looks as if it is a mountainous rock formation. 
     zoom: true
 
@@ -734,85 +735,85 @@ figure_list:
 
   - id: ptl-24721-1
     src: figures/PTL-24721~1.jpg
-    caption: Iris van Herpen, *Diatom Gown*, from the *Sensory Seas* Collection, Spring/Summer 2020. Oil paintings by Shelee Carruthers digitally printed on organza. 
-    credit: Courtesy of Iris van Herpen. © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen.
+    caption: Iris van Herpen, *Diatom Gown*, from the *Sensory Seas* Collection, Spring/Summer 2020.
+    credit: © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen Atelier.
     alt: Front view of a model wearing a floor-length dress with long sleeves that completely cover their arms. The drapey material has an aquatic print in seafoam green, black, blue, and purple.
     zoom: true
 
   - id: ptl-24735
     src: figures/PTL-24735.jpg
     caption: Andreea Avram Rusu, *Botanica Chandelier*, 2023. Glass, brass, steel, leather, and LED, 135 × 56 × 33 in.
-    credit: Courtesy of the artist and Wexler Gallery. Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
+    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy courtesy of Wexler Gallery.
     alt: A chandelier with orange, black, and green tones of blown glass light fixtures hanging from leather stems, inspired by banana flowers and the botanical gardens of Lisbon.
     zoom: true
 
   - id: ptl-24736-1
     src: figures/PTL-24736.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-2
     src: figures/PTL-24736~1.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: View from top of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-3
     src: figures/PTL-24736~2.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: View from top of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-4
     src: figures/PTL-24736~3.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: Detail of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-5
     src: figures/PTL-24736~4.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: Detail of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-6
     src: figures/PTL-24736~5.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: Detail of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-7
     src: figures/PTL-24736~6.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-8
     src: figures/PTL-24736~7.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-9
     src: figures/PTL-24736~8.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
     zoom: true
 
   - id: ptl-24736-10
     src: figures/PTL-24736~9.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in.
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
     zoom: true
 
   - id: ptl-25093-97
@@ -852,15 +853,15 @@ figure_list:
 
   - id: ptl-25107-1
     src: figures/PTL-25107~1.jpg
-    caption: Iris van Herpen, *Dress*, from the *Syntopia* Collection, Autumn/Winter 2018. Laser-cut Mylar and cotton heat-bonded onto organza.
-    credit: "Courtesy of Iris van Herpen. © Iris van Herpen. Photograph by Gio Staiano @giostaiano; Styling: Patti Wilson @patti_wilson; Make-up: Terry Barber @terrybarberonbeauty & the @maccosmeticsfrance PRO Team Hair: Martin Cullen @martincullen65 @streetersldn; Manicure: Jessica Scholten @jessicascholten_ @opin. Image courtesy Iris van Herpen."
+    caption: Iris van Herpen, *Dress*, from the *Syntopia* Collection, Autumn/Winter 2018. Laser-cut Mylar and cotton heat bonded onto organza.
+    credit: Courtesy of Iris van Herpen. © Iris van Herpen. Image courtesy of Iris van Herpen Atelier.
     alt: Front view of a model walking down a runway wearing an asymmetrical, one shouldered, short sleeved dress that hits mid-thigh. Horizontally, the dress has alternating lines of moss green and sheer material. Thin, white zig-zagged lines run vertically from top to bottom.
     zoom: true
 
   - id: ptl-25107-2
     src: figures/PTL-25107~2.jpg
-    caption: Iris van Herpen, *Dress*, from the *Syntopia* Collection, Autumn/Winter 2018. Laser-cut Mylar and cotton heat-bonded onto organza.
-    credit: "Courtesy of Iris van Herpen. © Iris van Herpen. Photograph by Gio Staiano @giostaiano; Styling: Patti Wilson @patti_wilson; Make-up: Terry Barber @terrybarberonbeauty & the @maccosmeticsfrance PRO Team Hair: Martin Cullen @martincullen65 @streetersldn; Manicure: Jessica Scholten @jessicascholten_ @opin. Image courtesy Iris van Herpen.""
+    caption: Iris van Herpen, *Dress*, from the *Syntopia* Collection, Autumn/Winter 2018. Laser-cut Mylar and cotton heat bonded onto organza.
+    credit: Courtesy of Iris van Herpen. © Iris van Herpen. Image courtesy of Iris van Herpen Atelier.
     alt: Rear view of a model walking down a runway wearing an asymmetrical, one shouldered, short sleeved dress that hits mid-thigh. Horizontally, the dress has alternating lines of moss green and sheer material. Thin, white zig-zagged lines run vertically from top to bottom.
     zoom: true
 
