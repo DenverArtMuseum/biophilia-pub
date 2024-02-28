@@ -1,6 +1,7 @@
 object_display_order:
   - artist
   - bio
+  - title
   - year
   - medium
   - dimensions
@@ -49,35 +50,35 @@ object_list:
   
   - id: "2022-160"
     artist: Aranda\Lasch and Terrol Dew Johnson
-    bio: "Aranda\Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
+    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
     dimensions: 16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-160-1"
       - id: "2022-160-2"
   
   - id: "2022-161"
     artist: Aranda\Lasch and Terrol Dew Johnson
-    bio: "Aranda\Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
+    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
     dimensions: 19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-161"
 
   - id: "2022-162"
     artist: Aranda\Lasch and Terrol Dew Johnson
-    bio: "Aranda\Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
+    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
     dimensions: 13⅜ × 10¼ × 6¾ in. (34 × 26 × 17.1 cm)
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.162. © Aranda\Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.162. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     figure:
       - id: "2022-162-1"
       - id: "2022-162-2"

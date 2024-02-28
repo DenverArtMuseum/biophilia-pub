@@ -18,5 +18,8 @@ I’d like to thank Darrin Alfred, Curator of Architecture and Design, for this 
 
 *Biophilia: Nature Reimagined* is generously supported by the donors of the Annual Fund Leadership Campaign and the residents of Colorado who support the Scientific and Cultural Facilities District.
 
-Christoph Heinrich
-Frederick and Jan Mayer Director
+<div class="contributor">
+<p class="contributor-name">Christoph Heinrich</p>
+<p class="contributor-title">Frederick and Jan Mayer Director</p>
+<p class="contributor-affliation">Denver Art Museum</p>
+</div>

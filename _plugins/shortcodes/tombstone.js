@@ -18,7 +18,7 @@ module.exports = function(eleventyConfig, { page }) {
       if (!object || !property || !object[property]) return ''
 
       return html`
-        <tr>
+        <tr class="${property}-property">
           <td>${titleCase(property)}</td>
           <td>${markdownify(object[property].toString())}</td>
         </tr>
