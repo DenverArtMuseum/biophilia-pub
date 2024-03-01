@@ -89,7 +89,7 @@ Designers Joris Laarman and Nervous System explore generative and parametric des
 
 Nervous System is a generative design studio founded by Jessica Rosenkrantz and Jesse Louis-Rosenberg that creates products inspired by natural phenomena. Using advanced computer algorithms, the studio generates designs that mimic patterns found in nature. The *Floraform Chandelier* is an undulating flower-like surface composed of ten branching structures made of 3-D-printed nylon. The structure was grown by two generative algorithms created by Nervous System: Floraform and Hyphae. Floraform explores surface development through differential growth inspired by the biomechanics of growing leaves and blooming flowers. Hyphae is an iterative branching system based on how veins form in leaves. \<link to Kit’s essay with embedded video\> The large, yet airy, suspended light casts a dense forest of shadows, enveloping the viewer in an immersive environment of algorithmically grown plant forms. (fig. 24 **installation photo TK**)
 
-{% figure '2022-57-1' %} 
+{% figure '2022-57-5' %} 
 
 {% figure 'tl-45469-3' 'is-pulled-right' %} 
 
