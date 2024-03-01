@@ -16,17 +16,17 @@ One’s homeland can act as a source of inspiration, shaping an individual’s p
 
 A collaboration between Terrol Dew Johnson, a Tohono O'odham artist and the New York- and Tucson-based design studio Aranda\\Lasch, the *Desert Paper* series embodies the rich material history of the vast Sonoran Desert (figs. 1–3) This unique ecosystem, abundant with biologically diverse resources, has been inhabited by Indigenous peoples for millennia and holds significant cultural and historical importance to the Tohono O'odham Nation.[^3] To create the paper baskets, Johnson gathers vegetation and other natural materials, including agave fiber, copper, creosote, jute, mesquite bark, volcanic rock, and wildflowers, among others, that are endemic to the Sonoran Desert from various locations around Tucson, and Sells, Arizona. Johnson skillfully combines these various elements with a natural pulp paper, which is then carefully draped over bent screens to form expressive and irregularly shaped baskets. Each vessel in the series is a unique work of art, characterized by its distinct texture, color, and appearance.
 
-{% figuregroup '3', '2022-160-1, 2022-161, 2022-162-1' %}
+{% figuregroup '2', '2022-161-essay, 2022-162-1-essay' %}
 
-{% figure 'exrr-2023-94' %}
+{% figure 'exrr-2023-94-essay' %}
 
 *Desert Paper* celebrates the rugged, yet fragile, beauty of the Sonoran Desert, the very landscape from which it is created, while also honoring the profound human connections to this environment (fig. 4). For Johnson, utilizing these regional and culturally traditional materials is a way of reaffirming the Native identity, specifically that of the Tohono O'odham people, of these baskets, while forging a connection between these experimentally shaped vessels and the ongoing tradition of Native craft and knowledge-sharing.
 
-{% figure '2017-89-91' 'is-pulled-right' %}
+{% figure '2017-89-91-essay' 'is-pulled-right' %}
 
 The work of Santiago-based design collective gt2P (great things to People) often reflects the natural landscapes of their home country, Chile. Bordered by the majestic Andes Mountains in the east and the vast Pacific Ocean in the west, Chile lays claim to the second largest and most active chain of volcanoes in the world. The *Remolten N1: Revolution* series by gt2P pays homage to Chile’s volcanic landscapes and celebrates nature’s ability to create beauty through volcanic activity (fig. 5). With each eruption, magma emerges from the earth’s surface. Molten lava transforms the existing terrain and cools to form an entirely new landscape until the next eruption occurs. Within the confines of their studio, gt2P replicates this dynamic natural activity. The process begins with the harvesting of basaltic andesite, a lightweight and porous black rock, from Chile’s Osorno Volcano, located in the Andes Mountain range roughly 650 miles south of Santiago (figs. 6 and 7) A landmark of the Los Lagos region, the 8,700-foot-high snow-topped landform towers over Todo los Santos and the shores of Llanquihue Lake. While Osorno is one of the most active volcanoes of the southern Chilean Andes, it has not erupted since 1869. Osorno’s activity is dominantly effusive, with magma rising through its surface and flowing out as viscous lava.
 
-{% figuregroup '2', 'exrr-2023-95, exrr-2023-95-2' %}
+{% figure 'exrr-2023-95-essay' %}
 
 After collecting the volcanic stone, gt2P grinds it into a powder, applies it by hand to the surface of stoneware structures, and then fires the objects in a kiln, treating the volcanic powderas a ceramic glaze. Through extensive experimentation, gt2P discovered that the melting points of certain volcanic rock perfectly coincide with the firing temperature of porcelain. This convergence enables the lava to melt as the ceramic hardens within a specific temperature range. By adjusting the firing process at various temperature curves, they control the resulting colors, resistance, and surface texture, yielding an array of unique objects such as planters, side tables, stools, mirrors, and chairs. Each piece showcases distinctive tactile characteristics, ranging from smooth to dripped and rough finishes (fig. 8).
 
@@ -42,23 +42,21 @@ Kehayoglou’s connection with her homeland, however, is both natural—drawn fr
 
 Spanish artist and designer Nacho Carbonell’s *One-Seater Concrete Tree* pays tribute to the sun-soaked Mediterranean landscape of his childhood home (fig. 9). Born in Spain, Carbonell spent his formative years with his family in Valencia before moving to Eindhoven in 2005 to pursue his studies. It was only after leaving Valencia that Carbonell discovered the fundamental role the region’s natural environment played in shaping his identity. In response, Carbonell created a body of work that explores his memories of the geography that defines his previous home, from the picturesque Mediterranean coastline to the rugged mountain ranges. Carbonell explains the influence of these natural elements, “I just take them, and I appropriate them because they are part of me, and I use them. I feel entitled to say, ‘Okay, because we grew together, I can use you in my work to create this narrative for others, to let them know that you exist here.’” [^6]
 
-{% figure 'ptl-24710-2' %}
+{% figure 'ptl-24710-2-essay' %}
 
 *One-Seater Concrete Tree* is a large-scale light sculpture shaped as a sinuous tree. Its highly textured, bulbous metal mesh canopy appears to have organically sprouted from the rugged concrete seat designed for one person. Organic and tactile, *One-Seater Concrete Tree* possesses a vitality that suggests a living organism, achieved through Carbonell’s use of various textures and man-made materials such as metal mesh, steel, and concrete. As viewers take a seat, the functional sculpture comes alive, arousing their imagination and transporting them to the semiarid Mediterranean landscape that Carbonell vividly remembers, or perhaps triggering memories of their own. Carbonell clarifies, “I want them to look at their own context, to open the door and they are able to see that beauty exists in any other part of the world. We only need to look outside.”[^7] Ultimately, Carbonell’s artistic vision is an emotional response to his own past, expressed through experimental forms and materials. Drawing from his cherished memories of his family home, he has created a tactile and functional self-portrait, which serves as a physical manifestation of the natural beauty that characterizes eastern Spain.
 
 Located in downtown Denver, Studio Gang’s Populus evokes the alluring features of a stand of aspen tress (figs. 10a and 10b) The architecture firm’s thirteen-story, 135,000-square-foot hotel takes its name from *Populus tremuloides,* commonly known as quaking aspen, which is the most widely distributed tree in North America and an instantly recognizable symbol of Colorado (fig. 11). The texture and rhythm of the hotel’s sculptural façade are strongly tied to its function. A series of forty-six thin vertical scallops, each as wide as a typical guest room, envelop the entire structure. A captivating array of five distinctive window types, from dramatic ground level arches to smaller openings, punctuate the hotel’s exterior surface (fig. 12). Their shapes are inspired by the distinguishing patterns found on aspen trunks. As the trees grow, they shed their lower branches, leaving behind peculiar eye-shaped marks on their thin, papery bark. The windows are also designed to respond to the interior spaces and functions. Some rooms feature windowsills that integrate seating or desks, while at the building’s base, thirty-foot-high openings frame entrances and provide views into public spaces. As Finnish architect Juhani Pallasmaa once remarked, “Architecture is essentially an extension of nature into the man-made realm.”[^8] Studio Gang’s Populus captures the essential attributes of a serene grove of majestic, straight, white-barked aspen trees, right in the heart of the city of Denver.
 
-{% figuregroup '2' 'exrr-2023-31-1, exrr-2023-31-2' %}
+{% figuregroup '2' 'exrr-2023-31-1-essay, exrr-2023-31-2-essay' %}
 
-{% figuregroup '2' 'exrr-2023-101, exrr-2023-31-3' %}
+{% figure 'exrr-2023-31-3-essay' %}
 
 Completed in 2021, the Nanjing Zendai Himalayas Center by Beijing-based MAD Architects, combines urban life with the emotional resonance of *shan shui,* a traditional style of Chinese landscape painting. Shan shui paintings often depict misty mountains and flowing rivers with delicate brushwork to convey a sense of tranquility and contemplation. The goal of shan shui painting is not to create a realistic representation but to capture the essence and spirit of the natural world. It is not important whether the painted colors and shapes look exactly like the real object.
 
-{% figure 'exrr-2023-103-1' %}
+{% figure 'exrr-2023-103-1-essay' %}
 
-{% figure 'exrr-2023-103-2' %}
-
-{% figure 'exrr-2023-103-3' %}
+{% figure 'exrr-2023-103-3-essay' %}
 
 Located in the capital of China’s eastern Jiangsu province, the Nanjing Zendai Himalayas Center is a 138-acre urban development consisting of commercial, hotel, office, and residential spaces (figs. 13a–c). The complex is made up of thirteen mountainous towers intended to evoke a natural landscape. Placed along the edge of the site, the lofty structures are delineated by their vertical white glass fins that flow like waterfalls. The development’s elevated vertical park features meandering pathways that serve as an invitation for people to wander among water features, gardens, and buildings. At the center of the site is a village-like community of low buildings, connected by footbridges and nestled into the landscape. By bringing people up from the busy street level, MAD has created an inviting landscape integrating the different elements (fig. 14).
 
