@@ -28,30 +28,37 @@ figure_list:
 
   - id: vid-exrr-2023-44
     media_type: vimeo
+    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Courtesy of the artists. © MAD Architects. Video by Blackstation, 2022. 
     media_id: "911666850"
 
   - id: vid-exrr-2023-89
     media_type: vimeo
+    caption: Nervous System, Growth of Hyphae and Floraform systems for *Floraform Chandelier*, 2017. Courtesy of Nervous System. © Nervous System, inc.
     media_id: "911666902"
 
   - id: vid-exrr-2023-90
     media_type: vimeo
+    caption: Elena Manferdini, *Wall Flowers*, computer animation, 2018. © Elena Manferdini.
     media_id: "911666911"
 
   - id: vid-exrr-2023-93
     media_type: vimeo
+    caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. © 2023 DRIFT. Video by Xinix Films / Arjen van Eijk. 
     media_id: "911666928"
 
   - id: vid-exrr-2023-96
     media_type: vimeo
+    caption: gt2P, *Remolten* process, 2016. © Gt2P Spa.
     media_id: "911666952"
 
   - id: vid-exrr-2023-133
     media_type: vimeo
+    caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics. Indianapolis Museum of Art Galleries at Newfields. © 2023 DRIFT, represented by Pace Gallery. Video courtesy of DRIFT. 
     media_id: "911666976"
 
   - id: vid-exrr-2023-135
     media_type: vimeo
+    credit: Iris van Herpen, *Sensory Seas*, January 20, 2020. Presented at Cirque d’hiver Bouglione, Paris. Video by Blitzkickers. 
     media_id: "911666993"
 
   - id: 2008-163-1
@@ -513,7 +520,7 @@ figure_list:
   - id: exrr-2023-101
     src: figures/EXRR_2023_101.jpg
     caption: Aspen Grove.
-    credit: Courtesy Unsplash/Photography by Peng Chen, 2017.
+    credit: Photo by Peng Chen on Unsplash, 2017. 
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
     zoom: true
 
@@ -884,7 +891,7 @@ figure_list:
   - id: ptl-24704
     src: figures/PTL-24704_FPO.jpg
     caption: Humberto Campana and Fernando Campana, *Bulbo Chair*, 2019. Fabric and leather, 59 × 47 × 48 in. Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
-    credit: Louis Vuitton Collection. 
+    credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana.
     alt: A bright red chair shaped like a flower bulb – round at the bottom, tapering to a point at the top. It is made of overlapping layers of long, oval-shaped leather and fabric petals.
     zoom: true
 
@@ -1061,8 +1068,8 @@ figure_list:
 
   - id: ptl-25093
     src: figures/PTL-25093_FPO.jpg
-    caption: Zaha Hadid, *Tau Vase*, 2015. Bardiglio Nuvolato marble, 7⅞ × 13⅜ in. Manufactured by Citco, Rivoli Veronese, Italy.
-    credit: Courtesy of CITCO USA CORP. 
+    caption: Zaha Hadid, *Tau Vases*, 2015. Marble, various dimensions. Maunfactured by Citco, Rivoli Veronese, Italy. 
+    credit: Courtesy of CITCO USA CORP. Photography by Jacopo Spilimbergo, courtesy of Zaha Hadid Design. 
     alt: A gray marble vase that is squatly shaped and resembles a flower bud.
 
   - id: ptl-25094
