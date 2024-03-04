@@ -102,11 +102,11 @@
       color: transparent !important;
       cursor: pointer;
       display: inline-block;
-      height: px-to-rem(40px);
+      height: px-to-rem(64px);
       outline: none;
       overflow: hidden;
       padding: 0;
-      width: px-to-rem(40px);
+      width: px-to-rem(64px);
     }
     &.mute-button {
       background-size: 70%;
@@ -127,9 +127,15 @@
   }
 
   .title-block {
-    .track-title {
+    // Quire's default CSS has some overly broad selectors
+    // in it that we need to work extra hard to override.
+    // Using !important is a sure sign you messed up earlier
+    // in your CSS, but in this case, that's Quire. That they
+    // used it to assign line-height and nothing else is
+    // particularly weird.
+    p.track-title {
       font-size: px-to-rem(18px);
-      line-height: 1.5em;
+      line-height: 1.5em !important;
       text-align:center;
     }
   }
@@ -166,6 +172,13 @@
     font-size: px-to-rem(14px);
     margin: 0;
 
+    // Hiding for stakeholders (under protest)
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+
     &.current-time {
       margin-left: px-to-rem(6px);
       margin-right: px-to-rem(6px);
@@ -191,6 +204,13 @@
     margin: 0 px-to-rem(6px);
     min-width: px-to-rem(80px);
     position: relative;
+
+    // Hiding for stakeholders (under protest)
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
 
     /* webkit range input customization */
     &::-webkit-slider-runnable-track {
@@ -440,11 +460,20 @@
       min-width: px-to-rem(200px);
     }
     .volume-block {
+      // Hiding for stakeholders (under protest)
+      display: block;
+      clip: rect(1px, 1px, 1px, 1px);
+      height: 1px;
+      overflow: hidden;
+      position: absolute;
+      width: 1px;
+      /*
       display: flex;
       flex-flow: row nowrap;
       align-items: center;
       justify-content: space-between;
       margin-left: px-to-rem(16px);
+      */
     }
   }  
 }

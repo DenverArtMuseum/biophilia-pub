@@ -228,9 +228,13 @@
 
     &.audiofile-container {
       display: flex;
-      flex-flow: row nowrap;
+      flex-flow: column nowrap;
       justify-content: center;
       align-items: center;
+
+      .q-figure__caption {
+        max-width: 48ch;
+      }
     }
 
     .q-figure-video-element--embed {
