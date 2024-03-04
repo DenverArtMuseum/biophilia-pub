@@ -22,6 +22,7 @@ $navbar: normal;
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
+$inter: 'Inter', sans-serif;
 $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
@@ -96,10 +97,10 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $pt-serif !default;
-  $quire-headings-font: $lato-sans !default;
-  $quire-footnotes-font: $pt-serif !default;
-  $quire-navigation-font: $lato-sans !default;
+  $quire-primary-font: $inter !default;
+  $quire-headings-font: $inter !default;
+  $quire-footnotes-font: $inter !default;
+  $quire-navigation-font: $inter !default;
   $accent-color: $link-color !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;
