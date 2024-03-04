@@ -11,8 +11,6 @@ order: 220
 #image: PTL-24706~1
 ---
 
-{% figure 'ptl-24706-2', 'is-pulled-left' %}
-
 In the spring and summer, vibrant fields of wildflowers erupt across the Rocky Mountains. Although the high altitude and volatile weather limit the variety of flowers that can grow, each meadow is still unique, responding to its environment and surrounding life with true site specificity. This is also the case with Amsterdam-based studio DRIFT’s *Meadow*, a kinetic sculpture of massive fabric flowers suspended on armatures that open and close hypnotically. These base components are never the same twice: the flowers’ colors, arrangement, and motion are influenced by locality just as much as their natural counterparts.
 
 {% figure 'exrr-2023-104', 'is-pulled-right' %}
