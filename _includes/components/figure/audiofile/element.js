@@ -24,11 +24,6 @@ module.exports = function(eleventyConfig) {
 
     return html`<div id="audio-player-${ id }" class="audio-player-container">
   <audio id="audio-player-file-${ id }" class="audio-file" src="${ audioSrc }" preload="metadata"></audio>
-  <div class="title-block">
-    <p id="audio-player-title-${ id }" class="track-title">
-      ${ title }
-    </p>
-  </div>
   <div class="control-block">
     <div class="play-block">
       <button id="audio-player-play-button-${ id }" class="play-pause-button paused">Play</button>
@@ -41,6 +36,11 @@ module.exports = function(eleventyConfig) {
       <input type="range" id="audio-player-volume-slider-${ id }" class="volume-slider" max="100" value="100">
       <output id="audio-player-volume-output-${ id }" class="volume-output">100</output>
     </div>
+  </div>
+  <div class="title-block">
+    <p id="audio-player-title-${ id }" class="track-title">
+      ${ title }
+    </p>
   </div>
 </div>`
 

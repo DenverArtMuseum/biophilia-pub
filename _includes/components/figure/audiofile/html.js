@@ -12,18 +12,26 @@ const path = require('path')
  */
 module.exports = function(eleventyConfig) {
   const figureAudiofile = eleventyConfig.getFilter('figureAudiofileElement')
+  const figureCaption = eleventyConfig.getFilter('figureCaption')
+  const figureLabel = eleventyConfig.getFilter('figureLabel')
 
   const { imageDir } = eleventyConfig.globalData.config.figures
 
   return function({
     audio_src,
+    caption,
+    credit,
     id,
+    isSequence,
+    label,
     title
   }) {
 
     const AudiofileEl = figureAudiofile({id,audio_src,title}) 
+    const labelElement = figureLabel({ id, label, isSequence })
+    const captionElement = figureCaption({ caption, content: labelElement, credit })
 
-    return html`<div class="q-figure__media-wrapper audiofile-container">${AudiofileEl}</div>`
+    return html`<div class="q-figure__media-wrapper audiofile-container">${AudiofileEl}${captionElement}</div>`
 
   }
 }

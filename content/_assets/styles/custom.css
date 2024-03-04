@@ -671,7 +671,8 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 .footnotes .footnote-print-only {
     display: block !important;
 }
-.footnotes .littlefoot--print,
+
+.footnotes li.littlefoot--print,
 .footnotes li.footnote-print-only {
     list-style-type: decimal;
     display: list-item !important;
