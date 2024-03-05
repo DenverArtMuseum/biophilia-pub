@@ -5,7 +5,7 @@ contributor:
     - id: florence-williams
 layout: essay
 order: 250
-image: figures/EXRR_2023_91_3.jpg
+image: figures/EXRR_2023_91_1.jpg
 ---
 
 In the winter of 2019, Dacher Keltner visited his dying younger brother. In his mid-50s, Rolf Keltner was losing his battle with cancer. The older brother rested his hand on Rolf’s shoulder. He sensed a light radiating from his brother, a force around his body, pulling him away. He felt immense sorrow but also the enormity of the mysteries of life and death. In the presence of his brother and these immemorial forces of time, he briefly lost his sense of being an embodied individual.[^1]

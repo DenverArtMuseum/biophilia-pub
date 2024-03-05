@@ -1,5 +1,5 @@
 ---
-title: Recommended Readings
+title: Recommended Reading
 layout: page
 order: 503
 ---
