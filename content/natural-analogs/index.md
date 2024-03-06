@@ -5,7 +5,7 @@ contributor:
     - id: darrin-alfred
 layout: essay
 order: 110
-image: figures/PTL-24672.jpg
+image: figures/natural-analogs-header.jpg
 ---
 
 
@@ -59,7 +59,7 @@ Within the densely packed urban fabric of Seville, Spain, stands *Metropol Paras
 
 {% figure 'exrr-2023-43-1-essay' %}
 
-{% figure 'ptl-24698-2-essay' 'is-pulled-left' %} 
+{% figure 'ptl-24698-5-essay' 'is-pulled-left' %} 
 
 Besides the wonders of plant structures, another remarkable, clearly visible manifestation of fractals is the ocean and its complex types of waves.[^9] Mathieu Lehanneur’s *Ocean Memories* captures the ripples and shimmers of ocean waves in fixed form (cat. **xx**). The collection of tables, benches, and stools resembles the captivating surface of the ocean and demonstrates how modern technology can be harnessed to mimic the fluid dynamics of waves as they rise and fall. Lehanneur and his team employed 3-D special effects software typically used by the film industry to reproduce the complex geometry and movement of water into digital forms. Blocks of marble were then machine cut to replicate the digitally created patterns, before being hand polished to a glossy, liquid-like finish to create a surface that is as reflective as the ocean. *Ocean Memories* captures a surrealistic vision of an ocean frozen in time, reminding us of the immense power and beauty of nature.
 

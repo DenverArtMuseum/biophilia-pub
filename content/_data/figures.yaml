@@ -146,12 +146,24 @@ figure_list:
     alt: View of the interior of Floraform Chandelier.
     zoom: true
 
+  - id: 2022-57-5-essay
+    src: figures/2022_57~5-essay.jpg
+    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
+    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
+    alt: A person stands under Floraform Chandelier and holds out an arm, which is cast in shadows from the artwork, as is the wall behind. 
+
   - id: 2022-57-5
     src: figures/2022_57~5.jpg
     caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: A person stands under Floraform Chandelier and holds out an arm, which is cast in shadows from the artwork, as is the wall behind. 
     zoom: true
+
+  - id: 2022-160-1-essay
+    src: figures/2022_160~1.jpg
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02*, 2022. Desert globemallow, agave fiber, and jute, 16 × 11 × 9¾ in.
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    alt: A white basket construction sprinkled with brown and red flecks. It is made of desert matter mixed with natural pulp. The basket has a flat base and gentle folds that reach upward into two points on either side.
 
   - id: 2022-160-1
     src: figures/2022_160~1.jpg
@@ -165,7 +177,6 @@ figure_list:
     caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02*, 2022. Desert globemallow, agave fiber, and jute, 17 × 13 × 10 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 02 basket. Small flecks of brown and red in the textured, white material of the basket.
-    zoom: true
 
   - id: 2022-161-essay
     src: figures/2022_161.jpg
@@ -198,7 +209,6 @@ figure_list:
     caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09*, 2022. Creosote and jute, 15 × 9 × 9 in.
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 09 basket. The surface is light brown with flecks of dark organic material, and a bumpy but delicate texture.
-    zoom: true
 
   - id: 2023-6
     src: figures/2023_6.jpg
@@ -225,6 +235,13 @@ figure_list:
     caption: McDowell Sonoran Sunset.
     credit: Photograph © by Marc Elliot Gottlieb, 2009, licensed courtesy of Artifract®.
     alt: Color photograph of the Sonoran Desert at sunset. Cacti and yellow desert flowers populate the foreground, with gentle mountains in the background.
+    zoom: true
+
+  - id: exacc-2022-74-77
+    src: figures/EXACC_2022_74-77.jpg
+    caption: Nao Tamura, Seasons Plates, 2011. Silicone; 9 1/2 × 7 7/8 in. Manufactured by COVO, Rome, Italy.
+    credit: Exhibition funds from the Denver Art Museum. © Nao Tamura
+    alt: A stack of green silicone plate shaped like leaves, with one pointed side that fans out into a rounded shape.
     zoom: true
 
   - id: exacc-2022-74
@@ -265,12 +282,6 @@ figure_list:
     caption: Ronan Bouroullec and Erwan Bouroullec, *Algues*, 2004. 
     credit: "Injection-molded plastic; dimensions variable, each component 12½ × 10 in. Manufactured by Vitra, Birsfelden, Switzerland. Exhibition funds from Denver Art Museum. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Tahon and R. Bouroullec and E. Bouroullec."
     alt: Image of Algues installation with many individual, yellow-green colored, seaweed-like components attached together at multiple points. The resulting screen looks like organically branching structures. 
-
-  - id: exrr-2023-78-2-essay
-    src: figures/EXACC_2023_78~2_FPO.jpg
-    caption: Ronan Bouroullec and Erwan Bouroullec, *Algues*, 2004. 
-    credit: Injection-molded plastic; dimensions variable dimensions, each component 12½ × 10 in. Manufactured by Vitra, Birsfelden, Switzerland. Exhibition purchase. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Tahon and R. Bouroullec and E. Bouroullec.
-    alt: A singular algae component from the larger Algues artwork. Yellow-green plastic branching out in different directions like the branches of a tree. 
 
   - id: exrr-2023-78-1
     src: figures/EXACC_2023_78.jpg
@@ -362,7 +373,6 @@ figure_list:
     caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
     credit: © Studio Gang
     alt: "diagram of the Populus building. It highlights VIEWS: Aspen Eye and Roof Terrace; ENERGY: Efficient Mechanical Systems, Concrete Structure, High Performance Envelope; URBAN AMENITIES: Café, Bike Share Stations, Bike Lanes, No On-Site Parking; and SOCIAL CONNECTIVITY: Urban Living Room, and Local Food."
-    zoom: true
 
   - id: exrr-2023-31-6
     src: figures/EXRR_2023_31_6.jpg
@@ -455,6 +465,30 @@ figure_list:
     src: figures/PTL-24370~3.jpg
     zoom: true
 
+  - id: exrr-2023-91-1-essay
+    src: figures/EXRR_2023_91_1.jpg
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
+    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
+
+  - id: exrr-2023-91-2-essay
+    src: figures/EXRR_2023_91_2.jpg
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
+    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    alt: A large clay sphere with cracks running like veins over the surface. 
+
+  - id: exrr-2023-91-3-essay
+    src: figures/EXRR_2023_91_3.jpg
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
+    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    alt: View of interior of *Clay Houses*. Empty room with a lofted ceiling that comes to a point. The light brown walls look like cracked clay. 
+
+  - id: exrr-2023-91-4-essay
+    src: figures/EXRR_2023_91_4.jpg
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
+    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    alt: Close-up image of a wall from *Clay Houses* that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
+
   - id: exrr-2023-91-1
     src: figures/EXRR_2023_91_1.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
@@ -484,7 +518,7 @@ figure_list:
     zoom: true
 
   - id: exrr-2023-92-essay
-    src: figures/EXRR_2023_92.jpg
+    src: figures/EXRR_2023_92-essay.jpg
     caption: DRIFT, *Shylight*, 2006. 
     credit: Aluminum, polished stainless steel, silk, LEDs, and robotics. © 2023 DRIFT, represented by Pace Gallery. NYCB Tenth Annual Art Series, winter 2023. Photography by Andy Romer, image courtesy of NYCB.
     alt: Color photograph of Shylight displayed in a gallery. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
@@ -522,7 +556,6 @@ figure_list:
     caption: Aspen Grove.
     credit: Photo by Peng Chen on Unsplash, 2017. 
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
-    zoom: true
 
   - id: exrr-2023-102
     src: figures/EXRR_2023_102.jpg
@@ -569,7 +602,6 @@ figure_list:
     caption: Wildflowers in the Gore Range, Colorado.
     credit: iStock.com/Adventure_Photo. 
     alt: Color photograph of wildflowers in the Colorado mountains. In the foreground, the mountain slopes downward from left to right. Hundreds of colorful flowers in orange, purple, red, and yellow, all with green leaves, cover the mountainside. Pine trees and mountain peaks in the background. 
-    zoom: true
 
   - id: exrr-2023-111
     src: figures/EXRR_2023_111.jpg
@@ -577,6 +609,12 @@ figure_list:
     credit: © Jason DeMarte, Courtesy of RULE Gallery, Denver. 
     alt: Mossy vines stretch vertically against a dusky jungle background. They are dotted with green and purple hummingbirds, orange and red berries, different shapes of green leaves, large purple passion flowers, purple and orange butterflies, and ripening fruit.
     zoom: true
+
+  - id: exrr-2023-137-essay
+    src: figures/EXRR_2023_137.jpg
+    caption: Alexandra Kehayoglou, *Santa Cruz River*, 2017. Wool, 382⅞ × 165⅜ in.
+    credit: "National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photograph by National Gallery of Victoria, Melbourne"
+    alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
   - id: exrr-2023-137
     src: figures/EXRR_2023_137.jpg
@@ -805,6 +843,25 @@ figure_list:
     alt: A detail of the half of the surface that looks like gently rolling waves.
     zoom: true
 
+  - id: ptl-24698-5-essay
+    src: figures/PTL-24698~5.jpg
+    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Black XL)*, 2017. Nero Marquina marble, 15¾ × 43¼ in. dia.
+    credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: A detail of the half of the surface that looks like gently rolling waves.
+
+  - id: ptl-24698-5
+    src: figures/PTL-24698~5.jpg
+    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Black XL)*, 2017. Nero Marquina marble, 15¾ × 43¼ in. dia.
+    credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: A detail of the half of the surface that looks like gently rolling waves.
+    zoom: true
+
+  - id: ptl-24699-1-essay
+    src: figures/PTL-24699~1.jpg
+    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Image of Tomorrow is Another Day, which looks like an airplane window with a bright blue sky and two clouds. In the lower righthand corner, the back of a person’s head and shoulders as they look at the artwork.
+
   - id: ptl-24699-1
     src: figures/PTL-24699~1.jpg
     caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
@@ -825,12 +882,24 @@ figure_list:
     alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
     zoom: true
 
+  - id: ptl-24699-3-essay
+    src: figures/PTL-24699~3.jpg
+    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
+
   - id: ptl-24699-3
     src: figures/PTL-24699~3.jpg
     caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
     zoom: true
+
+  - id: ptl-24699-4-essay
+    src: figures/PTL-24699~4.jpg
+    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud. The artwork is a bright spot in an otherwise sparse and dimmed setting. On the left-hand side, a person stands with their back to the viewer, looking at the artwork. 
 
   - id: ptl-24699-4
     src: figures/PTL-24699~4.jpg
@@ -839,6 +908,12 @@ figure_list:
     alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud. The artwork is a bright spot in an otherwise sparse and dimmed setting. On the left-hand side, a person stands with their back to the viewer, looking at the artwork. 
     zoom: true
 
+  - id: ptl-24699-5-essay
+    src: figures/PTL-24699~5.jpg
+    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud.
+
   - id: ptl-24699-5
     src: figures/PTL-24699~5.jpg
     caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
@@ -846,6 +921,12 @@ figure_list:
     alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud.
     zoom: true
 
+  - id: ptl-24699-6-essay
+    src: figures/PTL-24699~6.jpg
+    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: Close-up of the screen from Tomorrow is Another Day and gauzy white clouds set against a blue sky.
+    
   - id: ptl-24699-6
     src: figures/PTL-24699~6.jpg
     caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
@@ -921,12 +1002,24 @@ figure_list:
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights.
     zoom: true
 
+  - id: ptl-24706-2-essay
+    src: figures/PTL-24706~2.jpg
+    caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions.
+    credit: Represented by Pace Gallery. © 2023 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
+    alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
+
   - id: ptl-24706-2
     src: figures/PTL-24706~2.jpg
     caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions.
     credit: Represented by Pace Gallery. © 2023 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
     zoom: true
+
+  - id: ptl-24710-1-essay
+    src: figures/PTL-24710~1.jpg
+    caption: Nacho Carbonell, *One-Seater Concrete Tree*, 2022. Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in.
+    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths, image courtesy of Carpenters Workshop Gallery. 
+    alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
 
   - id: ptl-24710-1
     src: figures/PTL-24710~1.jpg
@@ -962,7 +1055,7 @@ figure_list:
     zoom: true
 
   - id: ptl-24735-essay
-    src: figures/PTL-24735.jpg
+    src: figures/PTL-24735-essay.jpg
     caption: Andreea Avram Rusu, *Botanica Chandelier*, 2023. 
     credit: Glass, brass, steel, leather, and LED, 135 × 56 × 33 in. Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy courtesy of Wexler Gallery.
     alt: A chandelier with orange, black, and green tones of blown glass light fixtures hanging from leather stems, inspired by banana flowers and the botanical gardens of Lisbon.
@@ -1252,12 +1345,24 @@ figure_list:
     alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain with blue edges.
     zoom: true
 
+  - id: tl-45469-1-essay
+    src: figures/TL-45469~1.jpg
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
+    credit: Courtesy of the designer. © Elena Manferdini.
+    alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
+
   - id: tl-45469-1
     src: figures/TL-45469~1.jpg
     caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
     credit: Courtesy of the designer. © Elena Manferdini.
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
     zoom: true
+
+  - id: tl-45469-2-essay
+    src: figures/TL-45469~2.jpg
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
+    credit: Courtesy of the designer. © Elena Manferdini.
+    alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-2
     src: figures/TL-45469~2.jpg

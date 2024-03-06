@@ -23,6 +23,24 @@ object_list:
     figure:
       - id: "2015-263"
 
+  - id: "exrr-2023-32"
+    artist: Joris Laarman
+    bio: Dutch, born 1979, active in Amsterdam
+    title: Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*
+    year: 2013. 
+    credit: Courtesy of the artist and Friedman Benda.
+    figure:
+      - id: "exrr-2023-32"
+
+  - id: "exrr-2023-33"
+    artist: Joris Laarman
+    bio: Dutch, born 1979, active in Amsterdam
+    title: Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*
+    year: 2013. 
+    credit: Courtesy of the artist and Friedman Benda.
+    figure:
+      - id: "exrr-2023-33"
+
   - id: "2017-89-91"
     artist: "gt2P (great things to People)"
     bio: Established 2009, Santiago, Chile
@@ -46,11 +64,7 @@ object_list:
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, Inc. Image courtesy of Nervous System."
     link: https://www.denverartmuseum.org/en/object/2022.57a-u
     figure:
-      - id: "2022-57-1"
       - id: "2022-57-2"
-      - id: "2022-57-3"
-      - id: "2022-57-4"
-      - id: "2022-57-5"
   
   - id: "2022-160"
     artist: Aranda\Lasch and Terrol Dew Johnson
@@ -63,7 +77,6 @@ object_list:
     link: https://www.denverartmuseum.org/en/object/2022.160
     figure:
       - id: "2022-160-1"
-      - id: "2022-160-2"
   
   - id: "2022-161"
     artist: Aranda\Lasch and Terrol Dew Johnson
@@ -88,7 +101,6 @@ object_list:
     link: https://www.denverartmuseum.org/en/object/2022.162
     figure:
       - id: "2022-162-1"
-      - id: "2022-162-2"
 
   - id: "2023-6"
     artist: Sandra Davolio
@@ -115,7 +127,7 @@ object_list:
     figure:
       - id: "2023-186-92"
 
-  - id: exacc-2022-74
+  - id: exacc-2022-74-77
     artist: Nao Tamura
     bio: Japanese, born 1976, active in Brooklyn, New York
     title: Seasons and Petal Serving Ware
@@ -125,10 +137,7 @@ object_list:
     manufacturer: Manufactured by COVO, Rome, Italy.
     credit: Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura
     figure:
-      - id: "exacc-2022-74"
-      - id: "exacc-2022-75"
-      - id: "exacc-2022-76"
-      - id: "exacc-2022-77"
+      - id: "exacc-2022-74-77"
 
   - id: exrr-2023-78
     artist: Ronan Bouroullec and Erwan Bouroullec
@@ -141,7 +150,6 @@ object_list:
     credit: Exhibition funds from the Denver Art Museum. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Tahon and R. Bouroullec and E. Bouroullec.
     figure:
       - id: "exrr-2023-78-1"
-      - id: "exrr-2023-78-2"
       
   - id: exrr-2022-264
     artist: Greg Lynn
@@ -174,11 +182,6 @@ object_list:
     credit: © and courtesy of Studio Gang
     figure:
       - id: "exrr-2023-31-1"
-      - id: "exrr-2023-31-2"
-      - id: "exrr-2023-31-3"
-      - id: "exrr-2023-31-4"
-      - id: "exrr-2023-31-5"
-      - id: "exrr-2023-31-6"
   
   - id: exrr-2023-43
     artist: J. MAYER H.
@@ -188,14 +191,6 @@ object_list:
     credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo
     figure:
       - id: "exrr-2023-43-1"
-      - id: "exrr-2023-43-2"
-      - id: "exrr-2023-43-3"
-      - id: "exrr-2023-43-4"
-      - id: "exrr-2023-43-5"
-      - id: "exrr-2023-43-6"
-      - id: "exrr-2023-43-7"
-      - id: "exrr-2023-43-8"
-      - id: "ptl-24705"
 
   - id: exrr-2023-91
     artist: Andy Goldsworthy
@@ -227,8 +222,6 @@ object_list:
     year: 2021
     credit: Courtesy of MAD Architects. © MAD Architects. 
     figure:
-      - id: "exrr-2023-103-1"
-      - id: "exrr-2023-103-2"
       - id: "exrr-2023-103-3"
 
   - id: exrr-2023-111
@@ -241,6 +234,17 @@ object_list:
     credit: Courtesy of RULE Gallery, Denver. © Jason DeMarte. 
     figure:
       - id: "exrr-2023-111"
+
+  - id: exrr-2023-137
+    artist: Alexandra Kehayoglou
+    bio: Argentine, born 1981, active in Buenos Aires, Argentina, and Athens, Greece
+    title: Santa Cruz River
+    year: 2017
+    medium: Wool
+    dimensions: 382⅞ × 165⅜ in.
+    credit: "National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photograph by National Gallery of Victoria, Melbourne"
+    figure:
+      - id: "exrr-2023-137"
 
   - id: ptl-24707
     artist: Alexandra Kehayoglou
@@ -316,7 +320,6 @@ object_list:
     credit: Textile design by Júlia Esqué. Courtesy of Reisinger Studio.
     figure:
       - id: "ptl-24649-1"
-      - id: "ptl-24649-2"
 
   - id: ptl-24650-59-63-64
     artist: David Valner
@@ -339,8 +342,6 @@ object_list:
     credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Images courtesy David Gill Gallery. Photo by Alejandro Olaya Torres.
     figure:
       - id: "ptl-24660-1"
-      - id: "ptl-24660-2"
-      - id: "ptl-24660-3"
 
   - id: ptl-24661
     artist: Fredrikson Stallard
@@ -396,10 +397,7 @@ object_list:
     dimensions: 15¾ × 43¼ in. dia.
     credit: Courtesy of the designer. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     figure:
-      - id: "ptl-24698-1"
-      - id: "ptl-24698-2"
-      - id: "ptl-24698-3"
-      - id: "ptl-24698-4"
+      - id: "ptl-24698-5"
 
   - id: ptl-24699
     artist: Mathieu Lehanneur
@@ -411,11 +409,6 @@ object_list:
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     figure:
       - id: "ptl-24699-1"
-      - id: "ptl-24699-2"
-      - id: "ptl-24699-3"
-      - id: "ptl-24699-4"
-      - id: "ptl-24699-5"
-      - id: "ptl-24699-6"
 
   - id: ptl-24700
     artist: Mathieu Lehanneur
@@ -436,10 +429,7 @@ object_list:
     dimensions: Each 19⅝ in. dia. (49.9 cm dia.)
     credit: Courtesy of the designer. © Mathieu Lehanneur.
     figure:
-      - id: "ptl-24701-1"
       - id: "ptl-24701-2"
-      - id: "ptl-24701-3"
-      - id: "ptl-24701-4"
 
   - id: 2015-267
     artist: Daniel Brown
@@ -493,7 +483,6 @@ object_list:
     dimensions: 139¾ × 74¾ × 112¼ in. (355 × 189.9 × 285.1 cm)
     credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photo by Ronald Smiths.
     figure:
-      - id: "ptl-24710-1"
       - id: "ptl-24710-2"
 
   - id: ptl-24721
@@ -526,15 +515,6 @@ object_list:
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
     figure:
       - id: "ptl-24736-1"
-      - id: "ptl-24736-2"
-      - id: "ptl-24736-3"
-      - id: "ptl-24736-4"
-      - id: "ptl-24736-5"
-      - id: "ptl-24736-6"
-      - id: "ptl-24736-7"
-      - id: "ptl-24736-8"
-      - id: "ptl-24736-9"
-      - id: "ptl-24736-10"
 
   - id: ptl-25093
     artist: Zaha Hadid
@@ -569,7 +549,6 @@ object_list:
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
     figure:
       - id: "ptl-25721-1"
-      - id: "ptl-25721-2"
 
   - id: ptl-25722
     artist: Brad Miller
@@ -581,7 +560,6 @@ object_list:
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
     figure:
       - id: "ptl-25722-1"
-      - id: "ptl-25722-2"
 
   - id: ptl-25723
     artist: Brad Miller
@@ -593,8 +571,6 @@ object_list:
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
     figure:
       - id: "ptl-25723-1"
-      - id: "ptl-25723-2"
-      - id: "ptl-25723-3"
 
   - id: ptl-25724
     artist: Brad Miller
@@ -606,8 +582,6 @@ object_list:
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
     figure:
       - id: "ptl-25724-1"
-      - id: "ptl-25724-2"
-      - id: "ptl-25724-3"
 
   - id: ptl-25725
     artist: Brad Miller
@@ -629,8 +603,6 @@ object_list:
     credit: "Courtesy of the artist and Pace Gallery. Sound by Hideaki Takahashi. © teamLab, courtesy Pace Gallery."
     figure:
       - id: "ptl-25755-1"
-      - id: "ptl-25755-2"
-      - id: "ptl-25755-3"
 
   - id: ptl-26101
     artist: Simon Heijdens

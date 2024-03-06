@@ -837,7 +837,8 @@ body#page-index .quire-navbar-controls__left .logos {
 /* Essay pages */
 
 .quire-page.quire-essay .quire-page__header.hero__image {
-    height: calc( 100vh - 4.375rem );
+    height: 50vw;
+    /* max-height: calc( 100vh - 4.375rem ); */
     padding: 5rem 5rem;
 }
 .quire-page.quire-essay {
@@ -847,7 +848,8 @@ body#page-index .quire-navbar-controls__left .logos {
 }
 .quire-page.quire-essay .hero, .quire-page.quire-essay .hero-image {
     width: 50%;
-    height: calc( 100vh - 4.375rem );
+    height: 50vw;
+    /* max-height: calc( 100vh - 4.375rem ); */
 }
 .quire-page.quire-essay section.quire-page__content {
     width: 100%;
