@@ -12,7 +12,7 @@ classes:
 
 <blockquote class="pull-quote">
 
-*To the degree that we come to understand other organisms, we will place a greater value on them, and on ourselves.* —Edward O. Wilson
+*To the degree that we come to understand other organisms, we will place a greater value on them, and on ourselves.*—Edward O. Wilson
 
 </blockquote>
 

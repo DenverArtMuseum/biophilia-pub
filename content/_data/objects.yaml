@@ -7,7 +7,6 @@ object_display_order:
   - dimensions
   - manufacturer
   - credit
-  - link
 
 object_list:
 
