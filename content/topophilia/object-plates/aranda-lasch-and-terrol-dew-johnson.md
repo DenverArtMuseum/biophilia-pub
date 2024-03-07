@@ -6,10 +6,115 @@ contributor:
 layout: entry
 presentation: side-by-side
 object:
-    - id: 2022-160
+    - id: lasch-plate
 order: 320
 #image: 2022.160.1
 ---
+
+<section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr class="artist-property">
+                        <td>Artist</td>
+                        <td>Aranda\Lasch and Terrol Dew Johnson</td>
+                      </tr>
+                      <tr class="bio-property">
+                        <td>Bio</td>
+                        <td>
+                          Aranda\Lasch<br>Established 2003, New York and
+                          Tucson, Arizona<br>Benjamin Aranda, American, born
+                          1973<br>Chris Lasch, American, born 1972<br><br>Terrol
+                          Dew Johnson<br>Tohono O’odham, born 1973, active in
+                          Sells, Arizona
+                        </td>
+                      </tr>
+                      <tr class="title-property">
+                        <td>Title</td>
+                        <td>Desert Paper 05</td>
+                      </tr>
+                      <tr class="year-property">
+                        <td>Year</td>
+                        <td>2022</td>
+                      </tr>
+                      <tr class="medium-property">
+                        <td>Medium</td>
+                        <td>Desert marigold, jute, and abaca</td>
+                      </tr>
+                      <tr class="dimensions-property">
+                        <td>Dimensions</td>
+                        <td>19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)</td>
+                      </tr>
+                      <tr class="credit-property">
+                        <td>Credit</td>
+                        <td>
+                          Denver Art Museum: Funds from Design Council of the
+                          Denver Art Museum, 2022.161. © Aranda\Lasch and
+                          Terrol Dew Johnson. Photo courtesy of Volume Gallery.
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="https://www.denverartmuseum.org/en/object/2022.161" target="_blank">
+                    View in Collection
+                    <svg data-outputs-exclude="epub,pdf">
+                      <switch><use xlink:href="#link-icon"></use></switch>
+                    </svg>
+                  </a>
+                </div>
+              </section>
+<section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr class="artist-property">
+                        <td>Artist</td>
+                        <td>Aranda\Lasch and Terrol Dew Johnson</td>
+                      </tr>
+                      <tr class="bio-property">
+                        <td>Bio</td>
+                        <td>
+                          Aranda\Lasch<br>Established 2003, New York and
+                          Tucson, Arizona<br>Benjamin Aranda, American, born
+                          1973<br>Chris Lasch, American, born 1972<br><br>Terrol
+                          Dew Johnson<br>Tohono O’odham, born 1973, active in
+                          Sells, Arizona
+                        </td>
+                      </tr>
+                      <tr class="title-property">
+                        <td>Title</td>
+                        <td>Desert Paper 09</td>
+                      </tr>
+                      <tr class="year-property">
+                        <td>Year</td>
+                        <td>2022</td>
+                      </tr>
+                      <tr class="medium-property">
+                        <td>Medium</td>
+                        <td>Creosote and jute</td>
+                      </tr>
+                      <tr class="dimensions-property">
+                        <td>Dimensions</td>
+                        <td>13⅜ × 10¼ × 6¾ in. (34 × 26 × 17.1 cm)</td>
+                      </tr>
+                      <tr class="credit-property">
+                        <td>Credit</td>
+                        <td>
+                          Denver Art Museum: Funds from Design Council of the
+                          Denver Art Museum, 2022.162. © Aranda\Lasch and
+                          Terrol Dew Johnson. Photo courtesy of Volume Gallery.
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="https://www.denverartmuseum.org/en/object/2022.162" target="_blank">
+                    View in Collection
+                    <svg data-outputs-exclude="epub,pdf">
+                      <switch><use xlink:href="#link-icon"></use></switch>
+                    </svg>
+                  </a>
+                </div>
+              </section>
 
 The artistic collaboration between New York– and Tucson-based architecture firm Aranda&#92;Lasch and acclaimed Tohono O'odham weaver Terrol Dew Johnson began in 2005, after Aranda&#92;Lasch founders Benjamin Aranda and Chris Lasch saw Johnson’s work on view at the National Museum of the American Indian in New York. At the time, Aranda&#92;Lasch’s process was primarily influenced by algorithmic thinking, and they were intrigued by the repetitive and generative process of basket weaving, as well as the mastery achieved by weavers such as Johnson. Early collaborations between Aranda&#92;Lasch and Johnson considered weaving algorithms literally, using computer programming to generate structures that were executed with traditional materials, resulting in baskets with unexpected forms, such as a series of metal loops or interlocking concave and convex planes.
 

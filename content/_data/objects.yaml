@@ -7,9 +7,36 @@ object_display_order:
   - dimensions
   - manufacturer
   - credit
-  - link
 
 object_list:
+
+  - id: "larman-plate"
+    artist: Joris Laarman
+    bio: Dutch, born 1979, active in Amsterdam
+    title: Microstructures Adaptation Chair (Long Cell) Prototype
+    year: 2014
+    medium: 3-D printed polyamide and copper
+    dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
+    link: https://www.denverartmuseum.org/en/object/2015.263
+    figure:
+      - id: "2015-263"
+      - id: "2022-57-2"
+
+  - id: "lasch-plate"
+    artist: Aranda\Lasch and Terrol Dew Johnson
+    bio: "Aranda&#92;Lasch<br>Established 2003, New York and Tucson, Arizona<br>Benjamin Aranda, American, born 1973<br>Chris Lasch, American, born 1972<br><br>Terrol Dew Johnson<br>Tohono O'odham, born 1973, active in Sells, Arizona"
+    title: Desert Paper 02
+    year: 2022
+    medium: Desert globemallow, agave fiber, and jute
+    dimensions: 16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    link: https://www.denverartmuseum.org/en/object/2022.160
+    figure:
+      - id: "2022-160-1"
+      - id: "2022-161"
+      - id: "2022-162-1"
+
 
   - id: "2015-263"
     artist: Joris Laarman

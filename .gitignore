@@ -2,6 +2,11 @@
 _epub/
 _pdf/
 _site/
+_site/*
+_site.old/
+_site.old/*
+_public.old/
+_public.old/*
 _temp/
 
 # EleventFetch cache directory
