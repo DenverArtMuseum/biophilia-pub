@@ -584,9 +584,15 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 }
 
 .quire-entry .side-by-side .q-lightbox-ui__fullscreen-button {
+    top: auto;
+    left: auto;
+    bottom: 120px;
     right: 11px;
-    left: unset;
     margin-left: 0;
+}
+.q-lightbox-ui__download-and-counter {
+    bottom: 30px;
+    top: auto;
 }
 
 .quire-entry__header .quire-page__header__title {
