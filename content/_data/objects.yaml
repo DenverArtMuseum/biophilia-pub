@@ -431,16 +431,6 @@ object_list:
     figure:
       - id: "ptl-24701-2"
 
-  - id: 2015-267
-    artist: Daniel Brown
-    title: Secret Garden
-    year: 2008, updated 2015
-    medium: Interactive software program
-    dimensions: variable dimensions
-    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
-    figure:
-      - id: "2015-267"
-
   - id: ptl-24704
     artist: Humberto Campana and Fernando Campana
     bio: Humberto Campana, Brazilian, born 1953, active in São Paulo<br>Fernando Campana, Brazilian, 1961–2022
@@ -659,7 +649,7 @@ object_list:
     dimensions: Dimensions variable 
     credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267"
     figure:
-      - id: 
+      - id: "2015-267"
 
   - id: tl-45470
     artist: Elena Manferdini
@@ -682,4 +672,4 @@ object_list:
     dimensions: 
     credit: 
     figure:
-      - id: 
+      - id: exacc-2023-105
