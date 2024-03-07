@@ -4,7 +4,8 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: spiral-overlay.png
+image: title-poster.jpg
+video: title-video.mp4
 ---
 
 *Biophilia: Nature Reimagined* brings together more than seventy imaginative works, including architectural models and photographs, objects, fashion, digital installations, and immersive art experiences that collectively highlight the transformative power of nature.

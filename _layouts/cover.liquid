@@ -6,15 +6,19 @@ layout: base.11ty.js
 ---
 
 {% assign coverImage = image %}
+{% assign coverVideo = video %}
 {% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
+{% assign videoPath = config.figures.imageDir | concat: coverVideo | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
   <div
     class="quire-cover__overlay"
-    style="background-image: url('{{ imagePath }}');"
   >
-    <!-- This ensures background image asset gets copied into epub package -->
-    <img class="visually-hidden" src="{{ imagePath }}" />
+    <video class="cover-video" autoplay loop role="presentation" aria-hidden="true">
+      <source src="{{ videoPath }}" type="video/mp4" />
+      <!-- image is decorative, alt text is empty -->
+      <img src="{{ imagePath }}" alt="" />
+    </video>
   </div>
   <div class="quire-cover__hero-body hero-body">
     <div class="container is-fluid">
