@@ -177,7 +177,7 @@ module.exports = function(eleventyConfig) {
           </div>
         </nav>
         <div class="quire-progress-bar">
-          <div style="width: ${percentProgress}%;">
+          <div style="width: 100%;">
             <span>${currentPageIndex + 1}/${collections.navigation.length}</span>
           </div>
         </div>
