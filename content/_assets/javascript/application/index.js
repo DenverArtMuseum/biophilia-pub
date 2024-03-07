@@ -11,7 +11,7 @@
 import '../../fonts/index.scss';
 import '../../styles/application.scss'
 import '../../styles/screen.scss'
-import '../../styles/custom.css'
+import '../../styles/custom.scss'
 
 // Modules (feel free to define your own and import here)
 import './canvas-panel'
@@ -386,7 +386,19 @@ import littlefoot from 'littlefoot'
 import 'littlefoot/dist/littlefoot.css'
 
 littlefoot({
-  buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>',
+  activateOnHover: true,
+  buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>', 
+  contentTemplate: 
+    `<aside
+      alt="Footnote <% number %>"
+      class="littlefoot__popover"
+      id="fncontent:<% id %>"
+    >
+      <div class="littlefoot__wrapper">
+        <div class="littlefoot__content"><h5 class="footnotes-title">Note</h5><% content %></div>
+      </div>
+      <div class="littlefoot__tooltip"></div>
+    </aside>`,
   //anchorPattern: '/(fn|footnote|note)[:\-_\d]/gi',
 });
 
@@ -429,11 +441,12 @@ $('.quire-page__header.hero__image .hero-credit-icon').on("click", function() {
 /* This is an animation for the Close-knit Flower-sack poem */
 $(window).scroll( function(){
 
+  var bottom_of_window = $(window).scrollTop() + $(window).height();
+
   /* Check the location of each desired element */
   $('body#page-close-knit-flower-sack .quire-page__content .container .content p').each( function(i){
       
-    var bottom_of_object = $(this).position().top + $(this).outerHeight() + 100;
-    var bottom_of_window = $(window).scrollTop() + $(window).height();
+    var bottom_of_object = $(this).position().top + $(this).outerHeight();
     
     /* If the object is completely visible in the window, fade it it */
     if( bottom_of_window > bottom_of_object ){
@@ -447,6 +460,13 @@ $(window).scroll( function(){
 });
 
 $(".footnotes.littlefoot--print").each(function() {
+  if( $(this).find('>ol') ) {
+    $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
+  }  
+});
+
+
+$(".footnotes .littlefoot__popover .littlefoot__content").each(function() {
   if( $(this).find('>ol') ) {
     $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
   }  

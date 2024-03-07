@@ -1,0 +1,61 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-variants/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Figure 1.1"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-variants/canvas",
+      "type": "Canvas",
+      "height": 1024,
+      "width": 826,
+      "items": [
+        {
+          "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-variants/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-variants/canvas/choices",
+              "motivation": "painting",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-variants/canvas",
+              "type": "Annotation",
+              "body": {
+                "type": "Choice",
+                "items": [
+                  {
+                    "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-variants/lange-mother-b.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 1024,
+                    "width": 826,
+                    "label": {
+                      "en": [
+                        "Variant #1"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/mother-variants/lange-mother-c.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 1024,
+                    "width": 826,
+                    "label": {
+                      "en": [
+                        "Variant #2"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

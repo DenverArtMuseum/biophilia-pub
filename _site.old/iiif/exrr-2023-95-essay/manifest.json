@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/iiif/exrr-2023-95-essay/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080/iiif/exrr-2023-95-essay/canvas",
+      "type": "Canvas",
+      "height": 2699,
+      "width": 1800,
+      "items": [
+        {
+          "id": "http://localhost:8080/iiif/exrr-2023-95-essay/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/iiif/exrr-2023-95-essay/canvas/EXRR_2023_95_1",
+              "motivation": "painting",
+              "target": "http://localhost:8080/iiif/exrr-2023-95-essay/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "http://localhost:8080/iiif/exrr-2023-95-essay/EXRR_2023_95_1/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2699,
+                "width": 1800,
+                "label": {
+                  "en": [
+                    "E X R R 2023 95 1"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://localhost:8080/iiif/exrr-2023-95-essay/EXRR_2023_95_1/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

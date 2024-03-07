@@ -7,3 +7,9 @@ outputs:
     - pdf
     - html
 ---
+
+<div class="centered">
+
+*Objects are listed alphabetically by designer.*
+
+</div>

@@ -1,0 +1,479 @@
+@use 'sass:math';
+
+/**************************************************************************
+ * Base Font size used for all relative lengths/sizes
+ *************************************************************************/
+ $base-font-size: $quire-base-font-size;
+
+ /**************************************************************************
+  * Universally useful conversion functions for lengths/sizes
+  *************************************************************************/
+ @function px-to-rem($pixels, $base: $base-font-size) {
+   @return math.div($pixels, $base) * 1rem;
+ }
+
+//
+// Function to create an optimized svg url
+// Version: 1.0.6
+@function svg-url($svg){
+  //
+  // Add missing namespace
+  //
+  @if not str-index($svg,xmlns) {
+    $svg: str-replace($svg, '<svg','<svg xmlns="http://www.w3.org/2000/svg"');
+  }
+  //
+  // Chunk up string in order to avoid
+  // "stack level too deep" error
+  //
+  $encoded:'';
+  $slice: 2000;
+  $index: 0;
+  $loops: ceil(math.div(str-length($svg), $slice));
+  @for $i from 1 through $loops {
+    $chunk: str-slice($svg, $index, $index + $slice - 1);
+    //
+    // Encode
+    //
+    $chunk: str-replace($chunk, '"', '\'');
+    $chunk: str-replace($chunk, '%', '%25');
+    $chunk: str-replace($chunk, '#', '%23');
+    $chunk: str-replace($chunk, '{', '%7B');
+    $chunk: str-replace($chunk, '}', '%7D');
+    $chunk: str-replace($chunk, '<', '%3C');
+    $chunk: str-replace($chunk, '>', '%3E');
+    //
+    // The maybe list
+    //
+    // Keep size and compile time down
+    // ... only add on documented fail
+    //
+    // $chunk: str-replace($chunk, '&', '%26');
+    // $chunk: str-replace($chunk, '|', '%7C');
+    // $chunk: str-replace($chunk, '[', '%5B');
+    // $chunk: str-replace($chunk, ']', '%5D');
+    // $chunk: str-replace($chunk, '^', '%5E');
+    // $chunk: str-replace($chunk, '`', '%60');
+    // $chunk: str-replace($chunk, ';', '%3B');
+    // $chunk: str-replace($chunk, '?', '%3F');
+    // $chunk: str-replace($chunk, ':', '%3A');
+    // $chunk: str-replace($chunk, '@', '%40');
+    // $chunk: str-replace($chunk, '=', '%3D');
+    $encoded: #{$encoded}#{$chunk};
+    $index: $index + $slice;
+  }
+  @return url("data:image/svg+xml,#{$encoded}");
+}
+@mixin background-svg($svg){
+  background-image: svg-url($svg);
+}
+// Helper function to replace characters in a string
+@function str-replace($string, $search, $replace: '') {
+  $index: str-index($string, $search);
+  @return if($index,
+  str-slice($string, 1, $index - 1) + $replace +
+  str-replace(str-slice($string, $index +
+  str-length($search)), $search, $replace),
+  $string);
+}
+
+/* https://css-tricks.com/sliding-nightmare-understanding-range-input/ */
+
+.audio-player-container {
+  --seek-before-width: 0%;
+  --volume-before-width: 100%;
+  --buffered-width: 0%;
+  max-width: px_to_rem(450px);
+  width: 100%;
+  background: #fff; /* TODO: fix */
+  // border: px-to-rem(2px) solid $gray;
+  // TODO: condensed typeface
+  /* font-family: 'FFMark narrow', sans-serif; */
+  padding: 0;
+
+  button {
+    &.mute-button, &.play-pause-button {
+      background-color: transparent;
+      background-origin: padding-box;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      border: 0;
+      color: transparent !important;
+      cursor: pointer;
+      display: inline-block;
+      height: px-to-rem(64px);
+      outline: none;
+      overflow: hidden;
+      padding: 0;
+      width: px-to-rem(64px);
+    }
+    &.mute-button {
+      background-size: 70%;
+    }
+  }
+
+  output {
+    display: inline-block;
+    width: px-to-rem(32px);
+    text-align: center;
+    font-size: px-to-rem(20px);
+    margin: px-to-rem(10px) 2.5% 0 5%;
+  }
+
+  /* delete? */
+  path {
+    stroke: $black;
+  }
+
+  .title-block {
+    // Quire's default CSS has some overly broad selectors
+    // in it that we need to work extra hard to override.
+    // Using !important is a sure sign you messed up earlier
+    // in your CSS, but in this case, that's Quire. That they
+    // used it to assign line-height and nothing else is
+    // particularly weird.
+    p.track-title {
+      font-size: px-to-rem(18px);
+      line-height: 1.5em !important;
+      text-align:center;
+    }
+  }
+
+  .control-block {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .play-block {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: px-to-rem(8px) 0;
+  }
+
+  .play-pause-button {
+    @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82'><path fill='#383B41' d='M41 1C18.932 1 1 18.932 1 41s17.932 40 40 40 40-17.932 40-40S63.068 1 41 1zm0 4c19.906 0 36 16.094 36 36S60.906 77 41 77 5 60.906 5 41 21.094 5 41 5zM27.5 23.532v34.936a2 2 0 0 0 3.029 1.715l29.113-17.468a2 2 0 0 0 0-3.43L30.529 21.817a2 2 0 0 0-3.029 1.715z'/></svg>");
+    height: px-to-rem(22px);
+    width: px-to-rem(18px);    
+    margin: 0 px-to-rem(6px) 0 0;
+
+    &.playing {
+      @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82'><path fill='#383B41' d='M41 1c22.068 0 40 17.932 40 40S63.068 81 41 81 1 63.068 1 41 18.932 1 41 1zm0 4C21.094 5 5 21.094 5 41s16.094 36 36 36 36-16.094 36-36S60.906 5 41 5zm-7.429 17C35.465 22 37 23.701 37 25.8v30.4c0 2.099-1.535 3.8-3.429 3.8H28.43C26.535 60 25 58.299 25 56.2V25.8c0-2.099 1.535-3.8 3.429-3.8zm20 0C55.465 22 57 23.701 57 25.8v30.4c0 2.099-1.535 3.8-3.429 3.8H48.43C46.535 60 45 58.299 45 56.2V25.8c0-2.099 1.535-3.8 3.429-3.8z'/></svg>");
+    }
+  }
+
+  .time {
+    display: inline-block;
+    text-align: center;
+    font-size: px-to-rem(14px);
+    margin: 0;
+
+    // Hiding for stakeholders (under protest)
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+
+    &.current-time {
+      margin-left: px-to-rem(6px);
+      margin-right: px-to-rem(6px);
+      text-align: right;
+      /*min-width: px-to-rem(40px);*/
+    }
+
+    &.duration {
+      margin-left: px-to-rem(6px);
+    }
+  }
+
+  .seek-slider {
+    $track_height: px-to-rem(12px);
+    $border_width: px-to-rem(2px);
+    $track_border: $border_width solid $black;
+    $track-radius: px-to-rem(6px);
+    $thumb_size: px-to-rem(8px);
+
+    -webkit-appearance: none;
+    flex-grow: 2;
+    flex-shrink: 2;
+    margin: 0 px-to-rem(6px);
+    min-width: px-to-rem(80px);
+    position: relative;
+
+    // Hiding for stakeholders (under protest)
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+
+    /* webkit range input customization */
+    &::-webkit-slider-runnable-track {
+      background: $white;
+      border: $track_border;
+      border-radius: $track-radius;
+      cursor: pointer;
+      height: $track_height;
+      width: 100%;
+    }
+    &::before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      height: $track_height;
+      background-color: $black;
+      border: $track_border;
+      border-radius: $track-radius;
+      cursor: pointer;
+      width: var(--seek-before-width);
+    }
+    &::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      position: relative;
+      box-sizing: border-box;
+      border: none;
+      height: $track_height - (2 * $border_width);
+      width: $thumb_size;
+      background: $black;
+      border-radius: 0;
+      border-radius: $track-radius;
+      cursor: pointer;
+      margin: 0;
+    }
+    &:active::-webkit-slider-thumb {
+      transform: scaleY(2) scaleX(1.5);
+      background: $black;
+    }
+
+    /* firefox range input customization */
+    &::-moz-range-track {
+      width: 100%;
+      height: $track_height;
+      cursor: pointer;
+      background: $white;
+      border: $track_border;
+      border-radius: $track-radius;
+    }
+    &::-moz-range-progress {
+      background-color: $black;
+      height: $track_height;
+    }
+    &::-moz-focus-outer {
+      border: 0;
+    }
+    &::-moz-range-thumb {
+      box-sizing: content-box;
+      border: $track_border;
+      height: $track_height;
+      width: math.div($thumb_size, 2);
+      background-color: $black;
+      border-radius: $track-radius;
+      cursor: pointer;
+    }
+    &:active::-moz-range-thumb {
+      transform: scale(1.2);
+      background: $black;
+    }
+
+    /* old IE range customization */
+    &::-ms-track {
+      width: 100%;
+      height: $track_height;
+      cursor: pointer;
+      background: $white;
+      border: $track_border;
+      border-radius: $track-radius;
+      color: transparent;
+    }
+    &::-ms-fill-lower {
+      background-color: $black;
+    }
+    &::-ms-fill-upper {
+      background-color: $white;
+    }
+    &::-ms-thumb {
+      box-sizing: content-box;
+      border: $track_border;
+      height: $track_height;
+      width: math.div($thumb_size, 2);
+      background-color: $black;
+      border-radius: 0;
+      cursor: pointer;
+    }
+    &:active::-ms-thumb {
+      background: $black;
+    }
+  }
+
+  .volume-block {
+    display: none;
+  }
+
+  .mute-button {
+    @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82'><path d='M61.044 20.644a2.222 2.222 0 0 0 0 4.445c8.567 0 15.512 6.944 15.512 15.511S69.61 56.111 61.044 56.111a2.222 2.222 0 0 0 0 4.445C72.066 60.556 81 51.62 81 40.6c0-11.021-8.934-19.956-19.956-19.956zM48.4 79.178L18.711 58.31a2.22 2.22 0 0 0-1.8-.911H7.667A6.686 6.686 0 0 1 1 50.733V30.444a6.686 6.686 0 0 1 6.667-6.666h9.244a2.252 2.252 0 0 0 1.8-.911L48.4 2v77.178z'/></svg>");
+    height: px-to-rem(40px);
+    width: px-to-rem(40px);
+    margin: 0 px-to-rem(3px) 0 0;
+
+    &.muted {
+      @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82'><path d='M6.563 23.872L48.4 57.78v21.397L18.711 58.31a2.22 2.22 0 0 0-1.8-.911H7.667A6.686 6.686 0 0 1 1 50.733V30.444a6.688 6.688 0 0 1 5.563-6.572zM48.4 2v29.635L28.861 15.732 48.4 2zm24.233 68.02l5.397-6.746c.736-.859.613-2.208-.368-2.944L12.41 7.22c-.86-.736-2.208-.613-2.944.368L4.07 14.335c-.736.859-.613 2.208.368 2.944l65.374 52.986c.736.736 2.085.613 2.821-.246z'/></svg>");
+    }
+  }
+
+  .volume-slider {
+    $track_height: px-to-rem(4px);
+    $track_radius: px-to-rem(2px);
+    $thumb_size: px-to-rem(22px);
+    $thumb_border_size: px-to-rem(2px);
+    $thumb_border: $thumb_border_size solid $black;
+
+    -webkit-appearance: none;
+    flex-grow: 2;
+    margin: 0 0 0 px-to-rem(3px);
+    width: px-to-rem(40px);
+    position: relative;
+
+    /* webkit range input customization */
+    &::-webkit-slider-runnable-track {
+      background: $black-olive;
+      border-radius: $track_radius;
+      cursor: pointer;
+      height: $track_height;
+      width: 100%;
+    }
+    &::before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      height: $track_height;
+      background-color: $black;
+      border-radius: $track_radius;
+      cursor: pointer;
+      width: var(--volume-before-width);
+    }
+    &::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      position: relative;
+      box-sizing: content-box;
+      border: $thumb_border;
+      height: $thumb_size;
+      width: math.div($thumb_size,3);
+      border-radius: math.div($thumb_size,2);
+      background-color: $white;
+      cursor: pointer;
+      margin: math.div(-($thumb-size + $track_height), 2) 0 0 0;
+    }
+    &:active::-webkit-slider-thumb {
+      transform: scale(1.2);
+      background: $black;
+    }
+
+    /* firefox range input customization */
+    &::-moz-range-track {
+      width: 100%;
+      height: $track_height;
+      border-radius: $track_radius;
+      cursor: pointer;
+      background: $black-olive;
+    }
+    &::-moz-range-progress {
+      background-color: $black;
+      border-radius: $track_radius;
+      height: $track_height;
+    }
+    &::-moz-focus-outer {
+      border: 0;
+    }
+    &::-moz-range-thumb {
+      box-sizing: content-box;
+      border: $thumb_border;
+      height: $thumb_size;
+      width: math.div($thumb_size,3);
+      border-radius: math.div($thumb_size,2);
+      background-color: $white;
+      cursor: pointer;
+    }
+    &:active::-moz-range-thumb {
+      transform: scale(1.2);
+      background: $black;
+    }
+
+    /* old IE range customization */
+    &::-ms-track {
+      width: 100%;
+      height: $track_height;
+      cursor: pointer;
+      background: transparent;
+      border-color: transparent;
+      border-width: math.div($thumb_border_size + $thumb_size - $track_height, 2) 0;
+      color: transparent;
+    }
+    &::-ms-fill-lower {
+      background-color: $black;
+    }
+    &::-ms-fill-upper {
+      background-color: $black-olive;
+    }
+    &::-ms-thumb {
+      box-sizing: content-box;
+      border: $thumb_border;
+      height: $thumb_size;
+      width: math.div($thumb_size,3);
+      border-radius: math.div($thumb_size,2);
+      background-color: #fff;
+      cursor: pointer;
+    }
+    &:active::-ms-thumb {
+      background: $black;
+    }
+  }
+
+  .volume-output {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: px-to-rem(1px);
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: px-to-rem(1px);
+  }
+
+}
+
+@media screen and (min-width: $desktop) {
+  .audio-player-container {
+    .time {
+      font-size: px-to-rem(16px);
+    }
+    .play-pause-button {
+      height: px-to-rem(44px);
+      width: px-to-rem(36px);
+    }
+    .seek-slider {
+      min-width: px-to-rem(200px);
+    }
+    .volume-block {
+      // Hiding for stakeholders (under protest)
+      display: block;
+      clip: rect(1px, 1px, 1px, 1px);
+      height: 1px;
+      overflow: hidden;
+      position: absolute;
+      width: 1px;
+      /*
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+      justify-content: space-between;
+      margin-left: px-to-rem(16px);
+      */
+    }
+  }  
+}

@@ -136,6 +136,7 @@ function get_alphabetical_artist_name( artist ) {
         'Studio Gang': 'Studio Gang', 
         'gt2P (great things to People)': 'gt2P (great things to People)', 
         'Nervous System': 'Nervous System',
+        "Álvaro Catalán de Ocón": "Catalán",
     };
 
     if( Object.keys(artist_sorting).includes(artist) ) {

@@ -56,7 +56,7 @@ Few things move us as profoundly as witnessing these fundamental and universal p
 #### Epiphany
  A classic feature of conceptual awe, this is the moment we achieve insight or view an idea in a wholly new way.[^6]
 
-————
+<hr class="essay-break"/>
 
 For those of us who love museums, it’s no wonder that visual design and other sensory encounters can lead to feelings of being transported outside the self. Museums can offer several types of awe at once: Visual exhibits may incorporate music or images of nature. Being surrounded by others creates a collective experience. Perhaps we achieve new insight from seeing emotions or ideas represented artistically. And large sculptures and earthworks offer opportunities to encounter the vastness of scale, not to mention the technical and creative wonders of human ingenuity.
 
@@ -100,7 +100,7 @@ The meaning-making theory sounds grand, but Williams has another, more physiolog
 
 Awe thrives in the face of mystery and the unknown. Experiencing aesthetic awe in this way may be a sort of practice for the stresses of life, argues Williams. “The term I’ve come to use is that it’s a kind of stress inoculation,” she says. “If you do it a lot, then you are always challenging your system a bit and perhaps training yourself to have comfort with novelty and things that are challenging.”[^15]
 
-——————
+<hr class="essay-break"/>
 
 Of course, not all awe makes us uncomfortable, or at least not for long. Many things that are novel are also highly pleasurable. Accordingly, there are other neurological and endocrinological bases for why we feel good when we encounter awe. One study indicated that while watching videos depicting acts of moral courage, subjects produced more oxytocin, a neurotransmitter linked to emotional bonding, a sense of unity with others, and overall positive well-being.[^16] Encounters with awe may also release dopamine and activate reward networks in the brain.[^17]
 
@@ -120,7 +120,7 @@ Those feelings of noninvolvement, even when brief, are very good for our mental 
 
 As Keltner puts it, “Awe is about as good for your mind and body as anything. It reduces inflammation, so it’s good for your immune system. It activates the vagus nerve, which is good for your cardiovascular system. It’s good for your basic digestive processes. And it’s good for your mind. Even ten minutes of awe makes you feel less self-critical, less stressed, less in pain, more creative, and more of just about all the things we care about in the well-being literature.”[^24]
 
-——————
+<hr class="essay-break"/>
 
 It’s one thing to feel good in the moments during or right after awe. But emerging science also suggests that awe may be the primary mechanism by which people achieve long-term improvements in symptoms of PTSD, in addictive behaviors, and in feelings of fear around terminal illness.[^25] Nowhere are these results more apparent than around the therapeutic use of psychedelics. In an extensive series of case-controlled studies at Johns Hopkins Center for Psychedelic & Consciousness Research, where patients are administered psilocybin (a derivative of “magic mushrooms”), more than half of them report cessation of clinical symptoms a year after treatment.[^26] They also report enduring feelings of gratitude, life satisfaction, humility, and well-being. In the high-dose groups, most patients encounter a scientifically assessed “mystical” experience, which is very similar to high scores on the Awe Experience Scale. They see visual patterns, feel that time is suspended, believe they are receiving epiphanic truths, and experience feelings of unity together with a loss of ego. It is, essentially, awe on Miracle-Gro.
 
