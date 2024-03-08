@@ -37,7 +37,6 @@ object_list:
       - id: "2022-161"
       - id: "2022-162-1"
 
-
   - id: "2015-263"
     artist: Joris Laarman
     bio: Dutch, born 1979, active in Amsterdam
@@ -695,8 +694,5 @@ object_list:
     bio: American, born 1981, active in Los Angeles
     title: Midnight in the Meadow Wallpaper
     year: 2023
-    medium: 
-    dimensions: 
-    credit: 
     figure:
       - id: exacc-2023-105

@@ -21,8 +21,7 @@ module.exports = function(eleventyConfig) {
       <figcaption class="q-figure__caption">
         ${mediaSourceLink}
         ${markdownify(content)}
-        <span class="q-figure__caption-content">${markdownify(caption || '')}</span>
-        <span class="q-figure__credit">${markdownify(credit || '')}</span>
+        <span class="q-figure__caption-content">${markdownify(caption || '')}</span> <span class="q-figure__credit">${markdownify(credit || '')}</span>
       </figcaption>
     `
   }

@@ -91,7 +91,6 @@ html {
   }
 
   h2 {
-    text-transform: uppercase;
     font-size: $heading-2-font-size;
     line-height: $heading-2-line-height;
   }
@@ -357,7 +356,7 @@ html {
             }
             font-size: 1em;
             line-height: 1.28em;
-            text-transform: uppercase;
+            // text-transform: uppercase;
             margin-top: 20px;
             padding-bottom: 6px;
             border-bottom: 1px solid
