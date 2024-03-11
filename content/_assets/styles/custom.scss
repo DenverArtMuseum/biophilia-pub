@@ -897,6 +897,11 @@ ol.footnotes-list > li::marker {
     font-size: 90%;
 }
 
+.quire-contents-list .page-item.level-1 a {
+    display: none !important;
+    // color: red !important;
+}
+
 
 /* Cover */
 
