@@ -805,6 +805,15 @@ ol.footnotes-list > li::marker {
 /* Specific page styles */
 
 
+/* Cover / Index */
+
+#page-index .quire-navbar-page-controls__item.quire-previous-page a,
+#page-index .quire-contents-buttons li.quire-nav-button.prev {
+    display: none;
+}
+
+
+
 
 /* Contents */
 
