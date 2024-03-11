@@ -10,6 +10,7 @@ image:
 
 {% figure 'close-knit-audio' %}
 
+<pre>
 Seedless golden tears,
 
 ferns bound to flesh at off angles,
@@ -38,62 +39,63 @@ Borders are so often theorized as division
 
 wending along with a spot of sunlight,
 
-“The bone frame was made
+                     “The bone frame was made
 
-for
+                     for
 
-no such shock, knit within
+                     no such shock, knit within
 
-terror
+                     terror
 
-yet the skeleton stood up to it.”
+                     yet the skeleton stood up to it.”
 
-They are not artifacts but fit to our hand,
+                     They are not artifacts but fit to our hand,
 
-our daily voice,
+                     our daily voice,
 
-the short mouth line erased.
+                     the short mouth line erased.
 
-The marsh revels in its glitter
+                     The marsh revels in its glitter
 
-and occasional cranberry.
+                     and occasional cranberry.
 
-The subject is left purposely unstable,
+                     The subject is left purposely unstable,
 
-we will not be robbed of continuum.
+                     we will not be robbed of continuum.
 
-The shells fly out from the dress,
+                     The shells fly out from the dress,
 
-on strings, according
+                     on strings, according
 
-to demands left in the music.
+                     to demands left in the music.
 
-Certain stories are told in full frog regalia,
+                     Certain stories are told in full frog regalia,
 
-the music is allowed its wet set of wings
+                     the music is allowed its wet set of wings
 
-and room to lie down.
+                     and room to lie down.
 
-Words arranged for prayer
+                     Words arranged for prayer
 
-are in fact geometric forms
+                     are in fact geometric forms
 
-or portraits of poets themselves,
+                     or portraits of poets themselves,
 
-uncovering the dictates of a graven line.
+                     uncovering the dictates of a graven line.
 
-Orlando, are we even
+                     Orlando, are we even
 
-allowing ourselves the present
+                     allowing ourselves the present
 
-moment anymore?
+                     moment anymore?
 
-There are still two blankets that sit on either side
+                     There are still two blankets that sit on either side
 
-Reimagining can take place at the root of time,
+                     Reimagining can take place at the root of time,
 
-out of all necessity
+                     out of all necessity
 
-we convert the elements
+                     we convert the elements
 
-as a matter of course.
+                     as a matter of course.
+</pre>

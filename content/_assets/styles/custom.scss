@@ -725,6 +725,8 @@ ol.footnotes-list > li::marker {
 }
 
 .quire-page__content .container .content .littlefoot__content p {
+    font-family: $inter;
+    color: $off-black;
     line-height: 1.4;
     font-style: normal;
     font-weight: bold;
@@ -758,6 +760,9 @@ ol.footnotes-list > li::marker {
 }
 
 
+.quire-page__header__contributor .quire-contributor > * {
+    display: block;
+}
 
 .quire-page__header__contributor .quire-contributor__affiliation,
 .quire-page__header__contributor .quire-contributor__comma {
@@ -807,12 +812,53 @@ ol.footnotes-list > li::marker {
 
 /* Cover / Index */
 
+#page-index .quire-cover__hero-body.hero-body {
+    display: none;
+}
 #page-index .quire-navbar-page-controls__item.quire-previous-page a,
 #page-index .quire-contents-buttons li.quire-nav-button.prev {
     display: none;
 }
 
+body#page-index .quire-cover__hero-body .title {
+    font-size: 3rem;
+    word-spacing: 0.4em;
+    font-weight: bold;
+    letter-spacing: 0.9rem;
+    margin: auto;
+    text-transform: uppercase;
+    -webkit-animation: fadeIn 4s;
+    animation: fadeIn 4s;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+body#page-index .quire-cover__hero-body .title .subtitle {
+    padding-left: 6px;
+    font-size: 2.0rem;
+    word-spacing: 0.3rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    text-transform: none;
+    -webkit-animation: fadeIn 4s;
+    animation: fadeIn 4s;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards;
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+}
+body#page-index .contributor {
+    display: none;
+}
 
+body#page-index .quire-navbar-controls__left .logos {
+    display: none;
+}
+
+h1.quire-page__header__title .separator {
+    display: none;
+}
 
 
 /* Contents */
@@ -897,49 +943,53 @@ ol.footnotes-list > li::marker {
     font-size: 90%;
 }
 
-.quire-contents-list .page-item.level-1 a {
+#page-contents .quire-contents-list .page-item.level-1 a {
     display: none !important;
     // color: red !important;
 }
 
 
-/* Cover */
+/* Foreward */
 
-body#page-index .quire-cover__hero-body .title {
-    font-size: 3rem;
-    word-spacing: 0.4em;
-    font-weight: bold;
-    letter-spacing: 0.9rem;
-    margin: auto;
-    text-transform: uppercase;
-    -webkit-animation: fadeIn 4s;
-    animation: fadeIn 4s;
-    -webkit-animation-fill-mode: backwards;
-    animation-fill-mode: backwards;
-    -webkit-animation-delay: 0.5s;
-    animation-delay: 0.5s;
+#page-foreword .quire-contributor > * {
+    display: block;
 }
-body#page-index .quire-cover__hero-body .title .subtitle {
-    padding-left: 6px;
-    font-size: 2.0rem;
-    word-spacing: 0.3rem;
-    font-weight: bold;
-    letter-spacing: 0.1rem;
-    text-transform: none;
-    -webkit-animation: fadeIn 4s;
-    animation: fadeIn 4s;
-    -webkit-animation-fill-mode: backwards;
-    animation-fill-mode: backwards;
-    -webkit-animation-delay: 2s;
-    animation-delay: 2s;
-}
-body#page-index .contributor {
+#page-foreword .quire-contributor__comma {
     display: none;
 }
 
-body#page-index .quire-navbar-controls__left .logos {
+
+/* Introduction */
+
+#page-intro .quire-contributor > * {
+    display: block;
+}
+#page-intro .quire-contributor__comma {
     display: none;
 }
+
+body#page-intro .quire-page__header.hero-image {
+    background-image: none !important;
+    width: auto;
+    height: auto;
+    max-width: none;
+    max-height: none;
+}
+body#page-intro .quire-page__header.hero-image img {
+    max-width: 1589px;
+    max-height: 984px;
+    width: auto;
+    height: auto;
+    clip: auto;
+    position: static;
+    overflow: auto;
+    margin: auto
+}
+body#page-intro .quire-page__header.hero-image .hero-body h1.quire-page__header__title,
+body#page-intro .quire-page__header.hero-image .hero-body  .quire-page__header__contributor {
+    color: $off-black;
+}
+
 
 /* Essay pages */
 
@@ -1056,6 +1106,10 @@ body#page-glossary .glossary-terms h3 {
 }
 
 /* Close-knit Flower-sack */
+
+body#page-close-knit-flower-sack pre {
+    background-color: transparent;
+}
 
 body#page-close-knit-flower-sack .quire-page__content .container .content p {
     font-size: 1rem;
