@@ -27,6 +27,8 @@ Sandra Davolio’s delicately handcrafted porcelain vessels take inspiration fro
 
 David Valner’s *Fungus* vases and bowls conjure the peculiar forms found in the fascinating world of fungi: from delicate and elongated stalks to intricate and convoluted caps. Valner employs traditional glass-making techniques to create these functional objects (cat. **xx**). Their glass surfaces simulate the variable and complex colors observed on fungal bodies found in the damp recesses beneath our feet. Meanwhile, Front’s [*Curve Lamps*](/checklist/2023-186-92/) appear to grow and adapt to their surroundings. The lamps reimagine the iconic green-glass banker’s lamps with a contemporary twist. Emerging from small yet sturdy bases, the lamps stretch and bend upward like a plant or mushroom sprouting from the forest floor, seeking the nourishing rays of the sun.
 
+{% figure 'ptl-24650-59-63-64-essay' %}
+
 {% figure 'ptl-24649-1-essay' 'is-pulled-right' %}
 
 Crafted by master glass blowers, Andreea Avram Rusu’s *Botanica Chandelier* resemble the weighty and sculptural blossoms of banana plants in milky pastel hues (cat. **xx**). The surreal composition—the large, pendulous flowers and a series of overlapping leaves suspended from stems wrapped with leather—dynamically respond to the interplay of surrounding light. While Avram Rusu expresses her fascination with plant life in glass form, the lush banana fronds of PELLE’s eye-catching *Nana Lure Chandelier* are made of cast-cotton paper (cat. **xx**). Illuminated from their undersides, the large, elongated leaves are sculpted and painted by hand. Each leaf is depicted with the accuracy of a botanical illustration, from the prominent vein that runs their length to the gentle wave-like pattern of their weathered edges.

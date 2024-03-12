@@ -60,9 +60,9 @@ Completed in 2021, the Nanjing Zendai Himalayas Center by Beijing-based MAD Arch
 
 Located in the capital of China’s eastern Jiangsu province, the Nanjing Zendai Himalayas Center is a 138-acre urban development consisting of commercial, hotel, office, and residential spaces. The complex is made up of thirteen mountainous towers intended to evoke a natural landscape. Placed along the edge of the site, the lofty structures are delineated by their vertical white glass fins that flow like waterfalls. The development’s elevated vertical park features meandering pathways that serve as an invitation for people to wander among water features, gardens, and buildings. At the center of the site is a village-like community of low buildings, connected by footbridges and nestled into the landscape. By bringing people up from the busy street level, MAD has created an inviting landscape integrating the different elements (fig. 5).
 
-{% figure 'vid-exrr-2023-44' %}
-
 The Nanjing Zendai Himalayas Center seeks to challenge the prevailing typology of rectangular, homogenous, linear structures that have shaped our urban environment. In describing cities as “steel concrete forests,” Ma suggests that our urban environments fail to match the thriving ecosystem of a forest and argues that a forest requires a state of symbiosis between every organism.”[^9]
+
+{% figure 'vid-exrr-2023-44' %}
 
 In today’s increasingly urbanized and globalized world, the concept of topophilia takes on renewed significance. As individuals and communities become more disconnected from the natural environment and uprooted from their traditional homelands, the need for a sense of place and belonging grows stronger. Topophilia offers a framework for understanding and nurturing our emotional connection to the physical spaces we inhabit. It reminds us of the profound impact that our surroundings have on our well-being, identity, and sense of rootedness. By exploring the diverse manifestations of topophilia through art, design, and architecture, we can foster a deeper appreciation for the places we call home and cultivate a more sustainable and harmonious relationship with our environment.
 
