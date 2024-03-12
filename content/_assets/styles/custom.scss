@@ -1,7 +1,7 @@
 @import "bulma/sass/utilities/initial-variables.sass";
 @import "colors";
 @import "variables";
-
+@import "utilities";
 
 /* html {
     font-size: 100%;
@@ -286,6 +286,24 @@ h1 > em {
 .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
 .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
     background-color: $link-color;
+}
+
+.quire-navbar-controls__left {
+}
+
+.quire-navbar .logos {
+    line-height: 4rem;
+
+    .logo-link {
+        background-color: transparent;
+        max-height: 3.75rem;
+
+        img {
+            height: 100%;
+            width: auto;
+            max-width: 100%;
+        }
+    }
 }
 
 .centered {
@@ -803,10 +821,6 @@ ol.footnotes-list > li::marker {
 
 
 
-
-
-
-
 /* Specific page styles */
 
 
@@ -1190,7 +1204,7 @@ body#page-about .dam-logo {
     .quire-navbar-page-controls__item.quire-next-page a svg {
     }
 
-    .quire-navbar .logos h1 {
+    .quire-navbar .logos .logo-link {
         font-size: 14px !important;
     }
 

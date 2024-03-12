@@ -136,7 +136,7 @@ module.exports = function(eleventyConfig) {
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
             <div class="logos">
-              <h1><a href="/">Biophilia: Nature Reimagined</a></h1>
+              <a href="/" class="logo-link" title="Home" rel="home"><img src="/_assets/images/biophilia-logo.svg" alt="Biophilia: Nature Reimagined" ></a>
             </div>
           </div>
           <div class="quire-navbar-controls__center">
