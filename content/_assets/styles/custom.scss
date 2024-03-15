@@ -167,7 +167,15 @@ h1 > em {
     display: flex;
     flex-direction: row;
     align-self: center;
+    line-height: 1;
+    padding: 40px
     /* justify-content: space-evenly; */
+}
+.quire-navbar-controls__left .logos a:hover {
+    background-color: transparent;
+}
+.quire-navbar-controls__left .logos img {
+    max-width: 80%;
 }
 /* .quire-navbar-controls__left .logos .dam-logo {
     height: 40px;
