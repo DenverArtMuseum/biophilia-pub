@@ -1,0 +1,27 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24704/PTL-24704_FPO/tiles",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 256
+    }
+  ],
+  "width": 658,
+  "height": 960
+}
