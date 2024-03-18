@@ -532,7 +532,7 @@ object_list:
     figure:
       - id: "ptl-24736-1"
 
-  - id: ptl-25093
+  - id: ptl-25093-97
     artist: Zaha Hadid
     bio: Iraqi British, born Iraq, 1950–2016
     title: Tau Vases
@@ -542,7 +542,7 @@ object_list:
     manufacturer: 
     credit:  
     figure:
-      - id: "ptl-25093"
+      - id: "ptl-25093-97"
 
   - id: ptl-25107
     artist: Iris van Herpen
