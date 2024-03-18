@@ -634,6 +634,10 @@ div.is-aligned-right, p.is-aligned-right {
     height: 100%;
 }
 
+q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
+    display: none; // This button does nothing, why does it exist?
+}
+
 .quire-entry .side-by-side .q-lightbox-ui__fullscreen-button {
     bottom: auto;
     top: 0px;
