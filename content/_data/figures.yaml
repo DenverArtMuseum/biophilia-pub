@@ -17,6 +17,11 @@ figure_list:
     credit: Courtesy Emergence Magazine
     audio_src: /figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
 
+  - id: big-nature-audio
+    media_type: audiofile
+    title: "Listen to Florence Williams read *Big Nature, Big Art, and the Necessary Euphoria of Awe*"
+    audio_src: /figures/audio/Big_Nature_Big_Art.mp3
+
   - id: close-knit-audio
     media_type: audiofile
     title: "Listen to Cedar Sigo read *Close Knit Flower Sack*"

@@ -8,6 +8,8 @@ order: 250
 image: figures/EXRR_2023_91_1.jpg
 ---
 
+{% figure 'big-nature-audio' %}
+
 In the winter of 2019, Dacher Keltner visited his dying younger brother. In his mid-50s, Rolf Keltner was losing his battle with cancer. The older brother rested his hand on Rolf’s shoulder. He sensed a light radiating from his brother, a force around his body, pulling him away. He felt immense sorrow but also the enormity of the mysteries of life and death. In the presence of his brother and these immemorial forces of time, he briefly lost his sense of being an embodied individual.[^1]
 
 Keltner, a psychologist at the University of California, Berkeley, later understood exactly what he’d experienced in that moment: awe. Keltner had been studying this emotion for years, usually in his lab, elicited in volunteers watching videos of things like the Earth from space. But occasionally Keltner and his colleagues would take subjects out into the real world to stand under giant trees or raft in the wilderness or look at dinosaur skeletons in a museum while filling out questionnaires or offering up saliva to test hormones.
