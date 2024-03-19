@@ -1,6 +1,8 @@
 # Eleventy build artifacts
 _epub/
 _pdf/
+_site/
+public/
 _temp/
 
 # EleventFetch cache directory
