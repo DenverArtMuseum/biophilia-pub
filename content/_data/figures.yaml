@@ -42,6 +42,7 @@ figure_list:
     media_id: "911666902"
 
   - id: vid-exrr-2023-90
+    aspect_ratio: manferdini
     media_type: vimeo
     caption: Elena Manferdini, *Wall Flowers*, computer animation, 2018. © Elena Manferdini.
     media_id: "911666911"

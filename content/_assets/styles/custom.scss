@@ -385,7 +385,12 @@ h1 > em {
 }
 
 
-
+/*
+ * Weird Manferdini video aspect ratio fix
+ */
+.q-figure__media-wrapper.q-figure__media-wrapper--manferdini {
+    padding-bottom: 34.96%;
+}
 
 /* Page Layout */
 
