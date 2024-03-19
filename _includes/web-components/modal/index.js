@@ -2,6 +2,7 @@ import { LitElement, html } from 'lit'
 
 class Modal extends LitElement {
   static properties = {
+    identifier: { type: String },
     active: { type: Boolean },
     currentId: { attribute: 'current-id', type: String },
   }
@@ -16,6 +17,7 @@ class Modal extends LitElement {
 
   constructor() {
     super()
+    this.identifier = this.getAttribute('id');
     this.setupKeyboardControls()
     this.setupModalTriggers()
   }
@@ -73,7 +75,7 @@ class Modal extends LitElement {
   }
 
   setupModalTriggers() {
-    document.querySelectorAll('.q-figure__modal-link').forEach((item) => {
+    document.querySelectorAll('.q-figure__modal-link[data-modal-identifier="' + this.identifier + '"]').forEach((item) => {
       item.addEventListener('click', (event) => {
         event.preventDefault()
         this.open(event)

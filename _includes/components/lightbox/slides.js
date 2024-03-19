@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
 
   const assetsDir = path.join(eleventyConfig.dir.input, '_assets/images')
 
-  return async function(figures) {
+  return async function(figures, modalIdentifier) {
     if (!figures) return ''
 
     const slideElement = async (figure) => {
@@ -30,11 +30,22 @@ module.exports = function(eleventyConfig) {
         id,
         isSequence,
         label,
-        mediaType
+        mediaType,
+        modal_id: modalId='modal-default'
       } = figure
+
+      if (modalIdentifier != modalId) {
+        return ''
+      }
 
       const isAudio = mediaType === 'soundcloud'
       const isVideo = mediaType === 'video' || mediaType === 'vimeo' || mediaType === 'youtube'
+      const isIgnored = mediaType === 'soundcloud' || mediaType ==='audiofile'
+
+      // Why would we want audio in the modal lightbox? We wouldn't, that's why.
+      if (isIgnored) {
+        return ''
+      }
 
       const figureElement = async (figure) => {
         switch (true) {

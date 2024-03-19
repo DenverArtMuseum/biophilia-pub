@@ -1355,6 +1355,7 @@ figure_list:
     src: figures/TL-45469~1.jpg
     caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
     credit: Courtesy of the designer. © Elena Manferdini.
+    modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-1
@@ -1368,6 +1369,7 @@ figure_list:
     src: figures/TL-45469~2.jpg
     caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
     credit: Courtesy of the designer. © Elena Manferdini.
+    modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-2
@@ -1381,6 +1383,7 @@ figure_list:
     src: figures/TL-45469~3.jpg
     caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
+    modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-3
