@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
 
   const assetsDir = path.join(eleventyConfig.dir.input, '_assets/images')
 
-  return async function(figures, modalIdentifier) {
+  return async function(figures, modalIdentifier='modal-default') {
     if (!figures) return ''
 
     const slideElement = async (figure) => {

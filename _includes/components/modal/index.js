@@ -25,7 +25,7 @@ module.exports = function (eleventyConfig) {
       }
     }
 
-    const modalIds = async () => {
+    const modalIds = async (figures) => {
       let idList = new Array()
       idList.push(defaultIdentifier)
       for (const figure of figures) {
@@ -37,11 +37,12 @@ module.exports = function (eleventyConfig) {
       return idList
     }
 
-    const modalElement = async (modalId) => {
+    const modalElement = async (figures, identifier) => {
+      if (!identifier) { return '' }
       return html`
-        <q-modal id="${modalId}" class="q-modal__${modalId}">
+        <q-modal id="${identifier}" class="q-modal__${identifier}">
           <q-lightbox>
-            ${await lightboxSlides(figures, modalId)}
+            ${await lightboxSlides(figures, identifier)}
             ${lightboxUI(figures)}
           </q-lightbox>
           <button
@@ -55,9 +56,9 @@ module.exports = function (eleventyConfig) {
 
     const modalElements = async () => {
       let modals = ''
-      let idList = await modalIds
+      let idList = await modalIds(figures)
       for (const id of idList) {
-        modals += await modalElement(id)
+        modals += await modalElement(figures, id)
       }
       return modals
     }
