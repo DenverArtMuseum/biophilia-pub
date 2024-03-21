@@ -24,8 +24,11 @@ module.exports = function(eleventyConfig) {
       credit,
       id,
       isSequence,
-      label
+      label,
+      modal_id: modalId='modal-default'
     } = figure
+
+    let modalIdentifier = modalId
 
     const labelElement = figureLabel({ id, label, isSequence })
 
@@ -33,7 +36,7 @@ module.exports = function(eleventyConfig) {
      * Wrap image in modal link
      */
     let imageElement = await figureImageElement(figure, { interactive: false })
-    imageElement = figureModalLink({ content: imageElement, id })
+    imageElement = figureModalLink({ content: imageElement, id, modalId: modalIdentifier })
 
     const captionElement = figureCaption({ caption, content: labelElement, credit })
 
