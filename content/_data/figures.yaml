@@ -15,12 +15,12 @@ figure_list:
     media_type: audiofile
     title: "Listen to Kimberly Ruffin read<br>A Forest Walk: An Audio-Guided Practice"
     credit: Courtesy Emergence Magazine
-    audio_src: /figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
+    audio_src: figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
 
   - id: big-nature-audio
     media_type: audiofile
     title: "Listen to Florence Williams read *Big Nature, Big Art, and the Necessary Euphoria of Awe*"
-    audio_src: /figures/audio/Big_Nature_Big_Art.mp3
+    audio_src: figures/audio/Big_Nature_Big_Art.mp3
 
   - id: close-knit-audio
     media_type: audiofile
@@ -30,17 +30,20 @@ figure_list:
   - id: vid-ptl-24721
     media_type: vimeo
     media_id: "911667351"
+    poster: figures/van-herp-poster.jpg
 
   - id: vid-exrr-2023-44
     media_type: vimeo
     caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Courtesy of the artists. © MAD Architects. Video by Blackstation, 2022. 
     media_id: "911666850"
+    poster: figures/nanjing-poster.jpg
 
   - id: vid-exrr-2023-89
     lightbox_mode: exclude
     media_type: vimeo
     caption: Nervous System, Growth of Hyphae and Floraform systems for *Floraform Chandelier*, 2017. Courtesy of Nervous System. © Nervous System, inc.
     media_id: "911666902"
+    poster: figures/exrr_2023_89_poster.jpg
 
   - id: vid-exrr-2023-90
     lightbox_mode: exclude
@@ -48,26 +51,31 @@ figure_list:
     media_type: vimeo
     caption: Elena Manferdini, *Wall Flowers*, computer animation, 2018. © Elena Manferdini.
     media_id: "911666911"
+    poster: figures/exrr_2023_90_poster.jpg
 
   - id: vid-exrr-2023-93
     media_type: vimeo
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. © 2023 DRIFT. Video by Xinix Films / Arjen van Eijk. 
     media_id: "911666928"
+    poster: figures/exrr_2023_93_poster.jpg
 
   - id: vid-exrr-2023-96
     media_type: vimeo
     caption: gt2P, *Remolten* process, 2016. © Gt2P Spa.
     media_id: "911666952"
+    poster: figures/exrr_2023-96_poster.jpg
 
   - id: vid-exrr-2023-133
     media_type: vimeo
     caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics. Indianapolis Museum of Art Galleries at Newfields. © 2023 DRIFT, represented by Pace Gallery. Video courtesy of DRIFT. 
     media_id: "911666976"
+    poster: figures/exrr_2023_133_poster.jpg
 
   - id: vid-exrr-2023-135
     media_type: vimeo
     credit: Iris van Herpen, *Sensory Seas*, January 20, 2020. Presented at Cirque d’hiver Bouglione, Paris. Video by Blitzkickers. 
     media_id: "911666993"
+    poster: figures/sensory-seas-poster
 
   - id: 2008-163-1
     src: figures/2008_163.jpg
