@@ -139,7 +139,7 @@ blockquote {
   margin: 1.5em 5%;
   p {
     text-indent: 0;
-    font-style: italic;
+    font-style: oblique 5deg;
     i, em, cite {
       font-style: normal;
     }
@@ -167,7 +167,7 @@ abbr {
 }
 
 i, cite, dfn, em {
-  font-style: italic;
+  font-style: oblique 5deg;
 }
 
 /* Get back to normal when italic nested in italic */

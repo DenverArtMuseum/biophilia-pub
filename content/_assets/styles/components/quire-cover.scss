@@ -99,7 +99,7 @@
 
     .reading-line {
       font-family: $quire-headings-font;
-      font-style: italic;
+      font-style: oblique 5deg;
       font-size: calc(1.25rem * #{$quire-cover-text-scale});
       line-height: 1.2;
       color: $quire-cover-text-color;

@@ -8,7 +8,7 @@
   position: relative;
   text-indent: 0;
   .quire-page__content .content blockquote & { font-style: normal; }
-  .quire-page__content .content blockquote & em { font-style: italic; }
+  .quire-page__content .content blockquote & em { font-style: oblique 5deg; }
   &__button {
     border: none;
     padding: 0;

@@ -217,7 +217,7 @@ $print-trim: $print-bleed * 2;
     }
     .section-item.frontmatter-page > a::after {
       content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
-      font-style: italic;
+      font-style: oblique 5deg;
       .pagedjs_pages & {
         content: target-counter(attr(href), page, lower-roman);
         float: right;
@@ -236,7 +236,7 @@ $print-trim: $print-bleed * 2;
       }
       &.frontmatter-page > a::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
-        font-style: italic;
+        font-style: oblique 5deg;
         margin-left: 6pt;
         margin-right: -10%;
         .pagedjs_pages & {

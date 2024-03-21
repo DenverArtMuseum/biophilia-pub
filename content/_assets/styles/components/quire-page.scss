@@ -96,7 +96,7 @@ html {
   }
 
   h3 {
-    font-style: italic;
+    font-style: oblique 5deg;
     font-size: $heading-3-font-size;
     line-height: $heading-3-line-height;
   }
@@ -104,7 +104,7 @@ html {
   &__header__contributor {
     font-family: $quire-primary-font;
     font-weight: 400;
-    font-style: italic;
+    font-style: oblique 5deg;
     margin-top: 3rem;
     font-size: 1em;
     em {
@@ -124,7 +124,7 @@ html {
   h5 {
     font-size: $heading-5-font-size;
     font-weight: 400;
-    font-style: italic;
+    font-style: oblique 5deg;
     line-height: $heading-5-line-height;
   }
 
@@ -437,7 +437,7 @@ html {
     //   border: 1px solid DarkViolet;
     // }
 
-    font-style: italic;
+    font-style: oblique 5deg;
     padding-bottom: 0;
     padding-top: 1em;
     margin-bottom: -3.5em;
@@ -792,7 +792,7 @@ html {
       }
 
       background-color: transparent;
-      font-style: italic;
+      font-style: oblique 5deg;
 
       em {
         font-style: normal;
