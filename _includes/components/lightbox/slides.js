@@ -30,6 +30,7 @@ module.exports = function(eleventyConfig) {
         id,
         isSequence,
         label,
+        lightbox_additions: lightboxAdditions='',
         lightbox_mode: lightboxMode='include',
         mediaType,
         modal_id: modalId='modal-default'
@@ -88,6 +89,22 @@ module.exports = function(eleventyConfig) {
         isVideo ? `${elementBaseClass}--video ${elementBaseClass}--${aspectRatio}` : ''
       ].join(' ')
 
+      // Generate addition figures
+      const getFigure = eleventyConfig.getFilter('getFigure')
+      let additionalSlides = ''
+      if (lightboxAdditions != '') {
+        let idList = lightboxAdditions.split(/\s+|,\s*/)
+        for (const addId of idList) {
+          // need to load these ids into figure objects
+          let addition = getFigure(addId)
+          if (!addition) {
+            logger.warn(`The figure id "${addId}" was found in additional figures for figure "${id}", but is not defined in "figures.yaml"`)
+            return ''
+          }
+          additionalSlides += await slideElement(addition)
+        }
+      }
+
       return html`
         <div
           class="q-lightbox-slides__slide"
@@ -102,6 +119,7 @@ module.exports = function(eleventyConfig) {
             ${annotationsElement}
           </div>
         </div>
+        ${additionalSlides}
       `
     }
 

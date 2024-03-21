@@ -89,7 +89,7 @@ Nervous System is a generative design studio founded by Jessica Rosenkrantz and 
 
 {% figure '2022-57-5-essay' %} 
 
-{% figure 'tl-45469-1-essay' 'is-pulled-right' %} 
+{% figure 'tl-45469-1-extra' 'is-pulled-right' %} 
 
 Architect and designer Elena Manferdini’s installation, *Wall Flowers: Clover*, considers how nature’s ordering systems might be represented today, when computational tools have greatly increased our ability to identify and understand these geometries. The flora depicted in [*Wall Flowers: Clover*](/natural-analogs/object-plates/elena-manferdini/) appears to have been extracted from the natural world; however, upon closer inspection, the intricate blooms take on a synthetic appearance, blurring the boundary between the real and the hyperdigital. When visitors engage with the installation, their images are reflected back on a series of mirrored panels. The viewer, then, becomes an integral part of the imaginary landscape. Manferdini’s digital garden immerses the visitor in a sense of natural order taken to an extreme. Manferdini’s interchange between reality and the digital world raises questions about the fundamental uncertainty of our digital age and its impact upon the human race.
 

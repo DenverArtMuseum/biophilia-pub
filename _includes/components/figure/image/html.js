@@ -25,6 +25,7 @@ module.exports = function(eleventyConfig) {
       id,
       isSequence,
       label,
+      lightbox_additions: lightboxAdditions='',
       modal_id: modalId='modal-default'
     } = figure
 
@@ -35,8 +36,12 @@ module.exports = function(eleventyConfig) {
     /**
      * Wrap image in modal link
      */
+    let isAdditionalSlides = false
+    if (lightboxAdditions != '') {
+      isAdditionalSlides = true
+    }
     let imageElement = await figureImageElement(figure, { interactive: false })
-    imageElement = figureModalLink({ content: imageElement, id, modalId: modalIdentifier })
+    imageElement = figureModalLink({ content: imageElement, id, modalId: modalIdentifier, isAdditionalSlides })
 
     const captionElement = figureCaption({ caption, content: labelElement, credit })
 

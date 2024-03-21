@@ -936,6 +936,14 @@ figure_list:
     credit: Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
 
+  - id: ptl-24699-2-extra
+    modal_id: leanneur-inline
+    src: figures/PTL-24699~2.jpg
+    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. 
+    credit: Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
+    lightbox_additions: "ptl-24699-1-essay, ptl-24699-3-essay, ptl-24699-4-essay, ptl-24699-5-essay, ptl-24699-6-essay"
+
   - id: ptl-24699-2
     src: figures/PTL-24699~2.jpg
     caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
@@ -1416,6 +1424,13 @@ figure_list:
     credit: Courtesy J. Lohmann Gallery, New York. © Sandra Davolio. Photograph by Anna Meldal.
     alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain with blue edges.
     zoom: true
+
+  - id: tl-45469-1-extra
+    src: figures/TL-45469~1.jpg
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
+    credit: Courtesy of the designer. © Elena Manferdini.
+    modal_id: manferdini-figures
+    lightbox_additions: "tl-45469-2-essay, tl-45469-3-essay"
 
   - id: tl-45469-1-essay
     src: figures/TL-45469~1.jpg

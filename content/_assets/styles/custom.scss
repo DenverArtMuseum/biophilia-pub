@@ -391,6 +391,30 @@ h1 > em {
     padding-bottom: 34.96%;
 }
 
+/*
+ * Change modal link to indicate slideshow for modal links with extra slides
+ */
+.q-figure__modal-link__additional-slides {
+    &::before {
+        content: "";
+        background-color: rgba(0,0,0,0.7);
+        @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82' viewbox='0 0 82 82'><path fill='#FFF' d='M61 10a3 3 0 0 1 3 3v10h11a3 3 0 0 1 3 3v45a3 3 0 0 1-3 3H22a3 3 0 0 1-3-3V61H8a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3h53zm12 18H24v41h49V28zM59 15H10v41h9V26a3 3 0 0 1 3-3h37v-8z'/></svg>");
+        background-origin: content-box;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        border-top-left-radius: 0.125em;
+        width: 1.77777778em;
+        height: 1.77777778em;
+        display: inline-block;
+        overflow: hidden;
+        padding: 0.333333em;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+}
+
 /* Page Layout */
 
 .quire-page {
