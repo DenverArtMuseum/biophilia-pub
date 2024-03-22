@@ -76,6 +76,7 @@ figure_list:
     credit: Iris van Herpen, *Sensory Seas*, January 20, 2020. Presented at Cirque d’hiver Bouglione, Paris. Video by Blitzkickers. 
     media_id: "911666993"
     poster: figures/sensory-seas-poster
+    alt: A video still of the title against a dark background with a swirling abstract flourish in shades of purple. 
 
   - id: 2008-163-1
     src: figures/2008_163.jpg
@@ -914,7 +915,7 @@ figure_list:
     src: figures/PTL-24698~5.jpg
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Black XL)*, 2017. Nero Marquina marble, 15¾ × 43¼ in. dia.
     credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
-    alt: A detail of the half of the surface that looks like gently rolling waves.
+    alt: A low, circular table that is black marble with flecks of white. This half of the surface looks like gently rolling waves.
 
   - id: ptl-24698-5
     src: figures/PTL-24698~5.jpg
@@ -1439,6 +1440,7 @@ figure_list:
     credit: Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     lightbox_additions: "tl-45469-2-essay, tl-45469-3-essay"
+    alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
   - id: tl-45469-1-essay
     src: figures/TL-45469~1.jpg
