@@ -23,9 +23,14 @@ Entry content, including entry image and tombstone data
         {% lightbox figures %}
       {% endcomment %}
       {% elsif pageObjects %}
+        {% comment %} :EDIT: rebuilt this so that all object's figures are displayed together in one slideshow {% endcomment %}
+        {% assign all_figures = '' | split: ',' %}
         {% for object in pageObjects %}
-          {% lightbox object.figures %}
+          {% for figure in object.figures %}
+            {% assign all_figures = all_figures | push: figure %}
+          {% endfor %}
         {% endfor %}
+        {% lightbox all_figures %}
       {% endif %}
     </div>
   </div>

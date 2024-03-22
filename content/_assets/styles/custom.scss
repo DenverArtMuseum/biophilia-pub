@@ -1289,3 +1289,29 @@ body#page-about .dam-logo {
         font-size: .5rem;
     }
 }
+
+@media print {
+    // video {
+    //   display: none;
+    // }
+
+    #page-checklist .quire-contents-list {
+        display: none;
+    }
+    .quire-entry div.side-by-side {
+        display: flex;
+        flex-direction: row;
+    }
+    .quire-entry div.side-by-side div.quire-entry__image-wrap {
+        width: 70%;
+        padding-right: 20px;
+    }
+    .quire-entry div.side-by-side div.quire-entry__content {
+        width: 30%;
+        padding: 0 20px;
+    }
+
+    pre {
+        background-color: transparent;
+    }
+}

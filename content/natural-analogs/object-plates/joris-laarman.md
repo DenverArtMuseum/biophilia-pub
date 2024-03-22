@@ -6,65 +6,11 @@ contributor:
 layout: entry
 presentation: side-by-side
 object:
-    - id: larman-plate
+    - id: 2015-263
+    - id: 2022-57
 order: 130
 #image: FIGURE 2015.263
 ---
-
-<section class="quire-entry__tombstone">
-                <div class="container">
-                  <table class="table is-fullwidth">
-                    <tbody>
-                      <tr class="artist-property">
-                        <td>Artist</td>
-                        <td>Nervous System</td>
-                      </tr>
-                      <tr class="bio-property">
-                        <td>Bio</td>
-                        <td>
-                          Established 2007, Palenville, New York<br>Jessica
-                          Rosenkrantz, American, born 1983<br>Jesse
-                          Louis-Rosenberg, American, born 1986
-                        </td>
-                      </tr>
-                      <tr class="title-property">
-                        <td>Title</td>
-                        <td>Floraform Chandelier</td>
-                      </tr>
-                      <tr class="year-property">
-                        <td>Year</td>
-                        <td>2017</td>
-                      </tr>
-                      <tr class="medium-property">
-                        <td>Medium</td>
-                        <td>3-D-printed nylon and LED</td>
-                      </tr>
-                      <tr class="dimensions-property">
-                        <td>Dimensions</td>
-                        <td>43¼ in. dia. (109.9 cm dia.)</td>
-                      </tr>
-                      <tr class="manufacturer-property">
-                        <td>Manufacturer</td>
-                        <td>Produced by Shapeways, New York City.</td>
-                      </tr>
-                      <tr class="credit-property">
-                        <td>Credit</td>
-                        <td>
-                          Denver Art Museum: Funds from the Architecture and
-                          Design Collectors’ Council, 2022.57. © Nervous
-                          System, Inc. Image courtesy of Nervous System.
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                  <a class="button" href="https://www.denverartmuseum.org/en/object/2022.57a-u" target="_blank">
-                    View in Collection
-                    <svg data-outputs-exclude="epub,pdf">
-                      <switch><use xlink:href="#link-icon"></use></switch>
-                    </svg>
-                  </a>
-                </div>
-              </section>
 
 Looking at the variability and seeming spontaneity of nature, it can be easy to forget that every flower and tree grows in accordance with mathematical and cellular systems. A single bloom is the result of thousands of cells dividing and multiplying, subtly adjusting their trajectories in response to stimuli such as light and temperature, to create something unique from a shared process. These two works by Dutch designer Joris Laarman, founder of Joris Laarman Lab, and the American design studio Nervous System translate those formulas of growth into objects that combine design, technology, and natural forms.
 
