@@ -44,6 +44,7 @@ figure_list:
     caption: Nervous System, Growth of Hyphae and Floraform systems for *Floraform Chandelier*, 2017. Courtesy of Nervous System. © Nervous System, inc.
     media_id: "911666902"
     poster: figures/exrr_2023_89_poster.jpg
+    alt: A video still of the pinkish-white Floraform Chandelier against a dark background. 
 
   - id: vid-exrr-2023-90
     lightbox_mode: exclude
@@ -52,6 +53,7 @@ figure_list:
     caption: Elena Manferdini, *Wall Flowers*, computer animation, 2018. © Elena Manferdini.
     media_id: "911666911"
     poster: figures/exrr_2023_90_poster.jpg
+    alt: A video still of Wall Flowers, an acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites.
 
   - id: vid-exrr-2023-93
     media_type: vimeo
@@ -164,6 +166,7 @@ figure_list:
     src: figures/2022_57~4.jpg
     caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
+    alt: Image of the Floraform Chandelier lit and casting shadows. 
 
   - id: 2022-57-4
     src: figures/2022_57~4.jpg
@@ -424,12 +427,14 @@ figure_list:
     src: figures/EXRR_2023_32.jpg
     caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
+    alt: Digital process rendering sketch. Side view.
 
   - id: exrr-2023-32
     src: figures/EXRR_2023_32.jpg
     caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch.
+    alt: Digital process rendering sketch. Side view.
     zoom: true
 
   - id: exrr-2023-33
