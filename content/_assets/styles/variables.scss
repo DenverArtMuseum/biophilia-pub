@@ -44,8 +44,9 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 $quire-menu-width: 352px;
 
-$quire-menu-color: $off-black;
+$quire-menu-color: $sidebar-background;
 $quire-menu-text-color: $white;
+$quire-menu-highlight-color: $sidebar-highlight;
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------
@@ -104,7 +105,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-navigation-font: $inter !default;
   $accent-color: $link-color !default;
   $content-background-color: $white !default;
-  $secondary-background-color: $off-white !default;
+  $secondary-background-color: $sidebar-background !default;
 }
 
 // Navbar

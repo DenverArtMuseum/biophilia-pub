@@ -142,8 +142,8 @@
       font-family: $quire-primary-font;
       &.active {
         margin-left: -1.25em;
-        border-left: 4px solid $accent-color;
-        color: $accent-color !important;
+        border-left: 4px solid $quire-menu-highlight-color;
+        color: $quire-menu-highlight-color !important;
         text-decoration: none;
         padding-left: calc(.75em + 4px);
         &:hover {

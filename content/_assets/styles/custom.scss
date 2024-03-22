@@ -109,12 +109,7 @@ h1 > * {
 h1 > em {
     display: inline;
 }
-.quire-page__header .hero-body .quire-page__header__title {
-    color: #333;
-    //text-transform: uppercase;
-}
 .quire-page__header__contributor {
-    color: #333;
     margin-top: 0;
 }
 .quire #main {
@@ -135,7 +130,7 @@ h1 > em {
     transform: none;
 }
 .quire:not(.no-js) .quire__primary .quire-navbar {
-    background-color: #333333;
+    background-color: $off-black;
     min-height: 4.375rem;
 }
 .quire-navbar-controls {
@@ -149,7 +144,7 @@ h1 > em {
     top: 4.375rem;
 }
 .quire-navbar a {
-    background-color: #333333;
+    background-color: $off-black;
     color: #ffffff !important;    
 }
 .quire-navbar .nav-text {
@@ -735,25 +730,17 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
 
 
 .littlefoot {
-    --button-background-color: ;
-    --button-text-color: $off-black;
-    --button-active-background-color: $accent-color;
-    --button-active-text-color: $off-white;
-    --button-padding: .0125rem 0.5rem .125rem;
+    --button-background-color: transparent !important;
+    --button-text-color: #{$off-black} !important;
+    --button-active-background-color: #{$link-color} !important;
+    --button-active-text-color: #{$off-white} !important;
+    --button-margin: 0 -0.25rem 0 -0.333333rem !important;
+    --button-padding: 0.11111rem 0.333333rem !important;
     --button-font-size: 12px;
 }
 
 .littlefoot__button {
-    background-color: transparent !important;
-    color: $off-black !important;
     vertical-align: super !important;
-    margin-left: -0.333333rem !important;
-    padding: 0.11111rem 0.333333rem !important;
-    
-}
-.littlefoot__button:hover {
-    background-color: $accent-color !important;
-    color: $off-white !important;
 }
 
 .footnotes hr {
@@ -1160,18 +1147,45 @@ body#page-glossary .glossary-terms h3 {
 
 /* Close-knit Flower-sack */
 
-body#page-close-knit-flower-sack pre {
-    background-color: transparent;
-}
+body#page-close-knit-flower-sack {
+    .quire-page {
+        // Need to come up with better colors
+        //background-color: $poem-background;
+        //color: $white;
+        h1, .quire-page__header, .content {
+            //background-color: transparent;
+            //color: $white;
+        }
+    }
 
-body#page-close-knit-flower-sack .quire-page__content .container .content p {
-    font-size: 1rem;
-    line-height: 0.8em;
-    opacity:0;
-    text-wrap: nowrap;
-}
-body#page-close-knit-flower-sack .audio-player-container .title-block p {
-    font-size: 90% !important;
+    .quire-page__content .container .content p {
+        font-size: 1rem;
+        opacity:0;
+        text-wrap: nowrap;
+    }
+
+    .audio-player-container .title-block p {
+        font-size: 90% !important;
+        opacity: 1 !important;
+    }
+
+    .poem-container {
+        display: flex;
+        flex-flow: column nowrap;
+        align-items: center;
+    }
+    .poem {
+        display: inline-block;
+        p {
+            line-height: 1.8rem;
+            margin:0;
+            white-space: nowrap;
+
+            &.indent {
+                margin-left: 10.5em;
+            }
+        }
+    }
 }
 
 /* About */
