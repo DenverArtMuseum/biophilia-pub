@@ -20,6 +20,7 @@ object_list:
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
     link: https://www.denverartmuseum.org/en/object/2015.263
+    alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
     figure:
       - id: "2015-263"
       - id: "2022-57-2"
@@ -68,6 +69,7 @@ object_list:
     title: Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*
     year: 2013. 
     credit: Courtesy of the artist and Friedman Benda.
+    alt: Digital process rendering sketch. Side view.
     figure:
       - id: "exrr-2023-33"
 
@@ -95,6 +97,7 @@ object_list:
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, Inc. Image courtesy of Nervous System."
     alt: Image of the Floraform Chandelier lit and casting shadows. It is an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
     link: https://www.denverartmuseum.org/en/object/2022.57a-u
+    alt: Image of the Floraform Chandelier lit and casting shadows. It is an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
     figure:
       - id: "2022-57-2"
   
@@ -147,6 +150,7 @@ object_list:
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photograph by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
     alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain.
     link: https://www.denverartmuseum.org/en/object/2023.6
+    alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain.
     figure:
       - id: "2023-6"
 
