@@ -37,6 +37,7 @@ figure_list:
     caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Courtesy of the artists. © MAD Architects. Video by Blackstation, 2022. 
     media_id: "911666850"
     poster: figures/nanjing-poster.jpg
+    alt: Several towering buildings with articulated white ridges tower over a plaza.
 
   - id: vid-exrr-2023-89
     lightbox_mode: exclude
@@ -60,18 +61,21 @@ figure_list:
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. © 2023 DRIFT. Video by Xinix Films / Arjen van Eijk. 
     media_id: "911666928"
     poster: figures/exrr_2023_93_poster.jpg
+    alt: View of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
 
   - id: vid-exrr-2023-96
     media_type: vimeo
     caption: gt2P, *Remolten* process, 2016. © Gt2P Spa.
     media_id: "911666952"
     poster: figures/exrr_2023-96_poster.jpg
+    alt: A person's hand adds sandy material to a silver bowl on a table.
 
   - id: vid-exrr-2023-133
     media_type: vimeo
     caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics. Indianapolis Museum of Art Galleries at Newfields. © 2023 DRIFT, represented by Pace Gallery. Video courtesy of DRIFT. 
     media_id: "911666976"
     poster: figures/exrr_2023_133_poster.jpg
+    alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights.
 
   - id: vid-exrr-2023-135
     media_type: vimeo
@@ -379,7 +383,7 @@ figure_list:
     src: figures/EXRR_2023_31_3.jpg
     caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
     credit: © Studio Gang
-    alt: "Architectural plan of the side of the Populus building showing elevations and window modules. At the top, details of the “Micro-Unit Grand Window,” “Micro-Unit Seat Window,” “Micro-Unit Lounge Window,” Ground Floor Storefront,” and “Rooftop Lounge.”"
+    alt: "Architectural plan of the side of the Populus building showing elevations and window modules. At the top, details of the “Micro-Unit Grand Window,” “Micro-Unit Seat Window,” “Micro-Unit Lounge Window,” "Ground Floor Storefront,” and “Rooftop Lounge.”"
 
   - id: exrr-2023-31-1
     src: figures/EXRR_2023_31_1.jpg
@@ -690,6 +694,7 @@ figure_list:
     src: figures EXRR_2024_35.jpg
     caption: Alexandra Kehayoglou, *Bajío*, 2024. Hand tufted wool, 118 × 147½ in. 
     credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © and courtesy of Alexandra Kehayoglou." 
+    alt: Topographic rug, with various shades of green and brown.
 
   - id: ptl-24369-essay
     modal_id: lynn-inline
