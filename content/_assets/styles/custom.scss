@@ -331,7 +331,7 @@ h1 > em {
 }
 
 .quire-progress-bar div {
-    background-color: $link-color;
+    background-color: $off-black;
 }
 
 .quire-cover__more .hero-more.next-page {
@@ -909,7 +909,10 @@ h1.quire-page__header__title .separator {
     margin-right: auto; */
 }
 .quire-contents-list .menu-list a:hover {
-   color: $light-green;
+   color: $link-color;
+   * { // Quire's default styles are wildly over-generic in the worst places
+    color: inherit;
+   }
 }
 .table-of-contents ol {
     margin-left: 0 !important;
