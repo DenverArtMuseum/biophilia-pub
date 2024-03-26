@@ -812,6 +812,12 @@ ol.footnotes-list > li::marker {
 }
 
 
+// Change focus outline color for lightboxes with zoomable images
+@media screen {
+    q-lightbox {
+        --atlas-focus: 2px solid #{$link-color} !important;
+    }
+}
 
 .quire-page__content .container .content hr.essay-break {
     background-color: $off-black;
@@ -1057,31 +1063,42 @@ body#page-contributors .media ul {
 
 /* Checklist */
 
-// body#page-checklist .quire-page__header,
-// body#page-checklist .quire:not(.no-js) .quire__primary main {
-//     background-color: $dark-green;
-// }
-body#page-checklist .quire-contents-buttons {
-    background-color: $off-white;
-}
-// body#page-checklist .quire-page__header h1 {
-//     color: #fff;
-// }
-body#page-checklist .quire-contents-list.grid .page-item,
-body#page-checklist .quire-contents-list.grid ol li .card {
-    background-color: #fff;
-}
-body#page-checklist .quire-contents-list.grid ol li a {
-    height: 100%;
-}
-body#page-checklist .quire-contents-list.grid ol li .card {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 100%;
-}
-body#page-checklist .quire-contents-list.grid ol li .card .card-content {
-    height: calc( 3.66rem + 3rem );
+body#page-checklist {
+    .quire-contents-buttons {
+        background-color: $off-white;
+    }
+
+    .quire-contents-list.grid {
+        .page-item, ol li .card {
+            background: $white;
+        }
+
+        ol li .card {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100%;
+
+            .card-content {
+                color: $off-black;
+                height: calc( 3.66rem + 3rem );
+            }
+
+            &:hover {
+                .card-content {
+                    color: $link-color;
+
+                    * {
+                        color: $link-color;
+                    }
+                }
+            }
+        }
+    
+        ol li a {
+            height: 100%;
+        }
+    }
 }
 
 /* Glossary */
