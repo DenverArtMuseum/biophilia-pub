@@ -14,8 +14,10 @@ $link-color: #537434;
 $link-blue: #536a93;
 $light-yellow: #F9F9A3;
 $poem-background: #616960;
+$poem-interface: #93cd5c; // Suitable contrast ratio for interface elements like buttons. Not great for link color
 $sidebar-background: #383f37;
 $sidebar-highlight: #82b652;
+//$sidebar-highlight: #73a148; // Alternate color that has better contrast with white text, but worse contrast with background
 $off-black-semi-transparent: rgba(0, 0, 0, .5);
 $black-semi-transparent: rgba(0, 0, 0, 0.75);
 $rich-black: cmyk(50%, 50%, 50%, 100%);

@@ -261,29 +261,6 @@ h1 > em {
     text-align: right;
 } */
 
-/* .quire-contents-buttons ul {
-    visibility: hidden;
-} */
-/* .quire-contents-buttons:hover ul {
-    visibility: visible;
-} */
-.quire-contents-buttons li.quire-nav-button:empty,
-.quire-contents-buttons li.quire-nav-button:empty:hover {
-   border: none; 
-   background-color: transparent;
-}
-.quire-contents-buttons li.quire-nav-button.prev a {
-    color: $link-color;
-}
-.quire-contents-buttons li.quire-nav-button.prev:hover a {
-    color: #fff;
-}
-.quire-contents-buttons li.quire-nav-button.prev svg {
-    fill: $link-color;
-}
-.quire-contents-buttons li.quire-nav-button.prev:hover svg {
-    fill: #fff;
-}
 .quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, 
 .quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, 
 .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
@@ -1146,47 +1123,80 @@ body#page-glossary .glossary-terms h3 {
 }
 
 /* Close-knit Flower-sack */
-
 body#page-close-knit-flower-sack {
-    .quire-page {
-        // Need to come up with better colors
-        //background-color: $poem-background;
-        //color: $white;
-        h1, .quire-page__header, .content {
-            //background-color: transparent;
-            //color: $white;
-        }
-    }
+    .quire-contents-buttons {
+        li.quire-nav-button {
+            border-color: $poem-interface;
+            color: $poem-interface;
 
-    .quire-page__content .container .content p {
-        font-size: 1rem;
-        opacity:0;
-        text-wrap: nowrap;
-    }
+            a {
+                color: $poem-interface;
+            }
+            svg {
+                fill: $poem-interface;
+            }
 
-    .audio-player-container .title-block p {
-        font-size: 90% !important;
-        opacity: 1 !important;
-    }
+            &:hover {
+                border-color: $accent-color;
 
-    .poem-container {
-        display: flex;
-        flex-flow: column nowrap;
-        align-items: center;
-    }
-    .poem {
-        display: inline-block;
-        p {
-            line-height: 1.8rem;
-            margin:0;
-            white-space: nowrap;
-
-            &.indent {
-                margin-left: 10.5em;
+                a {
+                    color: $white;
+                }
+                svg {
+                    fill: $white;
+                }
             }
         }
     }
-}
+
+    .quire-page {
+        // Need to come up with better colors
+        background-color: $poem-background;
+        color: $white;
+        h1, .quire-page__header, .content {
+            background-color: transparent;
+            color: $white;
+        }
+
+        .poem-container {
+            display: flex;
+            flex-flow: column nowrap;
+            align-items: center;
+        }
+        .poem {
+            display: inline-block;
+            p {
+                line-height: 1.8rem;
+                margin:0;
+                white-space: nowrap;
+    
+                &.indent {
+                    margin-left: 10.5em;
+                }
+            }
+        }
+        .quire-page__content .container .content p {
+            font-size: 1rem;
+            opacity:0;
+            text-wrap: nowrap;
+        }
+    
+        .audio-player-container {
+            .title-block p.track-title {
+                font-size: 90%;
+                opacity: 1 !important;
+            }
+        
+            .play-pause-button {
+                @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82'><path fill='#FFFFFF' d='M41 1C18.932 1 1 18.932 1 41s17.932 40 40 40 40-17.932 40-40S63.068 1 41 1zm0 4c19.906 0 36 16.094 36 36S60.906 77 41 77 5 60.906 5 41 21.094 5 41 5zM27.5 23.532v34.936a2 2 0 0 0 3.029 1.715l29.113-17.468a2 2 0 0 0 0-3.43L30.529 21.817a2 2 0 0 0-3.029 1.715z'/></svg>");
+
+                &.playing {
+                    @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82'><path fill='#FFFFFF' d='M41 1c22.068 0 40 17.932 40 40S63.068 81 41 81 1 63.068 1 41 18.932 1 41 1zm0 4C21.094 5 5 21.094 5 41s16.094 36 36 36 36-16.094 36-36S60.906 5 41 5zm-7.429 17C35.465 22 37 23.701 37 25.8v30.4c0 2.099-1.535 3.8-3.429 3.8H28.43C26.535 60 25 58.299 25 56.2V25.8c0-2.099 1.535-3.8 3.429-3.8zm20 0C55.465 22 57 23.701 57 25.8v30.4c0 2.099-1.535 3.8-3.429 3.8H48.43C46.535 60 45 58.299 45 56.2V25.8c0-2.099 1.535-3.8 3.429-3.8z'/></svg>");
+                }
+            }
+        }
+    }
+} // End Close-Knit Flower Sack styles
 
 /* About */
 
