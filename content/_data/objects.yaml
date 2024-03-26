@@ -92,7 +92,7 @@ object_list:
     manufacturer: Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, Inc. Image courtesy of Nervous System."
     link: https://www.denverartmuseum.org/en/object/2022.57a-u
-     alt: Image of the Floraform Chandelier lit and casting shadows. It is an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
+    alt: Image of the Floraform Chandelier lit and casting shadows. It is an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
     figure:
       - id: "2022-57-2"
   

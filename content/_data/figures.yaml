@@ -433,7 +433,6 @@ figure_list:
     src: figures/EXRR_2023_32.jpg
     caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
-    alt: Digital process rendering sketch.
     alt: Digital process rendering sketch. Side view.
     zoom: true
 
