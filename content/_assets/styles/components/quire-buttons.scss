@@ -30,10 +30,11 @@
     -webkit-transition: all .25s ease;
     transition: all .25s ease;
     font-size: 1rem;
-    border: 1px solid button-color($content-background-color);
-    color: button-color($content-background-color);
+    border: thin solid $accent-color;
+    color: $accent-color;
 
     a {
+      color: $accent-color;
       display: inline-block;
       width: 8.75em;
       height: 3.25em;
@@ -47,16 +48,15 @@
       margin-left: 0;
       margin-right: .55rem;
       a {
-        color: button-color($secondary-background-color);
         margin-right: .5rem;
       }
       svg {
-        fill: button-color($secondary-background-color);
         margin-right: .5rem;
       }
     }
 
     svg {
+      fill: $accent-color;
       width: 1.25rem;
       height: 1.25rem;
       margin-left: -.25rem;
@@ -67,6 +67,7 @@
       vertical-align: super;
     }
 
+    /* Not needed because we're handling buttons differently
     &.next {
       background-color: button-color($secondary-background-color);
 
@@ -80,15 +81,16 @@
         color: findColorInvert(button-color($secondary-background-color));
       }
     }
+    */
 
     &:hover {
-      background-color: link-hover-color($secondary-background-color);
-      border-color: link-hover-color($secondary-background-color);
+      background-color: $accent-color;
+      border-color: $accent-color;
       a {
-        color: findColorInvert($accent-color);
+        color: $white;
       }
       svg {
-        fill: findColorInvert($accent-color);
+        fill: $white;
       }
     }
   }
