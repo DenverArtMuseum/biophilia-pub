@@ -156,14 +156,15 @@ h1 > em {
 .quire-navbar-controls__left {
     display: flex;
     align-self: center;
-    flex:1 0 18rem;
+    flex: 1 1 300px;
+    max-width: 300px;
 }
 .quire-navbar-controls__left .logos {    
     display: flex;
     flex-direction: row;
     align-self: center;
     line-height: 1;
-    padding: 40px
+    padding-left: 20px
     /* justify-content: space-evenly; */
 }
 .quire-navbar-controls__left .logos a:hover {
@@ -183,7 +184,7 @@ h1 > em {
     margin: 0 10px;
 } */
 .quire-navbar-controls .quire-navbar-controls__center {
-    flex: 0 1 auto;
+    flex: 1 1 auto;
     /* visibility: hidden; */
 }
 /* 
@@ -193,7 +194,7 @@ h1 > em {
 .quire-navbar-controls__right {
     display: flex;
     -webkit-box-flex: 0;
-    flex: 1 0 18rem;
+    flex: 1 1 300px;
     justify-content: center;
     align-items: center;
     max-width: 300px;
@@ -268,15 +269,12 @@ h1 > em {
     background-color: $link-color;
 }
 
-.quire-navbar-controls__left {
-}
-
 .quire-navbar .logos {
     line-height: 4rem;
 
     .logo-link {
         background-color: transparent;
-        max-height: 3.75rem;
+        max-width: 12rem;
 
         img {
             height: 100%;
@@ -604,6 +602,7 @@ div.is-aligned-right, p.is-aligned-right {
 
 .quire-contents-buttons {
     clear: both;
+    margin-bottom: 40px;
 }
 
 .canvas-panel-ui {
@@ -715,6 +714,14 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
             }
         }
     }
+}
+
+
+main .link-to-checklist {
+    display: none;
+}
+main[data-page-id^='page-checklist'] .link-to-checklist {
+    display: block;
 }
 
 
@@ -1359,15 +1366,24 @@ body#page-about .dam-logo {
         flex-direction: row;
     }
     .quire-entry div.side-by-side div.quire-entry__image-wrap {
-        width: 70%;
+        width: 55%;
         padding-right: 20px;
     }
     .quire-entry div.side-by-side div.quire-entry__content {
-        width: 30%;
+        width: 45%;
         padding: 0 20px;
     }
 
     pre {
         background-color: transparent;
+    }
+
+    .quire-contents-list .page-item,
+    .quire-contents-list .section-item > a {
+        max-width: 100%;
+    }
+
+    .quire-contents-list .menu-list .section-item ol li.level-1.section-item > a {
+        font-size: 1rem;
     }
 }
