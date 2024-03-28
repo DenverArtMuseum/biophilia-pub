@@ -311,10 +311,10 @@ figure_list:
     alt: A dark green, oval-shaped serving tray that comes to a point on both ends. 
     zoom: true
 
-  - id: exacc-2023-105
-    src: figures/EXRR_2023_105.jpg
-    caption: David Wiseman, Midnight in the Meadow Wallpaper, 2023.
-    credit: Courtesy of Wiseman Studio. © David Wiseman
+  # - id: exacc-2023-105
+  #   src: figures/EXRR_2023_105.jpg
+  #   caption: David Wiseman, Midnight in the Meadow Wallpaper, 2023.
+  #   credit: Courtesy of Wiseman Studio. © David Wiseman
 
   - id: exrr-2023-78-1-essay
     modal_id: exrr-2023-78
@@ -691,7 +691,7 @@ figure_list:
 
   - id: ptl-24707
     modal_id: modal-24707
-    src: figures EXRR_2024_35.jpg
+    src: figures/EXRR_2024_35.jpg
     caption: Alexandra Kehayoglou, *Bajío*, 2024. Hand tufted wool, 118 × 147½ in. 
     credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © and courtesy of Alexandra Kehayoglou." 
     alt: Topographic rug, with various shades of green and brown.
