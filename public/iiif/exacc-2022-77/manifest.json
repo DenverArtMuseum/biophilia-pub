@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exacc-2022-77/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exacc-2022-77/canvas",
+      "type": "Canvas",
+      "height": 1152,
+      "width": 2464,
+      "items": [
+        {
+          "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exacc-2022-77/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exacc-2022-77/canvas/EXACC_2022_77",
+              "motivation": "painting",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/exacc-2022-77/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exacc-2022-77/EXACC_2022_77/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1152,
+                "width": 2464,
+                "label": {
+                  "en": [
+                    "E X A C C 2022 77"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/exacc-2022-77/EXACC_2022_77/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

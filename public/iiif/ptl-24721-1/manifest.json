@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24721-1/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24721-1/canvas",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24721-1/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24721-1/canvas/PTL-24721~1",
+              "motivation": "painting",
+              "target": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24721-1/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24721-1/PTL-24721~1/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2000,
+                "label": {
+                  "en": [
+                    "P T L-24721~1"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/ptl-24721-1/PTL-24721~1/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
