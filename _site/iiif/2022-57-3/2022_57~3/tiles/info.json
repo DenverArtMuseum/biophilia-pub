@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://denverartmuseum.github.io/biophilia-pub/iiif/2022-57-3/2022_57~3/tiles",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 5390,
+  "height": 3584
+}

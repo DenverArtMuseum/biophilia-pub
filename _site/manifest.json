@@ -1,0 +1,234 @@
+{
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.eot": {
+    "file": "_assets/ibmplexsanscondensed-bold.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff": {
+    "file": "_assets/ibmplexsanscondensed-bold.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff2": {
+    "file": "_assets/ibmplexsanscondensed-bold.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff2"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.eot": {
+    "file": "_assets/ibmplexsanscondensed-bolditalic.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff": {
+    "file": "_assets/ibmplexsanscondensed-bolditalic.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff2": {
+    "file": "_assets/ibmplexsanscondensed-bolditalic.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff2"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.eot": {
+    "file": "_assets/ibmplexsanscondensed-italic.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff": {
+    "file": "_assets/ibmplexsanscondensed-italic.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff2": {
+    "file": "_assets/ibmplexsanscondensed-italic.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff2"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.eot": {
+    "file": "_assets/ibmplexsanscondensed-regular.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff": {
+    "file": "_assets/ibmplexsanscondensed-regular.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff2": {
+    "file": "_assets/ibmplexsanscondensed-regular.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff2"
+  },
+  "_assets/fonts/inter/cyrillic-ext.woff2": {
+    "file": "_assets/cyrillic-ext.woff2",
+    "src": "_assets/fonts/inter/cyrillic-ext.woff2"
+  },
+  "_assets/fonts/inter/cyrillic.woff2": {
+    "file": "_assets/cyrillic.woff2",
+    "src": "_assets/fonts/inter/cyrillic.woff2"
+  },
+  "_assets/fonts/inter/latin-ext.woff2": {
+    "file": "_assets/latin-ext.woff2",
+    "src": "_assets/fonts/inter/latin-ext.woff2"
+  },
+  "_assets/fonts/inter/latin.woff2": {
+    "file": "_assets/latin.woff2",
+    "src": "_assets/fonts/inter/latin.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-bold.eot": {
+    "file": "_assets/notosans-bold.eot",
+    "src": "_assets/fonts/noto-sans/notosans-bold.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-bold.woff": {
+    "file": "_assets/notosans-bold.woff",
+    "src": "_assets/fonts/noto-sans/notosans-bold.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-bold.woff2": {
+    "file": "_assets/notosans-bold.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-bold.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-bolditalic.eot": {
+    "file": "_assets/notosans-bolditalic.eot",
+    "src": "_assets/fonts/noto-sans/notosans-bolditalic.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-bolditalic.woff": {
+    "file": "_assets/notosans-bolditalic.woff",
+    "src": "_assets/fonts/noto-sans/notosans-bolditalic.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-bolditalic.woff2": {
+    "file": "_assets/notosans-bolditalic.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-bolditalic.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-italic.eot": {
+    "file": "_assets/notosans-italic.eot",
+    "src": "_assets/fonts/noto-sans/notosans-italic.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-italic.woff": {
+    "file": "_assets/notosans-italic.woff",
+    "src": "_assets/fonts/noto-sans/notosans-italic.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-italic.woff2": {
+    "file": "_assets/notosans-italic.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-italic.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-regular.eot": {
+    "file": "_assets/notosans-regular.eot",
+    "src": "_assets/fonts/noto-sans/notosans-regular.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-regular.woff": {
+    "file": "_assets/notosans-regular.woff",
+    "src": "_assets/fonts/noto-sans/notosans-regular.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-regular.woff2": {
+    "file": "_assets/notosans-regular.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-regular.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-bold.eot": {
+    "file": "_assets/notoserif-bold.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-bold.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-bold.woff": {
+    "file": "_assets/notoserif-bold.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-bold.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-bold.woff2": {
+    "file": "_assets/notoserif-bold.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-bold.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-bolditalic.eot": {
+    "file": "_assets/notoserif-bolditalic.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-bolditalic.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-bolditalic.woff": {
+    "file": "_assets/notoserif-bolditalic.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-bolditalic.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-bolditalic.woff2": {
+    "file": "_assets/notoserif-bolditalic.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-bolditalic.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-italic.eot": {
+    "file": "_assets/notoserif-italic.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-italic.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-italic.woff": {
+    "file": "_assets/notoserif-italic.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-italic.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-italic.woff2": {
+    "file": "_assets/notoserif-italic.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-italic.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-regular.eot": {
+    "file": "_assets/notoserif-regular.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-regular.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-regular.woff": {
+    "file": "_assets/notoserif-regular.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-regular.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-regular.woff2": {
+    "file": "_assets/notoserif-regular.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
+  },
+  "_assets/images/figures/EXRR_2023_91_1.jpg": {
+    "file": "_assets/EXRR_2023_91_1.jpg",
+    "src": "_assets/images/figures/EXRR_2023_91_1.jpg"
+  },
+  "_assets/images/figures/PTL-24699~6.jpg": {
+    "file": "_assets/PTL-24699~6.jpg",
+    "src": "_assets/images/figures/PTL-24699~6.jpg"
+  },
+  "_assets/images/figures/PTL-25755~3.jpg": {
+    "file": "_assets/PTL-25755~3.jpg",
+    "src": "_assets/images/figures/PTL-25755~3.jpg"
+  },
+  "_assets/images/figures/natural-analogs-header.jpg": {
+    "file": "_assets/natural-analogs-header.jpg",
+    "src": "_assets/images/figures/natural-analogs-header.jpg"
+  },
+  "_assets/images/figures/topophilia-header.jpg": {
+    "file": "_assets/topophilia-header.jpg",
+    "src": "_assets/images/figures/topophilia-header.jpg"
+  },
+  "_index-895dc9c0.js": {
+    "assets": [
+      "_assets/cyrillic-ext.woff2",
+      "_assets/cyrillic.woff2",
+      "_assets/latin-ext.woff2",
+      "_assets/latin.woff2",
+      "_assets/ibmplexsanscondensed-regular.eot",
+      "_assets/ibmplexsanscondensed-regular.woff2",
+      "_assets/ibmplexsanscondensed-regular.woff",
+      "_assets/ibmplexsanscondensed-italic.eot",
+      "_assets/ibmplexsanscondensed-italic.woff2",
+      "_assets/ibmplexsanscondensed-italic.woff",
+      "_assets/ibmplexsanscondensed-bold.eot",
+      "_assets/ibmplexsanscondensed-bold.woff2",
+      "_assets/ibmplexsanscondensed-bold.woff",
+      "_assets/ibmplexsanscondensed-bolditalic.eot",
+      "_assets/ibmplexsanscondensed-bolditalic.woff2",
+      "_assets/ibmplexsanscondensed-bolditalic.woff",
+      "_assets/notoserif-regular.eot",
+      "_assets/notoserif-regular.woff2",
+      "_assets/notoserif-regular.woff",
+      "_assets/notoserif-italic.eot",
+      "_assets/notoserif-italic.woff2",
+      "_assets/notoserif-italic.woff",
+      "_assets/notoserif-bold.eot",
+      "_assets/notoserif-bold.woff2",
+      "_assets/notoserif-bold.woff",
+      "_assets/notoserif-bolditalic.eot",
+      "_assets/notoserif-bolditalic.woff2",
+      "_assets/notoserif-bolditalic.woff",
+      "_assets/notosans-regular.eot",
+      "_assets/notosans-regular.woff2",
+      "_assets/notosans-regular.woff",
+      "_assets/notosans-italic.eot",
+      "_assets/notosans-italic.woff2",
+      "_assets/notosans-italic.woff",
+      "_assets/notosans-bold.eot",
+      "_assets/notosans-bold.woff2",
+      "_assets/notosans-bold.woff",
+      "_assets/notosans-bolditalic.eot",
+      "_assets/notosans-bolditalic.woff2",
+      "_assets/notosans-bolditalic.woff"
+    ],
+    "css": [
+      "_assets/index.css"
+    ],
+    "file": "_assets/index-895dc9c0.js"
+  },
+  "index.css": {
+    "file": "_assets/index.css",
+    "src": "index.css"
+  }
+}
