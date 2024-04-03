@@ -116,6 +116,9 @@ h1 > em {
     background-color: #fff;
 }
 
+p.small-text {
+    font-size: .875em;
+}
 
 /* Navbar */
 
@@ -427,18 +430,19 @@ article .quire-page__content .container .content > figure.full-width {
     margin-bottom: 1.4em;
 }
 .quire-page__content .container .content .pull-quote {
-    font-size: 2.2rem;
-    margin-left: calc( -100vw / 2 + 100% / 2 + 150px );
-    margin-right: calc(-100vw / 2 + 100% / 2 - 150px );
+    font-size: 1.875rem;
+    margin-left: calc( -100vw / 2 + 100% / 2 + 250px );
+    margin-right: calc(-100vw / 2 + 100% / 2 + 250px );
     padding: 40px;
     max-width: calc( 100vw - 300px );
     width: auto;
     clear: both;
     margin-bottom: 1.4em;
     animation: fadeIn 5s;
+    font-style: normal;
 }
 .quire-page__content .container .content .pull-quote p {
-    line-height: 1;
+    line-height: 1.4;
 }
 
 article .quire-page__content .container .content > .threefourths-width,
@@ -483,7 +487,7 @@ article.quire-page--right-column .quire-page__content .container .content figure
 .q-figure:not(.q-figure--group__item) {
     &.is-pulled-left, &.is-pulled-right {
         margin-top: 0.625em;
-        margin-bottom: 1.25em;
+        margin-bottom: 1em;
         padding: 0;
     }
 }

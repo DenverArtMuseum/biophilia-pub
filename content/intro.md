@@ -12,13 +12,13 @@ classes:
 
 <blockquote class="pull-quote">
 
-*To the degree that we come to understand other organisms, we will place a greater value on them, and on ourselves.*—Edward O. Wilson
+To the degree that we come to understand other organisms, we will place a greater value on them, and on ourselves.<span style="white-space: nowrap;">—Edward O. Wilson</span>
 
 </blockquote>
 
 <blockquote class="pull-quote">
 
-*Over the coming century, the most vital human resource in need of conservation and protection is likely to be our own consciousness and mental space.*—Tim Wu
+Over the coming century, the most vital human resource in need of conservation and protection is likely to be our own consciousness and mental space.<span style="white-space: nowrap;">—Tim Wu</span>
 
 </blockquote>
 
@@ -36,7 +36,7 @@ This catalog presents supplementary content through the written and spoken word 
 
 As you navigate through this publication, keep in mind that our connection with nature is not a luxury but a necessity. *Biophilia: Nature Reimagined* reminds us that the path to reconnection is ever-present, and artists, designers, and architects can unveil the wisdom and beauty of the natural world. It is a call to action, urging us to embark on a journey of reconnection with nature, not only for ourselves but for future generations. This is no small thing. Our well-being, our identity, and the survival of our planet depend on it.
 
-Edward O. Wilson, *Biophilia* (Cambridge and London: Harvard University Press, 1984), 2; Tim Wu, *The Attention Merchants: The Epic Scramble to Get Inside Our Heads* (New York: Alfred A. Knopf, 2016), 350.
+<p class="small-text">Edward O. Wilson, <em>Biophilia</em> (Cambridge and London: Harvard University Press, 1984), 2; Tim Wu, <em>The Attention Merchants: The Epic Scramble to Get Inside Our Heads</em> (New York: Alfred A. Knopf, 2016), 350.</p>
 
 [^1]: Given the parameters of this project, I do not address our innate interest in animals.
 
