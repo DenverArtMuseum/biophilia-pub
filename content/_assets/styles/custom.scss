@@ -908,6 +908,46 @@ h1.quire-page__header__title .separator {
     display: none;
 }
 
+/* object label customization */
+.bio-property {
+    .artist-property {
+        margin-top: .75em;
+        span {
+            display: block;
+            margin: 0;
+            padding: 0;
+            font-size: 1.4rem;
+            line-height: 1;
+        }
+
+        &.sub-property {
+            margin-left: 1rem;
+            span {
+                font-size: 1.2rem;
+            }
+        }
+    }
+}
+tr.title-property {
+    margin-top: 1rem;
+}
+tr.year-property, tr.medium-property{
+    td {
+        padding-bottom:0 !important;
+    }
+}
+.multi-property td {
+    padding-bottom: 0 !important;
+    p {
+        margin: 1em 0;
+    }
+    .obj-title {
+        font-weight: 700;
+        font-size: 1.4rem;
+        line-height: 1;
+        margin-top: 1.2rem;
+    }
+}
 
 /* Contents */
 
@@ -1288,13 +1328,6 @@ body#page-about .dam-logo {
     .quire-navbar-page-controls__item.quire-next-page {
         min-width: 12rem;
     }
-}
-
-@media screen and (max-width: 47.25rem) {
-    .quire-navbar-page-controls__item.quire-previous-page,
-    .quire-navbar-page-controls__item.quire-next-page {
-        min-width: auto;
-    }    
 }
 
 @media screen and (max-width: 50.25rem) {

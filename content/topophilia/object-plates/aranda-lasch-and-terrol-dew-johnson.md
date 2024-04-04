@@ -6,9 +6,7 @@ contributor:
 layout: entry
 presentation: side-by-side
 object:
-  - id: "2022-160"
-  - id: "2022-161"
-  - id: "2022-162"
+  - id: "lasch-plate"
 order: 320
 #image: 2022.160.1
 ---
