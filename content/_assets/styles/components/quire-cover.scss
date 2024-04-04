@@ -39,11 +39,12 @@
   }
 
   &__hero {
-    background-color: $quire-cover-color-1;
-    background-image: linear-gradient(90deg, $quire-cover-color-1, $quire-cover-color-2);
+    //background-color: $quire-cover-color-1;
+    //background-image: linear-gradient(90deg, $quire-cover-color-1, $quire-cover-color-2);
     position: relative;
     @media screen {
-      min-height: calc(95vh - #{$navbar-height} - #{$quire-progress-bar-height}) !important;
+      // Video is 1920 x 1050. height / width = 0.546875
+      min-height: calc(100vw * 0.546875 + #{$quire-progress-bar-height}) !important;
     }
     text-align: left;
     display: flex;
@@ -121,19 +122,22 @@
     }
   }
   &__more {
+    position: absolute;
+    top: min(100vw * 0.546875 - #{$navbar-height} - #{$quire-progress-bar-height} - 8px, 100vh - #{$navbar-height} - #{$quire-progress-bar-height} - 80px);
+    left: 50%;
+    transform: translate(-50%,0);
+
     @media print {
       display: none;
     }
     & .hero-more {
       display: block;
-      position: relative;
       line-height: 50px;
       color: background-color-text($black);
       width: 50px;
       height: 50px;
       background: $black;
       border-radius: 25px;
-      margin: -25px auto 25px auto;
       text-align: center;
       svg {
         height: 3.5rem;
@@ -209,10 +213,6 @@
         line-height: 34px;
         a {
           padding-top: 0.325em;
-          color: $content-background-color;
-        }
-        svg {
-          fill: $content-background-color;
         }
       }
     }
