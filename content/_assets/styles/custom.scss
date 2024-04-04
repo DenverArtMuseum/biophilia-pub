@@ -161,6 +161,7 @@ p.small-text {
     align-self: center;
     flex: 1 1 300px;
     max-width: 300px;
+    min-width: 130px;
 }
 .quire-navbar-controls__left .logos {    
     display: flex;
@@ -203,14 +204,11 @@ p.small-text {
     max-width: 300px;
 }
 .quire-navbar-controls__right button {
-    height: auto;
+    height: 100%;
     width: auto;
-    border: none;
-    border-radius: 15px;
-    padding: 5px 15px 5px 15px;
+    padding: 0 15px;
     margin-right: 15px;
     cursor: pointer;
-    background-color: #666;
 }
 .quire-navbar-controls__right button svg {
     height: calc(4.375rem * .65);
@@ -273,14 +271,17 @@ p.small-text {
 }
 
 .quire-navbar .logos {
-    line-height: 4rem;
+    line-height: 0;
 
     .logo-link {
+        display:flex;
+        flex-flow: column nowrap;
+        justify-content: center;
         background-color: transparent;
         max-width: 12rem;
 
         img {
-            height: 100%;
+            height: 90%;
             width: auto;
             max-width: 100%;
         }
@@ -1280,6 +1281,20 @@ body#page-about .dam-logo {
         height: calc(100vh - 50px);
     }
 
+}
+
+@media screen and (max-width: 63.75rem) {
+    .quire-navbar-page-controls__item.quire-previous-page,
+    .quire-navbar-page-controls__item.quire-next-page {
+        min-width: 12rem;
+    }
+}
+
+@media screen and (max-width: 47.25rem) {
+    .quire-navbar-page-controls__item.quire-previous-page,
+    .quire-navbar-page-controls__item.quire-next-page {
+        min-width: auto;
+    }    
 }
 
 @media screen and (max-width: 50.25rem) {
