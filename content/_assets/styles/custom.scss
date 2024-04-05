@@ -1171,11 +1171,7 @@ body#page-checklist {
 /* Glossary */
 body#page-glossary .quire-page__header,
 body#page-glossary .quire-page__content:not(:nth-child(3)) {
-    // background-color: $dark-green;
     animation: fadeIn 2s;
-}
-body#page-glossary .quire-page h5 {
-    margin-bottom: 0;
 }
 body#page-glossary .quire-page__content .container .content > p {
     margin-left: 1rem;
@@ -1202,7 +1198,9 @@ body#page-glossary .alphabetical-index a {
     border-bottom: none;
 }
 
-body#page-glossary .glossary-terms h3 {
+body#page-glossary .glossary-terms h2 {
+    font-size: 1.125rem;
+    line-height: 1.25;
     text-align: center;
 }
 
