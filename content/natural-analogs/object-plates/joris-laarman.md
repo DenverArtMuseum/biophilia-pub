@@ -7,16 +7,16 @@ layout: entry
 presentation: side-by-side
 object:
     - id: 2015-263
-    - id: 2022-57
+    - id: 2022-57-3
 order: 130
 #image: FIGURE 2015.263
 ---
 
 Looking at the variability and seeming spontaneity of nature, it can be easy to forget that every flower and tree grows in accordance with mathematical and cellular systems. A single bloom is the result of thousands of cells dividing and multiplying, subtly adjusting their trajectories in response to stimuli such as light and temperature, to create something unique from a shared process. These two works by Dutch designer Joris Laarman, founder of Joris Laarman Lab, and the American design studio Nervous System translate those formulas of growth into objects that combine design, technology, and natural forms.
 
-Laarman’s shimmering copper *Microstructures Adaptation Chair*, also referred to as the *Long Cell Chair*, features branch-like legs and a seat made of interconnecting loops. Light filters through the open spaces in the seat like it might through a leafy canopy. The chair’s organic structure reflects the design process, which stemmed from a singular base component: a vertical “long cell.” These cells stretch, compress, and subdivide from the foundational support of the legs to the concentrated structure needed for the seat, in the same way a tree changes from a wide trunk to smaller branches to individual leaves (fig. 1). 
+{% figure 'exrr-2023-32-essay' 'is-pulled-right' %}
 
-{% figure 'exrr-2023-32-essay' %}
+Laarman’s shimmering copper *Microstructures Adaptation Chair*, also referred to as the *Long Cell Chair*, features branch-like legs and a seat made of interconnecting loops. Light filters through the open spaces in the seat like it might through a leafy canopy. The chair’s organic structure reflects the design process, which stemmed from a singular base component: a vertical “long cell.” These cells stretch, compress, and subdivide from the foundational support of the legs to the concentrated structure needed for the seat, in the same way a tree changes from a wide trunk to smaller branches to individual leaves (fig. 1). 
 
 Nervous System also looked to the plant world for their *Floraform Chandelier.* Cofounders Jessica Rosenkrantz and Jesse Louis-Rosenberg, who met while studying at MIT, were inspired by the growth of blooming flowers for the chandelier’s lightweight, ruffling shape and leaf veins for the delicate filaments of the nylon shade. Spanning over three and a half feet, the chandelier produces intricate and dramatic shadows that pattern surrounding walls and viewers with botanical forms (figs. 2 and 3).
 
