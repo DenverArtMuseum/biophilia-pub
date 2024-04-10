@@ -20,7 +20,7 @@ This audio-guided walk is an invitation to engage your senses and be present in 
 
 {% accordion '##### Transcript' %}
 
-[NOTE: after “Introduction” the bold title is the name of the invitation; punctuation is reflective of speaking cues]
+[Note: after “Introduction” the bold title is the name of the invitation; punctuation is reflective of speaking cues]
 
 **Introduction** (3 minutes)
 Welcome!  My name is Kim, and I’m the Certified Nature and Forest Therapy Guide who’s facilitating this experience. During this “walk of faith,” the working definition of “faith” is a continuous exchange of belonging. The exchange occurs among you, an outdoor place you determine, and the other elements of nature there. In essence, it’s an opportunity to let nature support you and to give a little of yourself in the support of the rest of nature.  
@@ -60,43 +60,43 @@ And turning a quarter circle to the right, give yourself the opportunity to feel
 
 Holding your hands slightly out and palms forward, I invite you to get a second helping of one of these directions. Just slowly rotate your body in a circle until it arrives at a knowing of what direction it wants to face . . . and just find that place, where your body is saying “Yes” and . . . still with your eyes closed, breathe in this direction with your heart . . . in a moment, but not until I say so . . . you will open your eyes or focus your gaze . . . and when you do, I invite you to see what appears using your heart sense, like you were seeing for the first time . . . and now . . . open or focus your eyes . . . (give this a minute)
 
-Is there a gesture you want to make toward that which you are seeing . . .?  What are you noticing?  Take a moment to honor your sensations at this moment. [CHIME]
+Is there a gesture you want to make toward that which you are seeing . . .?  What are you noticing?  Take a moment to honor your sensations at this moment. [Chime]
 
 **What’s in Motion?** (7 minutes)
 Our bodies move in so many ways . . . run, jog, dance, walk . . . and . . . we . . . can . . . move . . . like . . . sloths . . . carefully . . . moseying up a tree . . . The next invitation is called “What’s in Motion?” and this is an opportunity to explore an unhurried pace of movement that will let you sense what’s in motion, on the inside and the outside. Your mind is one part of who you are that might want to go faster and race around to this, that, and the other thing while you’re walking leisurely. If that’s going on, all you have to do is usher it back to the question “what’s in motion?”  So, maybe go a little slower than you usually do, and give this place that you’ve chosen a stroll or a saunter and take the question “what’s in motion?” with you . . . You’ll hear the chime when it’s time to continue. 
 
-[TIMED SILENCE THEN CHIME]
+[Timed silence then chime]
 
 **Blank As My Witness** (6 minutes)
 Witnesses are a part of Forest Therapy . . . they are nonjudgmental observers that summon relationships. There are a host of ways that more-than-human nature is acutely aware of what’s going on around it. This place knows that you’re here and is witnessing you right now. Some parts of nature see without eyes, smell without noses, and feel without hands. Some researchers have concluded that plants even remember. Through these sensations of nature, other living things serve as a witness to your presence in this place.  So, the name of this invitation starts with a blank that you’ll fill in. It’s called “Blank As My Witness.” Take a wander and use sight, sound, and touch, to notice all of the natural witnesses around you. For instance, you might look at the ground and say “Soil as my witness” or let yourself be drawn to a tree, touch it and utter in your mind “Tree as my Witness.” Feel free to linger with any of these witnesses and yield your attention to their senses and yours.  You’ll hear the chime when it’s time to continue. 
 
-[TIMED SILENCE THEN CHIME]
+[Timed silence then chime]
 
 **Where’s Water?**  (6 minutes)
 How are you feeling? Ready? If not, take a pause here before we continue.
 
 For this next invitation, I ask that you let your body lead you to something very old: WATER. So, this invitation is called “Where’s Water?” Of course, there is no new water, so the raindrop that dripped down a dinosaur’s forehead is still on Earth somewhere. Even if you’re not near a pond or a puddle, water is where you are. And, you have more than your vision to help you find it. Let the water in you be drawn to the water outside.  In whatever form you find it, take a moment to sense where this water has been, any of its past places. You might even want to name these places out loud and use sound to connect you with the water of this place. “A waterfall, Cleopatra’s cup, deep inside a tree . . .” Take some time now to sense "where’s water?" You’ll hear my chime again, when it’s time to move on.  
 
-[TIMED SILENCE THEN CHIME]
+[Timed silence then chime]
 
 **Skywalker** (8 minutes)
 The sky reaches all the way to the ground, and at this very moment, it is hovering over what connects you to the earth. With this invitation called “Skywalker,” take some time to skywalk and sense how it feels to be where the sky and earth meet. This is our next-to-last invitation, so you can use this opportunity to make your way to where you’d like to sit and end the walk. As you’re skywalking there, let your body’s attention float to what you feel as you move within the lowest layer of sky.  
 
-[TIMED SILENCE THEN CHIME]
+[Timed silence then chime]
 
 **Closing Ceremony—An Article of Faith** (5 minutes total)
 You’ve come this far by faith: the continuous exchange among you, the place you’re in, and all the nature there. This last invitation is called “An Article of Faith,” and it’s an opportunity to deepen your memories of this experience as you begin to move back into your regular tasks with the walk coursing through your body. 
 
 If you wish to sit, please do so now. Here’s a little time to get better situated. You’ll hear my voice again for the close.
 
-[CHIME THEN TIMED SILENCE HERE: 3 MINUTES] 
+[Chime then time silence here: 3 minutes] 
 
 Remember that object I asked you to bring? Now it’s time to take out your Article of Faith and hold it . . . As you hold it, take some time to let the memories you want to keep of your walk surface. Imbue your memories on this special item as you hold this article of faith or simply put your memories in the pockets of your mind. To help this along, I’m going to recount slowly the names of the invitations: Pleasures of Presence . . . As My Witness . . . Where’s Water . . . Skywalker . . . An Article of Faith.
 
 Now, as you take some final moments to reflect, feel free to write, draw, or imprint with any materials you brought. Relax and refresh with water and a snack, as you like. Finally, I’d like to thank the place you chose to do this walk, and you for taking this walk of faith. And to end this experience, with three notes of this chime, we will close our time.  
 
-[CONCLUDING, THREE-NOTE CHIME]
+[Concluding, three-note chime]
 
-[END of script]
+[End of script]
 
 {% endaccordion %}
