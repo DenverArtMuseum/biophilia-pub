@@ -139,6 +139,9 @@ Homeland {#homeland}
 Human Ecology Theory {#human-ecology-theory}
 : A theoretical framework that considers the interactions of humans with their environments, including biological, social, and physical aspects, as a system
 
+Hydrology {#hydrology}
+: The scientific study of water on Earth, including its occurrence, circulation, and distribution, chemical and physical properties, and reaction with the environment, including its relation to living things.
+
 
 ## I {#i}
 
@@ -170,7 +173,7 @@ Natural Phenomena {#natural-phenomena}
 : Events that occur in nature without human involvement. Natural phenomena can be physical, biological, or chemical and can occur regularly, like the seasonal blooming of trees or flowers, or irregularly, such as lightning.
 
 Nyctinasty {#nyctinasty}
-: A circadian rhythm–based nastic movement (as the opening and closing of some flowers) that is associated with diurnal changes of temperature or light intensity; a highly evolved natural process that protects delicate structures and conserves resources when conditions are not optimal
+: A circadian rhythm–based nastic movement (such as the opening and closing of some flowers) that is associated with diurnal changes of temperature or light intensity; a highly evolved natural process that protects delicate structures and conserves resources when conditions are not optimal
 
 
 ## P {#p}
@@ -183,6 +186,9 @@ Placemaking {#placemaking}
 
 
 ## S {#s}
+
+Sentient Environment {#sentient-environment}
+: An environment or ecosystem that can perceive and respond to stimuli in a way that mimics human-like awareness or consciousness
 
 Sociobiology {#sociobiology}
 : A field of scientific study based on the assumption that social behavior has resulted from evolution
