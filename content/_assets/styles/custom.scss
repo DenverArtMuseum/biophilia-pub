@@ -1226,6 +1226,21 @@ body#page-close-knit-flower-sack {
                 fill: $poem-interface;
             }
 
+            &.next {
+                background-color: $poem-background;
+
+                a {
+                    color: $poem-interface;
+                }
+                svg {
+                    fill: $poem-interface;
+                }
+
+                &:hover {
+                    background-color: $accent-color;
+                }
+            }
+
             &:hover {
                 border-color: $accent-color;
 
