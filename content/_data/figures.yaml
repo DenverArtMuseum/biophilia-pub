@@ -21,7 +21,7 @@ figure_list:
     media_type: audiofile
     title: "Listen to Florence Williams read *Big Nature, Big Art, and the Necessary Euphoria of Awe*"
     audio_src: figures/audio/Big_Nature_Big_Art.mp3
-
+s
   - id: close-knit-audio
     media_type: audiofile
     title: "Listen to Cedar Sigo read <em>Close-Knit Flower Sack</em>"
