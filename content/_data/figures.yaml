@@ -24,7 +24,7 @@ figure_list:
 
   - id: close-knit-audio
     media_type: audiofile
-    title: "Listen to Cedar Sigo read <em>Close Knit Flower Sack</em>"
+    title: "Listen to Cedar Sigo read <em>Close-Knit Flower Sack</em>"
     audio_src: figures/audio/Close_Knit_Flower_Sack_recording.mp3
 
   - id: vid-ptl-24721
