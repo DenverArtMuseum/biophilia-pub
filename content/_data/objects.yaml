@@ -22,7 +22,7 @@ object_list:
     link: https://www.denverartmuseum.org/en/object/2015.263
     figure:
       - id: "2015-263"
-      - id: "2022-57-2"
+      - id: "2022-57-3"
 
   - id: "lasch-plate"
     artist: Aranda\Lasch
@@ -90,7 +90,7 @@ object_list:
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, Inc. Image courtesy of Nervous System."
     link: https://www.denverartmuseum.org/en/object/2022.57a-u
     figure:
-      - id: "2022-57-2"
+      - id: "2022-57-3"
   
   - id: "2022-160"
     artist: Aranda\Lasch
@@ -428,7 +428,7 @@ object_list:
     dimensions: 10 × 37⅛ in. dia. (25.4 × 94.3 cm dia.)
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     figure:
-      - id: "ptl-24699-1"
+      - id: "ptl-24699-4"
 
   - id: ptl-24700
     artist: Mathieu Lehanneur

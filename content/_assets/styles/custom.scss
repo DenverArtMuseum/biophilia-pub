@@ -1208,6 +1208,10 @@ body#page-glossary .glossary-terms h2 {
     text-align: center;
 }
 
+body#page-glossary dl dd {
+    margin-left: 0;
+}
+
 /* Close-knit Flower-sack */
 body#page-close-knit-flower-sack {
     .quire-contents-buttons {

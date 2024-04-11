@@ -7,7 +7,7 @@ layout: entry
 presentation: side-by-side
 object:
     - id: 2015-263
-    - id: 2022-57-3
+    - id: 2022-57
 order: 130
 #image: FIGURE 2015.263
 ---

@@ -689,9 +689,27 @@ figure_list:
     alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
     zoom: true
 
+  - id: exrr-2024-43-1
+    src: figures/EXRR_2024_43_1.jpg
+
+  - id: exrr-2024-43-2
+    src: figures/EXRR_2024_43_2.jpg
+
   - id: ptl-24707
-    modal_id: modal-24707
-    src: figures/EXRR_2024_35.jpg
+    src: figures/PTL-24707~2.jpg
+    caption: Alexandra Kehayoglou, *Bajío*, 2024. Hand tufted wool, 118 × 147½ in. 
+    credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © and courtesy of Alexandra Kehayoglou." 
+    alt: Topographic rug, with various shades of green and brown.
+    zoom: true
+
+  - id: ptl-24707-4
+    src: figures/PTL-24707~4.jpg
+    caption: Alexandra Kehayoglou, *Bajío*, 2024. Hand tufted wool, 118 × 147½ in. 
+    credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © and courtesy of Alexandra Kehayoglou." 
+    alt: Topographic rug, with various shades of green and brown.
+
+  - id: ptl-24707-5
+    src: figures/PTL-24707~5.jpg
     caption: Alexandra Kehayoglou, *Bajío*, 2024. Hand tufted wool, 118 × 147½ in. 
     credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © and courtesy of Alexandra Kehayoglou." 
     alt: Topographic rug, with various shades of green and brown.
