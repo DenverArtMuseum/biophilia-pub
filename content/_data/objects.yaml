@@ -8,6 +8,7 @@ object_display_order:
   - dimensions
   - manufacturer
   - credit
+  - label
 
 object_list:
 
@@ -100,6 +101,7 @@ object_list:
     medium: Desert globemallow, agave fiber, and jute
     dimensions: 16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    label: Cat. 1
     link: https://www.denverartmuseum.org/en/object/2022.160
     figure:
       - id: "2022-160-1"
@@ -112,6 +114,7 @@ object_list:
     medium: Desert marigold, jute, and abaca
     dimensions: 19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    label: Cat. 2
     link: https://www.denverartmuseum.org/en/object/2022.161
     figure:
       - id: "2022-161"
@@ -124,6 +127,7 @@ object_list:
     medium: Creosote and jute
     dimensions: 13⅜ × 10¼ × 6¾ in. (34 × 26 × 17.1 cm)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.162. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    label: Cat. 3
     link: https://www.denverartmuseum.org/en/object/2022.162
     figure:
       - id: "2022-162-1"
@@ -512,6 +516,7 @@ object_list:
     medium: Glass, brass, steel, leather, and LED
     dimensions: 135 × 56 × 33 in.
     credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    label: Cat. 4
     figure:
       - id: "ptl-24735"
 
