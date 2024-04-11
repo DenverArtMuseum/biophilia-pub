@@ -34,7 +34,7 @@ figure_list:
 
   - id: vid-exrr-2023-44
     media_type: vimeo
-    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Courtesy of the artists. © MAD Architects. Video by Blackstation, 2022. 
+    caption: Fig. 4 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Video by Blackstation, 2022. 
     media_id: "911666850"
     poster: figures/nanjing-poster.jpg
     alt: Several towering buildings with articulated white ridges tower over a plaza.
@@ -58,21 +58,21 @@ figure_list:
 
   - id: vid-exrr-2023-93
     media_type: vimeo
-    caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. © 2023 DRIFT. Video by Xinix Films / Arjen van Eijk. 
+    caption: Fig. 2 DRIFT, *Shylight*, 2006. Video by Xinix Films / Arjen van Eijk. 
     media_id: "911666928"
     poster: figures/exrr_2023_93_poster.jpg
     alt: View of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
 
   - id: vid-exrr-2023-96
     media_type: vimeo
-    caption: gt2P, *Remolten* process, 2016. © Gt2P Spa.
+    caption: Fig. 3 gt2P, *Remolten* process, 2016.
     media_id: "911666952"
     poster: figures/exrr_2023-96_poster.jpg
     alt: A person's hand adds sandy material to a silver bowl on a table.
 
   - id: vid-exrr-2023-133
     media_type: vimeo
-    caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics. Indianapolis Museum of Art Galleries at Newfields. © 2023 DRIFT, represented by Pace Gallery. Video courtesy of DRIFT. 
+    caption: Fig. 3 DRIFT, *Meadow*, 2017. Video courtesy of DRIFT. 
     media_id: "911666976"
     poster: figures/exrr_2023_133_poster.jpg
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights.
@@ -127,7 +127,7 @@ figure_list:
   - id: "2017-89-91-essay"
     modal_id: modal-2017-89-91
     src: figures/2017_89-91.jpg
-    caption: "gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*, 2016–17."
+    caption: "Cats. XX–XX gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*, 2016–17."
     credit: "Stoneware and volcanic lava, dimensions variable. Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
     alt: Three cylindrically shaped stools. The left and center stools are the same height; the stool on the right is half the height of the others. The surface of the stools is a dark, brownish gray volcanic lava that drips down the sides.
 
@@ -216,7 +216,7 @@ figure_list:
   - id: 2022-161-essay
     modal_id: desert-paper
     src: figures/2022_161.jpg
-    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 05*, 2022. 
+    caption: Cat. XX Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 05*, 2022. 
     credit: "Desert marigold, jute, and abaca, 19½ × 13 × 10 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: A light sandy-brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and folds that reach upward into jagged points at the top.
 
@@ -230,7 +230,7 @@ figure_list:
   - id: 2022-162-1-essay
     modal_id: desert-paper
     src: figures/2022_162.jpg
-    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09*, 2022. 
+    caption: Cat. XX Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09*, 2022. 
     credit: "Creosote and jute, 15 × 9 × 9 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: A light brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and gentle folds that reach upward into several points at the top.
 
@@ -265,7 +265,7 @@ figure_list:
   - id: exrr-2023-94-essay
     modal_id: modal-2023-94
     src: figures/AF_2000_gottlieb-me_mcdowell.jpg
-    caption: McDowell Sonoran Sunset.
+    caption: Fig. 1 McDowell Sonoran Sunset.
     credit: Photograph © by Marc Elliot Gottlieb, 2009, licensed courtesy of Artifract®.
     alt: Color photograph of the Sonoran Desert at sunset. Cacti and yellow desert flowers populate the foreground, with gentle mountains in the background.
 
@@ -367,7 +367,7 @@ figure_list:
   - id: exrr-2023-31-1-essay
     modal_id: populus-inline
     src: figures/EXRR_2023_31_1.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
+    caption: Cat. XX Studio Gang, Populus, Denver, Colorado, 2019–24. 
     credit: © and courtesy of Studio Gang
     alt: Digital rendering of a white building with architecture inspired by the Aspen tree. It is between two one-way streets, with cars going in different directions
 
@@ -381,7 +381,7 @@ figure_list:
   - id: exrr-2023-31-3-essay
     modal_id: populus-inline
     src: figures/EXRR_2023_31_3.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
+    caption: Cat. XX Studio Gang, Populus, Denver, Colorado, 2019–24. Unrolled elevation and window modules, 2019. 
     credit: © Studio Gang
     alt: "Architectural plan of the side of the Populus building showing elevations and window modules. At the top, details of the “Micro-Unit Grand Window,” “Micro-Unit Seat Window,” “Micro-Unit Lounge Window,” “Ground Floor Storefront,” and “Rooftop Lounge.”"
 
@@ -457,7 +457,7 @@ figure_list:
   - id: exrr-2023-43-2-essay
     modal_id: metropol-inline
     src: figures/EXRR_2023_43_2.jpg
-    caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. 
+    caption: Cat. XX J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. 
     credit: Aerial view, 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Color photograph of the plaza underneath the Metropol Parasol in Seville, Spain. Light shines through the latticed roof casting a checker-like pattern on the ground. Dozens of people mill about. 
 
@@ -523,29 +523,29 @@ figure_list:
   - id: exrr-2023-91-1-essay
     modal_id: modal-2023-91-1
     src: figures/EXRR_2023_91_1.jpg
-    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
-    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
 
   - id: exrr-2023-91-2-essay
     modal_id: modal-2023-91-2
     src: figures/EXRR_2023_91_2.jpg
-    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
-    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A large clay sphere with cracks running like veins over the surface. 
 
   - id: exrr-2023-91-3-essay
     modal_id: modal-2023-91-3
     src: figures/EXRR_2023_91_3.jpg
-    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
-    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: View of interior of *Clay Houses*. Empty room with a lofted ceiling that comes to a point. The light brown walls look like cracked clay. 
 
   - id: exrr-2023-91-4-essay
     modal_id: modal-2023-91-4
     src: figures/EXRR_2023_91_4.jpg
-    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
-    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: Close-up image of a wall from *Clay Houses* that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
 
   - id: exrr-2023-91-1
@@ -579,7 +579,7 @@ figure_list:
   - id: exrr-2023-92-essay
     modal_id: shylight-inline
     src: figures/EXRR_2023_92-essay.jpg
-    caption: DRIFT, *Shylight*, 2006. 
+    caption: Fig. 1 DRIFT, *Shylight*, 2006. 
     credit: Aluminum, polished stainless steel, silk, LEDs, and robotics. © 2023 DRIFT, represented by Pace Gallery. NYCB Tenth Annual Art Series, winter 2023. Photography by Andy Romer, image courtesy of NYCB.
     alt: Color photograph of Shylight displayed in the New York City Ballet Theater. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
 
@@ -600,7 +600,7 @@ figure_list:
   - id: exrr-2023-95-essay
     modal_id: modal-2023-95
     src: figures/EXRR_2023_95_1.jpg
-    caption: Osorno Volcano, Chile.
+    caption: Fig. 2 Osorno Volcano, Chile.
     credit: © and image courtesy of Gt2P Spa.
     alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
     zoom: true
@@ -629,7 +629,7 @@ figure_list:
   - id: exrr-2023-103-1-essay
     modal_id: nanjing-inline
     src: figures/EXRR_2023_103_1.jpg
-    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–2021. 
+    caption: Cat. XX MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. 
     credit: View of center of complex, 2021. Courtesy of MAD Architects. © MAD Architects. Photograph by CreatAR Images.
     alt: Color photo of the Nanjing Zendai Himalayas Center. Towering buildings with articulated white ridges soar above smaller scale buildings and connecting pathways and green spaces in a city center. 
 
@@ -650,7 +650,7 @@ figure_list:
   - id: exrr-2023-103-3-essay
     modal_id: nanjing-inline
     src: figures/EXRR_2023_103_3.jpg
-    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–2021. 
+    caption: Cat. XX MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. 
     credit: Ariel view, 2021. Courtesy of MAD Architects. © MAD Architects. Photograph by CreatAR Images.
     alt: Aerial view at dusk of Nanjing Zendai Himalayas Center. The center is brightly lit and surrounded by the rest of the city; a major road, and a river to the left. Soft gray clouds in the orange sky at the top of the frame.
 
@@ -692,8 +692,8 @@ figure_list:
   - id: ptl-24707
     modal_id: modal-24707
     src: figures/EXRR_2024_35.jpg
-    caption: Alexandra Kehayoglou, *Bajío*, 2024. Hand tufted wool, 118 × 147½ in. 
-    credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © and courtesy of Alexandra Kehayoglou." 
+    caption: Cat. XX Alexandra Kehayoglou, *Bajío*, 2024.  
+    credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © and courtesy of Alexandra Kehayoglou." 
     alt: Topographic rug, with various shades of green and brown.
 
   - id: ptl-24369-essay
@@ -936,13 +936,13 @@ figure_list:
   - id: ptl-24699-1-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~1.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Image of Tomorrow is Another Day, which looks like an airplane window with a bright blue sky and two clouds. In the lower righthand corner, the back of a person’s head and shoulders as they look at the artwork.
 
   - id: ptl-24699-1
     src: figures/PTL-24699~1.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Image of Tomorrow is Another Day, which looks like an airplane window with a bright blue sky and two clouds. In the lower righthand corner, the back of a person’s head and shoulders as they look at the artwork.
     zoom: true
@@ -950,21 +950,21 @@ figure_list:
   - id: ptl-24699-2-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~2.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. 
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. 
     credit: Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
 
   - id: ptl-24699-2-extra
     modal_id: leanneur-inline
     src: figures/PTL-24699~2.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. 
+    caption: Cat. XX Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. 
     credit: Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
     lightbox_additions: "ptl-24699-1-essay, ptl-24699-3-essay, ptl-24699-4-essay, ptl-24699-5-essay, ptl-24699-6-essay"
 
   - id: ptl-24699-2
     src: figures/PTL-24699~2.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
     zoom: true
@@ -972,13 +972,13 @@ figure_list:
   - id: ptl-24699-3-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~3.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
 
   - id: ptl-24699-3
     src: figures/PTL-24699~3.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
     zoom: true
@@ -986,13 +986,13 @@ figure_list:
   - id: ptl-24699-4-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~4.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud. The artwork is a bright spot in an otherwise sparse and dimmed setting. On the left-hand side, a person stands with their back to the viewer, looking at the artwork. 
 
   - id: ptl-24699-4
     src: figures/PTL-24699~4.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud. The artwork is a bright spot in an otherwise sparse and dimmed setting. On the left-hand side, a person stands with their back to the viewer, looking at the artwork. 
     zoom: true
@@ -1000,13 +1000,13 @@ figure_list:
   - id: ptl-24699-5-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~5.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud.
 
   - id: ptl-24699-5
     src: figures/PTL-24699~5.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Image of Tomorrow is Another Day in the center, which looks like a circular airplane window looking out on a bright blue sky with a fluffy white cloud.
     zoom: true
@@ -1014,13 +1014,13 @@ figure_list:
   - id: ptl-24699-6-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~6.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Close-up of the screen from Tomorrow is Another Day and gauzy white clouds set against a blue sky.
     
   - id: ptl-24699-6
     src: figures/PTL-24699~6.jpg
-    caption: Mathieu Lehanneur, *Tomorrow is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 10 × 37⅛ in. dia.
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Close-up of the screen from Tomorrow is Another Day and gauzy white clouds set against a blue sky.
     zoom: true
@@ -1096,8 +1096,8 @@ figure_list:
   - id: ptl-24706-2-essay
     modal_id: meadow-inline
     src: figures/PTL-24706~2.jpg
-    caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions.
-    credit: Represented by Pace Gallery. © 2023 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
+    caption: Cat. XX DRIFT, *Meadow*, 2017. 
+    credit: Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions. Represented by Pace Gallery. © 2023 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
 
   - id: ptl-24706-2
@@ -1110,8 +1110,8 @@ figure_list:
   - id: ptl-24710-1-essay
     modal_id: tree-inline
     src: figures/PTL-24710~1.jpg
-    caption: Nacho Carbonell, *One-Seater Concrete Tree*, 2022. Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in.
-    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths, image courtesy of Carpenters Workshop Gallery. 
+    caption: Cat. XX Nacho Carbonell, *One-Seater Concrete Tree*, 2022. 
+    credit: Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in. Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths, image courtesy of Carpenters Workshop Gallery. 
     alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
 
   - id: ptl-24710-1
@@ -1377,7 +1377,7 @@ figure_list:
   - id: ptl-25755-1-essay
     modal_id: teamlab-inline
     src: figures/PTL-25755~1.jpg
-    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
+    caption: Cat. XX teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
     credit: "Six-channel interactive digital installation, endless; sound by Hideaki Takahashi. Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the Artist and Pace Gallery."
     alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
@@ -1391,7 +1391,7 @@ figure_list:
   - id: ptl-25755-2-essay
     modal_id: teamlab-inline
     src: figures/PTL-25755~2.jpg
-    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
+    caption: Cat. XX teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
     credit: "Six-channel interactive digital installation, endless; sound by Hideaki Takahashi. Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the Artist and Pace Gallery."
     alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
@@ -1418,7 +1418,7 @@ figure_list:
   - id: ptl-26101-essay
     modal_id: heijdens-inline
     src: figures/PTL-26101.jpg
-    caption: Simon Heijdens, *Lightweeds*, 2005. 
+    caption: Cat. XX Simon Heijdens, *Lightweeds*, 2005. 
     credit: Location-responsive light projection, dimensions variable. Courtesy of the artist. © Simon Heijdens. Image courtesy of the artist.
     alt: Image of digital light projection on the wall of plant life that reacts to visitors as they pass by. The projection is several feet high.
 
