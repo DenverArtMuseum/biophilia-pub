@@ -32,7 +32,7 @@ Louv, Richard. *Last Child in the Woods: Saving Our Children from Nature-Deficit
 
 Mandelbrot, Benoit B. *The Fractal Geometry of Nature.* 1977. Updated edition. New York: W. H. Freeman, 1982.
 
-Tuan, Yi-fu. *Topophilia: A Study of Environmental Perception, Attitudes, and Values*. New York: Columbia University Press, 1990.
+Tuan, Yi-Fu. *Topophilia: A Study of Environmental Perception, Attitudes, and Values*. New York: Columbia University Press, 1990.
 
 Williams, Florence. *The Nature Fix: Why Nature Makes Us Happier, Healthier, and More Creative*. New York: W. W. Norton and Company, 2017.
 
@@ -58,7 +58,7 @@ Nisbet, Elizabeth K., John M. Zelenski, and Steven A. Murphy. “The Nature Rela
 
 Piff, Paul K., Pia Dietze, Matthew Feinberg, Daniel M. Stancato, and Dacher Keltner. “Awe, the Small Self, and Prosocial Behavior.” *Journal of Personality and Social Psychology* 108, no. 6 (2015): 883–99. https://doi.org/10.1037/pspi0000018.
 
-Salingaros, Nikos A. “Fractal Art and Architecture Reduce Physiological Stress.” *Journal of Biourbanism* 2, no. 2 (2012): 11–28.
+Salingaros, Nikos A. “Fractal Art and Architecture Reduce Physiological Stress.” *Journal of Biourbanism* 2, no. 2 (2012): 11–28, https://journalofbiourbanism.files.wordpress.com/2013/09/jbu-ii-2012-2_nikos-a-salingaros.pdf.
 
 Taylor, Richard P. “Reduction of Physiological Stress Using Fractal Art and Architecture.” *Leonardo* 39, no. 3 (2006): 245–51. https://doi.org/10.1162/leon.2006.39.3.245.
 
@@ -76,9 +76,13 @@ Carbonell, Nacho. *De Rebus Natura*. Eindhoven, Netherlands: Lecturis, 2015.
 
 Gang, Jeanne, ed. *Studio Gang: Architecture*. London: Phaidon, 2022.
 
+Gang, Jeanne. *The Art of Architectural Grafting*. Zurich: Park Books, 2024.
+
 Ingels, Bjarke, Beatrice Leanza, William Myers, et. al. *DRIFT: Choreographing the Future*. London: Phaidon, 2022.
 
 Laarman, Joris. *Joris Laarman: Lab*. New York: August Editions, 2017.
+
+Lee, Laura. *Worlds Unbound: The Art of teamLab*. Bristol, UK: Intellect Books, 2022.
 
 Lepik, Andres, and Andre Santner, eds. *Metropol Parasol: J. Mayer H*. Ostfildern, Germany: Hatje Cantz, 2011.
 
