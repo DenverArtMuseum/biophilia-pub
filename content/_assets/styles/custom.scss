@@ -934,6 +934,9 @@ h1.quire-page__header__title .separator {
 }
 tr.title-property {
     margin-top: 1rem;
+    .hide-title {
+        display:none;
+    }
 }
 tr.year-property, tr.medium-property{
     td {
@@ -950,6 +953,10 @@ tr.year-property, tr.medium-property{
         font-size: 1.4rem;
         line-height: 1;
         margin-top: 1.2rem;
+    }
+    .credit-line {
+        font-size: .875em;
+        margin: .5em 0 1em;
     }
 }
 
@@ -1131,6 +1138,13 @@ body#page-contributors .media ul {
     margin-bottom: 0px !important;
 }
 
+/* Acknowledgments */
+.logo-dam, .logo-scfd {
+    svg {
+        width: auto;
+        height: 6rem;
+    }
+}
 
 /* Checklist */
 
@@ -1153,6 +1167,11 @@ body#page-checklist {
             .card-content {
                 color: $off-black;
                 height: calc( 3.66rem + 3rem );
+                font-weight: 400;
+                em {
+                    font-style: normal;
+                    font-weight: 700;
+                }
             }
 
             &:hover {

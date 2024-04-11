@@ -72,7 +72,7 @@ object_list:
   - id: "2017-89-91"
     artist: "gt2P (great things to People)"
     bio: Established 2009, Santiago, Chile
-    title: "Remolten N1: Revolution Stools and Aux Table"
+    title: "<span class=\"hide-title\">Remolten N1: Revolution Stools and Aux Table</span>"
     multi: "Left to right:<div class=\"obj-title\">Remolten N1: Revolution Stool L, Quitralco, Osorno Volcano</div><div class=\"summary\">2016<br />Stoneware and basaltic andesite<br />17¾ in. high (45.1 cm)</div><div class=\"obj-title\">Remolten N1: Revolution Aux Table M, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />8 × 11¾ in. diam. (20.3 × 29.9 cm)</div><div class=\"obj-title\">Remolten N1: Revolution Stool L, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />17¼ × 12½ in. diam. (43.8 × 31.8 cm)</div><br>"
     credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
     link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=remolten#search-results
@@ -141,9 +141,9 @@ object_list:
       - id: "2023-6"
 
   - id: "2023-186-92"
-    artist: Front Design
+    artist: Front
     bio: Established 2004, Stockholm
-    title: Curve Lamps
+    title: "<span class=\"hide-title\">Curve Lamps</span>"
     multi: "Left to right:<div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />42¼ × 7⅞ in. diam. (07.3 × 19.7 cm diam.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. diam. (158.8 × 14.9 cm diam.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />24½ × 7⅞ in. diam. (62.2 × 19.7 cm diam.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />19 × 11¾ in. diam. (48.3 × 29.9 cm diam.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 5⅞ in. diam. (107.3 × 14.9 cm diam.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. diam. (158.8 × 14.9 cm diam.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 7⅞ in. diam. (107.3 × 19.7 cm diam.)</div>"
     manufacturer: "<br />Manufactured by Zero Lighting, Nybro, Sweden"
     credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–192. © Front. Image courtesy of Zero Lighting."
@@ -209,8 +209,8 @@ object_list:
     artist: J. MAYER H.
     bio: Established 1996, Berlin
     title: Metropol Parasol, Seville, Spain
-    year: 2004–11
-    credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo
+    multi: "2004-11<br><br><div class=\"summary\">Model, 2005<br>Acrylic, fluorescent lights, and polyurethane<br>13⅞ × 35⅜ × 51¼ in. (35.2 × 89.9 × 130.2 cm)<br>Model by Werk5, Berlin, and Marcus Blum</div><div class=\"credit-line\">The Museum of Modern Art, New York: Fund for the Twenty-First Century, 2006</div><div class=\"summary\">Drawings, 2007<br>Graphite pencil on paper<br>Two, 22 × 15¾ in. each (55.9 × 40 cm)<br>Drawings by Jürgen Mayer H.</div><div class=\"credit-line\">Private collection, Berlin</div><div class=\"summary\">Aerial view, 2011<br>Reproduction of color photograph<br>72 × 96 in. <br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div><div class=\"summary\">View of column and roof, 2011<br>Reproduction of color photograph<br>24 × 16 ½ in.<br>Photograph by Iñigo Bujedo Aguirre</div><div class=\"credit-line\">Courtesy of Iñigo Bujedo Aguirre</div><div class=\"summary\">View of plaza, 2011<br>Reproduction of color photograph<br>24 × 25 ½ in.<br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div>"
+    credit: "Pictured: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view, 2011. Photograph by and courtesy of Fernando Alda Fotógrafo."
     figure:
       - id: "exrr-2023-43-1"
 
@@ -282,10 +282,9 @@ object_list:
   - id: ptl-24369
     artist: Greg Lynn
     bio: American, born 1964, active in Los Angeles
-    title: Flatware Set
-    year: 2007
-    medium: Sterling silver
-    dimensions: Dimensions variable
+    title: "<span class=\"hide-title\">Flatware Set</span>"
+    multi: "Left to right:<div class=\"obj-title\">Dessert Fork</div><div class=\"summary\">2007<br>Sterling silver<br>6½ × 1 in. (16.5 × 2.5 cm)</div><div class=\"obj-title\">Tablespoon</div><div class=\"summary\">2007<br>Sterling silver<br>8 × 1¾ in. (20.3 × 4.5 cm)</div><div class=\"obj-title\">Teaspoon</div><div class=\"summary\">2007<br>Sterling silver<br>5½ × 1¼ in. (14 × 3.2 cm)</div><div class=\"obj-title\">Fish Fork</div><div class=\"summary\">2007<br>Sterling silver<br>7½ × 1¼ in. (19 × 3.2 cm)</div><div class=\"obj-title\">Table Knife</div><div class=\"summary\">2007<br>Sterling silver<br>9 × 1 in. (22.9 × 2.5 cm)</div>"
+    manufacturer: "<br>Manufactured by Alessi, Curinallo, Italy"
     credit: The Art Institute of Chicago, Celia and David Hilliard Fund; purchased with funds provided by the Architecture & Design Society, 2007.646.1-5. © Greg Lynn FORM. Art Institute of Chicago/Art Resource, NY
     figure:
       - id: "ptl-24369"
@@ -529,7 +528,7 @@ object_list:
   - id: ptl-25093-97
     artist: Zaha Hadid
     bio: Iraqi British, born Iraq, 1950–2016
-    title: Tau Vases
+    title: "<span class=\"hide-title\">Tau Vases</span>"
     multi: "2015<br><br>Left to right:<p>Bardiglio Nuvolato marble<br />7⅞ × 13⅜ in. dia. (19.7 × 34 cm dia.)</p><p>Statuario marble<br />7⅞ × 17 in. dia. (20 × 43.2 cm dia.)</p><p>Bianco Covelano Bluette marble<br />13⅜ × 15¾ in. dia. (34 × 40 cm dia.)</p><p>Bianco Carrara marble<br />18⅞ × 15¾ in. dia. (47.9 × 40 cm dia.)</p><p>Bardiglio Nuvolato marble<br />29⅛ × 19⅝ in. dia. (74 × 49.9 cm dia.)</p>"
     manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
     credit: Courtesy of CITCO USA CORP 
