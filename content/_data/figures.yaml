@@ -689,6 +689,10 @@ figure_list:
     alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
     zoom: true
 
+  - id: exrr-2024-35
+    src: figures/EXRR_2024_35.jpg
+    alt: Photograph of a trail through a forest. The leaves are bright green and the sun is partially visible above the horizon through the canopy of the trees.
+
   - id: exrr-2024-43-1
     src: figures/EXRR_2024_43_1.jpg
 
