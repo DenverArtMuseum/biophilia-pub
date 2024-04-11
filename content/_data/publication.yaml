@@ -20,8 +20,8 @@ reading_line:
 short_title:
 
 description:
-  one_line: "*Biophilia: Nature Reimagined* brings together more than 70 imaginative works, including architectural models and photographs, objects, fashion, digital installations, and immersive art experiences that collectively highlight the transformative power of nature."
-  full: "*Biophilia* is a term popularized by American biologist and author Edward O. Wilson to describe his theory that, as humans have evolved as a species, they have been intricately intertwined with the natural world. Wilson’s hypothesis invites deep reflection and poses relevant questions for audiences to consider life in our hyper-accelerated digital and urban-centric world. Organized by Darrin Alfred, Curator of Architecture and Design, Biophilia provides a space for leading architects, artists, and designers to re-examine and reanimate our intrinsic bond with the natural world. The exhibition features works by an international roster of designers and artists including Iris van Herpen, Studio Gang, teamLab, Joris Laarman and DRIFT, among others."
+  one_line: "*Biophilia: Nature Reimagined* brings together more than seventy imaginative works, including architectural models and photographs, objects, fashion, digital installations, and immersive art experiences that collectively highlight the transformative power of nature."
+  full: '"Biophilia" is a term popularized by American biologist and author Edward O. Wilson to describe his theory that, as humans have evolved as a species, they have been intricately intertwined with the natural world. Wilson’s hypothesis invites deep reflection and poses relevant questions for audiences to consider regarding life in our hyper-accelerated digital and urban-centric world. Organized by Darrin Alfred, Curator of Architecture and Design, *Biophilia* provides a space for leading architects, artists, and designers to reexamine and reanimate our intrinsic bond with the natural world. The exhibition features works by an international roster of designers and artists including Iris van Herpen, Studio Gang, teamLab, Joris Laarman and DRIFT, among others.'
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -53,7 +53,7 @@ contributor:
     last_name: Alfred
     title: Curator of Architecture and Design
     affiliation: Denver Art Museum
-    bio: "Darrin Alfred is curator of architecture and design at the Denver Art Museum. He has contributed to numerous publications, including [*Gio Ponti in the American West*](https://www.rizzoliusa.com/book/9780847868964), [*Serious Play: Design in Midcentury America*](https://yalebooks.yale.edu/book/9780300234220/serious-play), and *Campana Brothers: Complete Works (So Far)*."
+    bio: "Darrin Alfred is Curator of Architecture and Design at the Denver Art Museum. He has contributed to numerous publications, including [*Gio Ponti in the American West*](https://www.rizzoliusa.com/book/9780847868964), [*Serious Play: Design in Midcentury America*](https://yalebooks.yale.edu/book/9780300234220/serious-play), and *Campana Brothers: Complete Works (So Far)*."
     url:
     pic:
   - id: kim-ruffin
@@ -62,7 +62,7 @@ contributor:
     last_name: Ruffin
     title: 
     affiliation: 
-    bio: "Kimberley Ruffin is a Certified Nature and Forest Therapy Guide who leads walks and gives talks in the Chicagoland area and wherever else she is called to serve. She is the author of [*Black on Earth: African American Ecoliterary Traditions*](https://ugapress.org/book/9780820337203/black-on-earth) and Associate Professor of English at Roosevelt University."
+    bio: "Kimberly Ruffin is a Certified Nature and Forest Therapy Guide who leads walks and gives talks in the Chicagoland area and wherever else she is called to serve. She is the author of [*Black on Earth: African American Ecoliterary Traditions*](https://ugapress.org/book/9780820337203/black-on-earth) and Associate Professor of English at Roosevelt University."
     url:
     pic:
   - id: florence-williams
@@ -71,7 +71,7 @@ contributor:
     last_name: Williams
     title: 
     affiliation: 
-    bio: "Florence Williams is a PEN-Award winning science journalist and the author of [*Breasts: A Natural and Unnatural History*](https://wwnorton.com/books/breasts), [*The Nature Fix: Why Being in Nature Makes us Happier, Healthier, and More Creative*](https://wwnorton.com/books/the-nature-fix), and [*Heartbreak: A Personal and Scientific Journey*](https://wwnorton.com/books/9781324003489)."
+    bio: "Florence Williams is a PEN–Award winning science journalist and the author of [*Breasts: A Natural and Unnatural History*](https://wwnorton.com/books/breasts), [*The Nature Fix: Why Nature Makes Us Happier, Healthier, and More Creative*](https://wwnorton.com/books/the-nature-fix), and [*Heartbreak: A Personal and Scientific Journey*](https://wwnorton.com/books/9781324003489)."
     url:
     pic:
   - id: kit-bernal

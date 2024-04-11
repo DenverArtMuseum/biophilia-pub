@@ -14,15 +14,15 @@ Gombrich, E. H. *The Sense of Order: A Study in the Psychology of Decorative Art
 
 Greyson, Lauren. *Vital Reenchantments: Biophilia, Gaia, Cosmos, and the Affectively Ecological*. Goleta, CA: Punctum Books, 2019. https://www.jstor.org/stable/jj.2353889.
 
-Kaplan, Rachel, and Stephen Kaplan. *The Experience of Nature: A Psychological Perspective*. Cambridge: Cambridge University Press, 1989.
+Kaplan, Rachel, and Stephen Kaplan. *The Experience of Nature: A Psychological Perspective*. Cambridge, UK: Cambridge University Press, 1989.
 
 Kellert, Stephen R. *Birthright: People and Nature in the Modern World*. New Haven, CT: Yale University Press, 2014.
 
-———. *Kinship to Mastery: Biophilia in Human Evolution and Development*. Washington D.: Island Press, 1997.
+———. *Kinship to Mastery: Biophilia in Human Evolution and Development*. Washington, DC: Island Press, 1997.
 
 ———. *Nature by Design: The Practice of Biophilic Design*. New Haven, CT: Yale University Press, 2018.
 
-Kellert, Stephen R., and Edward O. Wilson, eds. *The Biophilia Hypothesis*. Washington DC: Island Press, 1993.
+Kellert, Stephen R., and Edward O. Wilson, eds. *The Biophilia Hypothesis*. Washington, DC: Island Press, 1993.
 
 Kellert, Stephen R., Judith Heerwagen, and Martin Mador. *Biophilic Design: The Theory, Science and Practice of Bringing Buildings to Life*. Hoboken, NJ: John Wiley & Sons, 2011.
 
@@ -64,7 +64,7 @@ Taylor, Richard P. “Reduction of Physiological Stress Using Fractal Art and Ar
 
 Taylor, Richard P., Adam P. Micolich, and David Jonas. “Fractal Analysis of Pollock’s Drip Paintings.” *Nature* 399, no. 422 (June 1999). https://doi.org/10.1038/20833.
 
-Ulrich, Roger. S. “View through a Window May Influence Recovery from Surgery.” *Science* 224, no. 4647 (April 1984): 420–21. DOI: 10.1126/science.6143402.
+Ulrich, Roger. S. “View through a Window May Influence Recovery from Surgery.” *Science* 224, no. 4647 (April 1984): 420–21. https://www.science.org/doi/10.1126/science.6143402.
 
 Ulrich, Roger S., Robert F. Simons, Barbara D. Losito, Evelyn Fiorito, Mark A. Miles, and Michael Zelson. “Stress Recovery during Exposure to Natural and Urban Environments.” *Journal of Environmental Psychology* 11, no. 3 (September 1991): 201–30. https://doi.org/10.1016/S0272-4944(05)80184-7.
 
@@ -88,6 +88,6 @@ Ma Yansong. *Shanshui City*. With contributions by Hans Ulrich Obrist, Lorenza B
 
 Rus, Mayer, Susan Weber, and David Wiseman. *David Wiseman*. Edited by Ari Wiseman. With a contribution by Bobbye Tigerman. New York: Rizzoli Electa, 2020.
 
-Sudjic, Deyan, Glenn Adamson, Richard Dyer, and Caroline Roux. *Fredrikson Stallard: Works*. Milan, Italy: Skira Editore, 2019.
+Sudjic, Deyan, Glenn Adamson, Richard Dyer, and Caroline Roux. *Fredrikson Stallard: Works*. Milan: Skira Editore, 2019.
 
-Van Herpen, Iris and Cloe Pitiot. *Iris van Herpen: Sculpting the Senses*. Tielt, Belgium: Lannoo Publishers, 2023.
+Van Herpen, Iris, and Cloe Pitiot. *Iris van Herpen: Sculpting the Senses*. Tielt, Belgium: Lannoo Publishers, 2023.

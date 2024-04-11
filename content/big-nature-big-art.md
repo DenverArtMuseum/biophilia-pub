@@ -16,7 +16,7 @@ Keltner, a psychologist at the University of California, Berkeley, later underst
 
 A child of a painter and a poet growing up in the ’60s, Keltner was in some ways primed to study this emotion.[^2] Natural beauty was all around: Men were landing on the moon. His neighbors in Topanga Canyon included some of the decade’s most enduring musicians. Until Keltner was out of graduate school, the emotion of awe had hardly been studied by academics, even those who specialize in emotions. And yet, argued Keltner, it lay at the very heart of what it means to be human.
 
-Closely linked to mysticism and other transcendental feelings, awe has been shown to foster cooperation, humility, reverence, caretaking, emotional wellbeing, and physical health.[^3]
+Closely linked to mysticism and other transcendental feelings, awe has been shown to foster cooperation, humility, reverence, caretaking, emotional well-being, and physical health.[^3]
 
 It may be the defining emotion of our species.
 
@@ -26,7 +26,7 @@ But what exactly is awe? And why does it sometimes precipitate dramatic mental a
 
 In attempting to define this somewhat ineffable emotion, Keltner and fellow psychologist Jonathan Haidt wrote a groundbreaking paper on the topic in 2003. Titled “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion,” it surveys the writings of mystics, poets, and philosophers, including Edmund Burke, who in 1757 described the sublime, in Keltner and Haidt’s words, “as the feeling of expanded thought and greatness of mind that is produced by literature, poetry, painting and viewing landscapes.” [^4]
 
-The paper goes on to explain that people often feel awe in the presence of vast natural features such as sweeping views, mountains, storms, and oceans. But the authors noted that “vastness” can refer to conceptual vastness as well, such as quantum physics or evolution or any idea that blows your mind. People can also feel awe in response to objects with infinite, or just alluring, repetition, such as fractal patterns found in forests, along coastlines, and in clouds formations. Fractal patterns, according to mathematician Benoit Mandelbrot, are patterns that repeat at different scales and express some principals of unity, symmetry, and self-similarity.[^5] It’s no wonder that nature facilitates states of awe.
+The paper goes on to explain that people often feel awe in the presence of vast natural features such as sweeping views, mountains, storms, and oceans. But the authors noted that “vastness” can refer to conceptual vastness as well, such as quantum physics or evolution or any idea that blows your mind. People can also feel awe in response to objects with infinite, or just alluring, repetition, such as fractal patterns found in forests, along coastlines, and in cloud formations. Fractal patterns, according to mathematician Benoit Mandelbrot, are patterns that repeat at different scales and express some principals of unity, symmetry, and self-similarity.[^5] It’s no wonder that nature facilitates states of awe.
 
 But vastness is not the only ingredient. Awe requires something of a double take. While encountering awe, we are jolted—even momentarily—out of the ordinary. We may be a little surprised, a little confused, certainly fully absorbed. Keltner and Haidt conclude that a classic awe experience must encompass two main components: a sense of vastness and a little bit of mystery to the point that we seek to adjust our mental maps.
 
@@ -38,7 +38,7 @@ To figure out how often people experience awe and under what conditions, Keltner
 People around the world are most moved to awe by witnessing other people in acts of courage, love, strength, kindness, and overcoming.
 
 #### Collective Effervescence
-A phrase coined by French sociologist Émile Durkheim, it refers to shared experiences leading to an electric and powerful sense of “we,” including weddings, funerals, political rallies, dancing, singing, or marching together, and watching an eclipse in a group, and so on.
+A phrase coined by French sociologist Émile Durkheim, it refers to shared experiences leading to an electric and powerful sense of “we,” including weddings, funerals, political rallies, dancing, singing, or marching together, watching an eclipse in a group, and so on.
 
 #### Nature
 Nature-elicited awe, such as from viewing impressive features or encountering wildlife, accounts for about a quarter of contemporary awe experiences.
@@ -68,15 +68,15 @@ Consider the installation *Clay Houses* by Andy Goldsworthy at the Glenstone Mus
 
 {% figure 'exrr-2023-91-2-essay' 'is-pulled-right' %}
 
-The small stone cabins arise without fanfare alongside a wooded trail. Handcrafted from small stones, they look like something you might stumble upon on a desolate Scottish moor. (fig. 1) From the outside, they appear the same: approximately thirteen feet high, sixteen feet wide, and nineteen feet long, topped by a simple pointed slate roof. You walk in through the first cabin’s wooden door, and it takes your eyes a moment to adjust to the dark interior. You might let out a small squeal of delight or surprise as your eyes settle on a large perfectly round earthen orb in the middle of the otherwise empty room. (fig. 2) The orb is much larger than the doorway, substantially taller than a person, cracked and slightly desiccated. How did it get here? Why doesn’t it crumble? Further investigation reveals that it’s made of brown clay from the site mixed with horsehair, human hair, and sheep’s wool. People around you take selfies in front of the orb as if they have just emerged from a giant dirt bubble. You smile at each other. The room is called simply *Boulder*.
+The small stone cabins arise without fanfare alongside a wooded trail. Handcrafted from small stones, they look like something you might stumble upon on a desolate Scottish moor (fig. 1). From the outside, they appear the same: approximately thirteen feet high, sixteen feet wide, and nineteen feet long, topped by a simple pointed slate roof. You walk in through the first cabin’s wooden door, and it takes your eyes a moment to adjust to the dark interior. You might let out a small squeal of delight or surprise as your eyes settle on a large perfectly round earthen orb in the middle of the otherwise empty room (fig. 2). The orb is much larger than the doorway, substantially taller than a person, cracked and slightly desiccated. How did it get here? Why doesn’t it crumble? Further investigation reveals that it’s made of brown clay from the site mixed with horsehair, human hair, and sheep’s wool. People around you take selfies in front of the orb as if they have just emerged from a giant dirt bubble. You smile at each other. The room is called simply *Boulder*.
 
-“What could possibly be in the next hut,” you wonder. This is the artist’s intention. In his statement for the museum, Goldsworthy wrote, “I don’t want to give anything away. Finding the work inside is part of the sculpture’s nature. If you let it be known they are art, it takes away from the art.”[^7]
+“What could possibly be in the next hut?” you wonder. This is the artist’s intention. In his statement for the museum, Goldsworthy wrote, “I don’t want to give anything away. Finding the work inside is part of the sculpture’s nature. If you let it be known they are art, it takes away from the art.”[^7]
 
 {% figure 'exrr-2023-91-3-essay', 'is-pulled-left' %}
 
-And so you amble over to that entrance. Only a few people are allowed in at one time. You step over the threshold. This room contains no object. Titled *Room*, it is simply plastered with the earthen material on every wall, ceiling, and floor surface, giving the space an ancient, cave-like quality. (fig. 3) It absorbs sound and light. Is it a house? A mud-covered church? A gremlin’s secret lair? If it rains, will it wash away? A stone exterior, a mud interior. It is unlike anything you have ever seen. You stop to take it in, to consider. In the stopping and sensing, there is a feeling of alertness, and then peace. Time slows down.
+And so you amble over to that entrance. Only a few people are allowed in at one time. You step over the threshold. This room contains no object. Titled *Room*, it is simply plastered with the earthen material on every wall, ceiling, and floor surface, giving the space an ancient, cave-like quality (fig. 3). It absorbs sound and light. Is it a house? A mud-covered church? A gremlin’s secret lair? If it rains, will it wash away? A stone exterior, a mud interior. It is unlike anything you have ever seen. You stop to take it in, to consider. In the stopping and sensing, there is a feeling of alertness, and then peace. Time slows down.
 
-And finally: the third stone cottage. This one also contains no object, but it holds another surprise. The small room’s back wall recedes in a series of concentric circles that telescope away from the viewer into a false rear wall. (fig. 4) The symmetry is perfect, but organic. Circles inside a Euclidean room. The pleasing shapes are universal, mysterious, and safe at the same time. This could be the site of a primeval ritual, harkening back to a womb or a giant owl’s eye or a cosmic wormhole. The room is titled *Holes*.
+And finally: the third stone cottage. This one also contains no object, but it holds another surprise. The small room’s back wall recedes in a series of concentric circles that telescope away from the viewer into a false rear wall (fig. 4). The symmetry is perfect, but organic. Circles inside a Euclidean room. The pleasing shapes are universal, mysterious, and safe at the same time. This could be the site of a primeval ritual, harkening back to a womb or a giant owl’s eye or a cosmic wormhole. The room is titled *Holes*.
 
 {% figure 'exrr-2023-91-4-essay' %}
 
@@ -98,7 +98,7 @@ Williams was interested to know why. What was the relationship between being awe
 
 Experiencing awe through art amplifies our narrative tendencies, enabling us to connect with the stories being told. We become active participants, cocreating meaning and finding personal resonance. We may find metaphors in the art or build on the artist’s creation to tell ourselves stories about our values, our own growth, or our place in a larger world.
 
-The meaning-making theory sounds grand, but Williams has another, more physiologically grounded explanation tied to the slight discomfort we feel when we encounter a novel mystery. The goosebumps themselves—similar to the raised hackles on a dog’s back when facing danger—may be a mini version of a threat response. When we experience something we don’t understand, our nervous system pays close attention. Is this safe? What is happening here? Think of sitting near the horn section during a performance of Beethoven’s Symphony no. 5 in C Minor. The second phrase of the first movement ends with a climactic horn solo in which the sound wave vibrations enter the listener’s body in a dramatic, unfamiliar, even unnerving way. And yet, soon, the listener is wholly caught up in the emotional height of the music followed by the resolution of tension. It’s not an easy or mild experience. As the late neurologist Oliver Sacks put it, “music can pierce the heart directly.”[^14]
+The meaning-making theory sounds grand, but Williams has another, more physiologically grounded explanation tied to the slight discomfort we feel when we encounter a novel mystery. The goosebumps themselves—similar to the raised hackles on a dog’s back when facing danger—may be a mini version of a threat response. When we experience something we don’t understand, our nervous system pays close attention. Is this safe? What is happening here? Think of sitting near the horn section during a performance of Beethoven’s Symphony no. 5 in C Minor. The second phrase of the first movement ends with a climactic horn solo in which the sound wave vibrations enter the listener’s body in a dramatic, unfamiliar, even unnerving way. And yet, soon, the listener is wholly caught up in the emotional height of the music followed by the resolution of tension. It’s not an easy or mild experience. As the late neurologist Oliver Sacks put it, “Music can pierce the heart directly.”[^14]
 
 Awe thrives in the face of mystery and the unknown. Experiencing aesthetic awe in this way may be a sort of practice for the stresses of life, argues Williams. “The term I’ve come to use is that it’s a kind of stress inoculation,” she says. “If you do it a lot, then you are always challenging your system a bit and perhaps training yourself to have comfort with novelty and things that are challenging.”[^15]
 
@@ -116,7 +116,7 @@ After the spectacular solar eclipse in the summer of 2017, psychologists at the 
 
 Hermann Hesse said it well, if a bit verbosely, in 1926:
 
-> [W]henever I experience part of nature, whether with my eyes or another of the five senses, whenever I feel drawn in, enchanted, opening myself momentarily to its existence and epiphanies, that very moment allows me to forget the avaricious, blind world of human need, and rather than thinking of issuing orders, rather than acquiring or exploiting, fighting or organizing, all I do that moment is “wonder,” like Goethe, and not only does this wonderment establish my brotherhood with him, other poets, and sages, it also makes me a brother to those wondrous things I behold and experience as the living world: butterflies and moths, beetles, clouds, rivers and mountains, because while wandering down the path of wonder, I briefly escape the world of separation and enter the world of unity.[^22]
+> Whenever I experience part of nature, whether with my eyes or another of the five senses, whenever I feel drawn in, enchanted, opening myself momentarily to its existence and epiphanies, that very moment allows me to forget the avaricious, blind world of human need, and rather than thinking of issuing orders, rather than acquiring or exploiting, fighting or organizing, all I do that moment is “wonder,” like Goethe, and not only does this wonderment establish my brotherhood with him, other poets, and sages, it also makes me a brother to those wondrous things I behold and experience as the living world: butterflies and moths, beetles, clouds, rivers and mountains, because while wandering down the path of wonder, I briefly escape the world of separation and enter the world of unity.[^22]
 
 Those feelings of noninvolvement, even when brief, are very good for our mental health. In lab experiments that induce awe, volunteers report a reduced awareness of day-to-day stress and feelings of being less hassled. Either because of improved moods or because of something particular to awe itself, volunteers engage in more generous behaviors, for example sharing money earned in computer games or folding more paper cranes for tsunami victims.[^23]
 
@@ -128,7 +128,7 @@ It’s one thing to feel good in the moments during or right after awe. But emer
 
 In a 2018 paper in the *International Review of Psychiatry*, Professor Peter Hendricks of the University of Alabama speculates that intense or “big” awe is transformative because it breaks down established patterns and narratives of self-concept. What’s left in their place are new valuations of the self and a profound sense of belonging and connection. “For those suffering from depression, end-of-life distress, or other conditions marked by rumination,” writes Hendricks, “attention diverted away from the self and toward the transcendent (e.g., family, community, the external universe, a belief system) is likely experienced as liberating if not sublime.”[^27]
 
-As Keltner and Haidt put in their 2003 paper, “awe-inducing events may be one of the fastest and most powerful methods of personal change and growth.”[^28]
+As Keltner and Haidt put in their 2003 paper, “Awe-inducing events may be one of the fastest and most powerful methods of personal change and growth.”[^28]
 
 Awe researcher Michelle Shiota at Arizona State University agrees, believing that awe opens a rare window of opportunity to change our belief systems about the world and about ourselves. In those moments of amazement, we can reconsider everything we thought we knew. We can form new allegiances and beliefs. But this isn’t always a good thing, she points out. Cult leaders, religious figureheads, celebrities, and politicians utilize the trappings of vastness and physical and moral beauty to gain or indoctrinate new followers.
 
@@ -140,7 +140,7 @@ If big awe can be transformative, what about small awe, the kind we are more lik
 
 Many psychologists say yes. While grieving his brother, Keltner sought out narratives of moral beauty, reading biographies of Gandhi. He made an effort to regularly lose himself in music, listening at home and occasionally attending symphonies. Hofstra University PhD student and awe researcher Marianna Graziosi sought relief over the death of a loved one by watching her toddler niece play in the gentle surf of the ocean.[^31] Michael Amster, a medical doctor and the coauthor of 2023’s *The Power of Awe*, writes of resolving his depression through finding small moments of natural beauty throughout the day. He calls this practice “micro-dosing awe.” He now prescribes daily awe to his patients suffering from mood disorders and chronic pain**.**[^32]
 
-In fact, says Amster, beauty is all around us. But we need to pay attention and look for it. As Walt Whitman, the patron saint of awe-seekers, wrote, “a leaf of grass is no less than the journey-work of the stars.”[^33]
+In fact, says Amster, beauty is all around us. But we need to pay attention and look for it. As Walt Whitman, the patron saint of awe-seekers, wrote, “A leaf of grass is no less than the journey-work of the stars.”[^33]
 
 When we practice tuning into daily moments of beauty, we can learn to get better at cultivating awe. At the same time, we’ll be cultivating a more resilient mindset grounded in curiosity, cognitive flexibility, mindfulness, and creativity, says Utah’s Paula Williams.[^34]
 
@@ -172,7 +172,7 @@ As Goethe once wrote, “I am here, that I may wonder.”[^35] Mary Oliver agree
 
 [^8]: David B. Yaden et al., “The Development of the Awe Experience Scale (AWE-S): A Multifactorial Measure for A Complex Emotion,” *The Journal of Positive Psychology* 14, no. 4 (July 2018): 474–88.
 
-[^9]: ^9^ Paula G. Williams, personal communication with the author, February 2020.
+[^9]: Paula G. Williams, personal communication with the author, February 2020.
 
 [^10]: Ibid.
 
@@ -184,9 +184,9 @@ As Goethe once wrote, “I am here, that I may wonder.”[^35] Mary Oliver agree
 
 [^14]: Oliver Sacks quoted in Ana Sandoiu, “How Music Helps the Heart Find Its Beat,” MedicalNewsToday, April 17, 2018, https://www.medicalnewstoday.com/articles/321535.
 
-[^15]: Williams, personal communication with author, April 2023.
+[^15]: Williams, personal communication with the author, April 2023.
 
-[^16]: Andrew L. Thomson and Jaston T. Siegel, “Elevation: A Review of Scholarship on a Moral and Other-Praising Emotion,” *The Journal of Positive Psychology* 12, no. 6 (2017): 628–38.
+[^16]: Andrew L. Thomson and Jason T. Siegel, “Elevation: A Review of Scholarship on a Moral and Other-Praising Emotion,” *The Journal of Positive Psychology* 12, no. 6 (2017): 628–38.
 
 [^17]: Jake Eagle and Michael Amster, *The Power of Awe* (New York: Hachette Go, 2023), 79–80.
 
@@ -202,7 +202,7 @@ As Goethe once wrote, “I am here, that I may wonder.”[^35] Mary Oliver agree
 
 [^23]: Monroy and Keltner, “Awe as a Pathway to Mental and Physical Health.”
 
-[^24]: Keltner, personal communication with author, April 2023.
+[^24]: Keltner, personal communication with the author, April 2023.
 
 [^25]: Tingying Chi and Jessica A. Gold, “A Review of Emerging Therapeutic Potential of Psychedelic Drugs in the Treatment of Psychiatric Illnesses,” *Journal of the Neurological Sciences* 411 (April 2020), article 116715.
 
@@ -224,6 +224,6 @@ As Goethe once wrote, “I am here, that I may wonder.”[^35] Mary Oliver agree
 
 [^34]: Paula G. Williams, personal communication with author, February 2020.
 
-[^35]: Johann Wolfgang von Goethe quoted in Popova, “How to Be More Alive.”
+[^35]: Johann Wolfgang von Goethe, quoted in Popova, “How to Be More Alive.”
 
 [^36]: Mary Oliver, “Messenger,” in *Thirst* (Boston: Beacon Press, 2006), 1.
