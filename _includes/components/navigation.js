@@ -111,8 +111,12 @@ module.exports = function(eleventyConfig) {
           </li>
         `
       }
-      const { data, url } = nextPage
-      const { label, short_title, title } = data
+      var { data, url } = nextPage
+      var { label, short_title, title } = data
+      if (/^\/checklist/.test(url)) {
+        url = '/installation-photos/';
+        short_title = 'Installation Photos';
+      }
       return html`
         <li class="quire-navbar-page-controls__item quire-next-page">
           <a href="${url}" rel='next'>
