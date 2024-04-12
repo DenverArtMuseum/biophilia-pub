@@ -3,9 +3,9 @@ title: A Forest Walk
 subtitle: An Audio-Guided Practice
 contributor:
     - id: kim-ruffin
-layout: page
+layout: essay
 order: 150
-image:
+image: figures/EXRR_2024_35.jpg
 ---
 
 {% figure 'forest-walk-audio' %}
