@@ -44,7 +44,7 @@ As you navigate through this publication, keep in mind that our connection with 
 
 [^3]: Wilson, *Biophilia*, 1.
 
-[^4]: Later, Wilson, together with social ecologist Stephen R. Kellert, published the collection of essays *The Biophilia Hypothesis*. This theory asserts the human dependence on nature “that extends far beyond the simple issues of material and physical sustenance to encompass as well the human craving for aesthetic, intellectual, cognitive, and even spiritual meaning and satisfaction.” Stephen R. Kellert and Edward O. Wilson, eds., *The Biophilia Hypothesis* (Washington, DC: Island Press, 1993), 20.
+[^4]: Later, Wilson, together with social ecologist Stephen R. Kellert, published the collection of essays *The Biophilia Hypothesis*. This theory asserts a human dependence on nature “that extends far beyond the simple issues of material and physical sustenance to encompass as well the human craving for aesthetic, intellectual, cognitive, and even spiritual meaning and satisfaction.” Stephen R. Kellert and Edward O. Wilson, eds., *The Biophilia Hypothesis* (Washington, DC: Island Press, 1993), 20.
 
 [^5]: Richard Louv, *Last Child in the Woods: Saving Our Children from Nature-Deficit Disorder* (Chapel Hill, NC: Algonquin Books, 2005). Louv has coined the term “nature-deficit disorder” to describe how people with limited contact with nature experience increased rates of symptoms, including behavioral disorders, anxiety, and sadness.
 

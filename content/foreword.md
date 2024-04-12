@@ -18,4 +18,4 @@ We invite visitors and readers to reflect on their own relationship with nature 
 
 I’d like to thank Darrin Alfred, Curator of Architecture and Design, for this compelling exhibition, and Kit Bernal, Curatorial Assistant, Architecture and Design, for her research and contributions to the catalog. Many thanks must also be given to all of the lenders as well as the designers and artists who contributed their work and created new pieces for this exhibition.
 
-*Biophilia: Nature Reimagined* is generously supported by the donors of the Annual Fund Leadership Campaign and the residents of Colorado who support the Scientific and Cultural Facilities District.
+*Biophilia: Nature Reimagined* is presented with generous funds from Luncheon by Design and the Adolph Coors Exhibition Endowment Fund, the donors to the Annual Fund Leadership Campaign, and the residents who support the Scientific and Cultural Facilities District (SCFD). 
