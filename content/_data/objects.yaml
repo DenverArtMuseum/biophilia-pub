@@ -158,10 +158,8 @@ object_list:
   - id: exacc-2022-74-77
     artist: Nao Tamura
     bio: Japanese, born 1976, active in Brooklyn, New York
-    title: Seasons and Petal Serving Ware
-    multi: "2011<br />Silicone<br /><div class=\"obj-title\">Petals Plate</div><div class=\"summary\">7¼ × 6¼ in. (18.4 × 15.9 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">9½ × 7⅞ in. (24.1 × 20 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">12⅜ × 8⅝ in. (31.4 × 21.9 cm)</div><div class=\"obj-title\">Seasons Serving Platter</div><div class=\"summary\">20½ × 11¾ in. (52.1 × 29.9 cm)</div><br />"
-    manufacturer: Manufactured by COVO, Rome, Italy.
-    credit: Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura
+    title: "<span class=\"hide-title\">Seasons and Petal Serving Ware</span>"
+    multi: "<div class=\"obj-title\">Petals Plate</div><div class=\"summary\">2011<br>Silicone<br>7¼ × 6¼ in. (18.4 × 15.9 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>9½ × 7⅞ in. (24.1 × 20 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>12⅜ × 8⅝ in. (31.4 × 21.9 cm)</div><div class=\"obj-title\">Seasons Serving Platter</div><div class=\"summary\">2011<br>Silicone<br>20½ × 11¾ in. (52.1 × 29.9 cm)</div><br /><div class=\"summary\">Manufactured by COVO, Rome, Italy.</div><div class=\"credit-line\">Denver Art Museum: Exhibition funds from the Denver Art Museum</div><div class=\"credit-line\">Pictured: Nao Tamura, Seasons Plates, 2011. Silicone; 9 1/2 × 7 7/8 in. ea. Manufactured by COVO, Rome, Italy. Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura</div>"
     figure:
       - id: "exacc-2022-74-77"
 
@@ -203,9 +201,7 @@ object_list:
     artist: Studio Gang
     bio: Established 1997, Chicago
     title: Populus, Denver, Colorado
-    medium: Digital rendering
-    year: 2019–24
-    credit: © and courtesy of Studio Gang
+    multi: "2019–24<br><br><div class=\"summary\">Unrolled elevation and window modules, 2019<br>Reproduction of digital drawing<br>24 × 30 in.</div><div class=\"summary\">Aspen eye research diagram and geometry analysis, 2020<br>Reproduction of color photograph and digital drawing<br>7 ¼ × 12 in.<br>Photo by Peng Chen on Unsplash, 2017</div><div class=\"summary\">Exterior view, 2020<br>Reproduction of digital rendering<br>72 × 93 ¼ in.</div><div class=\"summary\">Exterior view into lobby, restaurant, and amenity spaces, 2020<br>Reproduction of digital rendering<br>24 × 42 in.</div><div class=\"summary\">Model, 2024<br>Wood, plastic, acrylic, fabric, paper, spray paint, and museum board<br>75 × 33 × 33 in.</div><div class=\"credit-line\">All courtesy of Studio Gang.</div><div class=\"credit-line\">Pictured: Studio Gang, Populus, Denver, Colorado, 2019–24. Exterior view, 2020. Digital rendering. Courtesy of and © Studio Gang.</div>"
     figure:
       - id: "exrr-2023-31-1"
   
@@ -245,8 +241,7 @@ object_list:
     artist: MAD Architects
     bio: Established 2004, Beijing
     title: Nanjing Zendai Himalayas Center, Nanjing, China
-    year: 2021
-    credit: Courtesy of MAD Architects. © MAD Architects. 
+    multi: "2012–21<br><br><div class=\"summary\">Model, 2018<br>Acrylic, crystal, PVC, and wood<br>21⅝ × 90 5/8 × 43⅜ in. (54.9 × 110.2 × 230.2 cm)</div><div class=\"summary\">Aerial view, 2021<br>Reproduction of color photograph<br>72 × 95 5/8 in.<br>Photograph by CreatAR Images</div><div class=\"summary\">View of center of complex, 2021<br>Reproduction of color photograph<br>22 × 32 in. <br>Photograph by CreatAR Images</div><div class=\"summary\">Video, 2022<br>Duration: 2 min. 8 sec.<br>Video by Blackstation</div><div class=\"credit-line\">All courtesy of MAD Architects.</div><div class=\"credit-line\">Pictured: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Aerial view, 2021. © and courtesy of MAD Architects. Photograph by CreatAR Images.</div>"
     figure:
       - id: "exrr-2023-103-3"
 
@@ -349,9 +344,9 @@ object_list:
   - id: ptl-24650-59-63-64
     artist: David Valner
     bio: Czech, born 1990, active in Olomouc, Czech Republic
-    title: Fungus Vases and Polypore Bowl
-    multi: "Handcrafted Glass<p>Left to right:</p><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br />9 × 5⅞ in. dia. (22.9 × 14.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2020<br />19⅝ × 6¼ in × 6¾ in. (49.9 × 15.9 × 17.2 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br />11 × 9½ in. dia. (27.9 × 24.1 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2020<br />19⅝ × 6¼ × 6¾ in. (49.9 × 15.9 × 17.2 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br />8⅝ × 5½ × 4¾ in. (21.9 × 14 × 12.1 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br />8⅝ × 5½ × 4¾ in. (21.9 × 14 × 12.1 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br />13⅜ × 5⅞ in. dia. (34 × 14.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2022<br />20½ × 5⅞ × 6¼ in. (52 × 14.9 × 15.9 cm)</div><div class=\"obj-title\">Polypore Bowl</div><div class=\"summary\">2019, this example 2023<br />7⅛ × 11¾ × 10⅝ in. (18.1 × 29.9 × 27 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2021<br />13¾ × 6¾ × 6¼ in. (34.9 × 17.2 × 15.9 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br />12⅝ × 8⅝ in. dia. (32.1 × 21.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br />9 × 6⅝ × 6¼ in. (22.9 × 16.8 × 15.9 cm)</div><br />"
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2024"
+    title: "<span class=\"hide-title\">Fungus Vases and Polypore Bowl</span>"
+    multi: "Left to right:<br><br><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br>Glass<br>9 × 5⅞ in. dia. (22.9 × 14.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2020<br>Glass<br>19⅝ × 6¼ in × 6¾ in. (49.9 × 15.9 × 17.2 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>11 × 9½ in. dia. (27.9 × 24.1 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2020<br>Glass<br>19⅝ × 6¼ × 6¾ in. (49.9 × 15.9 × 17.2 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br>Glass<br>8⅝ × 5½ × 4¾ in. (21.9 × 14 × 12.1 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br>Glass<br>8⅝ × 5½ × 4¾ in. (21.9 × 14 × 12.1 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>13⅜ × 5⅞ in. dia. (34 × 14.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2022<br>Glass<br>20½ × 5⅞ × 6¼ in. (52 × 14.9 × 15.9 cm)</div><div class=\"obj-title\">Polypore Bowl</div><div class=\"summary\">2019, this example 2023<br>Glass<br>7⅛ × 11¾ × 10⅝ in. (18.1 × 29.9 × 27 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2021<br>Glass<br>13¾ × 6¾ × 6¼ in. (34.9 × 17.2 × 15.9 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>12⅝ × 8⅝ in. dia. (32.1 × 21.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>9 × 6⅝ × 6¼ in. (22.9 × 16.8 × 15.9 cm)</div><br>"
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2024.130–141. © David Valner. Photography by Tereza Valnerová."
     figure:
       - id: ptl-24650-59-63-64
 
@@ -446,11 +441,9 @@ object_list:
   - id: ptl-24701
     artist: Mathieu Lehanneur
     bio: French, born 1974, active in Paris
-    title: 50 Seas
-    year: 2018
-    medium: Enameled faience
-    dimensions: Each 19⅝ in. dia. (49.9 cm dia.)
-    credit: Courtesy of the designer. © Mathieu Lehanneur.
+    title: "<span class=\"hide-title\">50 Seas</span>"
+    multi: "<div class=\"obj-title\">Sea 1: Atlantic Ocean, Guinea-Bissau</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 2: Red Sea, Sudan</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 11: Great Lakes, US — Canada</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 13: Hudson Bay, Belcher Islands, Canada</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 21: Pacific Ocean, Valparaiso, Chile</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 28: East China Sea, Taizhou, China</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 31: Sea of Japan – Tsugaru Strait, Japan</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 32: Palk Strait, India — Sri Lanka</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 33: Caspian Sea, Atyrau, Kazakhstan</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 34: Black Sea – Karkinit Bay, Ukraine</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 41: Baie de Somme, Le Manche, France</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 42: Baltic Sea, Kalmar, Sweden</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 47: Persian Gulf, Bahrain — Qatar — UAE</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 49: Coral Sea, Australia</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 50: Hawke’s Bay, Napier, New Zealand</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div>"
+    credit: "<br>Courtesy of the designer. © Mathieu Lehanneur."
     figure:
       - id: "ptl-24701-2"
 
@@ -688,7 +681,9 @@ object_list:
   - id: exacc-1023-105
     artist: David Wiseman
     bio: American, born 1981, active in Los Angeles
-    title: Midnight in the Meadow Wallpaper
+    title: "<span class=\"hide-title\">Midnight in the Meadow Wallpaper</span>"
+    multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>1/2 in. × 1 1/4 in. dia.</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in.</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in.</div>"
+    credit: Courtesy of Wiseman Studio
     year: 2023
     figure:
       - id: exacc-2023-105

@@ -307,17 +307,18 @@ em {
     -webkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
     font-size: 1rem;
-    border: 1px solid $link-color;
+    border: 1px solid $off-black;
     background-color: transparent;
 }
 .button:hover {
     background-color: $link-color;
+    border-color: $link-color;
 }
 .button:hover a {
     color: #fff;
 }
 .button a {
-    color: $link-color;
+    color: $off-black;
     display: inline-block;
     width: 8.75em;
     height: 3.25em;
@@ -954,9 +955,12 @@ tr.year-property, tr.medium-property{
         line-height: 1;
         margin-top: 1.2rem;
     }
+    .summary + .summary {
+        margin-top: 1.5em;
+    }
     .credit-line {
         font-size: .875em;
-        margin: .5em 0 1em;
+        margin: 1em 0 1.75em;
     }
 }
 

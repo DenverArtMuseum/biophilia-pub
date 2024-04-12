@@ -426,25 +426,22 @@ $image-divider-height: 16px;
     a.button {
       -webkit-transition: all 0.25s ease;
       transition: all 0.25s ease;
+      color: $off-black;
+      line-height: 1.6;
+      padding-top: .6em;
 
-      @if $theme==classic {
-        color: background-color-text-classic($content-background-color);
-
-        svg {
-          fill: background-color-text-classic($content-background-color);
-        }
-      } @else {
-        color: $accent-color;
+      svg {
+        fill: $off-black;
       }
 
       &:hover {
-        background-color: link-hover-color($content-background-color);
-        border-color: link-hover-color($content-background-color);
+        background-color: $link-color;
+        border-color: $link-color;
 
-        color: findColorInvert($accent-color);
+        color: $white;
 
         svg {
-          fill: findColorInvert($accent-color);
+          fill: $white;
         }
       }
     }
@@ -494,12 +491,7 @@ $image-divider-height: 16px;
       -moz-border-radius: 2px;
       -webkit-border-radius: 2px;
       border-radius: 2px;
-
-      @if $theme==classic {
-        border: 1px solid $off-black;
-      } @else {
-        border: 1px solid $accent-color;
-      }
+      border: 1px solid $off-black;
     }
 
     svg {
