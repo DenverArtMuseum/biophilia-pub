@@ -5,10 +5,17 @@ layout: base.11ty.js
 description: Essay layout. This layout describes a single-page template that has been augmented with the ability to display a frontmatter-defined abstract (in markdown format) as well as bibliography references.
 ---
 
+{%- if figure -%}
+  {% for figure in pageFigures %}
+    {% assign image = figure.src %}
+    {% assign image_credit = figure.credit %}
+  {% endfor %}
+{% endif %}
+
 {% pageHeader
   byline_format=byline_format,
   image=image,
-  image_credit=figure[0].credit,
+  image_credit=image_credit,
   label=label,
   pageContributors=pageContributors,
   subtitle=subtitle,

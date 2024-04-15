@@ -6,6 +6,7 @@ contributor:
 layout: essay
 order: 110
 image: figures/natural-analogs-header.jpg
+#image_credit: 'TEST'
 ---
 
 

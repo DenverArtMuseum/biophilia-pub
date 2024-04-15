@@ -471,3 +471,6 @@ $(".footnotes .littlefoot__popover .littlefoot__content").each(function() {
     $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
   }  
 });
+
+
+//$("a:contains('Object Plates')").removeAttr('href');
