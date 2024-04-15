@@ -35,6 +35,8 @@ After collecting the volcanic stone, gt2P grinds it into a powder, applies it by
 
 Imbued with emotion and the spirit of the natural world, artist Alexandra Kehayoglou’s lush and tactile carpets depict the disappearing and decimated ecosystems of her native Argentina. Kehayoglou’s hand-tufted landscapes also draw attention to the beauty and importance of safeguarding her homeland’s fragile ecological resources. “If activism has the task of ringing the alarm, art and design can offer ways to connect us with something beyond. Something more spiritual,” Kehayoglou explains. “We must hold on to hope . . . hope offers a path forward.”[^4]
 
+{% figure 'ptl-24707-5' %}
+
 Many of Kehayoglou’s carpets examine Argentina’s *pastizales*, or grasslands, a once vast and fertile plain that covered a significant expanse of the country, from the Atlantic Ocean to the Andes Mountains. Argentina’s grasslands biome has been severely transformed by human development, including the long-forgotten region buried beneath bustling Buenos Aires. Kehayoglou began portraying the pastizales as a way of recounting and acknowledging the past. *Bajío* (Lowland) corresponds to a small fragment of the Paraná Delta, an exceptionally biodiverse landscape in eastern Argentina that lies near the country’s largest metropolitan areas (cat. **xx**). The Paraná Delta faces irreversible ecological change due to urban growth, unsustainable agricultural practices, and the consequences of climate change. The carpet is especially personal, as it documents an island in the Paraná wetlands where Kehayoglou lived with her family during the COVID-19 pandemic.
 
 {% figure 'ptl-24707' %}

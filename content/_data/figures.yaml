@@ -114,7 +114,7 @@ figure_list:
 
   - id: 2015-263
     src: figures/2015_263.jpg
-    caption: "Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype*, 2014. 3-D printed polyamide and copper, 28⅜ × 27½ × 30¼ in."
+    caption: "Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype*, 2014. 3-D printed polyamide and copper coating, 28⅜ × 27½ × 30¼ in."
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
     zoom: true
@@ -168,8 +168,8 @@ figure_list:
   - id: 2022-57-4-essay
     modal_id: shapeways-inline
     src: figures/2022_57~4.jpg
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
-    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
+    caption: Cat. XX Nervous System, *Floraform Chandelier*, 2017. 
+    credit: "3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City. Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: Image of the Floraform Chandelier lit and casting shadows. 
 
   - id: 2022-57-4
@@ -209,8 +209,8 @@ figure_list:
   - id: 2022-160-2
     modal_id: detail-inline
     src: figures/2022_160~2_FPO.jpg
-    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02*, 2022. Desert globemallow, agave fiber, and jute, 17 × 13 × 10 in.
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02* (detail), 2022. 
+    credit: "Desert globemallow, agave fiber, and jute, 17 × 13 × 10 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 02 basket. Small flecks of brown and red in the textured, white material of the basket.
 
   - id: 2022-161-essay
@@ -244,8 +244,8 @@ figure_list:
   - id: 2022-162-2
     modal_id: detail-inline
     src: figures/2022_162~2_FPO.jpg
-    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09*, 2022. Creosote and jute, 15 × 9 × 9 in.
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09* (detail), 2022. 
+    credit: "Creosote and jute, 15 × 9 × 9 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 09 basket. The surface is light brown with flecks of dark organic material, and a bumpy but delicate texture.
 
   - id: 2023-6
@@ -416,7 +416,7 @@ figure_list:
   - id: exrr-2023-31-5
     modal_id: diagram-inline
     src: figures/EXRR_2023_31_5.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
+    caption: Populus, Environmental systems and social connectivity diagram. 
     credit: © Studio Gang
     alt: "diagram of the Populus building. It highlights VIEWS: Aspen Eye and Roof Terrace; ENERGY: Efficient Mechanical Systems, Concrete Structure, High Performance Envelope; URBAN AMENITIES: Café, Bike Share Stations, Bike Lanes, No On-Site Parking; and SOCIAL CONNECTIVITY: Urban Living Room, and Local Food."
 
@@ -429,13 +429,13 @@ figure_list:
   - id: exrr-2023-32-essay
     modal_id: modal-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
+    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
 
   - id: exrr-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
+    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
     zoom: true
@@ -678,8 +678,8 @@ figure_list:
   - id: exrr-2023-137-essay
     modal_id: kehayoglou-inline
     src: figures/EXRR_2023_137.jpg
-    caption: Alexandra Kehayoglou, *Santa Cruz River*, 2017. Wool, 382⅞ × 165⅜ in.
-    credit: "National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photograph by National Gallery of Victoria, Melbourne"
+    caption: Alexandra Kehayoglou, *Santa Cruz River*, 2017. 
+    credit: "Wool, 382⅞ × 165⅜ in. National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photograph by National Gallery of Victoria, Melbourne"
     alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
   - id: exrr-2023-137
@@ -702,13 +702,13 @@ figure_list:
   - id: ptl-24707
     src: figures/PTL-24707~2.jpg
     caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
-    credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
+    credit: "Hand tufted wool, dimensions variable (largest piece 90½ × 137¾ in. [229.9 × 349.9 cm]). Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
     zoom: true
 
   - id: ptl-24707-4
     src: figures/PTL-24707~4.jpg
-    caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
+    caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland) (detail), 2024. 
     credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
 
@@ -994,8 +994,8 @@ figure_list:
   - id: ptl-24699-3-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~3.jpg
-    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia.
-    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011.
+    credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
 
   - id: ptl-24699-3
@@ -1036,8 +1036,8 @@ figure_list:
   - id: ptl-24699-6-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~6.jpg
-    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia.
-    credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. 
+    credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Close-up of the screen from Tomorrow is Another Day and gauzy white clouds set against a blue sky.
     
   - id: ptl-24699-6
@@ -1489,8 +1489,8 @@ figure_list:
 
   - id: tl-45469-2-essay
     src: figures/TL-45469~2.jpg
-    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
-    credit: Courtesy of the designer. © Elena Manferdini.
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
