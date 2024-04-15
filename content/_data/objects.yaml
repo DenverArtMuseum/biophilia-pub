@@ -17,7 +17,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D-printed polyamide and copper coating
+    medium: 3-D printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -27,7 +27,7 @@ object_list:
 
   - id: "lasch-plate"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 02
     multi: "<div class=\"summary\">2022<br>Desert globemallow, agave fiber, and jute<br>16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)</div><div class=\"obj-title\">Desert Paper 05</div><div class=\"summary\">2022<br>Desert marigold, jute, and abaca<br>19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)</div><div class=\"obj-title\">Desert Paper 07</div>"
     year: 2022
@@ -45,7 +45,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D printed polyamide and copper
+    medium: 3-D printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -99,7 +99,7 @@ object_list:
   
   - id: "2022-160"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
@@ -112,7 +112,7 @@ object_list:
   
   - id: "2022-161"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
@@ -125,7 +125,7 @@ object_list:
 
   - id: "2022-162"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
@@ -170,7 +170,7 @@ object_list:
   - id: exrr-2023-78
     artist: Ronan Bouroullec and Erwan Bouroullec
     bio: Ronan Bouroullect, French, born 1971, active in Paris<br>Erwan Bouroullec, French, born 1976, active in Paris
-    title: Algues
+    title: *Algues* (Algae)
     year: 2004
     medium: Injection-molded plastic
     dimensions: Dimensions variable, each component 12½ × 10 in. (31.8 × 25.4 cm)
@@ -274,11 +274,11 @@ object_list:
   - id: ptl-24707
     artist: Alexandra Kehayoglou
     bio: Argentine, born 1981, active in Buenos Aires, Argentina, and Athens, Greece
-    title: *Bajío* (Lowland)
+    title: Bajío (Lowland)
     year: 2024
     medium: Hand-tufted wool
-    dimensions: Dimensions variable; largest piece 90½ × 137¾ in. (229.9 × 349.9 cm)
-    credit: "Denver Art Museum: Funds from Collectors’ Choice 41 and the Architecture and Design Collectors’ Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
+    dimensions: 118 × 147½ in. (299.7 × 374.7 cm)
+    credit: "Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio" 
     figure:
       - id: ptl-24707
 
@@ -297,9 +297,9 @@ object_list:
     bio: American, born Romania, 1974, active in Brooklyn, NY
     title: Botanica Chandelier
     year: 2023
-    medium: Glass, brass, steel, leather, and LED
+    medium: Glass, brass, steel, leather, and LEDs
     dimensions: 135 × 56 × 33 in. (342.9 × 142.2 × 83.8 cm)
-    credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
     figure:
       - id: "ptl-24375-1"
       - id: "ptl-24375-2"
@@ -395,7 +395,7 @@ object_list:
     medium: Hand-tufted recycled plastic PET (polyethylene terephthalate)
     dimensions: 118 × 158 in. (299.7 ×  401.3 cm.)
     manufacturer: Manufactured by GAN, Valencia, Spain
-    credit: Courtesy of GAN by Gandia Blasco Group 
+    credit: "Courtesy of GAN by Gandia Blasco Group. Image courtesy of GAN USA. GAN by Gandia Blasco Group. @gan_rugs."
     figure:
       - id: "ptl-24663"
 
@@ -455,12 +455,12 @@ object_list:
   - id: ptl-24704
     artist: Humberto Campana and Fernando Campana
     bio: Humberto Campana, Brazilian, born 1953, active in São Paulo<br>Fernando Campana, Brazilian, 1961–2022
-    title: Bulbo
+    title: Bulbo Chair
     year: 2019
     medium: Leather and fabric
     dimensions: 59 × 47 × 48 in. (149.9 × 119.4 × 121.9 cm)
-    manufacturer: Manufactured by Louis Vuitton, Paris, France for Objets Nomades
-    credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana
+    manufacturer: Manufactured by Louis Vuitton, Paris for Objets Nomades
+    credit: Louis Vuitton Collection.
     figure:
       - id: "ptl-24704"
 
@@ -480,7 +480,7 @@ object_list:
     year: 2017
     medium: Site-specific kinetic sculpture with aluminum, stainless steel, printed fabric, LEDs, and robotics
     dimensions: Dimensions variable
-    credit: Represented by Pace Gallery. © 2023 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
+    credit: Represented by Pace Gallery. © 2024 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
     figure:
       - id: "ptl-24706-1"
       - id: "ptl-24706-2"
@@ -492,7 +492,7 @@ object_list:
     year: 2022
     medium: Metal mesh, cork, steel, concrete, and light fittings
     dimensions: 139¾ × 74¾ × 112¼ in. (355 × 189.9 × 285.1 cm)
-    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photo by Ronald Smiths.
+    credit: "Cincinnati Art Museum: Museum Purchase: Contemporary Art Deaccession Fund, Lawrence Archer Wachs Trust, On to the Second Century Art Purchase Fund, Weston Endowment for Contemporary Art, Jimmie Otten Gillespie Memorial Fund, 2024.1. © Nacho Carbonell. Photo by Ronald Smith. Image courtesy of Carpenters Workshop Gallery."
     figure:
       - id: "ptl-24710-2"
 
@@ -524,7 +524,7 @@ object_list:
     year: 2022
     medium: Sycamore veneers and resin
     dimensions: 39⅜ × 110¼ × 15¾ in. (100 × 280 × 40 cm)
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photoraphy courtesy of James Harris and Sarah Myerscough Gallery.
     figure:
       - id: "ptl-24736-1"
 
@@ -609,7 +609,7 @@ object_list:
     bio: Established 2001, Tokyo
     title: Flowers and People – A Whole Year per Hour
     year: 2020
-    medium: Six channels, interactive digital installation, endless. Sound by Hideaki Takahashi
+    medium: Six channels, interactive digital installation, endless; sound by Hideaki Takahashi
     credit: "Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the artist and Pace Gallery."
     figure:
       - id: "ptl-25755-1"
@@ -667,7 +667,7 @@ object_list:
     year: 2008, updated 2015
     medium: Interactive software program
     dimensions: Dimensions variable 
-    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267"
+    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
     figure:
       - id: "2015-267"
 
