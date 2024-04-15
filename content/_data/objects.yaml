@@ -166,7 +166,7 @@ object_list:
   - id: exrr-2023-78
     artist: Ronan Bouroullec and Erwan Bouroullec
     bio: Ronan Bouroullect, French, born 1971, active in Paris<br>Erwan Bouroullec, French, born 1976, active in Paris
-    title: Algues
+    title: *Algues* (Algae)
     year: 2004
     medium: Injection-molded plastic
     dimensions: Dimensions variable, each component 12½ × 10 in. (31.8 × 25.4 cm)
@@ -293,9 +293,9 @@ object_list:
     bio: American, born Romania, 1974, active in Brooklyn, NY
     title: Botanica Chandelier
     year: 2023
-    medium: Glass, brass, steel, leather, and LED
+    medium: Glass, brass, steel, leather, and LEDs
     dimensions: 135 × 56 × 33 in. (342.9 × 142.2 × 83.8 cm)
-    credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
     figure:
       - id: "ptl-24375-1"
       - id: "ptl-24375-2"
@@ -391,7 +391,7 @@ object_list:
     medium: Hand-tufted recycled plastic PET (polyethylene terephthalate)
     dimensions: 118 × 158 in. (299.7 ×  401.3 cm.)
     manufacturer: Manufactured by GAN, Valencia, Spain
-    credit: Courtesy of GAN by Gandia Blasco Group 
+    credit: "Courtesy of GAN by Gandia Blasco Group. Image courtesy of GAN USA. GAN by Gandia Blasco Group. @gan_rugs."
     figure:
       - id: "ptl-24663"
 
@@ -450,12 +450,12 @@ object_list:
   - id: ptl-24704
     artist: Humberto Campana and Fernando Campana
     bio: Humberto Campana, Brazilian, born 1953, active in São Paulo<br>Fernando Campana, Brazilian, 1961–2022
-    title: Bulbo
+    title: Bulbo Chair
     year: 2019
     medium: Leather and fabric
     dimensions: 59 × 47 × 48 in. (149.9 × 119.4 × 121.9 cm)
-    manufacturer: Manufactured by Louis Vuitton, Paris, France for Objets Nomades
-    credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana
+    manufacturer: Manufactured by Louis Vuitton, Paris for Objets Nomades
+    credit: Louis Vuitton Collection.
     figure:
       - id: "ptl-24704"
 
@@ -487,7 +487,7 @@ object_list:
     year: 2022
     medium: Metal mesh, cork, steel, concrete, and light fittings
     dimensions: 139¾ × 74¾ × 112¼ in. (355 × 189.9 × 285.1 cm)
-    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photo by Ronald Smiths.
+    credit: "Cincinnati Art Museum: Museum Purchase: Contemporary Art Deaccession Fund, Lawrence Archer Wachs Trust, On to the Second Century Art Purchase Fund, Weston Endowment for Contemporary Art, Jimmie Otten Gillespie Memorial Fund, 2024.1. © Nacho Carbonell. Photo by Ronald Smith. Image courtesy of Carpenters Workshop Gallery."
     figure:
       - id: "ptl-24710-2"
 
@@ -519,7 +519,7 @@ object_list:
     year: 2022
     medium: Sycamore veneers and resin
     dimensions: 39⅜ × 110¼ × 15¾ in. (100 × 280 × 40 cm)
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photo courtesy James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photoraphy courtesy of James Harris and Sarah Myerscough Gallery.
     figure:
       - id: "ptl-24736-1"
 
@@ -662,7 +662,7 @@ object_list:
     year: 2008, updated 2015
     medium: Interactive software program
     dimensions: Dimensions variable 
-    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267"
+    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
     figure:
       - id: "2015-267"
 
