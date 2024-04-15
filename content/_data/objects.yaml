@@ -27,7 +27,7 @@ object_list:
 
   - id: "lasch-plate"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 02
     multi: "<div class=\"summary\">2022<br>Desert globemallow, agave fiber, and jute<br>16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)</div><div class=\"obj-title\">Desert Paper 05</div><div class=\"summary\">2022<br>Desert marigold, jute, and abaca<br>19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)</div><div class=\"obj-title\">Desert Paper 07</div>"
     year: 2022
@@ -95,7 +95,7 @@ object_list:
   
   - id: "2022-160"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
@@ -108,7 +108,7 @@ object_list:
   
   - id: "2022-161"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
@@ -121,7 +121,7 @@ object_list:
 
   - id: "2022-162"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
@@ -270,11 +270,11 @@ object_list:
   - id: ptl-24707
     artist: Alexandra Kehayoglou
     bio: Argentine, born 1981, active in Buenos Aires, Argentina, and Athens, Greece
-    title: Bajío
+    title: Bajío (Lowland)
     year: 2024
     medium: Hand-tufted wool
     dimensions: 118 × 147½ in. (299.7 × 374.7 cm)
-    credit: "Denver Art Museum: Funds from Collector’s Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115.  © and courtesy of Alexandra Kehayoglou" 
+    credit: "Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio" 
     figure:
       - id: ptl-24707
 
@@ -604,8 +604,8 @@ object_list:
     bio: Established 2001, Tokyo
     title: Flowers and People – A Whole Year per Hour
     year: 2020
-    medium: Six-channel interactive digital installation, endless loop.
-    credit: "Courtesy of the artist and Pace Gallery. Sound by Hideaki Takahashi. © teamLab, courtesy Pace Gallery."
+    medium: Six channels, interactive digital installation, endless; sound by Hideaki Takahashi
+    credit: "Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the artist and Pace Gallery."
     figure:
       - id: "ptl-25755-1"
 
