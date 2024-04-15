@@ -8,9 +8,9 @@ outputs:
 
 Published in conjunction with *Biophilia: Nature Reimagined*, organized by the Denver Art Museum, May 5–August 11, 2024
 
-This exhibition is supported by the donors to the Annual Fund Leadership Campaign and the residents who support the Scientific and Cultural Facilities District (SCFD).
+This exhibition is is presented with generous funds from Luncheon by Design and the Adolph Coors Exhibition Endowment Fund, the donors to the Annual Fund Leadership Campaign, and the residents who support the Scientific and Cultural Facilities District (SCFD). Promotional support is provided by 5280 Magazine and CBS Colorado.
 
-**insert SCFD here**
+**insert SCFD logo**
 
 Publication text and design © 2024 Denver Art Museum
 
