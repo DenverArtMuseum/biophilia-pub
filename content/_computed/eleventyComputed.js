@@ -84,11 +84,27 @@ module.exports = {
     return collections.all.find(({ url }) => url === page.url)
   },
   /**
-   * Figures data for figures referenced by id in page frontmatter 
+   * Figures data for figures referenced by id in page frontmatter
+   * 
+   *   Adjusted and modelled after pageObjects - Darcy Christ
    */
-  pageFigures: ({ figure, figures }) => {
+  // pageFigures: ({ figure, figures }) => {
+  //   if (!figure || !figure.length) return
+  //   return figure.map((figure) => figures.figure_list.find((item) => item.id === figure.id))
+  // },
+  pageFigures: function ({ figure, figures }) {
     if (!figure || !figure.length) return
-    return figure.map((figure) => figures.find((item) => item.id === figure.id))
+    return figure
+      .reduce((validFigures, item) => {
+        const figureData = figures.figure_list.find(({ id }) => id === item.id)
+        if (!figureData) {
+          warn(`pageFigures: no figure found with id ${item.id}`)
+          return validFigures
+        }
+        validFigures.push(figureData)
+
+        return validFigures
+      }, [])
   },
   /**
    * Objects data referenced by id in page frontmatter including figures data

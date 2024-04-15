@@ -349,18 +349,34 @@ em {
     height: 54px;
 }
 
-.quire-page__header.hero__image {
+.quire-page__header.hero-image {
     margin-bottom: 60px !important;
+    position: relative;
 }
-.quire-page__header.hero__image .hero-credit-icon:after {
-    display: none;
-}
-.quire-page__header.hero__image .hero-credit {
-    display: block;
-    color: #000;
+.quire-page__header.hero-image .hero-credit-icon:after {
     position: absolute;
-    bottom: -46px;
-    left: 20px;
+    bottom: 10px;
+    left: 10px;
+    display: inline-block;
+    content: "i";
+    font-size: 16px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 1.2;
+}
+.quire-page__header.hero-image .hero-credit {
+    color: #fff;
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    font-size: .9rem;
+    text-align: left;
+
+    display: none;
 }
 
 /*
@@ -400,6 +416,11 @@ em {
     min-height: calc(100vh - 4.375rem - 2px);
 }
 
+
+.quire-page__content {
+    animation: none;
+}
+
 .quire-page--list.quire-contents .section.quire-page__content .container {
     max-width: 1400px;
     width: 1400px;
@@ -436,19 +457,21 @@ article .quire-page__content .container .content > figure.full-width {
     margin-bottom: 1.4em;
 }
 .quire-page__content .container .content .pull-quote {
-    font-size: 1.875rem;
+    font-size: 1.575rem;
     margin-left: calc( -100vw / 2 + 100% / 2 + 250px );
     margin-right: calc(-100vw / 2 + 100% / 2 + 250px );
-    padding: 40px;
+    padding: 0 40px;
     max-width: calc( 100vw - 300px );
     width: auto;
     clear: both;
-    margin-bottom: 1.4em;
     animation: fadeIn 5s;
     font-style: normal;
 }
 .quire-page__content .container .content .pull-quote p {
     line-height: 1.4;
+}
+.quire-page__content .container .content .pull-quote .citation {
+    white-space: nowrap;
 }
 
 article .quire-page__content .container .content > .threefourths-width,
@@ -627,8 +650,6 @@ div.is-aligned-right, p.is-aligned-right {
         top: 24px;
         right: 11px;
     }
-
-
 }
 .canvas-panel-ui .canvas-panel-ui-button {
     background: transparent;
@@ -727,6 +748,58 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
 }
 
 
+/* object label customization */
+.bio-property {
+    .artist-property {
+        margin-top: .75em;
+        span {
+            display: block;
+            margin: 0;
+            padding: 0;
+            font-size: 1.4rem;
+            line-height: 1;
+        }
+
+        &.sub-property {
+            margin-left: 1rem;
+            span {
+                font-size: 1.2rem;
+            }
+        }
+    }
+}
+tr.title-property {
+    margin-top: 1rem;
+    .hide-title {
+        display:none;
+    }
+}
+tr.year-property, tr.medium-property{
+    td {
+        padding-bottom:0 !important;
+    }
+}
+.multi-property td {
+    padding-bottom: 0 !important;
+    p {
+        margin: 1em 0;
+    }
+    .obj-title {
+        font-weight: 700;
+        font-size: 1.4rem;
+        line-height: 1;
+        margin-top: 1.2rem;
+    }
+    .summary + .summary {
+        margin-top: 1.5em;
+    }
+    .credit-line {
+        font-size: .875em;
+        margin: 1em 0 1.75em;
+    }
+}
+
+
 main .link-to-checklist {
     display: none;
 }
@@ -769,7 +842,7 @@ main[data-page-id^='page-checklist'] .link-to-checklist {
     display: list-item !important;
 }
 ol.footnotes-list > li::marker {
-    font-weight: bold;
+    font-weight: normal;
 }
 ::marker {
     display: none;
@@ -780,10 +853,14 @@ ol.footnotes-list > li::marker {
     color: $off-black;
     line-height: 1.4;
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
 }
 .footnotes-title {
-    border-bottom: 1px solid $off-black;
+    font-weight: bold !important;
+    border-top: 1px solid $off-black;
+}
+aside .footnotes-title {
+    border-top: none;
 }
 
 
@@ -859,6 +936,15 @@ ol.footnotes-list > li::marker {
 }
 
 
+.note {
+    font-size: 0.8rem;
+    font-style: italic;
+    line-height: 1;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
 
 /* Specific page styles */
 
@@ -873,6 +959,9 @@ ol.footnotes-list > li::marker {
     display: none;
 }
 
+body#page-index .quire-cover__hero {
+    text-align: center;
+}
 body#page-index .quire-cover__hero-body .title {
     font-size: 3rem;
     word-spacing: 0.4em;
@@ -913,56 +1002,11 @@ h1.quire-page__header__title .separator {
     display: none;
 }
 
-/* object label customization */
-.bio-property {
-    .artist-property {
-        margin-top: .75em;
-        span {
-            display: block;
-            margin: 0;
-            padding: 0;
-            font-size: 1.4rem;
-            line-height: 1;
-        }
+#page-index .dam-logo {
+    text-align: right;
+    width: 100%;
+}
 
-        &.sub-property {
-            margin-left: 1rem;
-            span {
-                font-size: 1.2rem;
-            }
-        }
-    }
-}
-tr.title-property {
-    margin-top: 1rem;
-    .hide-title {
-        display:none;
-    }
-}
-tr.year-property, tr.medium-property{
-    td {
-        padding-bottom:0 !important;
-    }
-}
-.multi-property td {
-    padding-bottom: 0 !important;
-    p {
-        margin: 1em 0;
-    }
-    .obj-title {
-        font-weight: 700;
-        font-size: 1.4rem;
-        line-height: 1;
-        margin-top: 1.2rem;
-    }
-    .summary + .summary {
-        margin-top: 1.5em;
-    }
-    .credit-line {
-        font-size: .875em;
-        margin: 1em 0 1.75em;
-    }
-}
 
 /* Contents */
 
@@ -1126,6 +1170,12 @@ body#page-intro .quire-page__header.hero-image .hero-body  .quire-page__header__
     font-weight: inherit;
 }
 
+/* Forest Walk */
+
+body#page-forest-walk .accordion-section h5 {
+    color: $link-color;
+}
+
 /* Contributors */
 
 body#page-contributors li.quire-contributor {
@@ -1135,6 +1185,7 @@ body#page-contributors li.quire-contributor {
 }
 body#page-contributors .quire-contributor__bio {
     margin-bottom: 1rem;
+    text-align: center;
 }
 body#page-contributors .media ul {
     display: none;
@@ -1430,11 +1481,22 @@ body#page-about .dam-logo {
         width: 100vw;
         height: calc( 50vh - 4.375rem );
     }
-    .quire-page.quire-essay .quire-page__header.hero__image {        
+    .quire-page.quire-essay .quire-page__header.hero-image {        
         order: 1;
         width: 100vw;
         height: calc( 50vh - 4.375rem );
     }
+    .quire-page__header.hero-image .hero-credit-icon:after {
+        display: none;
+    }
+    .quire-page__header.hero-image .hero-credit {
+        display: block;
+        color: #000;
+        position: absolute;
+        bottom: -46px;
+        left: 20px;
+    }
+
     .section.quire-page__content {   
         order: 3;
     }

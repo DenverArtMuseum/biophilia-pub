@@ -2,23 +2,24 @@
 title: Introduction
 subtitle: 
 contributor:
-    - id: darrin-alfred
+  - id: darrin-alfred
 layout: splash
 order: 5
-image: figures/PTL-25755~3.jpg
+figure:
+  - id: ptl-25755-3
 classes:
   - page-one
 ---
 
 <blockquote class="pull-quote">
 
-To the degree that we come to understand other organisms, we will place a greater value on them, and on ourselves.<span style="white-space: nowrap;">—Edward O. Wilson</span>
+To the degree that we come to understand other organisms, we will place a greater value on them, and on ourselves.<span class="citation">—Edward O. Wilson</span>
 
 </blockquote>
 
 <blockquote class="pull-quote">
 
-Over the coming century, the most vital human resource in need of conservation and protection is likely to be our own consciousness and mental space.<span style="white-space: nowrap;">—Tim Wu</span>
+Over the coming century, the most vital human resource in need of conservation and protection is likely to be our own consciousness and mental space.<span class="citation">—Tim Wu</span>
 
 </blockquote>
 

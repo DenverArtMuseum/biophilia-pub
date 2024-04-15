@@ -18,9 +18,9 @@ This audio-guided walk is an invitation to engage your senses and be present in 
 [^1]: Bum-Jin PARK et al., “Physiological and Psychological Effects of Walking in Stay-in Forest Therapy [in Japanese],” 日衛誌 (Jpn. J. Hyg.), no. 69 (2014): 98–103, https://pubmed.ncbi.nlm.nih.gov/24858504/
 
 
-{% accordion '##### Transcript' %}
+{% accordion '##### Click to read the transcript' %}
 
-[Note: after “Introduction” the bold title is the name of the invitation; punctuation is reflective of speaking cues]
+<div class="note">Note: after “Introduction” the bold title is the name of the invitation; punctuation is reflective of speaking cues</div>
 
 **Introduction** (3 minutes)
 Welcome!  My name is Kim, and I’m the Certified Nature and Forest Therapy Guide who’s facilitating this experience. During this “walk of faith,” the working definition of “faith” is a continuous exchange of belonging. The exchange occurs among you, an outdoor place you determine, and the other elements of nature there. In essence, it’s an opportunity to let nature support you and to give a little of yourself in the support of the rest of nature.  

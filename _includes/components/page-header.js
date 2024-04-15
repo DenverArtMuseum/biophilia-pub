@@ -4,6 +4,8 @@ const path = require('path')
 /**
  * Publication page header
  *
+ *  Added hero-credit - Darcy Christ
+ * 
  * @param      {Object}  eleventyConfig
  */
 module.exports = function(eleventyConfig) {
@@ -46,7 +48,7 @@ module.exports = function(eleventyConfig) {
     const imageElement = image
       ? html`
           <section
-            class="${classes} hero__image"
+            class="${classes} hero-image hero__image"
            style="background-image: url('${path.join(imageDir, image)}');"
           >
            ${imageCredit}
