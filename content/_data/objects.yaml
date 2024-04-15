@@ -17,7 +17,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D printed polyamide and copper
+    medium: 3-D printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -45,7 +45,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D printed polyamide and copper
+    medium: 3-D printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -420,7 +420,7 @@ object_list:
   - id: ptl-24699
     artist: Mathieu Lehanneur
     bio: French, born 1974, active in Paris
-    title: Tomorrow Is Another Day (Demain est un Autre Jour)
+    title: Tomorrow Is Another Day (Demain est un autre jour)
     year: 2011
     medium: Digital weather station with steel, resin, and light fittings
     dimensions: 10 × 37⅛ in. dia. (25.4 × 94.3 cm dia.)
@@ -475,7 +475,7 @@ object_list:
     year: 2017
     medium: Site-specific kinetic sculpture with aluminum, stainless steel, printed fabric, LEDs, and robotics
     dimensions: Dimensions variable
-    credit: Represented by Pace Gallery. © 2023 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
+    credit: Represented by Pace Gallery. © 2024 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
     figure:
       - id: "ptl-24706-1"
       - id: "ptl-24706-2"

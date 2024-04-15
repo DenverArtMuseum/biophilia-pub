@@ -114,7 +114,7 @@ figure_list:
 
   - id: 2015-263
     src: figures/2015_263.jpg
-    caption: "Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype*, 2014. 3-D printed polyamide and copper, 28⅜ × 27½ × 30¼ in."
+    caption: "Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype*, 2014. 3-D printed polyamide and copper coating, 28⅜ × 27½ × 30¼ in."
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
     zoom: true
@@ -168,8 +168,8 @@ figure_list:
   - id: 2022-57-4-essay
     modal_id: shapeways-inline
     src: figures/2022_57~4.jpg
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
-    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
+    caption: Cat. XX Nervous System, *Floraform Chandelier*, 2017. 
+    credit: "3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City. Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: Image of the Floraform Chandelier lit and casting shadows. 
 
   - id: 2022-57-4
@@ -429,13 +429,13 @@ figure_list:
   - id: exrr-2023-32-essay
     modal_id: modal-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
+    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
 
   - id: exrr-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013. 
+    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
     zoom: true
@@ -1489,8 +1489,8 @@ figure_list:
 
   - id: tl-45469-2-essay
     src: figures/TL-45469~2.jpg
-    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable.
-    credit: Courtesy of the designer. © Elena Manferdini.
+    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
 
