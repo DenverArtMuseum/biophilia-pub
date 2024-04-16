@@ -87,6 +87,10 @@ module.exports = {
    * Figures data for figures referenced by id in page frontmatter
    * 
    *   Adjusted and modelled after pageObjects - Darcy Christ
+   * 
+   * Could we also use?
+   *   const getObject = eleventyConfig.getFilter('getObject')
+   *    getObject(id)
    */
   // pageFigures: ({ figure, figures }) => {
   //   if (!figure || !figure.length) return
