@@ -6,7 +6,7 @@ contributor:
 layout: entry
 presentation: side-by-side
 object: 
-    - id: ptl-24707-2
+    - id: ptl-24707
 order: 330
 ---
 
