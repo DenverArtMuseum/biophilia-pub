@@ -6,7 +6,6 @@ contributor:
 layout: essay
 order: 250
 image: figures/EXRR_2023_91_1.jpg
-image_credit: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)* (detail), 2007. Mica-schist, clay, hair, slate; exterior of each house 4 × 4.9 × 5.8 m. © Andy Goldsworthy, Courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland.
 ---
 
 {% figure 'big-nature-audio' %}
