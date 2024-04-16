@@ -123,11 +123,11 @@ license:
 # ------------------------------------------------------------------------------
 
 resource_link:
-  # - type: other-format
-  #   name: PDF
-  #   media_type: application/pdf
-  #   link_relation: alternate
-  #   url: /_assets/downloads/pagedjs.pdf
+  - type: other-format
+    name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    url: /_assets/downloads/biophilia.pdf
   # - type: other-format
   #   name: EPUB
   #   media_type: application/epub+zip
