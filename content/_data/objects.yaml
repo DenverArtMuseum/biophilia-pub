@@ -86,7 +86,7 @@ object_list:
   
   - id: "2022-57"
     artist: Nervous System
-    bio: Established 2007, Palenville, New York<br>Jessica Rosenkrantz, American, born 1983<br>Jesse Louis-Rosenberg, American, born 1986
+    bio: "Established 2007, Palenville, New York<div class=\"artist-property sub-property\"><span>Jessica Rosenkrantz</span>American, born 1983</div><div class=\"artist-property sub-property\"><span>Jesse Louis-Rosenberg</span>American, born 1986</div>"
     title: Floraform Chandelier
     year: 2017
     medium: 3-D-printed nylon and LED
@@ -169,7 +169,7 @@ object_list:
 
   - id: exrr-2023-78
     artist: Ronan Bouroullec and Erwan Bouroullec
-    bio: Ronan Bouroullect, French, born 1971, active in Paris<br>Erwan Bouroullec, French, born 1976, active in Paris
+    bio: "<div class=\"artist-property sub-property\"><span>Ronan Bouroullec</span>French, born 1971, active in Paris</div><div class=\"artist-property sub-property\"><span>Erwan Bouroullec</span>French, born 1976, active in Paris</div>"
     title: "*Algues* (Algae)"
     year: 2004
     medium: Injection-molded plastic
@@ -356,7 +356,7 @@ object_list:
 
   - id: ptl-24660
     artist: Fredrikson Stallard
-    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
+    bio: "Established 2005, London<div class=\"artist-property sub-property\"><span>Patrik Fredrikson</span>Swedish, born 1968</div><div class=\"artist-property sub-property\"><span>Ian Stallard</span>British, born 1973</div>"
     title: Species 1
     year: 2015
     medium: Polyurethane, rubber, fiberglass, and polyester
@@ -367,7 +367,7 @@ object_list:
 
   - id: ptl-24661
     artist: Fredrikson Stallard
-    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
+    bio: "Established 2005, London<div class=\"artist-property sub-property\"><span>Patrik Fredrikson</span>Swedish, born 1968</div><div class=\"artist-property sub-property\"><span>Ian Stallard</span>British, born 1973</div>"
     title: "Rock #22"
     year: 2022
     medium: Polyurethane, pigment, and steel
@@ -378,7 +378,7 @@ object_list:
 
   - id: ptl-24662
     artist: Fredrikson Stallard
-    bio: Established 2005, London<br>Patrik Fredrikson, Swedish, born 1968<br>Ian Stallard, British, born 1973
+    bio: "Established 2005, London<div class=\"artist-property sub-property\"><span>Patrik Fredrikson</span>Swedish, born 1968</div><div class=\"artist-property sub-property\"><span>Ian Stallard</span>British, born 1973</div>"
     title: "Rock #23"
     year: 2022
     medium: Polyurethane, pigment, and steel
