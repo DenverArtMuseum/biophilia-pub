@@ -34,7 +34,7 @@ Here are a few suggestions for getting ready:
 
 The outdoors can be a place that gives us comfort, speaks to our hearts, puts our minds at ease, and reminds us of all the other beings with which we share this home. We can let nature support us through our senses; all we have to do is drop into the interaction of our bodies with a place.  I’m here to help you ease into this belonging. And to assure you that this will all unfold in the way it was meant to be.  If there was a right way to do this, then you’ve already done it, because your body knows how to be here.  All you need to do is to let it lead.
 
-The prompts for you to let your senses lead are called “invitations.” [CHIME SOUND] I’ll be using this sound throughout the walk to mark the end of one invitation and the beginning of another.  So, if you feel like taking more time with an invitation, just press “pause” at the sound of a chime and when you press “play” again, you’ll be in the right spot to continue.  If you finish before the sound of the chime, just take time to connect with your breath and enjoy being outside.  
+The prompts for you to let your senses lead are called “invitations.” [Chime Sound] I’ll be using this sound throughout the walk to mark the end of one invitation and the beginning of another.  So, if you feel like taking more time with an invitation, just press “pause” at the sound of a chime and when you press “play” again, you’ll be in the right spot to continue.  If you finish before the sound of the chime, just take time to connect with your breath and enjoy being outside.  
 
 Are you ready?  Even if you’re almost ready, c’mon, let’s get some outside!
 
