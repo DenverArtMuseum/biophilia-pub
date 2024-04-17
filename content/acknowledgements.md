@@ -1,15 +1,136 @@
 ---
 title: Acknowledgments
-subtitle: 
+subtitle:
+contributor:
+   - id: darrin-alfred
 layout: splash
 order: 4
 image: 
 ---
 
-DAM Logo:
+It is with immense pleasure that I offer my deepest gratitude to the many individuals who contributed to the realization of this project. Their generous assistance, patience, advice, and enthusiasm were essential. Most importantly, I would like to express my deep respect, admiration, and gratitude to the architects, artists, and designers whose work is featured in the exhibition and have assisted with countless requests. May their work continue to cultivate our physical, emotional, and spiritual connection with the natural world. Special thanks are due to the following individuals, as well as their colleagues:
 
-<div class="logo-dam"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 357" width="512" height="357"><path fill="#311508" fill-rule="evenodd" d="M95.898 83.643c20.265 0 41.032 2.37 54.085 18.535v-17.96h62.511v184.269h-62.511v-20.475h-.687c-10.993 18.32-32.788 21.657-53.398 21.657C43.69 269.669 10 228.616 10 175.814c0-52.8 33.69-92.171 85.898-92.171zM472.793 3v81.428H503v53.691h-30.207v129.933h-66.72V138.12H375.82V84.428h30.251V3h66.721zM291.915 84.833v.096c.007.65.043 4.488.068 8.687l.003.617.002.31.004.784.002.392.003.782c.005 1.17.008 2.317.01 3.382v.698c-.002 2.736-.022 4.793-.078 5.028l-.003.01.534-.466c17.955-15.628 31.691-20.269 57.705-20.269h12.494v53.287c-.002.001-.006.003-.014.003h-.02c-.234-.007-1.764-.214-8.54-.435-34.061 0-62.17 16.242-62.17 56.099v73.778h-64.966V84.833h64.966zm-180.06 50.033c-25.415 0-40.184 19.036-40.184 41.666 0 23.346 14.769 41.306 40.185 41.306 25.417 0 40.187-17.96 40.187-41.306 0-22.63-14.77-41.666-40.187-41.666zM38.809 7.02c18.097 0 33.006 14.193 33.006 32.428 0 18.236-14.995 32.43-33.006 32.43H14.852V7.021h23.956zm113.895 0l30.939 39.654h.17V7.02h16.89V71.88h-16.89l-30.936-39.74h-.173v39.74h-16.89V7.021h16.89zm74.352 0l15.684 39.395 15.77-39.395h18.356l-27.748 64.857h-13.099L208.701 7.02h18.354zM364.32 7.02c12.84 0 22.579 6.11 22.579 19.956 0 8.946-4.997 16.688-14.22 18.322l20.423 26.58h-21.026l-15.94-24.945h-.174v24.945h-16.89V7.02h25.248zm-40.43 0V21.3h-21.792V32.14h20.759v14.277h-20.759v11.182h21.792v14.28h-38.68V7.02h38.68zm-203.061 0V21.3H99.036V32.14h20.757v14.277H99.036v11.182h21.793v14.28H82.146V7.02h38.683zM35.707 21.3h-3.964v36.3h3.793c10.08 0 18.697-5.505 18.697-18.15 0-11.612-7.667-18.15-18.526-18.15zm322.14-1.377h-1.885v16.172h1.637c5.517 0 11.719-1.031 11.719-8.085 0-6.95-6.018-8.056-11.472-8.087zM27.177 280.493h18.584l14.732 38.736 15.6-38.736H94.87l10.977 72.474H86.975l-5.297-41.716h-.192l-17.428 41.716h-7.511l-16.66-41.716h-.191l-6.066 41.716H14.852l12.326-72.474m152.868 0v40.755c0 9.322-.384 18.55-7.606 25.567-6.067 5.96-15.6 8.075-24.075 8.075-8.473 0-18.004-2.116-24.072-8.075-7.221-7.017-7.607-16.245-7.607-25.567v-40.755h18.873v38.158c0 9.422.674 19.707 12.806 19.707 12.134 0 12.809-10.285 12.809-19.707v-38.158h18.872m53.975 18.648c-3.467-2.884-7.897-4.807-12.516-4.807-3.467 0-8.09 2.02-8.09 6.055 0 4.23 5.103 5.864 8.378 6.921l4.815 1.444c10.11 2.978 17.908 8.074 17.908 19.798 0 7.21-1.731 14.61-7.507 19.511-5.682 4.809-13.29 6.827-20.608 6.827-9.146 0-18.104-3.075-25.52-8.267l8.091-15.186c4.719 4.133 10.302 7.496 16.755 7.496 4.43 0 9.146-2.212 9.146-7.306 0-5.287-7.415-7.11-11.458-8.267-11.843-3.363-19.645-6.438-19.645-20.471 0-14.706 10.497-24.319 25.037-24.319 7.317 0 16.275 2.308 22.727 5.961l-7.513 14.61m45.349-2.69v12.11h24.708v15.955H279.37v12.494h25.863v15.957h-44.735v-72.476h44.735v15.96H279.37m105.203-15.958v40.755c0 9.322-.384 18.55-7.605 25.567-6.068 5.96-15.602 8.075-24.074 8.075-8.474 0-18.006-2.116-24.074-8.075-7.221-7.017-7.607-16.245-7.607-25.567v-40.755h18.873v38.158c0 9.422.674 19.707 12.808 19.707 12.132 0 12.807-10.285 12.807-19.707v-38.158h18.872m21.448 0h18.584l14.733 38.736 15.598-38.736h18.778l10.978 72.474h-18.875l-5.296-41.716h-.19l-17.429 41.716h-7.513l-16.659-41.716h-.19l-6.066 41.716h-18.777l12.324-72.474"/></svg></div>
+Fernando Alda
+Alexandra Kehayoglou and Jose Huidobro, Alexandra Kehayoglou Studio
+Cate Andrews
+Benjamin Aranda and Chris Lasch, Aranda\Lasch
+James Rondeau and Irene Sunwoo, Art Institute of Chicago
+Andreea Avram Rusu
+Ronan Bouroullec and Erwan Bouroullec
+Daniel Brown
+Iñigo Bujedo Aguirre
+Nacho Carbonell
+Alvaro Catalán de Ocón
+Isabel Suarez and Isabella Falla Paz, Carpenters Workshop Gallery
+Gianni Furlan and Elisa Sifontes, CITCO USA CORP
+Rachel Browne and Alison Reisner, David Gill Gallery		
+Sandra Davolio
+Jason DeMarte
+Lonneke Gordijn, Ralph Nauta, and Bram Prins, DRIFT
+Humberto Campana and Waldick Jatobá, Estúdio Campana
+Marc Fish
+Ian Stallard and Patrik Fredrikson, Fredrikson Stallard
+Jennifer Olshin, Friedman Benda
+Sofia Lagerkvist and Anna Lindgren, Front
+Laura Young, Future Perfect
+Erlantz Grao, Gandia Blasco / GAN USA
+Greg Lynn FORM
+Guillermo Parada, gt2P (great things to People)
+D. Ashlee Harrison
+Simon Heijdens
+Iris van Herpen and Dominika Kasova, Iris van Herpen Atelier
+Terrol Dew Johnson
+Joern Lohmann, J. Lohmann Gallery
+Jürgen Mayer H. and Beate Quaschning J. Mayer H.
+Joris Laarman and Anita Star, Joris Laarman Lab
+Bleue-Marine Massard, Louis Vuitton Malletier
+Michael Govan and Bobbye Tigerman, Los Angeles County Museum of Art
+Tammy Xie, Fiona Qi Ziying, and Ran Li, MAD Architects
+Elena Manferdini
+Mathieu Lehanneur and Isabela Rennó Braga, Mathieu Lehanneur, Since 1974
+Brad Miller
+Glenn Lowry, Paul Galloway, and Marissa Klein, Museum of Modern Art
+Jessica Rosenkrantz and Jesse Louis-Rosenberg, Nervous System
+Raina Mehler, Pace Gallery
+Jean Pelle and Oliver Pelle, PELLE
+James Zemaitis, R & Company
+Andrés Reisinger, Cecilia Erausquin, and Elna Sanchís, REISINGER Studio
+Rachel Beitz and Valerie Santerli, RULE Gallery
+Sarah Myerscough, Freya McLeavy, and Carolina Pastore, Sarah Myerscough Gallery
+Jeanne Gang, Alissa Anderson and Andi Altenbach, Studio Gang
+Kathleen Forde, Superblue
+Nao Tamura
+teamLab
+Laura Young, The Future Perfect
+Brit Shaked, threeASFOUR
+Jon Buerge, Urban Villages
+David Valner
+Claire Warner, Volume Gallery
+Lewis Wexler, Wexler Gallery
+David Wiseman and Ari Wiseman, Wiseman Studio
+Woody Yao and Maha Kutay, Zaha Hadid Design
 
-SCFD Logo:
+I owe immense thanks to the outstanding team at the Denver Art Museum for their collaboration and execution of this significant undertaking. I am grateful to Christoph Heinrich, Frederick and Jan Mayer Director, and Chief Curator Angelica Daneo for their encouragement and commitment to the project. I am greatly indebted to Kit Bernal, Curatorial Assistant, who tended to all aspects of the exhibition and publication with patience and care. Kit’s written contributions significantly enhanced the content of this publication. Melissa Maichele, former Curatorial Intern, provided valuable input into the project’s early development. Melissa’s research strategy, balancing depth with breadth and incorporating diverse interdisciplinary concepts, laid a solid foundation.
 
-<div class="logo-scfd"><svg viewbox="0 0 276 122" width="276" height="122" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="M2.11464502e-15 0L275.601219 0 275.601219 120.666785 2.11464502e-15 120.666785z"/></defs><g transform="translate(.02 .784)" fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><path fill="#311508" mask="url(#b)" d="M0 120.664923L126.218622 120.664923 126.218622 0 0 0z"/><path fill="#FFFFFE" mask="url(#b)" d="M2.70003251 118.030846L126.520587 118.030846 126.520587 2.63314615 2.70003251 2.63314615z"/><path fill="#311508" mask="url(#b)" d="M125.695526 120.666785L275.601219 120.666785 275.601219 0 125.695526 0z"/><g transform="translate(142.844 16.692)" fill="#FFFFFE"><path d="M0 0.186153846L0 0 4.14017373 0 6.56146922 8.52212308 9.27265121 0.414192308 12.0460845 0.414192308 14.7786363 8.52212308 17.1999318 0 21.3196648 0 21.3196648 0.186153846 16.6415286 14.5144154 13.3096922 14.5144154 10.6598324 6.63452308 8.01090168 14.5144154 4.69857687 14.5144154 0 0.186153846"/><path d="M28.051 8.48c-.124-1.223-.704-1.741-1.738-1.741-.994 0-1.636.601-1.844 1.741h3.582zm-.704 3.506c1.118 0 1.925-.29 2.773-.789l1.119 2.447c-1.097.725-2.443 1.181-4.223 1.181-3.911 0-6.251-2.135-6.251-5.411 0-3.069 2.07-5.37 5.464-5.37 3.788 0 5.796 2.57 5.361 6.655h-6.913c.455.892 1.428 1.287 2.67 1.287z"/><path d="M43.6399955 3.60766154L43.6399955 6.15796923 49.0224071 6.15796923 49.0224071 9.76656154 43.6399955 9.76656154 43.6399955 14.5144154 39.7079454 14.5144154 39.7079454 0 51.8162811 0 51.8162811 3.60766154 43.6399955 3.60766154"/><path d="M63.37 4.354v10.16h-3.58v-1.182c-.767.976-1.76 1.493-3.148 1.493-2.36 0-3.725-1.596-3.725-3.96v-6.51h3.602v6.096c0 .725.516 1.202 1.283 1.202.745 0 1.407-.353 1.987-1.057V4.354h3.58m12.692 3.65v6.51H72.46V8.397c0-.704-.518-1.182-1.285-1.182-.745 0-1.407.353-1.987 1.059v6.24h-3.58V4.354h3.58v1.162c.767-.954 1.76-1.473 3.147-1.473 2.36 0 3.726 1.576 3.726 3.96m9.338.291c-.518-.809-1.221-1.182-2.029-1.182-1.283 0-2.152.912-2.152 2.322 0 1.41.87 2.302 2.152 2.302.808 0 1.511-.353 2.03-1.182v-2.26zM88.98 0v14.514H85.4v-1.223c-.725.892-1.74 1.534-3.209 1.534-2.69 0-4.657-2.114-4.657-5.39 0-3.277 1.967-5.392 4.657-5.392 1.47 0 2.484.643 3.21 1.535V0h3.58zM.694 29.294c0-4.908 3.405-8.958 8.966-8.958 3.626 0 6.492 1.792 7.717 4.491l-3.846 2.21c-.638-1.448-2.009-2.357-3.822-2.357-2.793 0-4.288 2.013-4.288 4.614 0 2.577 1.569 4.59 4.362 4.59 1.812 0 3.233-.909 3.87-2.332l3.846 2.209c-1.224 2.7-4.115 4.49-7.766 4.49-5.56 0-9.039-4.048-9.039-8.957m30.718-3.435v12.025h-4.238v-1.399c-.907 1.153-2.083 1.767-3.724 1.767-2.793 0-4.41-1.89-4.41-4.688V25.86h4.263v7.215c0 .858.613 1.423 1.519 1.423.882 0 1.665-.417 2.352-1.252V25.86h4.238"/><path d="M34.0551588 37.8832385L38.2928905 37.8832385 38.2928905 20.2135154 34.0551588 20.2135154z"/><path d="M46.204 29.54v3.607c0 .982.613 1.35 1.494 1.35.76 0 1.323-.172 2.034-.516v3.657c-.907.417-1.812.614-3.062.614-2.744 0-4.704-1.374-4.704-4.442v-4.27H40.08v-3.681h1.886v-3.682h4.238v3.682h3.675v3.68h-3.675m18.128-3.68v12.025h-4.24v-1.399c-.905 1.153-2.081 1.767-3.723 1.767-2.792 0-4.41-1.89-4.41-4.688V25.86h4.263v7.215c0 .858.612 1.423 1.52 1.423.881 0 1.665-.417 2.35-1.252V25.86h4.24m11.193-.32v4.442c-1.985-.171-3.7.835-4.312 2.111v5.792h-4.239V25.86h4.239v2.159c.955-1.718 2.547-2.479 4.312-2.479m9.675 5.203c-.147-1.448-.834-2.061-2.058-2.061-1.177 0-1.936.712-2.181 2.061H85.2zm-.834 4.148c1.323 0 2.278-.344 3.283-.933l1.323 2.896c-1.298.859-2.89 1.399-4.998 1.399-4.63 0-7.398-2.528-7.398-6.406 0-3.632 2.45-6.356 6.467-6.356 4.484 0 6.86 3.044 6.346 7.878h-8.183c.54 1.056 1.69 1.522 3.16 1.522zm6.44.711c0-1.472 1.177-2.65 2.695-2.65 1.544 0 2.72 1.178 2.72 2.65s-1.176 2.65-2.72 2.65c-1.518 0-2.694-1.178-2.694-2.65M.134 82.656l3.28-6.41c2.915 2.477 6.316 3.49 10.487 3.49 3.24 0 5.102-.73 5.102-2.394 0-1.175-1.053-1.5-6.438-2.27C6.49 74.138.78 73.204.78 66.674c0-6.125 5.143-9.776 12.472-9.776 6.6 0 10.77 2.88 12.43 6.571l-6.154 3.123c-.81-2.19-3.28-3.041-6.398-3.041-3.563 0-4.656 1.095-4.656 2.433 0 1.217 1.093 1.622 6.155 2.353 6.154.892 12.066 1.987 12.066 8.6 0 6.367-5.547 9.572-13.321 9.572-5.183 0-9.475-1.258-13.241-3.854m29.478-10.951c0-8.113 5.627-14.806 14.819-14.806 5.993 0 10.73 2.962 12.754 7.424l-6.356 3.65c-1.053-2.393-3.321-3.894-6.317-3.894-4.616 0-7.086 3.326-7.086 7.626 0 4.259 2.591 7.584 7.208 7.584 2.996 0 5.344-1.5 6.396-3.853l6.357 3.65c-2.024 4.463-6.802 7.424-12.835 7.424-9.191 0-14.94-6.694-14.94-14.805"/><path d="M69.0487322 64.5656L69.0487322 69.5545231 79.5757 69.5545231 79.5757 76.6125462 69.0487322 76.6125462 69.0487322 85.9016231 61.3555907 85.9016231 61.3555907 57.5075769 85.0426619 57.5075769 85.0426619 64.5656 69.0487322 64.5656"/><path d="M108.648 71.705c0-4.26-2.916-7.14-7.086-7.14h-4.656v14.279h4.656c4.17 0 7.086-2.921 7.086-7.14zm7.693 0c0 8.071-6.356 14.197-14.779 14.197h-12.35V57.508h12.35c8.423 0 14.78 6.125 14.78 14.197z"/></g><g transform="translate(9.513 14.164)"><path d="M97.068 36.63c-1.739-5.35-3.658-9.773-5.778-13.433a13.646 13.646 0 0 0 3.846-9.513C95.136 6.126 89.021 0 81.476 0c-5.275 0-9.849 2.998-12.124 7.384-8.002-1.099-15.629.91-15.784.95-.157-.042-8.031-2.117-16.174-.896C35.128 3.022 30.539 0 25.24 0c-7.544 0-13.66 6.126-13.66 13.684 0 3.832 1.576 7.295 4.11 9.779-2.058 3.608-3.926 7.947-5.622 13.167C-1.53 72.335.076 106.036.076 106.036H107.06s1.608-33.701-9.993-69.406" fill="#311508"/><path d="M30.37 31.368s1.368-.856 3.079-2.227c1.71-1.37 3.31-2.306 5.02-2.306 1.711 0 2.674.594 4.383 1.964 1.71 1.37 2.908 2.398 2.908 2.398s-1.09.141-2.395 2.056c-.954 1.4-2.393 2.662-5.076 2.516-1.207-.065-2.658-.91-3.814-1.66-2.908-1.884-4.104-2.741-4.104-2.741" fill="#FFFFFE"/><path d="M41.77 31.368a3.343 3.343 0 0 1-3.341 3.345 3.342 3.342 0 0 1-3.34-3.345 3.342 3.342 0 0 1 3.34-3.345 3.342 3.342 0 0 1 3.34 3.345" fill="#311508"/><path d="M39.703 31.3a1.274 1.274 0 1 1-1.274-1.275c.703 0 1.274.57 1.274 1.276m37.06.067s-1.369-.856-3.079-2.227c-1.71-1.37-3.311-2.306-5.021-2.306s-2.673.594-4.382 1.964c-1.71 1.37-2.907 2.398-2.907 2.398s1.09.141 2.393 2.056c.954 1.4 2.394 2.662 5.078 2.516 1.207-.065 2.657-.91 3.814-1.66 2.907-1.884 4.104-2.741 4.104-2.741" fill="#FFFFFE"/><path d="M65.364 31.368a3.342 3.342 0 0 0 3.34 3.345 3.343 3.343 0 0 0 3.34-3.345 3.342 3.342 0 0 0-3.34-3.345 3.342 3.342 0 0 0-3.34 3.345" fill="#311508"/><path d="M67.43 31.3a1.274 1.274 0 1 0 2.547 0 1.275 1.275 0 1 0-2.546 0M56.24 71.167c-2.284-.66-2.632-2.87-2.632-2.87s-.078 1.841-2.575 2.87c-2.196.903-4.684-.233-4.684-.233s1.99 2.828 3.652 4.448c1.367 1.334 3.566 3.055 3.566 3.055s2.2-1.721 3.567-3.055c1.66-1.62 3.597-4.448 3.597-4.448s-1.856.992-4.49.233" fill="#FFFFFE"/><path d="M51.181 69.485c1.829-.998 2.388-4.408 2.388-4.408s.558 3.41 2.387 4.408c1.389.758 2.984.561 3.897.346 5.94-2.421 10.366-8.117 10.366-14.76 0-6.389-4.096-11.902-9.694-14.468L53.568 26.59l-6.956 14.012c-5.598 2.566-9.694 8.079-9.694 14.469 0 6.642 4.426 12.338 10.366 14.759.914.215 2.508.412 3.897-.346" fill="#FFFFFE"/><path d="M58.605 48.891c-1.985-.233-4.875-.42-8.91-.168-4.035.253-4.865 1.676-4.96 5.052-.067 2.437 1.143 3.234 2.646 4.027-.019-.01-.044-.026-.06-.037a1.706 1.706 0 0 1 1.59-1.025c.96 0 1.738.78 1.738 1.74 0 .333-.133.719-.296 1.005 1.66 1.008 3.22 2.025 3.22 2.025s1.708-1.026 3.3-1.965a1.89 1.89 0 0 1-.333-1.064c0-.96.777-1.74 1.737-1.74.683 0 1.307.496 1.595 1.078.944-.613 2.395-1.98 2.515-4.212.168-3.116-.924-4.379-3.782-4.716" fill="#311508"/></g></g></svg></div>
+I am grateful to Holly Harmon, Interpretive Specialist, for her role in shaping the exhibition’s interpretative strategies. Holly’s dedication and expertise were instrumental in engaging with our Community Advisory Panel—Juan Carlos Baños, Parker McMullen Bushman, Julietta Dasilva, Sunaina Madhav Dasi, Stephen Esparza, Cindy Frantz, Andy Hartman, Damon McLeese, David Taus, and Zara Vargues. I extend my thanks to these individuals for their unique insights and thoughtful feedback, which greatly enriched the project.
+
+I am truly appreciative of our talented Publications team. Valerie Hellstein, Managing Editor, skillfully supervised numerous aspects of the publication’s production and edited the manuscript alongside Leslie Murrell, Editor, with care. Special thanks to Matt Popke, Developer, and Darcy Christ, who meticulously developed and designed the publication. I am especially thankful to Kimberly Ruffin, Cedar Sigo, and Florence Williams. Their thoughtful and illuminating contributions added depth and richness to this publication. Special thanks are due to Seana Quinn and Devin Tellatin at Emergence Magazine for granting permission to include A Forest Walk.
+
+The exhibition was beautifully designed by Brian Dale and Meredith Dale, Sort Studio, with graphics by Matt Rue, McGINTY Co., and installation photography by James Florio. Their combined contributions gently captivate the senses. 
+
+Many other colleagues at the Denver Art Museum were essential to the success of this project:
+
+### Exhibition & Collections Services
+Jill Desmond, Chief Exhibition and Collection Services Officer
+Jennifer Pray, former Associate Director of Exhibition Planning & Gallery Design 
+Jesse Laird Ortega, Assistant Project Manager/Assistant Registrar
+Felicia Martinez, Assistant Project Manager/Exhibition Graphics
+Sarah Cucinella-McDaniel, Director of Registration and Traveling Exhibition Services
+Caitlin Rumery, Associate Registrar/Traveling Exhibitions
+Karen Butler-Clary, Assistant Registrar 
+Renée B. Miller, Manager of Rights and Reproductions
+Dzifah Danso, Rights & Reproductions Assistant
+Kevin Hester, Associate Director of Preparation, and team
+Erwin Erkfitz, Senior Preparator
+Quinn Johnson, Senior Preparator
+Jeff Keene, Senior Preparator
+Emma Goos, Associate Preparator
+Zach Smith, Associate Preparator
+Ruby Dorchester, Assistant Preparator
+Brandon Martinez, Assistant Preparator
+Cat Lynott, Preparation Assistant
+Aubrey Van Oss, Preparation Assistant
+David Griesheimer, Associate Director of Exhibition Production
+Aaron Casey, Associate Preparator/Production Shop Manager
+Garrett Bryant, Assistant Preparator (Production and Woodshop)
+Haley Hartmann, Manager of Exhibition Lighting
+Christina Jackson, Manager of Photographic Services
+Bruce Fernandez, Photographer
+Eric Stephenson, Photographer
+	 
+### Learning & Engagement
+Clara Ricciardi, Senior Spanish Language and Community Engagement Liaison
+Lindsey Miller, Coordinator of Adult and Access Programs
+Ariana Robles, Coordinator of Family Programs
+
+### Conservation
+Sarah Melching, Silber Director of Conservation 
+Kate Moomaw-Taylor, Senior Conservator of Modern and Contemporary Art
+Allison McCloskey, Senior Textile Conservator
+
+### Development
+Arpie Chucovich, Chief Development Officer
+Chiara Robinson, Director of Institutional Giving
+Violet Mantell, Senior Manager of Events
+
+### Marketing & Communications 
+Andy Sinclair, Communications and Media Relations Manager
+Jena Pruett, Social Media Manager
+
+### Information Technology
+Levi Smith, Exhibitions AV Technician
+Dave King, Senior AV Manager
+
+I am enormously grateful to the Sales & Services, Group Services, Visitor Operations, and Protective Services teams. These individuals are the backbone of our daily on-site operations, enhancing our visitors’ experiences by facilitating ticket sales and entry into the exhibition, engaging with our guests, and providing exceptional customer service. Your dedication and hard work are truly appreciated. 
+
+Finally, I am grateful for my parents, who nurtured my appreciation of the natural world from a very young age, and my partner, Dylan, for his support and love. 
