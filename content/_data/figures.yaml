@@ -42,7 +42,7 @@ figure_list:
   - id: vid-exrr-2023-89
     lightbox_mode: exclude
     media_type: vimeo
-    caption: Nervous System, Growth of Hyphae and Floraform systems for *Floraform Chandelier*, 2017. Courtesy of Nervous System. © Nervous System, inc.
+    caption: Fig. 4 Nervous System, Growth of Hyphae and Floraform systems for *Floraform Chandelier*, 2017. Courtesy of Nervous System. © Nervous System, inc.
     media_id: "911666902"
     poster: figures/exrr_2023_89_poster.jpg
     alt: A video still of the pinkish-white Floraform Chandelier against a dark background. 
@@ -51,7 +51,7 @@ figure_list:
     lightbox_mode: exclude
     aspect_ratio: manferdini
     media_type: vimeo
-    caption: Elena Manferdini, *Wall Flowers*, computer animation, 2018. © Elena Manferdini.
+    caption: Fig. 4 Elena Manferdini, *Wall Flowers*, computer animation, 2018. © Elena Manferdini.
     media_id: "911666911"
     poster: figures/exrr_2023_90_poster.jpg
     alt: A video still of Wall Flowers, an acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites.
@@ -168,7 +168,7 @@ figure_list:
   - id: 2022-57-4-essay
     modal_id: shapeways-inline
     src: figures/2022_57~4.jpg
-    caption: Cat. XX Nervous System, *Floraform Chandelier*, 2017. 
+    caption: Fig. 3 Nervous System, *Floraform Chandelier*, 2017. 
     credit: "3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City. Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: Image of the Floraform Chandelier lit and casting shadows. 
 
@@ -209,7 +209,7 @@ figure_list:
   - id: 2022-160-2
     modal_id: detail-inline
     src: figures/2022_160~2_FPO.jpg
-    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02* (detail), 2022. 
+    caption: Fig. 1 Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02* (detail), 2022. 
     credit: "Desert globemallow, agave fiber, and jute, 17 × 13 × 10 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 02 basket. Small flecks of brown and red in the textured, white material of the basket.
 
@@ -244,7 +244,7 @@ figure_list:
   - id: 2022-162-2
     modal_id: detail-inline
     src: figures/2022_162~2_FPO.jpg
-    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09* (detail), 2022. 
+    caption: Fig. 2 Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09* (detail), 2022. 
     credit: "Creosote and jute, 15 × 9 × 9 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 09 basket. The surface is light brown with flecks of dark organic material, and a bumpy but delicate texture.
 
@@ -416,7 +416,7 @@ figure_list:
   - id: exrr-2023-31-5
     modal_id: diagram-inline
     src: figures/EXRR_2023_31_5.jpg
-    caption: Populus, Environmental systems and social connectivity diagram. 
+    caption: Fig. 2 Populus, Environmental systems and social connectivity diagram. 
     credit: © Studio Gang
     alt: "diagram of the Populus building. It highlights VIEWS: Aspen Eye and Roof Terrace; ENERGY: Efficient Mechanical Systems, Concrete Structure, High Performance Envelope; URBAN AMENITIES: Café, Bike Share Stations, Bike Lanes, No On-Site Parking; and SOCIAL CONNECTIVITY: Urban Living Room, and Local Food."
 
@@ -429,7 +429,7 @@ figure_list:
   - id: exrr-2023-32-essay
     modal_id: modal-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. 
+    caption: Fig. 1 Joris Laarman, *Adaptation Chair* Design Study, 2013. 
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
 
@@ -615,7 +615,7 @@ figure_list:
   - id: exrr-2023-101
     modal_id: aspen-inline
     src: figures/EXRR_2023_101.jpg
-    caption: Aspen Grove.
+    caption: Fig. 1 Aspen Grove.
     credit: Photo by Peng Chen on Unsplash, 2017. 
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
 
@@ -664,7 +664,7 @@ figure_list:
   - id: exrr-2023-104
     modal_id: modal-2023-104
     src: figures/EXRR_2023_104.jpg
-    caption: Wildflowers in the Gore Range, Colorado.
+    caption: Fig. 1 Wildflowers in the Gore Range, Colorado.
     credit: iStock.com/Adventure_Photo. 
     alt: Color photograph of wildflowers in the Colorado mountains. In the foreground, the mountain slopes downward from left to right. Hundreds of colorful flowers in orange, purple, red, and yellow, all with green leaves, cover the mountainside. Pine trees and mountain peaks in the background. 
 
@@ -678,7 +678,7 @@ figure_list:
   - id: exrr-2023-137-essay
     modal_id: kehayoglou-inline
     src: figures/EXRR_2023_137.jpg
-    caption: Alexandra Kehayoglou, *Santa Cruz River*, 2017. 
+    caption: Fig. 1 Alexandra Kehayoglou, *Santa Cruz River*, 2017. 
     credit: "Wool, 382⅞ × 165⅜ in. National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photograph by National Gallery of Victoria, Melbourne"
     alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
@@ -708,7 +708,7 @@ figure_list:
 
   - id: ptl-24707-4
     src: figures/PTL-24707~4.jpg
-    caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland) (detail), 2024. 
+    caption: Fig. 2 Alexandra Kehayoglou, *Bajío* (Lowland) (detail), 2024. 
     credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
 
@@ -994,7 +994,7 @@ figure_list:
   - id: ptl-24699-3-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~3.jpg
-    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011.
+    caption: Fig. 1 Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011.
     credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
 
@@ -1036,7 +1036,7 @@ figure_list:
   - id: ptl-24699-6-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~6.jpg
-    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*) (detail), 2011. 
+    caption: Fig. 2 Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*) (detail), 2011. 
     credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Close-up of the screen from Tomorrow is Another Day and gauzy white clouds set against a blue sky.
     
@@ -1475,7 +1475,7 @@ figure_list:
 
   - id: tl-45469-1-essay
     src: figures/TL-45469~1.jpg
-    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    caption: Fig. 1 Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
@@ -1489,7 +1489,7 @@ figure_list:
 
   - id: tl-45469-2-essay
     src: figures/TL-45469~2.jpg
-    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    caption: Fig. 2 Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
@@ -1503,7 +1503,7 @@ figure_list:
 
   - id: tl-45469-3-essay
     src: figures/TL-45469~3.jpg
-    caption: Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    caption: Fig. 3 Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
@@ -1523,7 +1523,7 @@ figure_list:
     
   - id: exrr-2023-44-2
     src: figures/EXRR_2023_44_2.jpg
-    caption: Fig. xx 
+    caption: Fig. 3 
     credit: 
     alt:
 

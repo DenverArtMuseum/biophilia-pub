@@ -155,7 +155,7 @@ object_list:
     multi: "Left to right:<div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />42¼ × 7⅞ in. dia. (07.3 × 19.7 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. dia. (158.8 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />24½ × 7⅞ in. dia. (62.2 × 19.7 cm dia.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />19 × 11¾ in. dia. (48.3 × 29.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 5⅞ in. dia. (107.3 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. dia. (158.8 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 7⅞ in. dia. (107.3 × 19.7 cm dia.)</div>"
     manufacturer: "<br />Manufactured by Zero Lighting, Nybro, Sweden"
     credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–192. © Front. Image courtesy of Zero Lighting."
-    link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=%22front%20design%22#search-results
+    link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=%22front%20(swedish)%22#search-results
     figure:
       - id: "2023-186-92"
 
@@ -413,9 +413,9 @@ object_list:
   - id: ptl-24698
     artist: Mathieu Lehanneur
     bio: French, born 1974, active in Paris
-    title: Ocean Memories (Circular Low Table Gray XL)
+    title: Ocean Memories (Circular Low Table Grey XL)
     year: 2017
-    medium: Gray Emperador marble
+    medium: Grey Emperador marble
     dimensions: 15¾ × 43¼ in. dia.
     credit: Courtesy of the designer and Carpenters Workshop Gallery. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     figure:
