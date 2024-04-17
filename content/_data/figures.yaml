@@ -1520,3 +1520,15 @@ figure_list:
     caption: Elena Manferdini, *Botanical Garden Smoke Set*, 2009. Cast ceramic covered by fused silver; various dimensions. Manufactured by Ottaviani, Recanati, Italy.
     credit: Courtesy of the designer. © Elena Manferdini.
     zoom: true
+    
+  - id: exrr-2023-44-2
+    src: figures/EXRR_2023_44_2.jpg
+    caption: Fig. xx 
+    credit: 
+    alt:
+
+  - id: exrr-2024-44-1
+    src: figures/EXRR_2024_44_1.jpg
+    caption: Fig. xx
+    credit:
+    alt:
