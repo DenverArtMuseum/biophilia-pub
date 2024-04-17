@@ -17,7 +17,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D printed polyamide and copper coating
+    medium: 3-D-printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -45,7 +45,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D printed polyamide and copper coating
+    medium: 3-D-printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -142,7 +142,7 @@ object_list:
     title: Coral Flower IV
     year: 2022
     medium: Porcelain
-    dimensions: 9¾ × 11 in. dia. (24.8 × 27.9 cm) 
+    dimensions: 9¾ × 11 in. dia. (24.8 × 27.9 cm dia.) 
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photograph by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
     link: https://www.denverartmuseum.org/en/object/2023.6
     figure:
@@ -631,7 +631,7 @@ object_list:
     title: Coral Flower I
     year: 2023
     medium: Porcelain
-    dimensions: 16½ × 10 in. dia. (41.9 × 25.4 cm)
+    dimensions: 16½ × 10 in. dia. (41.9 × 25.4 cm dia.)
     credit: Courtesy of J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
     figure:
       - id: "ptl-26114"
