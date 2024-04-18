@@ -161,8 +161,8 @@ figure_list:
   - id: 2022-57-3-essay
     src: figures/2022_57~3.jpg
     label: Fig. 2
-    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
-    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
+    caption: Nervous System, *Floraform Chandelier*, 2017. 
+    credit: "3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City. Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: An undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
 
   - id: 2022-57-3
@@ -958,6 +958,9 @@ figure_list:
 
   - id: ptl-24698-6
     src: figures/PTL-24698~6.jpg
+    caption: Cat. XX Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
+    credit: Grey Emperador, 15¾ × 43¼ in. dia. Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    alt: A low, circular table that is gray marble with white striations. This half of the surface looks like gently rolling waves.
 
   - id: ptl-24699-1-essay
     modal_id: leanneur-inline
@@ -1526,7 +1529,7 @@ figure_list:
     zoom: true
     
   - id: exrr-2024-44-2
-    src: figures/EXRR_2023_44_2.jpg
+    src: figures/EXRR_2024_44_2.jpg
     caption: Fig. 3 
     credit: 
     alt:
