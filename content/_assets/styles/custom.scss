@@ -1110,6 +1110,11 @@ h1.quire-page__header__title .separator {
 
 /* Introduction */
 
+#page-intro {
+    .quire-page__header__contributor {
+        font-weight: 400;
+    }
+}
 #page-intro .quire-contributor > * {
     display: block;
 }

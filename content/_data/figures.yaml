@@ -700,12 +700,6 @@ figure_list:
     src: figures/EXRR_2024_35.jpg
     alt: Photograph of a trail through a forest. The leaves are bright green and the sun is partially visible above the horizon through the canopy of the trees.
 
-  - id: exrr-2024-43-1
-    src: figures/EXRR_2024_43_1.jpg
-
-  - id: exrr-2024-43-2
-    src: figures/EXRR_2024_43_2.jpg
-
   - id: ptl-24707
     src: figures/PTL-24707~2.jpg
     caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
@@ -961,6 +955,9 @@ figure_list:
     credit: Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: A detail of the half of the surface that looks like gently rolling waves.
     zoom: true
+
+  - id: ptl-24698-6
+    src: figures/PTL-24698~6.jpg
 
   - id: ptl-24699-1-essay
     modal_id: leanneur-inline
@@ -1523,12 +1520,12 @@ figure_list:
     zoom: true
 
   - id: tl-45470
-    src: figures/TL-45470_FPO.jpg
+    src: figures/TL-45470.jpg
     caption: Elena Manferdini, *Botanical Garden Smoke Set*, 2009. Cast ceramic covered by fused silver; various dimensions. Manufactured by Ottaviani, Recanati, Italy.
     credit: Courtesy of the designer. © Elena Manferdini.
     zoom: true
     
-  - id: exrr-2023-44-2
+  - id: exrr-2024-44-2
     src: figures/EXRR_2023_44_2.jpg
     caption: Fig. 3 
     credit: 

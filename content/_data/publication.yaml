@@ -141,11 +141,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.denverartmuseum.org/privacy-policy
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.denverartmuseum.org/terms-use
 
 # ------------------------------------------------------------------------------
 # Subjects
