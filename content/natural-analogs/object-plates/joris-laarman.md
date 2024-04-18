@@ -20,7 +20,7 @@ Laarman’s shimmering copper *Microstructures Adaptation Chair*, also referred 
 
 Nervous System also looked to the plant world for their *Floraform Chandelier.* Cofounders Jessica Rosenkrantz and Jesse Louis-Rosenberg, who met while studying at MIT, were inspired by the growth of blooming flowers for the chandelier’s lightweight, ruffling shape and leaf veins for the delicate filaments of the nylon shade. Spanning over three and a half feet, the chandelier produces intricate and dramatic shadows that pattern surrounding walls and viewers with botanical forms (figs. 2 and 3).
 
-{% figuregroup '2', '2022-57-3, 2022-57-4-essay' %}
+{% figuregroup '2', '2022-57-3-essay, 2022-57-4-essay' %}
 
 {% figure 'vid-exrr-2023-89' %}
 
