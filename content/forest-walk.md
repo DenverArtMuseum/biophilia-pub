@@ -16,7 +16,7 @@ The effects of time in nature on humans’ well-being have been thoroughly and s
 This audio-guided walk is an invitation to engage your senses and be present in your body and in place. While it’s called a forest walk, it can be done in any outdoor setting, although it should be a site that’s already familiar to you, such as a favorite hiking trail, a city park, or even your own backyard. Set aside about forty-five minutes for this experience, but you can take more time if you’d like. When you are ready, press play and let Ruffin guide you through nature and reflection.
 
 
-[^1]: Bum-Jin PARK et al., “Physiological and Psychological Effects of Walking in Stay-in Forest Therapy [in Japanese],” 日衛誌 (Jpn. J. Hyg.), no. 69 (2014): 98–103, https://pubmed.ncbi.nlm.nih.gov/24858504/
+[^1]: Bum-Jin PARK et al., “Physiological and Psychological Effects of Walking in Stay-in Forest Therapy [in Japanese],” 日衛誌 (Jpn. J. Hyg.), no. 69 (2014): 98–103, https://pubmed.ncbi.nlm.nih.gov/24858504/.
 
 
 {% accordion '##### Click to read the transcript' %}
@@ -34,7 +34,7 @@ Here are a few suggestions for getting ready:
 
 The outdoors can be a place that gives us comfort, speaks to our hearts, puts our minds at ease, and reminds us of all the other beings with which we share this home. We can let nature support us through our senses; all we have to do is drop into the interaction of our bodies with a place.  I’m here to help you ease into this belonging. And to assure you that this will all unfold in the way it was meant to be.  If there was a right way to do this, then you’ve already done it, because your body knows how to be here.  All you need to do is to let it lead.
 
-The prompts for you to let your senses lead are called “invitations.” [CHIME SOUND] I’ll be using this sound throughout the walk to mark the end of one invitation and the beginning of another.  So, if you feel like taking more time with an invitation, just press “pause” at the sound of a chime and when you press “play” again, you’ll be in the right spot to continue.  If you finish before the sound of the chime, just take time to connect with your breath and enjoy being outside.  
+The prompts for you to let your senses lead are called “invitations.” [Chime Sound] I’ll be using this sound throughout the walk to mark the end of one invitation and the beginning of another.  So, if you feel like taking more time with an invitation, just press “pause” at the sound of a chime and when you press “play” again, you’ll be in the right spot to continue.  If you finish before the sound of the chime, just take time to connect with your breath and enjoy being outside.  
 
 Are you ready?  Even if you’re almost ready, c’mon, let’s get some outside!
 

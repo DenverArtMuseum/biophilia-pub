@@ -17,7 +17,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D printed polyamide and copper coating
+    medium: 3-D-printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -45,7 +45,7 @@ object_list:
     bio: Dutch, born 1979, active in Amsterdam
     title: Microstructures Adaptation Chair (Long Cell) Prototype
     year: 2014
-    medium: 3-D printed polyamide and copper coating
+    medium: 3-D-printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     link: https://www.denverartmuseum.org/en/object/2015.263
@@ -142,7 +142,7 @@ object_list:
     title: Coral Flower IV
     year: 2022
     medium: Porcelain
-    dimensions: 9¾ × 11 in. dia. (24.8 × 27.9 cm) 
+    dimensions: 9¾ × 11 in. dia. (24.8 × 27.9 cm dia.) 
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photograph by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
     link: https://www.denverartmuseum.org/en/object/2023.6
     figure:
@@ -155,7 +155,7 @@ object_list:
     multi: "Left to right:<div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />42¼ × 7⅞ in. dia. (07.3 × 19.7 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. dia. (158.8 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />24½ × 7⅞ in. dia. (62.2 × 19.7 cm dia.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />19 × 11¾ in. dia. (48.3 × 29.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 5⅞ in. dia. (107.3 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. dia. (158.8 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 7⅞ in. dia. (107.3 × 19.7 cm dia.)</div>"
     manufacturer: "<br />Manufactured by Zero Lighting, Nybro, Sweden"
     credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–192. © Front. Image courtesy of Zero Lighting."
-    link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=%22front%20design%22#search-results
+    link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=%22front%20(swedish)%22#search-results
     figure:
       - id: "2023-186-92"
 
@@ -274,10 +274,10 @@ object_list:
   - id: ptl-24707
     artist: Alexandra Kehayoglou
     bio: Argentine, born 1981, active in Buenos Aires, Argentina, and Athens, Greece
-    title: Bajío (Lowland)
+    title: "*Bajío* (Lowland)"
     year: 2024
     medium: Hand-tufted wool
-    dimensions: 118 × 147½ in. (299.7 × 374.7 cm)
+    dimensions: dimensions variable, largest piece 90½ × 137¾ in. (229.9 × 349.9 cm)
     credit: "Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio" 
     figure:
       - id: ptl-24707
@@ -413,9 +413,9 @@ object_list:
   - id: ptl-24698
     artist: Mathieu Lehanneur
     bio: French, born 1974, active in Paris
-    title: Ocean Memories (Circular Low Table Gray XL)
+    title: Ocean Memories (Circular Low Table Grey XL)
     year: 2017
-    medium: Gray Emperador marble
+    medium: Grey Emperador marble
     dimensions: 15¾ × 43¼ in. dia.
     credit: Courtesy of the designer and Carpenters Workshop Gallery. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     figure:
@@ -424,7 +424,7 @@ object_list:
   - id: ptl-24699
     artist: Mathieu Lehanneur
     bio: French, born 1974, active in Paris
-    title: Tomorrow Is Another Day (Demain est un autre jour)
+    title: "Tomorrow Is Another Day (*Demain est un autre jour*)"
     year: 2011
     medium: Digital weather station with steel, resin, and light fittings
     dimensions: 7⅞ × 37 in. dia. (20 × 94 cm dia.)
@@ -631,7 +631,7 @@ object_list:
     title: Coral Flower I
     year: 2023
     medium: Porcelain
-    dimensions: 16½ × 10 in. dia. (41.9 × 25.4 cm)
+    dimensions: 16½ × 10 in. dia. (41.9 × 25.4 cm dia.)
     credit: Courtesy of J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
     figure:
       - id: "ptl-26114"

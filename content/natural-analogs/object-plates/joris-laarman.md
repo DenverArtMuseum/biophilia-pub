@@ -12,7 +12,7 @@ order: 130
 #image: FIGURE 2015.263
 ---
 
-Looking at the variability and seeming spontaneity of nature, it can be easy to forget that every flower and tree grows in accordance with mathematical and cellular systems. A single bloom is the result of thousands of cells dividing and multiplying, subtly adjusting their trajectories in response to stimuli such as light and temperature, to create something unique from a shared process. These two works by Dutch designer Joris Laarman, founder of Joris Laarman Lab, and the American design studio Nervous System translate those formulas of growth into objects that combine design, technology, and natural forms.
+Looking at the variability and seeming spontaneity of nature, it can be easy to forget that every flower and tree grows in accordance with mathematical and cellular systems. A single bloom is the result of thousands of cells dividing and multiplying, subtly adjusting their trajectories in response to stimuli such as light and temperature to create something unique from a shared process. These two works by Dutch designer Joris Laarman, founder of Joris Laarman Lab, and the American design studio Nervous System translate those formulas of growth into objects that combine design, technology, and natural forms.
 
 {% figure 'exrr-2023-32-essay' 'is-pulled-right' %}
 
@@ -20,7 +20,7 @@ Laarman’s shimmering copper *Microstructures Adaptation Chair*, also referred 
 
 Nervous System also looked to the plant world for their *Floraform Chandelier.* Cofounders Jessica Rosenkrantz and Jesse Louis-Rosenberg, who met while studying at MIT, were inspired by the growth of blooming flowers for the chandelier’s lightweight, ruffling shape and leaf veins for the delicate filaments of the nylon shade. Spanning over three and a half feet, the chandelier produces intricate and dramatic shadows that pattern surrounding walls and viewers with botanical forms (figs. 2 and 3).
 
-{% figuregroup '2', '2022-57-5-essay, 2022-57-4-essay' %}
+{% figuregroup '2', '2022-57-3, 2022-57-4-essay' %}
 
 {% figure 'vid-exrr-2023-89' %}
 
