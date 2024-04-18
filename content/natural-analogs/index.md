@@ -6,7 +6,7 @@ contributor:
 layout: essay
 order: 110
 image: figures/natural-analogs-header.jpg
-image_credit: "PELLE, *Nana Lure Chandelier* (detail), 2021. Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia (243.8 × 208.3 cm dia.). Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image © Daniel Seung Lee and courtesy of PELLE."
+image_credit: "PELLE, <em>Nana Lure Chandelier</em> (detail), 2021. Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia (243.8 × 208.3 cm dia.). Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image © Daniel Seung Lee and courtesy of PELLE."
 ---
 
 

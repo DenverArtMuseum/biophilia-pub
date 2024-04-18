@@ -19,7 +19,7 @@ figure_list:
 
   - id: big-nature-audio
     media_type: audiofile
-    title: "Listen to Florence Williams read *Big Nature, Big Art, and the Necessary Euphoria of Awe*"
+    title: "Listen to Florence Williams read <em>Big Nature, Big Art, and the Necessary Euphoria of Awe</em>"
     audio_src: figures/audio/Big_Nature_Big_Art.mp3
 
   - id: close-knit-audio
@@ -157,6 +157,13 @@ figure_list:
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: Image of the Floraform Chandelier lit and casting shadows. It is an undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
     zoom: true
+
+  - id: 2022-57-3-essay
+    src: figures/2022_57~3.jpg
+    label: Fig. 2
+    caption: Nervous System, *Floraform Chandelier*, 2017. 3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City.
+    credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
+    alt: An undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
 
   - id: 2022-57-3
     src: figures/2022_57~3.jpg
@@ -311,10 +318,10 @@ figure_list:
     alt: A dark green, oval-shaped serving tray that comes to a point on both ends. 
     zoom: true
 
-  # - id: exacc-2023-105
-  #   src: figures/EXRR_2023_105.jpg
-  #   caption: David Wiseman, Midnight in the Meadow Wallpaper, 2023.
-  #   credit: Courtesy of Wiseman Studio. © David Wiseman
+  - id: exacc-2023-105
+    src: figures/EXACC_2023_105.jpg
+    caption: David Wiseman, Midnight in the Meadow Wallpaper, 2023.
+    credit: Courtesy of Wiseman Studio. © David Wiseman
 
   - id: exrr-2023-78-1-essay
     modal_id: exrr-2023-78

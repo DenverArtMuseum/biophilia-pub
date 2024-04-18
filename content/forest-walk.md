@@ -6,7 +6,7 @@ contributor:
 layout: essay
 order: 150
 image: figures/EXRR_2024_35.jpg
-image_credit: © Emmanuel Vaughan-Lee, courtesy of *Emergence Magazine*
+image_credit: "© Emmanuel Vaughan-Lee, courtesy of <em>Emergence Magazine</em>"
 ---
 
 {% figure 'forest-walk-audio' %}

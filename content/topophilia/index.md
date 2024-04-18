@@ -6,7 +6,7 @@ contributor:
 layout: essay
 order: 310
 image: figures/topophilia-header.jpg
-image_credit: "gt2P (great things to People), *Revolution Stool L, Quitralco, Osorno Volcano* (detail), 2016. Stoneware and basaltic andesite, h: 17¾ in. Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89."
+image_credit: "gt2P (great things to People), <em>Revolution Stool L, Quitralco, Osorno Volcano</em> (detail), 2016. Stoneware and basaltic andesite, h: 17¾ in. Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89."
 ---
 
 Popularized by the Chinese-born American geographer Yi-Fu Tuan in 1974, the term “topophilia” describes the affective bond between people and place or physical environment.[^1] Topophilia, Tuan wrote, “varies greatly in emotional range and intensity,” such as fleeting visual pleasure, a sensual connection that delights the senses, a fondness for that which we call home, and joy on account of well-being and vitality.[^2] Topophilia emphasizes our attachment to place and the symbolic meanings that underlie this attachment. It encompasses both the physical and psychological dimensions of our relationship with the environment we live in.

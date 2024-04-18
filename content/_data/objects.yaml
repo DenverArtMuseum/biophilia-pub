@@ -12,6 +12,17 @@ object_display_order:
 
 object_list:
 
+  - id: "gang-plate"
+    artist: Studio Gang
+    bio: Established 1997, Chicago
+    title: Populus, Denver, Colorado
+    year: 2019–24
+    medium: "Exterior view, 2020<br />Reproduction of digital rendering"
+    dimensions: 24 × 42 in.
+    credit: Courtesy of and © Studio Gang.
+    figure:
+      - id: "exrr-2023-31-1"
+  
   - id: "larman-plate"
     artist: Joris Laarman
     bio: Dutch, born 1979, active in Amsterdam
@@ -294,7 +305,7 @@ object_list:
 
   - id: ptl-25375
     artist: Andreea Avram Rusu
-    bio: American, born Romania, 1974, active in Brooklyn, NY
+    bio: "American, born Romania, 1974, active in Brooklyn, NY"
     title: Botanica Chandelier
     year: 2023
     medium: Glass, brass, steel, leather, and LEDs
@@ -508,11 +519,12 @@ object_list:
 
   - id: ptl-24735
     artist: Andreea Avram Rusu
+    bio: "American, born Romania, 1974, active in Brooklyn, NY"
     title: Botanica Chandelier
     year: 2023
     medium: Glass, brass, steel, leather, and LED
-    dimensions: 135 × 56 × 33 in.
-    credit: Courtesy of the artist and Wexler Gallery. © TBC Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    dimensions: 135 × 56 × 33 in. (342.9 × 142.2 × 83.8 cm)
+    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
     label: Cat. 4
     figure:
       - id: "ptl-24735"
@@ -532,7 +544,7 @@ object_list:
     artist: Zaha Hadid
     bio: Iraqi British, born Iraq, 1950–2016
     title: "<span class=\"hide-title\">Tau Vases</span>"
-    multi: "2015<br><br>Left to right:<p>Bardiglio Nuvolato marble<br />7⅞ × 13⅜ in. dia. (19.7 × 34 cm dia.)</p><p>Statuario marble<br />7⅞ × 17 in. dia. (20 × 43.2 cm dia.)</p><p>Bianco Covelano Bluette marble<br />13⅜ × 15¾ in. dia. (34 × 40 cm dia.)</p><p>Bianco Carrara marble<br />18⅞ × 15¾ in. dia. (47.9 × 40 cm dia.)</p><p>Bardiglio Nuvolato marble<br />29⅛ × 19⅝ in. dia. (74 × 49.9 cm dia.)</p>"
+    multi: "Left to right:<br><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>7⅞ × 13⅜ in. dia. (19.7 × 34 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Carrara marble<br>18⅞ × 15¾ in. dia. (47.9 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Statuario marble<br>7⅞ × 17 in. dia. (20 × 43.2 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Covelano Bluette marble<br>13⅜ × 15¾ in. dia. (34 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>29⅛ × 19⅝ in. dia. (74 × 49.9 cm dia.)</div><div class=\"credit-line\">Manufactured by Citco, Rivoli Veronese, Italy</div><div class=\"credit-line\">Courtesy of CITCO USA CORP. Photograph by Jacopo Spilimbergo, courtesy of Zaha Hadid Design.</div>"
     manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
     credit: Courtesy of CITCO USA CORP 
     figure:
@@ -683,7 +695,7 @@ object_list:
     figure:
       - id: "tl-45470"
 
-  - id: exacc-1023-105
+  - id: exacc-2023-105
     artist: David Wiseman
     bio: American, born 1981, active in Los Angeles
     title: "<span class=\"hide-title\">Midnight in the Meadow Wallpaper</span>"

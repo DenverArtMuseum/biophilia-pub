@@ -6,7 +6,7 @@ contributor:
 layout: entry
 presentation: side-by-side
 object:
-    - id: exrr-2023-31
+    - id: "gang-plate"
 order: 340
 #image: EXRR.2023.31.1
 ---
