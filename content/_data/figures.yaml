@@ -34,7 +34,7 @@ figure_list:
 
   - id: vid-exrr-2023-44
     media_type: vimeo
-    caption: Fig. 4 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Video by Blackstation, 2022. 
+    caption: Fig. 4 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. © MAD Architects. Video by Blackstation, 2022. 
     media_id: "911666850"
     poster: figures/nanjing-poster.jpg
     alt: Several towering buildings with articulated white ridges tower over a plaza.
@@ -51,35 +51,35 @@ figure_list:
     lightbox_mode: exclude
     aspect_ratio: manferdini
     media_type: vimeo
-    caption: Fig. 4 Elena Manferdini, *Wall Flowers*, computer animation, 2018. © Elena Manferdini.
+    caption: Elena Manferdini, *Wall Flowers*, 2018. Computer animation. © Elena Manferdini.
     media_id: "911666911"
     poster: figures/exrr_2023_90_poster.jpg
     alt: A video still of Wall Flowers, an acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites.
 
   - id: vid-exrr-2023-93
     media_type: vimeo
-    caption: Fig. 2 DRIFT, *Shylight*, 2006. Video by Xinix Films / Arjen van Eijk. 
+    caption: Fig. 2 DRIFT, *Shylight*, 2006. © 2024 DRIFT. Video by Xinix Films / Arjen van Eijk. 
     media_id: "911666928"
     poster: figures/exrr_2023_93_poster.jpg
     alt: View of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
 
   - id: vid-exrr-2023-96
     media_type: vimeo
-    caption: Fig. 3 gt2P, *Remolten* process, 2016.
+    caption: Fig. 3 gt2P, *Remolten* process, 2016. © Gt2P Spa
     media_id: "911666952"
     poster: figures/exrr_2023-96_poster.jpg
     alt: A person's hand adds sandy material to a silver bowl on a table.
 
   - id: vid-exrr-2023-133
     media_type: vimeo
-    caption: Fig. 3 DRIFT, *Meadow*, 2017. Video courtesy of DRIFT. 
+    caption: Fig. 3 DRIFT, *Meadow*, 2017. © 2024 DRIFT. Video courtesy of DRIFT and the Indianapolis Museum of Art Galleries at Newfields.
     media_id: "911666976"
     poster: figures/exrr_2023_133_poster.jpg
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights.
 
   - id: vid-exrr-2023-135
     media_type: vimeo
-    credit: Fig. 1  Iris van Herpen, clips from *Sensory Seas* Collection, Spring/Summer 2020. Presented at Cirque d’hiver Bouglione, Paris, January 20, 2020. Video by Blitzkickers. 
+    credit: Fig. 1  Iris van Herpen, clips from *Sensory Seas* Collection, Spring/Summer 2020. Presented at Cirque d’hiver Bouglione, Paris, January 20, 2020. Courtesy of Iris van Herpen. Video by Blitzkickers. 
     media_id: "911666993"
     poster: figures/sensory-seas-poster
     alt: A video still of the title against a dark background with a swirling abstract flourish in shades of purple. 
@@ -128,12 +128,12 @@ figure_list:
     modal_id: modal-2017-89-91
     src: figures/2017_89-91.jpg
     caption: "Cats. XX–XX gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*, 2016–17."
-    credit: "Stoneware and basaltic andesite, various dimensions. Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
+    credit: "Stoneware and basaltic andesite; various dimensions. Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
     alt: Three cylindrically shaped stools. The left and center stools are the same height; the stool on the right is half the height of the others. The surface of the stools is a dark, brownish gray volcanic lava that drips down the sides.
 
   - id: "2017-89-91"
     src: figures/2017_89-91.jpg
-    caption: "gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*, 2016–17. Stoneware and volcanic lava, dimensions variable."
+    caption: "gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*, 2016–17. Stoneware and volcanic lava; dimensions variable."
     credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
     alt: Three cylindrically shaped stools. The left and center stools are the same height; the stool on the right is half the height of the others. The surface of the stools is a dark, brownish gray volcanic lava that drips down the sides.
     zoom: true
@@ -209,8 +209,8 @@ figure_list:
   - id: 2022-160-2
     modal_id: detail-inline
     src: figures/2022_160~2_FPO.jpg
-    caption: Fig. 1 Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02* (detail), 2022. 
-    credit: "Desert globemallow, agave fiber, and jute, 17 × 13 × 10 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02* (detail), 2022. 
+    credit: "Desert globemallow, agave fiber, and jute, 16 × 11 × 9 3/4 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 02 basket. Small flecks of brown and red in the textured, white material of the basket.
 
   - id: 2022-161-essay
@@ -222,7 +222,7 @@ figure_list:
 
   - id: 2022-161
     src: figures/2022_161.jpg
-    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 05*, 2022. Desert marigold, jute, and abaca, 19½ × 13 × 10 in.
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 05*, 2022. Desert marigold, jute, and abaca, 19⅛ × 10⅞ × 10 in
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: A light sandy-brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and folds that reach upward into jagged points at the top.
     zoom: true
@@ -244,8 +244,8 @@ figure_list:
   - id: 2022-162-2
     modal_id: detail-inline
     src: figures/2022_162~2_FPO.jpg
-    caption: Fig. 2 Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09* (detail), 2022. 
-    credit: "Creosote and jute, 15 × 9 × 9 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09* (detail), 2022. 
+    credit: "Creosote and jute; 13⅜ × 10¼ × 6¾ in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 09 basket. The surface is light brown with flecks of dark organic material, and a bumpy but delicate texture.
 
   - id: 2023-6
