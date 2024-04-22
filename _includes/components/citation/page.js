@@ -32,7 +32,8 @@ module.exports = function (eleventyConfig) {
         .map(citeName),
       // CSL-JSON support for html tags is spotty, use a span here
       // since an <em> tag would be treated as a word and title-cased
-      'container-title': `<span style="font-style: italic;">${siteTitle()}</span>`,
+      // or use a cite tag? Why not just use a semantically appropriate tag?
+      'container-title': `<cite>${siteTitle()}</cite>`,
       editor: pageContributors
         .filter(({ role }) => role === 'editor')
         .map(citeName),

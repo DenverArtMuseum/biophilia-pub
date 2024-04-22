@@ -120,7 +120,7 @@ p.small-text {
     font-size: .875em;
 }
 
-em {
+cite, em, i {
     font-style: oblique 5deg;
 }
 
@@ -697,7 +697,7 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
     background-color: $off-white;
     color: $off-black;
     padding: 1.75rem;
-    border-radius: 20px;
+    border-radius: 1.111111rem;
     line-height: 1.4;
 }
 .quire-entry__tombstone .table tbody {
@@ -711,7 +711,7 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
     display: none;
 }
 .quire-entry__tombstone tr td {
-    padding: 0px 10px 10px;
+    padding: 0px 0.55555556rem 0.55555556rem;
 }
 .quire-entry__tombstone tr:hover {
     background-color: inherit;
@@ -722,7 +722,7 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
 .quire-entry__tombstone tr.title-property td {
     font-size: 1.4rem;
     line-height: 1;
-    padding-bottom: 0px;
+    padding-bottom: 0;
 }
 .quire-entry__tombstone tr.title-property td {
     font-weight: 700;
@@ -732,7 +732,10 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
     font-size: 80%;
 }
 .quire-entry__tombstone tr.medium-property {
-    margin-bottom: 0px;
+    margin-bottom: 0;
+    & + .credit-property {
+        margin-top: .875rem;
+    }
 }
 .quire-entry {
     .quire-page__content {
@@ -807,6 +810,12 @@ main[data-page-id^='page-checklist'] .link-to-checklist {
     display: block;
 }
 
+.quire-page__content .container .content .littlefoot {
+    // Prevent footnotes from ending up on a different line than
+    // the content that precedes them
+    unicode-bidi: isolate;
+    white-space: nowrap;
+}
 
 .littlefoot {
     --button-background-color: transparent !important;
@@ -1362,7 +1371,6 @@ body#page-close-knit-flower-sack {
     
         .audio-player-container {
             .title-block p.track-title {
-                font-size: 90%;
                 opacity: 1 !important;
             }
         

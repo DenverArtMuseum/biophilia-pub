@@ -465,7 +465,7 @@ object_list:
 
   - id: ptl-24704
     artist: Humberto Campana and Fernando Campana
-    bio: Humberto Campana, Brazilian, born 1953, active in São Paulo<br>Fernando Campana, Brazilian, 1961–2022
+    bio: "<div class=\"artist-property sub-property\"><span>Humberto Campana</span>Brazilian, born 1953, active in São Paulo</div><div class=\"artist-property sub-property\"><span>Fernando Campana</span>Brazilian, 1961–2022</div>"
     title: Bulbo Chair
     year: 2019
     medium: Leather and fabric
@@ -544,9 +544,9 @@ object_list:
     artist: Zaha Hadid
     bio: Iraqi British, born Iraq, 1950–2016
     title: "<span class=\"hide-title\">Tau Vases</span>"
-    multi: "Left to right:<br><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>7⅞ × 13⅜ in. dia. (19.7 × 34 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Carrara marble<br>18⅞ × 15¾ in. dia. (47.9 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Statuario marble<br>7⅞ × 17 in. dia. (20 × 43.2 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Covelano Bluette marble<br>13⅜ × 15¾ in. dia. (34 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>29⅛ × 19⅝ in. dia. (74 × 49.9 cm dia.)</div><div class=\"credit-line\">Manufactured by Citco, Rivoli Veronese, Italy</div><div class=\"credit-line\">Courtesy of CITCO USA CORP. Photograph by Jacopo Spilimbergo, courtesy of Zaha Hadid Design.</div>"
-    manufacturer: Manufactured by Citco, Rivoli Veronese, Italy
-    credit: Courtesy of CITCO USA CORP 
+    multi: "Left to right:<br><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>7⅞ × 13⅜ in. dia. (19.7 × 34 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Carrara marble<br>18⅞ × 15¾ in. dia. (47.9 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Statuario marble<br>7⅞ × 17 in. dia. (20 × 43.2 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Covelano Bluette marble<br>13⅜ × 15¾ in. dia. (34 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>29⅛ × 19⅝ in. dia. (74 × 49.9 cm dia.)</div>"
+    manufacturer: "<br>Manufactured by Citco, Rivoli Veronese, Italy"
+    credit: Courtesy of CITCO USA CORP. Photograph by Jacopo Spilimbergo, courtesy of Zaha Hadid Design.
     figure:
       - id: "ptl-25093-97"
 
