@@ -381,8 +381,8 @@ figure_list:
   - id: exrr-2023-31-2-essay
     modal_id: populus-inline
     src: figures/EXRR_2023_31_2.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: Studio Gang, Populus, Denver, Colorado, 2019–24. Exterior view into lobby, restaurant, and amenity spaces, 2020. Digital rendering. 
+    credit: © and courtesy of Studio Gang
     alt: A street-view, digital rendering of the lower half of a white building with an exterior that looks like dozens of Aspen tree trunks aligned tightly and vertically. There are three green trees at the base of the building, and people milling about on the sidewalk. 
 
   - id: exrr-2023-31-3-essay
@@ -394,22 +394,22 @@ figure_list:
 
   - id: exrr-2023-31-1
     src: figures/EXRR_2023_31_1.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
+    caption: Studio Gang, Populus, Denver, Colorado, 2019–24. Exterior view, 2020. Digital rendering.
     credit: © and courtesy of Studio Gang
     alt: Digital rendering of a white building with architecture inspired by the Aspen tree. It is between two one-way streets, with cars going in different directions
     zoom: true
 
   - id: exrr-2023-31-2
     src: figures/EXRR_2023_31_2.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: Studio Gang, Populus, Denver, Colorado, 2019–24. Exterior view into lobby, restaurant, and amenity spaces, 2020. Digital rendering.
+    credit: © and courtesy of Studio Gang
     alt: A street-view, digital rendering of the lower half of a white building with an exterior that looks like dozens of Aspen tree trunks aligned tightly and vertically. There are three green trees at the base of the building, and people milling about on the sidewalk. 
     zoom: true
 
   - id: exrr-2023-31-3
     src: figures/EXRR_2023_31_3.jpg
-    caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    caption: Studio Gang, Populus, Denver, Colorado, 2019–24. Unrolled elevation and window modules, 2019. Digital drawing.
+    credit: © and courtesy of Studio Gang
     alt: "Architectural plan of the side of the Populus building showing elevations and window modules. At the top, details of the “Micro-Unit Grand Window,” “Micro-Unit Seat Window,” “Micro-Unit Lounge Window,” Ground Floor Storefront,” and “Rooftop Lounge.”"
     zoom: true
 
@@ -423,33 +423,33 @@ figure_list:
   - id: exrr-2023-31-5
     modal_id: diagram-inline
     src: figures/EXRR_2023_31_5.jpg
-    caption: Fig. 2 Populus, Environmental systems and social connectivity diagram. 
-    credit: © Studio Gang
+    caption: Fig. 2 Studio Gang, Populus, Denver, Colorado. Environmental systems and social connectivity, 2023. Digital diagram.
+    credit: © and courtesy Studio Gang
     alt: "diagram of the Populus building. It highlights VIEWS: Aspen Eye and Roof Terrace; ENERGY: Efficient Mechanical Systems, Concrete Structure, High Performance Envelope; URBAN AMENITIES: Café, Bike Share Stations, Bike Lanes, No On-Site Parking; and SOCIAL CONNECTIVITY: Urban Living Room, and Local Food."
 
   - id: exrr-2023-31-6
     src: figures/EXRR_2023_31_6.jpg
     caption: Studio Gang, Populus, Denver, Colorado, digital rendering, 2020.
-    credit: © Studio Gang
+    credit: © and courtesy Studio Gang
     alt: A picture of aspen trees with drawings of their eyes broken down by height, direction, width, and scale.
 
   - id: exrr-2023-32-essay
     modal_id: modal-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Fig. 1 Joris Laarman, *Adaptation Chair* Design Study, 2013. 
+    caption: Fig. 1 Joris Laarman, *Adaptation Chair* Design Study, 2013. Digital drawing
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
 
   - id: exrr-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. 
+    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. Digital drawing
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
     zoom: true
 
   - id: exrr-2023-33
     src: figures/EXRR_2023_33.jpg
-    caption: Joris Laarman, Digital drawings for *Microstructures Adaptation Chair (Long Cell) Prototype*, 2013.  
+    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. Digital drawing
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
     zoom: true
@@ -458,27 +458,27 @@ figure_list:
     modal_id: metropol-inline
     src: figures/EXRR_2023_43_1.jpg
     caption: Cat. XX J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. 
-    credit: Aerial view, 2021. Photograph by and courtesy of Fernando Alda Fotógrafo.
+    credit: Aerial view, 2011. © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Aerial color photograph of the Metropol Parasol in Seville, Spain. The giant latticed timber canopy is surrounded by the red tiled roofed buildings of the city.
 
   - id: exrr-2023-43-2-essay
     modal_id: metropol-inline
     src: figures/EXRR_2023_43_2.jpg
     caption: Cat. XX J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. 
-    credit: View of plaza, 2011. Photograph by and courtesy of Fernando Alda Fotógrafo.
+    credit: View of plaza, 2011. © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Color photograph of the plaza underneath the Metropol Parasol in Seville, Spain. Light shines through the latticed roof casting a checker-like pattern on the ground. Dozens of people mill about. 
 
   - id: exrr-2023-43-1
     src: figures/EXRR_2023_43_1.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view, 
-    credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
+    credit: 2011. © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Aerial color photograph of the Metropol Parasol in Seville, Spain. The giant latticed timber canopy is surrounded by the red tiled roofed buildings of the city.
     zoom: true
 
   - id: exrr-2023-43-2
     src: figures/EXRR_2023_43_2.jpg
     caption: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view,
-    credit: 2021 © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
+    credit: 2011. © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Color photograph of the plaza underneath the Metropol Parasol in Seville, Spain. Light shines through the latticed roof casting a checker-like pattern on the ground. Dozens of people mill about. 
     zoom: true
 
@@ -531,33 +531,33 @@ figure_list:
     modal_id: modal-2023-91-1
     src: figures/EXRR_2023_91_1.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
-    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
 
   - id: exrr-2023-91-2-essay
     modal_id: modal-2023-91-2
     src: figures/EXRR_2023_91_2.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
-    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A large clay sphere with cracks running like veins over the surface. 
 
   - id: exrr-2023-91-3-essay
     modal_id: modal-2023-91-3
     src: figures/EXRR_2023_91_3.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
-    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: View of interior of *Clay Houses*. Empty room with a lofted ceiling that comes to a point. The light brown walls look like cracked clay. 
 
   - id: exrr-2023-91-4-essay
     modal_id: modal-2023-91-4
     src: figures/EXRR_2023_91_4.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
-    credit: "Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: Close-up image of a wall from *Clay Houses* that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
 
   - id: exrr-2023-91-1
     src: figures/EXRR_2023_91_1.jpg
-    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
     credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
     zoom: true
@@ -587,20 +587,20 @@ figure_list:
     modal_id: shylight-inline
     src: figures/EXRR_2023_92-essay.jpg
     caption: Fig. 1 DRIFT, *Shylight*, 2006. 
-    credit: Aluminum, polished stainless steel, silk, LEDs, and robotics. © 2024 DRIFT, represented by Pace Gallery. NYCB Tenth Annual Art Series, winter 2023. Photography by Andy Romer, image courtesy of NYCB.
+    credit: Aluminum, polished stainless steel, silk, LEDs, and robotics. NYCB Tenth Annual Art Series, winter 2023. © 2024 DRIFT, represented by Pace Gallery. Photograph by Andy Romer, image courtesy of NYCB.
     alt: Color photograph of Shylight displayed in the New York City Ballet Theater. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
 
   - id: exrr-2023-92
     src: figures/EXRR_2023_92.jpg
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics.
-    credit: © 2023 DRIFT, represented by Pace Gallery. NYCB Tenth Annual Art Series, winter 2023. Photography by Andy Romer, image courtesy of NYCB.
+    credit: NYCB Tenth Annual Art Series, winter 2023. © 2024 DRIFT, represented by Pace Gallery. Photograph by Andy Romer, image courtesy of NYCB.
     alt: Color photograph of Shylight displayed in the New York City Ballet Theater. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
     zoom: true
 
   - id: exrr-2023-93
     src: figures/EXRR_2023_93.jpg
     caption: DRIFT, *Shylight*, 2006. Aluminum, polished stainless steel, silk, LEDs, and robotics. 
-    credit: © 2023 DRIFT, represented by Pace Gallery. Photography by Juuke Schoorl, image courtesy of DRIFT.
+    credit: © 2024 DRIFT, represented by Pace Gallery. Photograph by Juuke Schoorl, image courtesy of DRIFT.
     alt: Side view of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
     zoom: true
 
@@ -608,14 +608,14 @@ figure_list:
     modal_id: modal-2023-95
     src: figures/EXRR_2023_95_1.jpg
     caption: Fig. 2 Osorno Volcano, Chile.
-    credit: © and image courtesy of Gt2P Spa.
+    credit: Image © and courtesy of Gt2P Spa.
     alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
     zoom: true
 
   - id: exrr-2023-95-2
     src: figures/EXRR_2023_95~2.jpg
     caption: Osorno Volcano, Chile.
-    credit: © and image courtesy of Gt2P Spa.
+    credit: Image © and courtesy of Gt2P Spa.
     alt: A vertical photograph of the rocky landscape around the Osorno Volcano. Dark gray rocks fill the bottom two-thirds of the composition. A line of green trees in front of the Andes Mountains and a bright blue sky with white clouds at the top.
     zoom: true
 
@@ -623,7 +623,7 @@ figure_list:
     modal_id: aspen-inline
     src: figures/EXRR_2023_101.jpg
     caption: Fig. 1 Aspen Grove.
-    credit: Photo by Peng Chen on Unsplash, 2017. 
+    credit: Courtesy Unsplash/Photograph by Peng Chen, 2017.
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
 
   - id: exrr-2023-102
@@ -678,7 +678,7 @@ figure_list:
   - id: exrr-2023-111
     src: figures/EXRR_2023_111.jpg
     caption: Jason DeMarte, *Arcadia*, 2021. Pigmented ink print, dimensions variable.
-    credit: © Jason DeMarte, Courtesy of RULE Gallery, Denver. 
+    credit: Courtesy of RULE Gallery, Denver. © Jason DeMarte.
     alt: Mossy vines stretch vertically against a dusky jungle background. They are dotted with green and purple hummingbirds, orange and red berries, different shapes of green leaves, large purple passion flowers, purple and orange butterflies, and ripening fruit.
     zoom: true
 
@@ -703,20 +703,20 @@ figure_list:
   - id: ptl-24707
     src: figures/PTL-24707~2.jpg
     caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
-    credit: "Hand tufted wool, dimensions variable (largest piece 90½ × 137¾ in. [229.9 × 349.9 cm]). Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
+    credit: "Hand tufted wool, dimensions variable (largest piece 90½ × 137¾ in. [229.9 × 349.9 cm]). Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photograph by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
     zoom: true
 
   - id: ptl-24707-4
     src: figures/PTL-24707~4.jpg
     caption: Fig. 2 Alexandra Kehayoglou, *Bajío* (Lowland) (detail), 2024. 
-    credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
+    credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photograph by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
 
   - id: ptl-24707-5
     src: figures/PTL-24707~5.jpg
     caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
-    credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
+    credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photograph by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
 
   - id: ptl-24369-essay
@@ -751,13 +751,13 @@ figure_list:
     modal_id: dress-figuregroup
     src: figures/PTL-24455_1-3.jpg
     caption: Cat. XX threeASFOUR, *Autumn Leaf Suit*, *Human Plant* Collection, Spring/Summer 2020. 
-    credit: Digitally printed cotton voile and broadcloth. Courtesy of threeASFOUR. Photo by Randy Brooke.
+    credit: Digitally printed cotton voile and broadcloth. Courtesy of threeASFOUR. Photograph by Randy Brooke.
     alt: Front view of a model walking down the runway wearing a three-piece suit with a light-brown, autumn leaf print.
 
   - id: ptl-24455
     src: figures/PTL-24455_1-3.jpg
     caption: threeASFOUR, *Autumn Leaf Suit*, from the *Human Plant* Collection, Spring/Summer 2020, Look 6. Digitally printed cotton voile and broadcloth.
-    credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
+    credit: Courtesy of threeASFOUR. Photograph by Randy Brooke.
     alt: Front view of a model walking down the runway wearing a three-piece suit with a light-brown, autumn leaf print.
     zoom: true
 
@@ -826,7 +826,7 @@ figure_list:
   - id: ptl-24650-59-63-64
     src: figures/PTL-24650-59_PTL-26463-64.jpg
     caption: David Valner, *Fungus Vases* and *Polypore Bowl*, 2018–23. Handcrafted glass, dimensions variable.
-    credit: Courtesy and © of the artist. Photography by Tereza Valnerová.
+    credit: © David Valner. Photography by Tereza Valnerová.
     alt: Eleven vases and one bowl inspired by the different shapes of mushrooms in different colors, including orange, pink, turquoise, lavender, dark green, and brown.
     zoom: true
 
@@ -834,33 +834,33 @@ figure_list:
     modal_id: stallard-inline
     src: figures/PTL-24660~1.jpg
     caption: Cat. XX Fredrikson Stallard, *Species 1*, 2015. 
-    credit: Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in. Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy of David Gill Gallery. Photography by Alejandro Olaya Torres.
+    credit: Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in. Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy of David Gill Gallery. Photograph by Alejandro Olaya Torres.
     alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
 
   - id: ptl-24660-2-essay
     src: figures/PTL-24660~2.jpg
     caption: Fredrikson Stallard, *Species 1*, 2021. 
-    credit: Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in. Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photography by Alejandro Olaya Torres.
+    credit: Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in. Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photograph by Alejandro Olaya Torres.
     alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
 
   - id: ptl-24660-1
     src: figures/PTL-24660~1.jpg
     caption: Fredrikson Stallard, *Species 1*, 2021. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
-    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photography by Alejandro Olaya Torres.
+    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photograph by Alejandro Olaya Torres.
     alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
     zoom: true
 
   - id: ptl-24660-2
     src: figures/PTL-24660~2.jpg
     caption: Fredrikson Stallard, *Species 1*, 2021. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
-    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photography by Alejandro Olaya Torres.
+    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photograph by Alejandro Olaya Torres.
     alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
     zoom: true
 
   - id: ptl-24660-3
     src: figures/PTL-24660~3.jpg
     caption: Fredrikson Stallard, *Species 1*, 2021. Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in.
-    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photography by Alejandro Olaya Torres.
+    credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photograph by Alejandro Olaya Torres.
     alt: A detail of a deep red sofa that looks as if it is a mountainous rock formation. 
     zoom: true
 
@@ -910,21 +910,21 @@ figure_list:
 
   - id: ptl-24698-1
     src: figures/PTL-24698~1.jpg
-    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Black XL)*, 2017. Nero Marquina marble, 15¾ × 43¼ in. dia.
-    credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. Grey Emperador marble; 15¾ × 43¼ in. dia.
+    credit: Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
     zoom: true
 
   - id: ptl-24698-2-essay
     src: figures/PTL-24698~2.jpg
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
-    credit: Nero Marquina marble, 15¾ × 43¼ in. dia. Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
 
   - id: ptl-24698-2
     src: figures/PTL-24698~2.jpg
-    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Black XL)*, 2017. Nero Marquina marble, 15¾ × 43¼ in. dia.
-    credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. Grey Emperador marble; 15¾ × 43¼ in. dia.
+    credit: Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
     zoom: true
 
@@ -959,7 +959,7 @@ figure_list:
   - id: ptl-24698-6
     src: figures/PTL-24698~6.jpg
     caption: Cat. XX Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
-    credit: Grey Emperador, 15¾ × 43¼ in. dia. Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is gray marble with white striations. This half of the surface looks like gently rolling waves.
 
   - id: ptl-24699-1-essay
@@ -987,7 +987,7 @@ figure_list:
     modal_id: leanneur-inline
     src: figures/PTL-24699~2.jpg
     caption: Cat. XX Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. 
-    credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. Artwork © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
     lightbox_additions: "ptl-24699-1-essay, ptl-24699-3-essay, ptl-24699-4-essay, ptl-24699-5-essay, ptl-24699-6-essay"
 
@@ -1056,7 +1056,7 @@ figure_list:
 
   - id: ptl-24700
     src: figures/PTL-24700.jpg
-    caption: Mathieu Lehanneur, *Permanent Flame*, 2017. Polished bronze, 17¾ × 14½ × 21¼ in.
+    caption: Mathieu Lehanneur, *Permanent Flame*, 2017. Polished bronze; 17¾ × 14½ × 21¼ in.
     credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Photograph © Leandro Viana, courtesy of Mathieu Lehanneur.
     alt: A shiny, metallic gold bronze resembling the dynamic flames of a flickering fire.
     zoom: true
@@ -1077,21 +1077,21 @@ figure_list:
 
   - id: ptl-24701-3
     src: figures/PTL-24701~3.jpg
-    caption: Mathieu Lehanneur, *50 Seas*, 2018. Enameled faience (*glazed earthenware*), each 19⅝ in. dia.
+    caption: Mathieu Lehanneur, *50 Seas*, 2018. Enameled faience (*glazed earthenware*); each 19⅝ in. dia.
     credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur
     alt: Two examples of circular, blue elements from 50 Seas.
     zoom: true
 
   - id: ptl-24701-4
     src: figures/PTL-24701~4.jpg
-    caption: Mathieu Lehanneur, *50 Seas*, 2018. Enameled faience (*glazed earthenware*), each 19⅝ in. dia.
+    caption: Mathieu Lehanneur, *50 Seas*, 2018. Enameled faience (*glazed earthenware*); each 19⅝ in. dia.
     credit: Courtesy of the designer. Artwork © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur
     alt: One example of circular, blue elements from 50 Seas.
     zoom: true
 
   - id: ptl-24704
     src: figures/PTL-24704_FPO.jpg
-    caption: Humberto Campana and Fernando Campana, *Bulbo Chair*, 2019. Fabric and leather, 59 × 47 × 48 in. Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
+    caption: Humberto Campana and Fernando Campana, *Bulbo Chair*, 2019. Fabric and leather; 59 × 47 × 48 in. Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
     credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana.
     alt: A bright red chair shaped like a flower bulb – round at the bottom, tapering to a point at the top. It is made of overlapping layers of long, oval-shaped leather and fabric petals.
     zoom: true
@@ -1099,12 +1099,12 @@ figure_list:
   - id: ptl-24705-essay
     src: figures/PTL-24705.jpg
     caption: Cat. XX J. Mayer H., *Metropol Parasol*, Seville, Spain, 2004-11. 
-    credit: Drawings, 2007. Graphite pencil on paper, each 22 × 15¾ in. each. Drawings by Jürgen Mayer H. Private collection, Berlin, Germany. © J.Mayer.H.
+    credit: Drawings, 2007. Graphite pencil on paper; each 22 × 15¾ in. each. Drawings by Jürgen Mayer H. Private collection, Berlin, Germany. © J.Mayer.H.
     alt: A sketch of the Metropol Parasol in graphite pencil spanning two pieces of vertically oriented paper. 
 
   - id: ptl-24705
     src: figures/PTL-24705.jpg
-    caption: J. Mayer H., Metropol Parasol, Seville, Spain, 2004-11. Drawings, 2007. Graphite pencil on paper, each 22 × 15¾ in. each. Drawings by Jürgen Mayer H.
+    caption: J. Mayer H., Metropol Parasol, Seville, Spain, 2004-11. Drawings, 2007. Graphite pencil on paper; each 22 × 15¾ in. each. Drawings by Jürgen Mayer H.
     credit: Private collection, Berlin, Germany. © J.Mayer.H.
     alt: A sketch of the Metropol Parasol in graphite pencil spanning two pieces of vertically oriented paper. 
     zoom: true
@@ -1126,13 +1126,13 @@ figure_list:
     modal_id: meadow-inline
     src: figures/PTL-24706~2.jpg
     caption: Cat. XX DRIFT, *Meadow*, 2017. 
-    credit: Aluminum, stainless steel, printed fabric, LEDs, and robotics. Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
+    credit: Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions. Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
 
   - id: ptl-24706-2
     src: figures/PTL-24706~2.jpg
     caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions.
-    credit: Represented by Pace Gallery. © 2023 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
+    credit: Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
     zoom: true
 
@@ -1140,13 +1140,13 @@ figure_list:
     modal_id: tree-inline
     src: figures/PTL-24710~1.jpg
     caption: Cat. XX Nacho Carbonell, *One-Seater Concrete Tree*, 2022. 
-    credit: "Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in. Cincinnati Art Museum: Museum Purchase: Contemporary Art Deaccession Fund, Lawrence Archer Wachs Trust, On to the Second Century Art Purchase Fund, Weston Endowment for Contemporary Art, Jimmie Otten Gillespie Memorial Fund, 2024.1. © Nacho Carbonell. Photograph by Ronald Smith, image courtesy of Carpenters Workshop Gallery."
+    credit: "Metal mesh, cork, steel, concrete, and light fittings; 139¾ × 74¾ × 112¼ in. Cincinnati Art Museum: Museum Purchase: Contemporary Art Deaccession Fund, Lawrence Archer Wachs Trust, On to the Second Century Art Purchase Fund, Weston Endowment for Contemporary Art, Jimmie Otten Gillespie Memorial Fund, 2024.1. © Nacho Carbonell. Photograph by Ronald Smith. Image courtesy of Carpenters Workshop Gallery."
     alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
 
   - id: ptl-24710-1
     src: figures/PTL-24710~1.jpg
     caption: Nacho Carbonell, *One-Seater Concrete Tree*, 2022. Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in.
-    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths, image courtesy of Carpenters Workshop Gallery. 
+    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smith. image courtesy of Carpenters Workshop Gallery. 
     alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
     zoom: true
 
@@ -1187,7 +1187,7 @@ figure_list:
   - id: ptl-24735
     src: figures/PTL-24735.jpg
     caption: Andreea Avram Rusu, *Botanica Chandelier*, 2023. Glass, brass, steel, leather, and LED, 135 × 56 × 33 in.
-    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy courtesy of Wexler Gallery.
+    credit: Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
     alt: A chandelier with orange, black, and green tones of blown glass light fixtures hanging from leather stems, inspired by banana flowers and the botanical gardens of Lisbon.
     zoom: true
 
@@ -1448,7 +1448,7 @@ figure_list:
     modal_id: heijdens-inline
     src: figures/PTL-26101.jpg
     caption: Cat. XX Simon Heijdens, *Lightweeds*, 2005. 
-    credit: Location-responsive light projection, dimensions variable. Courtesy of the artist. © Simon Heijdens. Image courtesy of the artist.
+    credit: Location-responsive light projection; dimensions variable. Courtesy of the artist. © Simon Heijdens. Image courtesy of the artist.
     alt: Image of digital light projection on the wall of plant life that reacts to visitors as they pass by. The projection is several feet high.
 
   - id: ptl-26101
@@ -1475,7 +1475,7 @@ figure_list:
   - id: tl-45469-1-extra
     src: figures/TL-45469~1.jpg
     caption: Cat. XX Elena Manferdini, *Wall Flowers (Clover)* (detail), 2022. 
-    credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable, each mirror 48 × 48 × 2 in. Courtesy of the designer. © Elena Manferdini.
+    credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering; dimensions variable, each mirror 48 × 48 × 2 in. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     lightbox_additions: "tl-45469-2-essay, tl-45469-3-essay"
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
