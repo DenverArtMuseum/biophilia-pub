@@ -1381,6 +1381,62 @@ body#page-close-knit-flower-sack {
                     @include background-svg("<svg xmlns='http://www.w3.org/2000/svg' width='82' height='82'><path fill='#FFFFFF' d='M41 1c22.068 0 40 17.932 40 40S63.068 81 41 81 1 63.068 1 41 18.932 1 41 1zm0 4C21.094 5 5 21.094 5 41s16.094 36 36 36 36-16.094 36-36S60.906 5 41 5zm-7.429 17C35.465 22 37 23.701 37 25.8v30.4c0 2.099-1.535 3.8-3.429 3.8H28.43C26.535 60 25 58.299 25 56.2V25.8c0-2.099 1.535-3.8 3.429-3.8zm20 0C55.465 22 57 23.701 57 25.8v30.4c0 2.099-1.535 3.8-3.429 3.8H48.43C46.535 60 45 58.299 45 56.2V25.8c0-2.099 1.535-3.8 3.429-3.8z'/></svg>");
                 }
             }
+
+            .seek-slider {
+                /* webkit range input customization */
+                &::-webkit-slider-runnable-track {
+                    background: $poem-background;
+                }
+                &::before {
+                    background-color: $white;
+                }
+                &::-webkit-slider-thumb {
+                    background: $white;
+                    border-color: $white;
+                }
+                &:active::-webkit-slider-thumb {
+                    background: $white;
+                }
+            
+                /* firefox range input customization */
+                &::-moz-range-track {
+                    background: $poem-background;
+                    border-color: $white;
+                }
+                &::-moz-range-progress {
+                    background-color: $white;
+                }
+                &::-moz-focus-outer {
+                    border: 0;
+                }
+                &::-moz-range-thumb {
+                    background-color: $white;
+                    border-color:$white;
+                }
+                &:active::-moz-range-thumb {
+                    background: $white;
+                }
+            
+                /* old IE range customization */
+                &::-ms-track {
+                    background: $poem-background;
+                    border-color: $white;
+                    color: transparent;
+                }
+                &::-ms-fill-lower {
+                    background-color: $white;
+                }
+                &::-ms-fill-upper {
+                    background-color: $poem-background;
+                }
+                &::-ms-thumb {
+                    background-color: $white;
+                    border-color: $white;
+                }
+                &:active::-ms-thumb {
+                    background: $white;
+                }
+            }
         }
     }
 } // End Close-Knit Flower Sack styles

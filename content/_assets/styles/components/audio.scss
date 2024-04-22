@@ -85,7 +85,7 @@
 
   .play-block {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: column nowrap;
     align-items: center;
     justify-content: space-between;
     margin: px-to-rem(8px) 0;
@@ -107,13 +107,8 @@
     text-align: center;
     font-size: px-to-rem(14px);
     margin: 0;
-
-    // Hiding for stakeholders (under protest)
-    clip: rect(1px, 1px, 1px, 1px);
-    height: 1px;
-    overflow: hidden;
-    position: absolute;
-    width: 1px;
+    position: relative;
+    bottom: px-to-rem(3px);
 
     &.current-time {
       margin-left: px-to-rem(6px);
@@ -127,30 +122,34 @@
     }
   }
 
+  &.playing {
+    .progress-block {
+      display: block;
+    }
+  }
+
+  .progress-block {
+    display: none;
+  }
+
   .seek-slider {
     $track_height: px-to-rem(12px);
     $border_width: px-to-rem(2px);
-    $track_border: $border_width solid $black;
+    $track_border: $border_width solid $off-black;
     $track-radius: px-to-rem(6px);
     $thumb_size: px-to-rem(8px);
 
     -webkit-appearance: none;
     flex-grow: 2;
     flex-shrink: 2;
-    margin: 0 px-to-rem(6px);
+    margin: .5rem px-to-rem(6px) 0;
     min-width: px-to-rem(80px);
     position: relative;
-
-    // Hiding for stakeholders (under protest)
-    clip: rect(1px, 1px, 1px, 1px);
-    height: 1px;
-    overflow: hidden;
-    position: absolute;
-    width: 1px;
+    background: transparent;
 
     /* webkit range input customization */
     &::-webkit-slider-runnable-track {
-      background: $white;
+      background: $off-white;
       border: $track_border;
       border-radius: $track-radius;
       cursor: pointer;
@@ -163,7 +162,7 @@
       top: 0;
       left: 0;
       height: $track_height;
-      background-color: $black;
+      background-color: $off-black;
       border: $track_border;
       border-radius: $track-radius;
       cursor: pointer;
@@ -176,7 +175,7 @@
       border: none;
       height: $track_height - (2 * $border_width);
       width: $thumb_size;
-      background: $black;
+      background: $off-black;
       border-radius: 0;
       border-radius: $track-radius;
       cursor: pointer;
@@ -184,7 +183,7 @@
     }
     &:active::-webkit-slider-thumb {
       transform: scaleY(2) scaleX(1.5);
-      background: $black;
+      background: $off-black;
     }
 
     /* firefox range input customization */
@@ -192,12 +191,12 @@
       width: 100%;
       height: $track_height;
       cursor: pointer;
-      background: $white;
+      background: $off-white;
       border: $track_border;
       border-radius: $track-radius;
     }
     &::-moz-range-progress {
-      background-color: $black;
+      background-color: $off-black;
       height: $track_height;
     }
     &::-moz-focus-outer {
@@ -208,7 +207,7 @@
       border: $track_border;
       height: $track_height;
       width: math.div($thumb_size, 2);
-      background-color: $black;
+      background-color: $off-black;
       border-radius: $track-radius;
       cursor: pointer;
     }
@@ -222,28 +221,28 @@
       width: 100%;
       height: $track_height;
       cursor: pointer;
-      background: $white;
+      background: $off-white;
       border: $track_border;
       border-radius: $track-radius;
       color: transparent;
     }
     &::-ms-fill-lower {
-      background-color: $black;
+      background-color: $off-black;
     }
     &::-ms-fill-upper {
-      background-color: $white;
+      background-color: $off-white;
     }
     &::-ms-thumb {
       box-sizing: content-box;
       border: $track_border;
       height: $track_height;
       width: math.div($thumb_size, 2);
-      background-color: $black;
+      background-color: $off-black;
       border-radius: 0;
       cursor: pointer;
     }
     &:active::-ms-thumb {
-      background: $black;
+      background: $off-black;
     }
   }
 

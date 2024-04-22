@@ -147,6 +147,8 @@
 
   AudioPlayer.prototype.pause = function () {
     this.audio.pause();
+    this.container.classList.remove('playing');
+    this.container.classList.add('paused');
     this.playButton.classList.remove('playing');
     this.playButton.classList.add('paused');
     this.playState = 'paused';
@@ -160,6 +162,8 @@
       this.initSlider();
     }
     this.audio.play();
+    this.container.classList.remove('paused');
+    this.container.classList.add('playing');
     this.playButton.classList.remove('paused');
     this.playButton.classList.add('playing');
     this.playState = 'playing';

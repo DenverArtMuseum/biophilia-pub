@@ -27,9 +27,11 @@ module.exports = function(eleventyConfig) {
   <div class="control-block">
     <div class="play-block">
       <button id="audio-player-play-button-${ id }" class="play-pause-button paused">Play</button>
-      <span id="audio-player-current-time-${ id }" class="time current-time">0:00</span>
-      <input type="range" id="audio-player-seek-slider-${ id }" class="seek-slider" max="100" value="0">
-      <span id="audio-player-duration-${ id }" class="time duration">0:00</span>
+      <div id="audio-player-progress-block-${id}" class="progress-block">
+        <span id="audio-player-current-time-${ id }" class="time current-time">0:00</span>
+        <input type="range" id="audio-player-seek-slider-${ id }" class="seek-slider" max="100" value="0">
+        <span id="audio-player-duration-${ id }" class="time duration">0:00</span>
+      </div>
     </div>
     <div class="volume-block">
       <button id="audio-player-mute-player-${ id }" class="mute-button unmuted">Mute</button>
