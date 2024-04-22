@@ -137,7 +137,7 @@ cite, em, i {
     transform: none;
 }
 .quire:not(.no-js) .quire__primary .quire-navbar {
-    background-color: $off-black;
+    background-color: $desat-off-black;
     min-height: 4.375rem;
 }
 .quire-navbar-controls {
@@ -151,7 +151,7 @@ cite, em, i {
     top: 4.375rem;
 }
 .quire-navbar a {
-    background-color: $off-black;
+    background-color: $desat-off-black;
     color: #ffffff !important;    
 }
 .quire-navbar .nav-text {
@@ -338,7 +338,7 @@ cite, em, i {
 }
 
 .quire-progress-bar div {
-    background-color: $off-black;
+    background-color: $desat-off-black;
 }
 
 .quire-cover__more .hero-more.next-page {

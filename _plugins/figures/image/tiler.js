@@ -50,7 +50,10 @@ module.exports = class Tiler {
     logger.debug(`tiling '${inputPath}'`)
     const format = this.formats.find(({ input }) => input.includes(ext))
     return sharp(inputPath)
-      .toFormat(format.output.replace('.', ''))
+      .toFormat(format.output.replace('.', ''),{
+        quality: 90, // TODO: really should be configurable
+        mozjpeg: true
+      })
       .tile({
         id: new URL(path.join(outputDir, name), this.baseURI).toString(),
         layout: 'iiif',
