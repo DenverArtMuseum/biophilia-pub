@@ -17,4 +17,4 @@ In addition to the sea, Davolio has also long been inspired by art and objects f
 
 <p class="is-aligned-right">Kit Bernal</p>
 
-[^1]: Michon Scott and Rebecca Lindsey, “Unprecedented 3 Years of Global Coral Bleaching, 2014–2017,” Climate.gov: Science & Information for a Climate-Smart Nation, August 1, 2018, <https://www.climate.gov/news-features/understanding-climate/unprecedented-3-years-global-coral-bleaching-2014%E2%80%932017>[.]
+[^1]: Michon Scott and Rebecca Lindsey, “Unprecedented 3 Years of Global Coral Bleaching, 2014–2017,” Climate.gov: Science & Information for a Climate-Smart Nation, August 1, 2018, <https://www.climate.gov/news-features/understanding-climate/unprecedented-3-years-global-coral-bleaching-2014%E2%80%932017>.

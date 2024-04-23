@@ -13,8 +13,8 @@ figure_list:
 
   - id: forest-walk-audio
     media_type: audiofile
-    title: "Listen to Kimberly Ruffin read<br>A Forest Walk: An Audio-Guided Practice"
-    credit: Courtesy [Emergence Magazine](https://emergencemagazine.org/)
+    title: "Listen to <a href=\"https://www.cardinalencounters.com/\">Kimberly Ruffin</a> read<br><em>A Forest Walk: An Audio-Guided Practice</em>"
+    credit: Courtesy [*Emergence Magazine*](https://emergencemagazine.org/)
     audio_src: figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
 
   - id: big-nature-audio
