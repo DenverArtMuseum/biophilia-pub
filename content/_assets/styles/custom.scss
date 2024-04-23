@@ -815,6 +815,14 @@ main[data-page-id^='page-checklist'] .link-to-checklist {
     // the content that precedes them
     unicode-bidi: isolate;
     white-space: nowrap;
+
+    .littlefoot__wrapper {
+        white-space: wrap;
+
+        h5 {
+            display: none;
+        }
+    }
 }
 
 .littlefoot {
