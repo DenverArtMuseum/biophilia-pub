@@ -20,6 +20,7 @@ object_list:
     medium: "Exterior view, 2020<br />Reproduction of digital rendering"
     dimensions: 24 × 42 in.
     credit: Courtesy of and © Studio Gang.
+    labels: Cats. 83–87
     figure:
       - id: "exrr-2023-31-1"
   
@@ -31,6 +32,7 @@ object_list:
     medium: 3-D-printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
+    label: Cat. 41
     link: https://www.denverartmuseum.org/en/object/2015.263
     figure:
       - id: "2015-263"
@@ -45,6 +47,7 @@ object_list:
     medium: Creosote and jute
     dimensions: 13⅜ × 10¼ × 6¾ in. (34 × 26 × 17.1 cm)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
+    label: Cats. 1–3
     link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=aranda%5Clasch#search-results
     figure:
       - id: "2022-160-1"
@@ -59,6 +62,7 @@ object_list:
     medium: 3-D-printed polyamide and copper coating
     dimensions: 28⅜ × 27½ × 30¼ in. (72.1 × 69.9 × 76.8 cm.)
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
+    label: Cat. 41
     link: https://www.denverartmuseum.org/en/object/2015.263
     figure:
       - id: "2015-263"
@@ -71,6 +75,7 @@ object_list:
     dimensions: 30 × 30 in. (76.2 × 76.2 cm)
     year: 2013. 
     credit: Courtesy of the Joris Laarman and Friedman Benda.
+    label: Cat. 42
     figure:
       - id: "exrr-2023-32"
 
@@ -82,6 +87,7 @@ object_list:
     dimensions: 30 × 30 in. (76.2 × 76.2 cm)
     year: 2013. 
     credit: Courtesy of the artist and Friedman Benda.
+    label: Cat. 43
     figure:
       - id: "exrr-2023-33"
 
@@ -91,6 +97,7 @@ object_list:
     title: "<span class=\"hide-title\">Remolten N1: Revolution Stools and Aux Table</span>"
     multi: "Left to right:<div class=\"obj-title\">Remolten N1: Revolution Stool L, Quitralco, Osorno Volcano</div><div class=\"summary\">2016<br />Stoneware and basaltic andesite<br />17¾ in. high (45.1 cm)</div><div class=\"obj-title\">Remolten N1: Revolution Aux Table M, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />8 × 11¾ in. dia. (20.3 × 29.9 cm dia.)</div><div class=\"obj-title\">Remolten N1: Revolution Stool L, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />17¼ × 12½ in. dia. (43.8 × 31.8 cm dia.)</div><br>"
     credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
+    label: Cats. 26–28
     link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=remolten#search-results
     figure:
       - id: "2017-89-91"
@@ -104,6 +111,7 @@ object_list:
     dimensions: 43¼ in. dia. (109.9 cm dia.)
     manufacturer: Produced by Shapeways, New York City.
     credit: "Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, Inc. Image courtesy of Nervous System."
+    label: Cat. 80
     link: https://www.denverartmuseum.org/en/object/2022.57a-u
     figure:
       - id: "2022-57-3"
@@ -155,6 +163,7 @@ object_list:
     medium: Porcelain
     dimensions: 9¾ × 11 in. dia. (24.8 × 27.9 cm dia.) 
     credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photograph by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
+    label: Cat. 10
     link: https://www.denverartmuseum.org/en/object/2023.6
     figure:
       - id: "2023-6"
@@ -166,6 +175,7 @@ object_list:
     multi: "Left to right:<div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />42¼ × 7⅞ in. dia. (07.3 × 19.7 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. dia. (158.8 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted glass shade<br />24½ × 7⅞ in. dia. (62.2 × 19.7 cm dia.)</div><div class=\"obj-title\">Curve Table Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />19 × 11¾ in. dia. (48.3 × 29.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 5⅞ in. dia. (107.3 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />62½ × 5⅞ in. dia. (158.8 × 14.9 cm dia.)</div><div class=\"obj-title\">Curve Floor Lamp</div><div class=\"summary\">2018–19<br />Painted metal base and painted metal shade<br />42¼ × 7⅞ in. dia. (107.3 × 19.7 cm dia.)</div>"
     manufacturer: "<br />Manufactured by Zero Lighting, Nybro, Sweden"
     credit: "Denver Art Museum: Funds from the Colonial Dames of Colorado, by exchange, 2023.186–192. © Front. Image courtesy of Zero Lighting."
+    label: Cats. 19–25
     link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=%22front%20(swedish)%22#search-results
     figure:
       - id: "2023-186-92"
@@ -175,6 +185,7 @@ object_list:
     bio: Japanese, born 1976, active in Brooklyn, New York
     title: "<span class=\"hide-title\">Seasons and Petal Serving Ware</span>"
     multi: "<div class=\"obj-title\">Petals Plate</div><div class=\"summary\">2011<br>Silicone<br>7¼ × 6¼ in. (18.4 × 15.9 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>9½ × 7⅞ in. (24.1 × 20 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>12⅜ × 8⅝ in. (31.4 × 21.9 cm)</div><div class=\"obj-title\">Seasons Serving Platter</div><div class=\"summary\">2011<br>Silicone<br>20½ × 11¾ in. (52.1 × 29.9 cm)</div><br /><div class=\"summary\">Manufactured by COVO, Rome, Italy.</div><div class=\"credit-line\">Denver Art Museum: Exhibition funds from the Denver Art Museum</div><div class=\"credit-line\">Pictured: Nao Tamura, *Seasons Plates*, 2011. Silicone; 9½ × 7⅞ in. ea. Manufactured by COVO, Rome, Italy. Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura</div>"
+    label: Cats. 88–91
     figure:
       - id: "exacc-2022-74-77"
 
@@ -187,6 +198,7 @@ object_list:
     dimensions: Dimensions variable, each component 12½ × 10 in. (31.8 × 25.4 cm)
     manufacturer: Manufactured by Vitra, Birsfelden, Switzerland.
     credit: Exhibition funds from the Denver Art Museum. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Tahon and R. Bouroullec and E. Bouroullec.
+    label: Cat. 5
     figure:
       - id: "exrr-2023-78-1"
       
@@ -198,6 +210,7 @@ object_list:
     medium: Reproduction of ink-on-paper drawing
     dimensions: 9 × 11 in. (22.9 × 27.9 cm)
     credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates/LACMA. Licensed by Art Resource, NY. Reprinted with permission from Greg Lynn and LACMA."
+    label: Cat. 67
     figure:
       - id: "exrr-2022-264"
 
@@ -209,6 +222,7 @@ object_list:
     medium: Reproduction of ink-on-paper drawing
     dimensions: 9 × 11 in. (22.9 × 27.9 cm)
     credit: "Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates/LACMA. Licensed by Art Resource, NY. Reprinted with permission from Greg Lynn and LACMA."
+    label: Cat. 68
     figure:
       - id: "exrr-2022-265"
 
@@ -217,6 +231,7 @@ object_list:
     bio: Established 1997, Chicago
     title: Populus, Denver, Colorado
     multi: "2019–24<br><br><div class=\"summary\">Unrolled elevation and window modules, 2019<br>Reproduction of digital drawing<br>24 × 30 in.</div><div class=\"summary\">Aspen eye research diagram and geometry analysis, 2020<br>Reproduction of color photograph and digital drawing<br>7¼ × 12 in.<br>Photograph by Peng Chen on Unsplash, 2017</div><div class=\"summary\">Exterior view, 2020<br>Reproduction of digital rendering<br>72 × 93¼ in.</div><div class=\"summary\">Exterior view into lobby, restaurant, and amenity spaces, 2020<br>Reproduction of digital rendering<br>24 × 42 in.</div><div class=\"summary\">Model, 2024<br>Wood, plastic, acrylic, fabric, paper, spray paint, and museum board<br>75 × 33 × 33 in.</div><div class=\"credit-line\">All courtesy of Studio Gang.</div><div class=\"credit-line\">Pictured: Studio Gang, Populus, Denver, Colorado, 2019–24. Exterior view, 2020. Digital rendering. Courtesy of and © Studio Gang.</div>"
+    label: Cats. 83–87
     figure:
       - id: "exrr-2023-31-1"
   
@@ -226,6 +241,7 @@ object_list:
     title: Metropol Parasol, Seville, Spain
     multi: "2004-11<br><br><div class=\"summary\">Model, 2005<br>Acrylic, fluorescent lights, and polyurethane<br>13⅞ × 35⅜ × 51¼ in. (35.2 × 89.9 × 130.2 cm)<br>Model by Werk5, Berlin, and Marcus Blum</div><div class=\"credit-line\">The Museum of Modern Art, New York: Fund for the Twenty-First Century, 2006</div><div class=\"summary\">Drawings, 2007<br>Graphite pencil on paper<br>Two, 22 × 15¾ in. each (55.9 × 40 cm)<br>Drawings by Jürgen Mayer H.</div><div class=\"credit-line\">Private collection, Berlin</div><div class=\"summary\">Aerial view, 2011<br>Reproduction of color photograph<br>72 × 96 in. <br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div><div class=\"summary\">View of column and roof, 2011<br>Reproduction of color photograph<br>24 × 16½ in.<br>Photograph by Iñigo Bujedo Aguirre</div><div class=\"credit-line\">Courtesy of Iñigo Bujedo Aguirre</div><div class=\"summary\">View of plaza, 2011<br>Reproduction of color photograph<br>24 × 25 ½ in.<br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div>"
     credit: "Pictured: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view, 2011. Photograph by and courtesy of Fernando Alda Fotógrafo."
+    label: Cats.35–39
     figure:
       - id: "exrr-2023-43-1"
 
@@ -257,6 +273,7 @@ object_list:
     bio: Established 2004, Beijing
     title: Nanjing Zendai Himalayas Center, Nanjing, China
     multi: "2012–21<br><br><div class=\"summary\">Model, 2018<br>Acrylic, crystal, PVC, and wood<br>21⅝ × 90⅝ × 43⅜ in. (54.9 × 110.2 × 230.2 cm)</div><div class=\"summary\">Aerial view, 2021<br>Reproduction of color photograph<br>72 × 95⅝ in.<br>Photograph by CreatAR Images</div><div class=\"summary\">View of center of complex, 2021<br>Reproduction of color photograph<br>22 × 32 in. <br>Photograph by CreatAR Images</div><div class=\"summary\">Video, 2022<br>Duration: 2 min. 8 sec.<br>Video by Blackstation</div><div class=\"credit-line\">All courtesy of MAD Architects</div><div class=\"credit-line\">Pictured: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Aerial view, 2021. © and courtesy of MAD Architects. Photograph by CreatAR Images.</div>"
+    label: Cats. 69–72
     figure:
       - id: "exrr-2023-103-3"
 
@@ -268,6 +285,7 @@ object_list:
     medium: Pigmented ink print
     dimensions: Dimensions variable
     credit: Courtesy of RULE Gallery, Denver. © Jason DeMarte. 
+    label: Cat. 13
     figure:
       - id: "exrr-2023-111"
 
@@ -290,6 +308,7 @@ object_list:
     medium: Hand-tufted wool
     dimensions: dimensions variable, largest piece 90½ × 137¾ in. (229.9 × 349.9 cm)
     credit: "Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio" 
+    label: Cat. 40
     figure:
       - id: ptl-24707
 
@@ -300,6 +319,7 @@ object_list:
     multi: "Left to right:<div class=\"obj-title\">Dessert Fork</div><div class=\"summary\">2007<br>Sterling silver<br>6½ × 1 in. (16.5 × 2.5 cm)</div><div class=\"obj-title\">Tablespoon</div><div class=\"summary\">2007<br>Sterling silver<br>8 × 1¾ in. (20.3 × 4.5 cm)</div><div class=\"obj-title\">Teaspoon</div><div class=\"summary\">2007<br>Sterling silver<br>5½ × 1¼ in. (14 × 3.2 cm)</div><div class=\"obj-title\">Fish Fork</div><div class=\"summary\">2007<br>Sterling silver<br>7½ × 1¼ in. (19 × 3.2 cm)</div><div class=\"obj-title\">Table Knife</div><div class=\"summary\">2007<br>Sterling silver<br>9 × 1 in. (22.9 × 2.5 cm)</div>"
     manufacturer: "<br>Manufactured by Alessi, Curinallo, Italy"
     credit: The Art Institute of Chicago, Celia and David Hilliard Fund; purchased with funds provided by the Architecture & Design Society, 2007.646.1-5. © Greg Lynn FORM. Art Institute of Chicago/Art Resource, NY
+    label: Cats. 62–66
     figure:
       - id: "ptl-24369"
 
@@ -322,6 +342,7 @@ object_list:
     year: "*Human Plant* Collection, Spring/Summer 2020"
     medium: Digitally printed cotton voile and broadcloth
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
+    label: Cat. 93
     figure:
       - id: "ptl-24455"
 
@@ -332,6 +353,7 @@ object_list:
     year: "*Human Plant* Collection, Spring/Summer 2020"
     medium: Laser-cut backed cork
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
+    label: Cat. 94
     figure:
       - id: "ptl-24456"
 
@@ -342,6 +364,7 @@ object_list:
     year: "*Human Plant* Collection, Spring/Summer 2020"
     medium: Hand-pleated organdy with cotton binding and neoprene and Lycra mesh underdress
     credit: Courtesy of threeASFOUR. Photo by Randy Brooke.
+    label: Cat. 95
     figure:
       - id: "ptl-24457"
 
@@ -353,6 +376,7 @@ object_list:
     medium: Molded foam, metal frame, and laser-cut polyester upholstery
     dimensions: 34⅝ × 43⅜ × 44 in. (87.9 × 110.2 × 111.8 cm)
     credit: Textile design by Júlia Esqué. Courtesy of Reisinger Studio.
+    label: Cat. 82
     figure:
       - id: "ptl-24649-1"
 
@@ -362,6 +386,7 @@ object_list:
     title: "<span class=\"hide-title\">Fungus Vases and Polypore Bowl</span>"
     multi: "Left to right:<br><br><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br>Glass<br>9 × 5⅞ in. dia. (22.9 × 14.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2020<br>Glass<br>19⅝ × 6¼ in × 6¾ in. (49.9 × 15.9 × 17.2 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>11 × 9½ in. dia. (27.9 × 24.1 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2020<br>Glass<br>19⅝ × 6¼ × 6¾ in. (49.9 × 15.9 × 17.2 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br>Glass<br>8⅝ × 5½ × 4¾ in. (21.9 × 14 × 12.1 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2023<br>Glass<br>8⅝ × 5½ × 4¾ in. (21.9 × 14 × 12.1 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>13⅜ × 5⅞ in. dia. (34 × 14.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2022<br>Glass<br>20½ × 5⅞ × 6¼ in. (52 × 14.9 × 15.9 cm)</div><div class=\"obj-title\">Polypore Bowl</div><div class=\"summary\">2019, this example 2023<br>Glass<br>7⅛ × 11¾ × 10⅝ in. (18.1 × 29.9 × 27 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2021<br>Glass<br>13¾ × 6¾ × 6¼ in. (34.9 × 17.2 × 15.9 cm)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>12⅝ × 8⅝ in. dia. (32.1 × 21.9 cm dia.)</div><div class=\"obj-title\">Fungus Vase</div><div class=\"summary\">2018, this example 2022<br>Glass<br>9 × 6⅝ × 6¼ in. (22.9 × 16.8 × 15.9 cm)</div><br>"
     credit: "Funds from Design Council of the Denver Art Museum, 2024.130–141. © David Valner. Photography by Tereza Valnerová."
+    label: Cats. 96–107
     figure:
       - id: ptl-24650-59-63-64
 
@@ -373,6 +398,7 @@ object_list:
     medium: Polyurethane, rubber, fiberglass, and polyester
     dimensions: 36 × 98 × 59 in. (91.4 × 248.9 × 149.9 cm)
     credit: Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy David Gill Gallery. Photo by Alejandro Olaya Torres.
+    label: Cat. 16
     figure:
       - id: "ptl-24660-1"
 
@@ -384,6 +410,7 @@ object_list:
     medium: Polyurethane, pigment, and steel
     dimensions: 21 × 15 × 7 in. (53.3 × 38.1 × 17.8 cm)
     credit: Artwork and image © and courtesy of Fredrikson Stallard.
+    label: Cat. 17
     figure:
       - id: "ptl-24661"
 
@@ -395,6 +422,7 @@ object_list:
     medium: Polyurethane, pigment, and steel
     dimensions: 24 × 12 × 7 in. (61 × 30.5 × 17.8 cm)
     credit: Artwork and image © and courtesy Fredrikson Stallard.
+    label: Cat. 18
     figure:
       - id: ptl-24662
 
@@ -407,6 +435,7 @@ object_list:
     dimensions: 118 × 158 in. (299.7 ×  401.3 cm.)
     manufacturer: Manufactured by GAN, Valencia, Spain
     credit: "Courtesy of GAN by Gandia Blasco Group. Image courtesy of GAN USA. GAN by Gandia Blasco Group. @gan_rugs."
+    label: Cat. 9
     figure:
       - id: "ptl-24663"
 
@@ -418,6 +447,7 @@ object_list:
     medium: Painted cast cotton paper, patinated steel, and LEDs
     dimensions: 96 × 82 in. dia. (243.8 × 208.3 cm dia.)
     credit: Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image © Daniel Seung Lee and courtesy of PELLE.
+    label: Cat. 81
     figure:
       - id: "ptl-24672"
 
@@ -429,6 +459,7 @@ object_list:
     medium: Grey Emperador marble
     dimensions: 15¾ × 43¼ in. dia.
     credit: Courtesy of the designer and Carpenters Workshop Gallery. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    label: Cat. 44
     figure:
       - id: "ptl-24698-6"
 
@@ -440,6 +471,7 @@ object_list:
     medium: Digital weather station with steel, resin, and light fittings
     dimensions: 7⅞ × 37 in. dia. (20 × 94 cm dia.)
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
+    label: Cat. 61
     figure:
       - id: "ptl-24699-4"
 
@@ -451,6 +483,7 @@ object_list:
     medium: Polished bronze
     dimensions: 17¾ × 14½ × 21¼ in. (45.1 × 36.8 × 54 cm)
     credit: Courtesy of the designer. © Mathieu Lehanneur. Image © Leandro Viana, courtesy of Mathieu Lehanneur.
+    label: Cat. 45
     figure:
       - id: "ptl-24700"
 
@@ -460,6 +493,7 @@ object_list:
     title: "<span class=\"hide-title\">50 Seas</span>"
     multi: "<div class=\"obj-title\">Sea 1: Atlantic Ocean, Guinea-Bissau</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 2: Red Sea, Sudan</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 11: Great Lakes, United States/Canada</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 13: Hudson Bay, Belcher Islands, Canada</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 21: Pacific Ocean, Valparaiso, Chile</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 28: East China Sea, Taizhou, China</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 31: Sea of Japan, Tsugaru Straits, Japan</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 32: Palk Strait, India/Sri Lanka</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 33: Caspian Sea, Atyrau, Kazakhstan</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 34: Black Sea, Karkinit Bay, Ukraine</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 41: Baie de Somme, Le Manche, France</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 42: Baltic Sea, Kalmar, Sweden</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 47: Persian Gulf, Bahrain/Qatar/United Arab Emirates</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 49: Coral Sea, Australia</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 50: Hawke Bay, Napier, New Zealand</div><div class=\"summary\">2018<br>Enameled faience (glazed earthenware)<br>19⅝ in. dia. (49.9 cm dia.)</div>"
     credit: "<br>Courtesy of the designer. © Mathieu Lehanneur."
+    label: Cats. 46–60
     figure:
       - id: "ptl-24701-2"
 
@@ -472,6 +506,7 @@ object_list:
     dimensions: 59 × 47 × 48 in. (149.9 × 119.4 × 121.9 cm)
     manufacturer: Manufactured by Louis Vuitton, Paris for Objets Nomades
     credit: Louis Vuitton Collection.
+    label: Cat. 7
     figure:
       - id: "ptl-24704"
 
@@ -492,6 +527,7 @@ object_list:
     medium: Site-specific kinetic sculpture with aluminum, stainless steel, printed fabric, LEDs, and robotics
     dimensions: Dimensions variable
     credit: Represented by Pace Gallery. © 2024 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
+    label: Cat. 14
     figure:
       - id: "ptl-24706-1"
       - id: "ptl-24706-2"
@@ -504,6 +540,7 @@ object_list:
     medium: Metal mesh, cork, steel, concrete, and light fittings
     dimensions: 139¾ × 74¾ × 112¼ in. (355 × 189.9 × 285.1 cm)
     credit: "Cincinnati Art Museum: Museum Purchase: Contemporary Art Deaccession Fund, Lawrence Archer Wachs Trust, On to the Second Century Art Purchase Fund, Weston Endowment for Contemporary Art, Jimmie Otten Gillespie Memorial Fund, 2024.1. © Nacho Carbonell. Photo by Ronald Smith. Image courtesy of Carpenters Workshop Gallery."
+    label: Cat. 8
     figure:
       - id: "ptl-24710-2"
 
@@ -514,6 +551,7 @@ object_list:
     year: "*Sensory Seas* Collection, Spring/Summer 2020"
     medium: Oil paintings by Shelee Carruthers digitally printed on organza
     credit: Courtesy of Iris van Herpen. © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen.
+    label: Cat. 109
     figure:
       - id: "ptl-24721-1"
 
@@ -537,6 +575,7 @@ object_list:
     medium: Sycamore veneers and resin
     dimensions: 39⅜ × 110¼ × 15¾ in. (100 × 280 × 40 cm)
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photoraphy courtesy of James Harris and Sarah Myerscough Gallery.
+    label: Cat. 15
     figure:
       - id: "ptl-24736-1"
 
@@ -547,6 +586,7 @@ object_list:
     multi: "Left to right:<br><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>7⅞ × 13⅜ in. dia. (19.7 × 34 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Carrara marble<br>18⅞ × 15¾ in. dia. (47.9 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Statuario marble<br>7⅞ × 17 in. dia. (20 × 43.2 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bianco Covelano Bluette marble<br>13⅜ × 15¾ in. dia. (34 × 40 cm dia.)</div><div class=\"obj-title\">Tau Vase</div><div class=\"summary\">2015<br>Bardiglio Nuvolato marble<br>29⅛ × 19⅝ in. dia. (74 × 49.9 cm dia.)</div>"
     manufacturer: "<br>Manufactured by Citco, Rivoli Veronese, Italy"
     credit: Courtesy of CITCO USA CORP. Photograph by Jacopo Spilimbergo, courtesy of Zaha Hadid Design.
+    label: Cats. 29–33
     figure:
       - id: "ptl-25093-97"
 
@@ -557,6 +597,7 @@ object_list:
     year: "*Syntopia* Collection, Autumn/Winter 2018"
     medium: Laser-cut Mylar and cotton heat-bonded onto organza
     credit: "Courtesy of Iris van Herpen. © Iris van Herpen. Photograph by Gio Staiano; styling: Patti Wilson; make-up: Terry Barber & the MAC Cosmetics France PRO Team; hair: Martin Cullen; manicure: Jessica Scholten. Image courtesy of Iris van Herpen."
+    label: Cat. 108
     figure:
       - id: "ptl-25107-1"
       - id: "ptl-25107-2"
@@ -569,6 +610,7 @@ object_list:
     medium: Unglazed porcelain
     dimensions: 3½  × 14 in. dia. (8.3 × 35.6 cm dia.)
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    label: Cat. 75
     figure:
       - id: "ptl-25721-1"
 
@@ -580,6 +622,7 @@ object_list:
     medium: Stoneware
     dimensions: 3 × 13 in. dia. (7.6 × 33 cm dia.)
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    label: Cat. 76
     figure:
       - id: "ptl-25722-1"
 
@@ -591,6 +634,7 @@ object_list:
     medium: Glazed stoneware
     dimensions: 19 × 15 in. dia. (48.3 × 38.1 cm)
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    label: Cat. 77
     figure:
       - id: "ptl-25723-1"
 
@@ -601,7 +645,8 @@ object_list:
     year: 2019-23
     medium: Glazed stoneware
     dimensions: 13 × 17 × 18 in. (7.6 × 43.2 × 45.7 cm)
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena
+    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    label: Cat. 78
     figure:
       - id: "ptl-25724-1"
 
@@ -613,6 +658,7 @@ object_list:
     medium: Glazed stoneware
     dimensions: 19 × 15 in. dia. (48.3 × 38.1 cm dia.)
     credit: Courtesy of the artist and R & Company. © Brad Miller. Image courtesy of R & Company and the artist. 
+    label: Cat. 79
     figure:
       - id: "ptl-25725"
 
@@ -623,6 +669,7 @@ object_list:
     year: 2020
     medium: Six channels, interactive digital installation, endless; sound by Hideaki Takahashi
     credit: "Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the artist and Pace Gallery."
+    label: Cat. 92
     figure:
       - id: "ptl-25755-1"
 
@@ -634,6 +681,7 @@ object_list:
     medium: Location-responsive light projection
     dimensions: Dimensions variable
     credit: Courtesy of the artist. © Simon Heijdens.
+    label: Cat. 34
     figure:
       - id: "ptl-26101"
 
@@ -645,6 +693,7 @@ object_list:
     medium: Porcelain
     dimensions: 16½ × 10 in. dia. (41.9 × 25.4 cm dia.)
     credit: Courtesy of J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
+    label: Cat. 11
     figure:
       - id: "ptl-26114"
 
@@ -656,6 +705,7 @@ object_list:
     medium: Porcelain
     dimensions: 8 × 8 in. dia. (20.3 × 20.3 cm dia.)
     credit: Courtesy of J. Lohmann Gallery, New York. © Sandra Davolio. Photography by Anna Meldal.
+    label: Cat. 12
     figure:
       - id: "ptl-26115"
   
@@ -667,6 +717,7 @@ object_list:
     medium: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering
     dimensions: Dimensions variable, each mirror 48 × 48 × 2 in. (121.9 × 121.9 × 5.1 cm)
     credit: Courtesy of and © Elena Manferdini
+    label: Cat. 73
     figure:
       - id: "tl-45469-1"
       - id: "tl-45469-2"
@@ -680,6 +731,7 @@ object_list:
     medium: Interactive software program
     dimensions: Dimensions variable 
     credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
+    label: Cat. 6
     figure:
       - id: "2015-267"
 
@@ -692,6 +744,7 @@ object_list:
     dimensions: Various dimensions
     manufacturer: Manufactured by Ottaviani, Recanati, Italy
     credit: Courtesy of and © Elena Manferdini
+    label: Cat. 74
     figure:
       - id: "tl-45470"
 
@@ -701,6 +754,7 @@ object_list:
     title: "<span class=\"hide-title\">Midnight in the Meadow Wallpaper</span>"
     multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>1/2 in. × 1 1/4 in. dia.</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in.</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in.</div>"
     credit: Courtesy of Wiseman Studio
+    label: Cats. 110–113
     year: 2023
     figure:
       - id: exacc-2023-105
