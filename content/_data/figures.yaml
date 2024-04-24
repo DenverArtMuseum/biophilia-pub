@@ -227,6 +227,7 @@ figure_list:
     modal_id: detail-inline
     src: figures/2022_160~2_FPO.jpg
     caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 02* (detail), 2022. 
+    label: Cat. 1
     credit: "Desert globemallow, agave fiber, and jute, 16 × 11 × 9 3/4 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.160. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 02 basket. Small flecks of brown and red in the textured, white material of the basket.
 
@@ -264,6 +265,7 @@ figure_list:
     modal_id: detail-inline
     src: figures/2022_162~2_FPO.jpg
     caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09* (detail), 2022. 
+    label: Cat. 3
     credit: "Creosote and jute; 13⅜ × 10¼ × 6¾ in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: Close-up detail image of Desert Paper 09 basket. The surface is light brown with flecks of dark organic material, and a bumpy but delicate texture.
 
@@ -441,7 +443,8 @@ figure_list:
   - id: exrr-2023-31-5
     modal_id: diagram-inline
     src: figures/EXRR_2023_31_5.jpg
-    caption: Fig. 2 Studio Gang, Populus, Denver, Colorado. Environmental systems and social connectivity, 2023. Digital diagram.
+    caption: Studio Gang, Populus, Denver, Colorado. Environmental systems and social connectivity, 2023. Digital diagram.
+    label: Fig. 2
     credit: © and courtesy Studio Gang
     alt: "diagram of the Populus building. It highlights VIEWS: Aspen Eye and Roof Terrace; ENERGY: Efficient Mechanical Systems, Concrete Structure, High Performance Envelope; URBAN AMENITIES: Café, Bike Share Stations, Bike Lanes, No On-Site Parking; and SOCIAL CONNECTIVITY: Urban Living Room, and Local Food."
 
@@ -649,7 +652,8 @@ figure_list:
   - id: exrr-2023-101
     modal_id: aspen-inline
     src: figures/EXRR_2023_101.jpg
-    caption: Fig. 1 Aspen Grove.
+    caption: Aspen Grove.
+    label: Fig. 1
     credit: Courtesy Unsplash/Photograph by Peng Chen, 2017.
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. Yellow and green leaves deep in the background.
 
@@ -715,7 +719,8 @@ figure_list:
   - id: exrr-2023-137-essay
     modal_id: kehayoglou-inline
     src: figures/EXRR_2023_137.jpg
-    caption: Fig. 1 Alexandra Kehayoglou, *Santa Cruz River*, 2017. 
+    caption: Alexandra Kehayoglou, *Santa Cruz River*, 2017. 
+    label: Fig. 1
     credit: "Wool, 382⅞ × 165⅜ in. National Gallery of Victoria, Melbourne: Purchased NGV Foundation with the assistance of Michael and Andrew Buxton from MAB Corporation Pty Ltd, and the Andrew and Geraldine Buxton Foundation, 2018. © Alexandra Kehayoglou. Photograph by National Gallery of Victoria, Melbourne"
     alt: Topographic rug of the Santa Cruz River in Argentina. The light blue river twists and turns through the center of the rug. The surrounding land on the top and bottom is different shades of light browns and dotted with dark greens.
 
@@ -739,7 +744,8 @@ figure_list:
 
   - id: ptl-24707-4
     src: figures/PTL-24707~4.jpg
-    caption: Fig. 2 Alexandra Kehayoglou, *Bajío* (Lowland) (detail), 2024. 
+    caption: Alexandra Kehayoglou, *Bajío* (Lowland) (detail), 2024. 
+    label: Cat. 40
     credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photograph by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
 
@@ -1584,7 +1590,8 @@ figure_list:
     
   - id: exrr-2024-44-2
     src: figures/EXRR_2024_44_2.jpg
-    caption: Fig. 3 
+    caption:
+    label: Fig. 2
     credit: 
     alt:
 
