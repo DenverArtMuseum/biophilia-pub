@@ -34,7 +34,8 @@ figure_list:
 
   - id: vid-exrr-2023-44
     media_type: vimeo
-    caption: Fig. 4 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. © MAD Architects. Video by Blackstation, 2022. 
+    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. © MAD Architects. Video by Blackstation, 2022. 
+    label: Fig. 4
     media_id: "911666850"
     poster: figures/nanjing-poster.jpg
     alt: Several towering buildings with articulated white ridges tower over a plaza.
@@ -68,7 +69,8 @@ figure_list:
 
   - id: vid-exrr-2023-96
     media_type: vimeo
-    caption: Fig. 3 gt2P, *Remolten* process, 2016. © Gt2P Spa
+    caption: gt2P, *Remolten* process, 2016. © Gt2P Spa
+    label: Fig. 3
     media_id: "911666952"
     poster: figures/exrr_2023-96_poster.jpg
     alt: A person's hand adds sandy material to a silver bowl on a table.
@@ -132,7 +134,8 @@ figure_list:
   - id: "2017-89-91-essay"
     modal_id: modal-2017-89-91
     src: figures/2017_89-91.jpg
-    caption: "Cats. XX–XX gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*, 2016–17."
+    caption: "gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*, 2016–17."
+    label: Cats. 26–28
     credit: "Stoneware and basaltic andesite; various dimensions. Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
     alt: Three cylindrically shaped stools. The left and center stools are the same height; the stool on the right is half the height of the others. The surface of the stools is a dark, brownish gray volcanic lava that drips down the sides.
 
@@ -230,7 +233,8 @@ figure_list:
   - id: 2022-161-essay
     modal_id: desert-paper
     src: figures/2022_161.jpg
-    caption: Cat. XX Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 05*, 2022. 
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 05*, 2022. 
+    label: Cat. 2
     credit: "Desert marigold, jute, and abaca, 19⅛ × 10⅞ × 10 in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: A light sandy-brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and folds that reach upward into jagged points at the top.
 
@@ -244,7 +248,8 @@ figure_list:
   - id: 2022-162-1-essay
     modal_id: desert-paper
     src: figures/2022_162.jpg
-    caption: Cat. XX Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09*, 2022. 
+    caption: Aranda&#92;Lasch and Terrol Dew Johnson, *Desert Paper 09*, 2022. 
+    label: Cat. 9
     credit: "Creosote and jute, 13⅜ × 10¼ × 6¾ in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2022.161. © Aranda&#92;Lasch and Terrol Dew Johnson. Photo courtesy of Volume Gallery."
     alt: A light brown, textured basket construction. It is made of desert matter mixed with natural pulp. The basket has a flat base and gentle folds that reach upward into several points at the top.
 
@@ -279,7 +284,8 @@ figure_list:
   - id: exrr-2023-94-essay
     modal_id: modal-2023-94
     src: figures/AF_2000_gottlieb-me_mcdowell.jpg
-    caption: Fig. 1 McDowell Sonoran Preserve.
+    caption: McDowell Sonoran Preserve.
+    label: Fig. 1
     credit: Photograph © by Marc Elliot Gottlieb, 2009, licensed courtesy of Artifract®.
     alt: Color photograph of the Sonoran Desert at sunset. Cacti and yellow desert flowers populate the foreground, with gentle mountains in the background.
 
@@ -384,7 +390,8 @@ figure_list:
   - id: exrr-2023-31-1-essay
     modal_id: populus-inline
     src: figures/EXRR_2023_31_1.jpg
-    caption: Cat. XX Studio Gang, Populus, Denver, Colorado, 2019–24. 
+    caption: Studio Gang, Populus, Denver, Colorado, 2019–24. 
+    label: Cat. 85
     credit: Exterior view, 2020. Digital rendering. © and courtesy of Studio Gang.
     alt: Digital rendering of a white building with architecture inspired by the Aspen tree. It is between two one-way streets, with cars going in different directions
 
@@ -398,7 +405,8 @@ figure_list:
   - id: exrr-2023-31-3-essay
     modal_id: populus-inline
     src: figures/EXRR_2023_31_3.jpg
-    caption: Cat. XX Studio Gang, Populus, Denver, Colorado, 2019–24. Unrolled elevation and window modules, 2019. 
+    caption: Studio Gang, Populus, Denver, Colorado, 2019–24. Unrolled elevation and window modules, 2019. 
+    label: Cat. 83
     credit: Digital drawing. © and courtesy of Studio Gang.
     alt: "Architectural plan of the side of the Populus building showing elevations and window modules. At the top, details of the “Micro-Unit Grand Window,” “Micro-Unit Seat Window,” “Micro-Unit Lounge Window,” “Ground Floor Storefront,” and “Rooftop Lounge.”"
 
@@ -625,7 +633,8 @@ figure_list:
   - id: exrr-2023-95-essay
     modal_id: modal-2023-95
     src: figures/EXRR_2023_95_1.jpg
-    caption: Fig. 2 Osorno Volcano, Chile.
+    caption: Osorno Volcano, Chile.
+    label: Fig. 2
     credit: Image © and courtesy of Gt2P Spa.
     alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
     zoom: true
@@ -654,7 +663,8 @@ figure_list:
   - id: exrr-2023-103-1-essay
     modal_id: nanjing-inline
     src: figures/EXRR_2023_103_1.jpg
-    caption: Cat. XX MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. 
+    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. 
+    label: Cat. 71
     credit: View of center of complex, 2021. Courtesy of MAD Architects. © MAD Architects. Photograph by CreatAR Images.
     alt: Color photo of the Nanjing Zendai Himalayas Center. Towering buildings with articulated white ridges soar above smaller scale buildings and connecting pathways and green spaces in a city center. 
 
@@ -675,7 +685,8 @@ figure_list:
   - id: exrr-2023-103-3-essay
     modal_id: nanjing-inline
     src: figures/EXRR_2023_103_3.jpg
-    caption: Cat. XX MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. 
+    caption: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. 
+    label: Cat. 70
     credit: Aerial view, 2021. Courtesy of MAD Architects. © MAD Architects. Photograph by CreatAR Images.
     alt: Aerial view at dusk of Nanjing Zendai Himalayas Center. The center is brightly lit and surrounded by the rest of the city; a major road, and a river to the left. Soft gray clouds in the orange sky at the top of the frame.
 
@@ -734,7 +745,8 @@ figure_list:
 
   - id: ptl-24707-5
     src: figures/PTL-24707~5.jpg
-    caption: Cat. XX Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
+    caption: Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
+    label: Cat. 40
     credit: "Hand tufted wool, 118 × 147½ in. Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photograph by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     alt: Topographic rug, with various shades of green and brown.
 
@@ -1171,7 +1183,8 @@ figure_list:
   - id: ptl-24710-1-essay
     modal_id: tree-inline
     src: figures/PTL-24710~1.jpg
-    caption: Cat. XX Nacho Carbonell, *One-Seater Concrete Tree*, 2022. 
+    caption: Nacho Carbonell, *One-Seater Concrete Tree*, 2022. 
+    label: Cat. 8
     credit: "Metal mesh, cork, steel, concrete, and light fittings; 139¾ × 74¾ × 112¼ in. Cincinnati Art Museum: Museum Purchase: Contemporary Art Deaccession Fund, Lawrence Archer Wachs Trust, On to the Second Century Art Purchase Fund, Weston Endowment for Contemporary Art, Jimmie Otten Gillespie Memorial Fund, 2024.1. © Nacho Carbonell. Photograph by Ronald Smith. Image courtesy of Carpenters Workshop Gallery."
     alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
 
@@ -1577,6 +1590,7 @@ figure_list:
 
   - id: exrr-2024-44-1
     src: figures/EXRR_2024_44_1.jpg
-    caption: Fig. xx
+    caption: 
+    label: Fig. 3
     credit:
     alt:
