@@ -42,7 +42,8 @@ figure_list:
   - id: vid-exrr-2023-89
     lightbox_mode: exclude
     media_type: vimeo
-    caption: Fig. 4 Nervous System, Growth of Hyphae and Floraform systems for *Floraform Chandelier*, 2017. Courtesy of Nervous System. © Nervous System, inc.
+    caption: Nervous System, Growth of Hyphae and Floraform systems for *Floraform Chandelier*, 2017. Courtesy of Nervous System. © Nervous System, inc.
+    label: Fig. 2
     media_id: "911666902"
     poster: figures/exrr_2023_89_poster.jpg
     alt: A video still of the pinkish-white Floraform Chandelier against a dark background. 
@@ -52,6 +53,7 @@ figure_list:
     aspect_ratio: manferdini
     media_type: vimeo
     caption: Elena Manferdini, *Wall Flowers*, 2018. Computer animation. © Elena Manferdini.
+    label: Fig. 1
     media_id: "911666911"
     poster: figures/exrr_2023_90_poster.jpg
     alt: A video still of Wall Flowers, an acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites.
@@ -108,7 +110,8 @@ figure_list:
   - id: 2015-263-essay
     modal_id: laarman-inline
     src: figures/2015_263.jpg
-    caption: "Cat. XX Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype*, 2014."
+    caption: "Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype*, 2014."
+    label: Cat. 41
     credit: "3-D-printed polyamide and copper coating, 28⅜ × 27½ × 30¼ in. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2015.263. © Joris Laarman."
     alt: A shiny, copper-colored chair with no arms. The body of the chair is composed of a mesh of overlapping, long, vertical oval rings. From the bottom, the four legs of the chair branch upward toward the body into smaller and smaller branches, like the branches of a tree, to support the seat structure.
 
@@ -160,7 +163,7 @@ figure_list:
 
   - id: 2022-57-3-essay
     src: figures/2022_57~3.jpg
-    label: Fig. 2
+    label: Cat. 80
     caption: Nervous System, *Floraform Chandelier*, 2017. 
     credit: "3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City. Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: An undulating flower-like surface composed of ten branching structures made of 3D-printed nylon. The large yet airy design casts a dense forest of shadows that envelop the viewer in an environment of algorithmically grown plant forms.
@@ -175,7 +178,8 @@ figure_list:
   - id: 2022-57-4-essay
     modal_id: shapeways-inline
     src: figures/2022_57~4.jpg
-    caption: Fig. 3 Nervous System, *Floraform Chandelier*, 2017. 
+    caption: Nervous System, *Floraform Chandelier*, 2017. 
+    label: Fig. 1
     credit: "3-D-printed nylon, 43¼ in. dia. Produced by Shapeways, New York City. Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: Image of the Floraform Chandelier lit and casting shadows. 
 
@@ -189,7 +193,8 @@ figure_list:
   - id: 2022-57-5-essay
     modal_id: shapeways-inline
     src: figures/2022_57~5-essay.jpg
-    caption: Cat. XX Nervous System, *Floraform Chandelier*, 2017.
+    caption: Nervous System, *Floraform Chandelier*, 2017.
+    label: Cat. 80
     credit: "3-D-printed nylon and LED, 43¼ in. dia. Produced by Shapeways, New York City. Denver Art Museum: Funds from the Architecture and Design Collectors’ Council, 2022.57. © Nervous System, inc. Image courtesy of Nervous System."
     alt: A person stands under Floraform Chandelier and holds out an arm, which is cast in shadows from the artwork, as is the wall behind. 
 
@@ -326,7 +331,8 @@ figure_list:
   - id: exrr-2023-78-1-essay
     modal_id: exrr-2023-78
     src: figures/EXACC_2023_78.jpg
-    caption: Cat. XX Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae), 2004. 
+    caption: Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae), 2004. 
+    label: Cat. 5
     credit: "Injection-molded plastic; dimensions variable, each component 12½ × 10 in. Manufactured by Vitra, Birsfelden, Switzerland. Exhibition funds from Denver Art Museum. © Ronan Bouroullec and Erwan Bouroullec. Photograph © Paul Tahon and R. Bouroullec and E. Bouroullec."
     alt: Image of Algues installation with many individual, yellow-green colored, seaweed-like components attached together at multiple points. The resulting screen looks like organically branching structures. 
 
@@ -346,14 +352,16 @@ figure_list:
   - id: exrr-2022-264-essay
     modal_id: lynn-inline
     src: figures/EXRR_2022_264.jpg
-    caption: Cat. XX Greg Lynn, *Flatware Prototype Sketch*, 2003.  
+    caption: Greg Lynn, *Flatware Prototype Sketch*, 2003.  
+    label: Cat. 67
     credit: "Ink on paper, 9 × 11 in. Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NY."
     alt: "Black ink sketch of flatware. From left to right: a “matrix” sketch of several pieces of overlapping utensils, a “table fork,” a “soup spoon,” a “mocha spoon,” and a “salad fork.” The bottom lefthand corner reads: “Alessi Webbed Flatware, 7 September 2003.”"
 
   - id: exrr-2022-265-essay
     modal_id: lynn-inline
     src: figures/EXRR_2022_265.jpg
-    caption: Cat. XX Greg Lynn, *Flatware Prototype Sketch*, 2003. 
+    caption: Greg Lynn, *Flatware Prototype Sketch*, 2003. 
+    label: Cat. 68
     credit: "Ink on paper, 9 × 11 in. Los Angeles County Museum of Art: Gift of the Artist. © Greg Lynn FORM. Digital Image © 2024 Museum Associates / LACMA. Licensed by Art Resource, NY."
     alt: "Black ink sketch of four pieces of flatware. From left to right: a “table knife,” a “serving” utensil, a “ladle,” and a “cake spatula.” The bottom righthand corner reads: “Alessi Webbed Flatware, 7 September 2003.”"
 
@@ -436,7 +444,8 @@ figure_list:
   - id: exrr-2023-32-essay
     modal_id: modal-2023-32
     src: figures/EXRR_2023_32.jpg
-    caption: Fig. 1 Joris Laarman, *Adaptation Chair* Design Study, 2013. Digital drawing
+    caption: Joris Laarman, *Adaptation Chair* Design Study, 2013. Digital drawing
+    label: Cat. 42
     credit: Courtesy of the artist and Friedman Benda.
     alt: Digital process rendering sketch. Side view.
 
@@ -457,14 +466,16 @@ figure_list:
   - id: exrr-2023-43-1-essay
     modal_id: metropol-inline
     src: figures/EXRR_2023_43_1.jpg
-    caption: Cat. XX J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. 
+    caption: J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. 
+    label: Cat. 37
     credit: Aerial view, 2011. © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Aerial color photograph of the Metropol Parasol in Seville, Spain. The giant latticed timber canopy is surrounded by the red tiled roofed buildings of the city.
 
   - id: exrr-2023-43-2-essay
     modal_id: metropol-inline
     src: figures/EXRR_2023_43_2.jpg
-    caption: Cat. XX J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. 
+    caption: J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. 
+    label: Cat. 39
     credit: View of plaza, 2011. © J.MAYER.H. Photograph by Fernando Alda Fotógrafo.
     alt: Color photograph of the plaza underneath the Metropol Parasol in Seville, Spain. Light shines through the latticed roof casting a checker-like pattern on the ground. Dozens of people mill about. 
 
@@ -722,7 +733,8 @@ figure_list:
   - id: ptl-24369-essay
     modal_id: lynn-inline
     src: figures/PTL-24369_1-5.jpg
-    caption: Cat. XX Greg Lynn, *Flatware Set*, 2007. 
+    caption: Greg Lynn, *Flatware Set*, 2007. 
+    label: Cats. 62–66
     credit: Sterling silver, various dimensions. Manufactured by Alessi, Crusinallo, Italy. The Art Institute of Chicago, Celia and David Hilliard Fund; purchased with funds provided by the Architecture & Design Society. © Greg Lynn FORM. Art Institute of Chicago/Art Resource, NY.
     alt: A five-piece, silver, botanical-themed flatware set with two types of forks, two types of spoons, and one knife. The base of each piece is bulbous with vertical lines going up the handle, reminiscent of a seed.
 
@@ -750,7 +762,8 @@ figure_list:
   - id: ptl-24455-essay
     modal_id: dress-figuregroup
     src: figures/PTL-24455_1-3.jpg
-    caption: Cat. XX threeASFOUR, *Autumn Leaf Suit*, *Human Plant* Collection, Spring/Summer 2020. 
+    caption: threeASFOUR, *Autumn Leaf Suit*, *Human Plant* Collection, Spring/Summer 2020. 
+    label: Cat. 93
     credit: Digitally printed cotton voile and broadcloth. Courtesy of threeASFOUR. Photograph by Randy Brooke.
     alt: Front view of a model walking down the runway wearing a three-piece suit with a light-brown, autumn leaf print.
 
@@ -764,7 +777,8 @@ figure_list:
   - id: ptl-24456-essay
     modal_id: dress-figuregroup
     src: figures/PTL-24456A-B.jpg
-    caption: Cat. XX threeASFOUR, *Eve Dress*, *Human Plant* Collection, Spring/Summer 2020. 
+    caption: threeASFOUR, *Eve Dress*, *Human Plant* Collection, Spring/Summer 2020. 
+    label: Cat. 94
     credit: Laser-cut backed brown cork. Courtesy of threeASFOUR. Photograph by Randy Brooke.
     alt: Front view of a model walking down the runway wearing a short, brown dress. The fabric is laser cut in the shape of leaves.
 
@@ -778,7 +792,8 @@ figure_list:
   - id: ptl-24457-essay
     modal_id: dress-figuregroup
     src: figures/PTL-24457A-B.jpg
-    caption: Cat. XX threeASFOUR, *Lily Dress*, *Human Plant* Collection, Spring/Summer 2020. 
+    caption: threeASFOUR, *Lily Dress*, *Human Plant* Collection, Spring/Summer 2020. 
+    label: Cat. 95
     credit: Hand-pleated organdy with cotton binding and neoprene and Lycra mesh underdress. Courtesy of threeASFOUR. Photograph by Randy Brooke.
     alt: Front view of a model walking down the runway wearing a short, ivory colored dress. The dress is circular with the bottom of the circle mid-thigh and the top covering the bottom half of the model’s face. Large pleats radiate around the dress like a folding fan.
 
@@ -792,7 +807,8 @@ figure_list:
   - id: ptl-24649-1-essay
     modal_id: reisinger-inline
     src: figures/PTL-24649~1_FPO.jpg
-    caption: Cat. XX Andrés Reisinger, *Hortensia Armchair*, 2019. 
+    caption: Andrés Reisinger, *Hortensia Armchair*, 2019. 
+    label: Cat. 82
     credit: Molded foam, metal frame, and laser-cut polyester upholstery, 34⅝ × 43⅜ × 44 in. Textile design by Júlia Esqué. Courtesy of Reisinger Studio.
     alt: A wide armchair with short, squat legs, and a deeply indented seat. It is upholstered with light, soft-pink polyester petals. 
     
@@ -819,7 +835,8 @@ figure_list:
   - id: ptl-24650-59-63-64-essay
     modal_id: valner-inline
     src: figures/PTL-24650-59_PTL-26463-64.jpg
-    caption: Cat. XX David Valner, *Fungus Vases* and *Polypore Bowl*, 2018–23. 
+    caption: David Valner, *Fungus Vases* and *Polypore Bowl*, 2018–23. 
+    label: Cats. 96–107
     credit: "Handcrafted glass, various dimensions. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2024.130–141. © David Valner. Photography by Tereza Valnerová."
     alt: Eleven vases and one bowl inspired by the different shapes of mushrooms in different colors, including orange, pink, turquoise, lavender, dark green, and brown.
 
@@ -833,7 +850,8 @@ figure_list:
   - id: ptl-24660-1-essay
     modal_id: stallard-inline
     src: figures/PTL-24660~1.jpg
-    caption: Cat. XX Fredrikson Stallard, *Species 1*, 2015. 
+    caption: Fredrikson Stallard, *Species 1*, 2015. 
+    label: Cat. 16
     credit: Polyurethane, rubber, fiberglass, and polyester, 36 × 98 × 59 in. Courtesy of David Gill Gallery. © Fredrikson Stallard. Image courtesy of David Gill Gallery. Photograph by Alejandro Olaya Torres.
     alt: A deep-red sofa that looks as if it is a mountainous rock formation. The jagged, rocky texture of the sofa casts dark shadows and provides a striking contrast in the shades of red.
 
@@ -887,7 +905,8 @@ figure_list:
   - id: ptl-24672-essay
     modal_id: lamp-inline
     src: figures/PTL-24672.jpg
-    caption: Cat. XX PELLE, *Nana Lure Chandelier*, 2021. 
+    caption: PELLE, *Nana Lure Chandelier*, 2021. 
+    label: Cat. 81
     credit: Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia. Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image © Daniel Seung Lee and courtesy of PELLE.
     alt: A chandelier with six large leaves radiating out from the center. The centers of the leaves are green, gradually turning a brownish red around the edges. The warm glow of light emanates from under each leaf.
 
@@ -958,7 +977,8 @@ figure_list:
 
   - id: ptl-24698-6
     src: figures/PTL-24698~6.jpg
-    caption: Cat. XX Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
+    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
+    label: Cat. 44
     credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is gray marble with white striations. This half of the surface looks like gently rolling waves.
 
@@ -1166,7 +1186,8 @@ figure_list:
   - id: ptl-24721-1-essay
     modal_id: vanherpen-inline
     src: figures/PTL-24721~1.jpg
-    caption: Cat. XX Iris van Herpen, *Diatom Gown*, *Sensory Seas* Collection, Spring/Summer 2020.
+    caption: Iris van Herpen, *Diatom Gown*, *Sensory Seas* Collection, Spring/Summer 2020.
+    label: Cat. 109
     credit: Oil paintings by Shelee Carruthers digitally printed on organza. Courtesy of Iris van Herpen. © Iris van Herpen. Photograph by Gio Staiano; styling by Patti Wilson; makeup by Sil Bruinsma; hair by Martin Cullen; footwear by Trippen; manicure by Jessica Scholten; modeled by Sofochka Sofia. Image courtesy of Iris van Herpen.
     alt: Front view of a model wearing a floor-length dress with long sleeves that completely cover their arms. The drapey material has an aquatic print in seafoam green, black, blue, and purple.
 
@@ -1180,7 +1201,8 @@ figure_list:
   - id: ptl-24735-essay
     modal_id: lamp-inline
     src: figures/PTL-24735-essay.jpg
-    caption: Cat. XX Andreea Avram Rusu, *Botanica Chandelier*, 2023. 
+    caption: Andreea Avram Rusu, *Botanica Chandelier*, 2023. 
+    label: Cat. 4
     credit: Glass, brass, steel, leather, and LEDs, 135 × 56 × 33 in. Courtesy of the artist and Wexler Gallery. © Andreea Avram Rusu. Photograph by Josh Gaddy, courtesy of Wexler Gallery.
     alt: A chandelier with orange, black, and green tones of blown glass light fixtures hanging from leather stems, inspired by banana flowers and the botanical gardens of Lisbon.
 
@@ -1474,7 +1496,8 @@ figure_list:
 
   - id: tl-45469-1-extra
     src: figures/TL-45469~1.jpg
-    caption: Cat. XX Elena Manferdini, *Wall Flowers (Clover)* (detail), 2022. 
+    caption: Elena Manferdini, *Wall Flowers (Clover)* (detail), 2022. 
+    label: Cat. 73
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering; dimensions variable, each mirror 48 × 48 × 2 in. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     lightbox_additions: "tl-45469-2-essay, tl-45469-3-essay"
@@ -1482,7 +1505,8 @@ figure_list:
 
   - id: tl-45469-1-essay
     src: figures/TL-45469~1.jpg
-    caption: Fig. 1 Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    caption: Elena Manferdini, *Wall Flowers (Clover)* (detail), 2022. 
+    label: Cat. 73
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
@@ -1496,7 +1520,8 @@ figure_list:
 
   - id: tl-45469-2-essay
     src: figures/TL-45469~2.jpg
-    caption: Fig. 2 Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    caption: Elena Manferdini, *Wall Flowers (Clover)* (detail), 2022. 
+    label: Cat. 73
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
@@ -1510,7 +1535,8 @@ figure_list:
 
   - id: tl-45469-3-essay
     src: figures/TL-45469~3.jpg
-    caption: Fig. 3 Elena Manferdini, *Wall Flowers (Clover)*, 2022. 
+    caption: Elena Manferdini, *Wall Flowers (Clover)* (detail), 2022. 
+    label: Cat. 73
     credit: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering, dimensions variable. Courtesy of the designer. © Elena Manferdini.
     modal_id: manferdini-figures
     alt: An acrylic mirror with vinyl on top from Wall Flowers. The image shows plant-like animation in bright reds, blues, and whites. The vinyl is a still from a computer-generated animation.
