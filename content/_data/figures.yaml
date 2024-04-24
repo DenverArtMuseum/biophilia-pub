@@ -60,7 +60,8 @@ figure_list:
 
   - id: vid-exrr-2023-93
     media_type: vimeo
-    caption: Fig. 2 DRIFT, *Shylight*, 2006. © 2024 DRIFT. Video by Xinix Films / Arjen van Eijk. 
+    caption: DRIFT, *Shylight*, 2006. © 2024 DRIFT. Video by Xinix Films / Arjen van Eijk. 
+    label: Fig. 2
     media_id: "911666928"
     poster: figures/exrr_2023_93_poster.jpg
     alt: View of a single chandelier from Shylight. It hangs from a stainless-steel wire and has layers of white silk that resemble a half-open bloom.
@@ -74,7 +75,8 @@ figure_list:
 
   - id: vid-exrr-2023-133
     media_type: vimeo
-    caption: Fig. 3 DRIFT, *Meadow*, 2017. © 2024 DRIFT. Video courtesy of DRIFT and the Indianapolis Museum of Art Galleries at Newfields.
+    caption: DRIFT, *Meadow*, 2017. © 2024 DRIFT. Video courtesy of DRIFT and the Indianapolis Museum of Art Galleries at Newfields.
+    label: Fig. 3
     media_id: "911666976"
     poster: figures/exrr_2023_133_poster.jpg
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights.
@@ -542,6 +544,7 @@ figure_list:
     modal_id: modal-2023-91-1
     src: figures/EXRR_2023_91_1.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    label: Fig. 1
     credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A small stone house built into the side of a grassy green hill. It has a door with a window above it in the center, and a pointy roof. Green trees in the background.
 
@@ -549,6 +552,7 @@ figure_list:
     modal_id: modal-2023-91-2
     src: figures/EXRR_2023_91_2.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    label: Fig. 2
     credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: A large clay sphere with cracks running like veins over the surface. 
 
@@ -556,13 +560,15 @@ figure_list:
     modal_id: modal-2023-91-3
     src: figures/EXRR_2023_91_3.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    label: Fig. 3
     credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: View of interior of *Clay Houses*. Empty room with a lofted ceiling that comes to a point. The light brown walls look like cracked clay. 
 
   - id: exrr-2023-91-4-essay
     modal_id: modal-2023-91-4
     src: figures/EXRR_2023_91_4.jpg
-    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. 
+    caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007.
+    label: Fig. 4 
     credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: Close-up image of a wall from *Clay Houses* that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
 
@@ -597,7 +603,8 @@ figure_list:
   - id: exrr-2023-92-essay
     modal_id: shylight-inline
     src: figures/EXRR_2023_92-essay.jpg
-    caption: Fig. 1 DRIFT, *Shylight*, 2006. 
+    caption: DRIFT, *Shylight*, 2006. 
+    label: Fig. 1
     credit: Aluminum, polished stainless steel, silk, LEDs, and robotics. NYCB Tenth Annual Art Series, winter 2023. © 2024 DRIFT, represented by Pace Gallery. Photograph by Andy Romer, image courtesy of NYCB.
     alt: Color photograph of Shylight displayed in the New York City Ballet Theater. Twelve silk chandeliers hang at different levels from a high ceiling. They are all shaped like a flower bloom, but at various stages of opening. A warm, soft light emanates from the chandeliers.
 
@@ -682,7 +689,8 @@ figure_list:
   - id: exrr-2023-104
     modal_id: modal-2023-104
     src: figures/EXRR_2023_104.jpg
-    caption: Fig. 1 Wildflowers in the Gore Range, Colorado.
+    caption: Wildflowers in the Gore Range, Colorado.
+    label: Fig. 1
     credit: iStock.com/Adventure_Photo. 
     alt: Color photograph of wildflowers in the Colorado mountains. In the foreground, the mountain slopes downward from left to right. Hundreds of colorful flowers in orange, purple, red, and yellow, all with green leaves, cover the mountainside. Pine trees and mountain peaks in the background. 
 
@@ -1006,7 +1014,8 @@ figure_list:
   - id: ptl-24699-2-extra
     modal_id: leanneur-inline
     src: figures/PTL-24699~2.jpg
-    caption: Cat. XX Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. 
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011. 
+    label: Cat. 61
     credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. Artwork © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: In the bottom-left corner, the bottom edge of a hospital bed with a blanket hanging over the edge. In the top right corner, the artwork that looks like a circular window to a blue sky with white clouds. 
     lightbox_additions: "ptl-24699-1-essay, ptl-24699-3-essay, ptl-24699-4-essay, ptl-24699-5-essay, ptl-24699-6-essay"
@@ -1021,7 +1030,8 @@ figure_list:
   - id: ptl-24699-3-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~3.jpg
-    caption: Fig. 1 Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011.
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*), 2011.
+    label: Cat. 61
     credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Side view of Tomorrow is Another Day. The artwork is a circular disc with a crescent shaped back. The blue and white screen faces left, with a silver back on the right.
 
@@ -1063,7 +1073,8 @@ figure_list:
   - id: ptl-24699-6-essay
     modal_id: leanneur-inline
     src: figures/PTL-24699~6.jpg
-    caption: Fig. 2 Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*) (detail), 2011. 
+    caption: Mathieu Lehanneur, *Tomorrow Is Another Day* (*Demain est un autre jour*) (detail), 2011. 
+    label: Cat. 61
     credit: Digital weather station with steel, resin, and light fittings; 7⅞ × 37 in. dia. Courtesy of the designer. © Mathieu Lehanneur. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     alt: Close-up of the screen from Tomorrow is Another Day and gauzy white clouds set against a blue sky.
     
@@ -1145,7 +1156,8 @@ figure_list:
   - id: ptl-24706-2-essay
     modal_id: meadow-inline
     src: figures/PTL-24706~2.jpg
-    caption: Cat. XX DRIFT, *Meadow*, 2017. 
+    caption: DRIFT, *Meadow*, 2017. 
+    label: Cat. 14
     credit: Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions. Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
 
@@ -1428,7 +1440,8 @@ figure_list:
   - id: ptl-25755-1-essay
     modal_id: teamlab-inline
     src: figures/PTL-25755~1.jpg
-    caption: Cat. XX teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
+    caption: teamLab, *Flowers and People – A Whole Year per Hour* (detail), 2020. 
+    label: Cat. 92
     credit: "Six channels, interactive digital installation, endless; sound by Hideaki Takahashi. Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the Artist and Pace Gallery."
     alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
@@ -1442,7 +1455,8 @@ figure_list:
   - id: ptl-25755-2-essay
     modal_id: teamlab-inline
     src: figures/PTL-25755~2.jpg
-    caption: Cat. XX teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
+    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
+    label: Cat. 92
     credit: "Six channels, interactive digital installation, endless; sound by Hideaki Takahashi. Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the Artist and Pace Gallery."
     alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
@@ -1469,7 +1483,8 @@ figure_list:
   - id: ptl-26101-essay
     modal_id: heijdens-inline
     src: figures/PTL-26101.jpg
-    caption: Cat. XX Simon Heijdens, *Lightweeds*, 2005. 
+    caption: Simon Heijdens, *Lightweeds*, 2005. 
+    label: Cat. 34
     credit: Location-responsive light projection; dimensions variable. Courtesy of the artist. © Simon Heijdens. Image courtesy of the artist.
     alt: Image of digital light projection on the wall of plant life that reacts to visitors as they pass by. The projection is several feet high.
 
