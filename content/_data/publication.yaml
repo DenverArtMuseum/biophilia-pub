@@ -9,8 +9,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://denverartmuseum.github.io/biophilia-pub/'
-#url: 'http://localhost:8080' # this is required when producing the pdf
+#url: 'https://denverartmuseum.github.io/biophilia-pub/'
+url: 'http://localhost:8080' # this is required when producing the pdf
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -62,7 +62,7 @@ contributor:
     last_name: Ruffin
     title: 
     affiliation: 
-    bio: "Kimberly Ruffin is a Certified Nature and Forest Therapy Guide who leads walks and gives talks in the Chicagoland area and wherever else she is called to serve. She is the author of [*Black on Earth: African American Ecoliterary Traditions*](https://ugapress.org/book/9780820337203/black-on-earth) and Associate Professor of English at Roosevelt University."
+    bio: "[Kimberly Ruffin](https://www.cardinalencounters.com/) is a Certified Nature and Forest Therapy Guide who leads walks and gives talks in the Chicagoland area and wherever else she is called to serve. She is the author of [*Black on Earth: African American Ecoliterary Traditions*](https://ugapress.org/book/9780820337203/black-on-earth) and Associate Professor of English at Roosevelt University."
     url:
     pic:
   - id: florence-williams
@@ -89,7 +89,7 @@ contributor:
     last_name: Sigo
     title: 
     affiliation: 
-    bio: "Cedar Sigo is a poet and member of the Suquamish Tribe. His books include [*Guard the Mysteries* (lectures)](https://www.wavepoetry.com/products/guard-the-mysteries) and most recently [*All This Time* (poems)](https://www.wavepoetry.com/products/all-this-time) both from Wave Books. He lives in Lofall, Washington."
+    bio: "Cedar Sigo is a poet and member of the Suquamish Tribe. His books include [*Guard the Mysteries* (lectures)](https://www.wavepoetry.com/products/guard-the-mysteries) and most recently [*All This Time* (poems)](https://www.wavepoetry.com/products/all-this-time), both from Wave Books. He lives in Lofall, Washington."
     url:
     pic:
   - id: christoph-heinrich

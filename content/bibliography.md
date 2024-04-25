@@ -58,7 +58,7 @@ Nisbet, Elizabeth K., John M. Zelenski, and Steven A. Murphy. “The Nature Rela
 
 Piff, Paul K., Pia Dietze, Matthew Feinberg, Daniel M. Stancato, and Dacher Keltner. “Awe, the Small Self, and Prosocial Behavior.” *Journal of Personality and Social Psychology* 108, no. 6 (2015): 883–99. https://doi.org/10.1037/pspi0000018.
 
-Salingaros, Nikos A. “Fractal Art and Architecture Reduce Physiological Stress.” *Journal of Biourbanism* 2, no. 2 (2012): 11–28, https://journalofbiourbanism.files.wordpress.com/2013/09/jbu-ii-2012-2_nikos-a-salingaros.pdf.
+Salingaros, Nikos A. “Fractal Art and Architecture Reduce Physiological Stress.” *Journal of Biourbanism* 2, no. 2 (2012): 11–28. https://journalofbiourbanism.files.wordpress.com/2013/09/jbu-ii-2012-2_nikos-a-salingaros.pdf.
 
 Taylor, Richard P. “Reduction of Physiological Stress Using Fractal Art and Architecture.” *Leonardo* 39, no. 3 (2006): 245–51. https://doi.org/10.1162/leon.2006.39.3.245.
 
@@ -76,7 +76,7 @@ Carbonell, Nacho. *De Rebus Natura*. Eindhoven, Netherlands: Lecturis, 2015.
 
 Gang, Jeanne, ed. *Studio Gang: Architecture*. London: Phaidon, 2022.
 
-Gang, Jeanne. *The Art of Architectural Grafting*. Zurich: Park Books, 2024.
+———. *The Art of Architectural Grafting*. Zurich: Park Books, 2024.
 
 Ingels, Bjarke, Beatrice Leanza, William Myers, et. al. *DRIFT: Choreographing the Future*. London: Phaidon, 2022.
 
@@ -88,7 +88,7 @@ Lepik, Andres, and Andre Santner, eds. *Metropol Parasol: J. Mayer H*. Ostfilder
 
 Ma Yansong. *MAD Rhapsody*. With contributions by Paul Goldberger and Philip Jodidio. New York: Rizzoli Electa, 2021.
 
-Ma Yansong. *Shanshui City*. With contributions by Hans Ulrich Obrist, Lorenza Baroncelli, et al. Zurich: Lars Müller Publishers, 2015
+———. *Shanshui City*. With contributions by Hans Ulrich Obrist, Lorenza Baroncelli, et al. Zurich: Lars Müller Publishers, 2015
 
 Rus, Mayer, Susan Weber, and David Wiseman. *David Wiseman*. Edited by Ari Wiseman. With a contribution by Bobbye Tigerman. New York: Rizzoli Electa, 2020.
 

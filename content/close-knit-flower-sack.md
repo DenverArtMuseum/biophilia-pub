@@ -51,7 +51,7 @@ image:
 <p class="indent">Orlando, are we even</p>
 <p class="indent">allowing ourselves the present</p>
 <p class="indent">moment anymore?</p>
-<p class="indent">There are still two blankets that sit on either side</p>
+<p class="indent">There are still two blankets that sit on either side.</p>
 <p class="indent">Reimagining can take place at the root of time,</p>
 <p class="indent">out of all necessity</p>
 <p class="indent">we convert the elements</p>
