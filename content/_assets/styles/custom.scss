@@ -715,7 +715,8 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
     font-weight: 700;
 }
 
-.quire-entry__tombstone tr.credit-property {
+.quire-entry__tombstone tr.credit-property,
+.quire-entry__tombstone tr.label-property {
     font-size: 80%;
 }
 .quire-entry__tombstone tr.medium-property {
@@ -723,6 +724,9 @@ q-modal q-lightbox .q-lightbox-ui .q-lightbox-ui__zoom-and-fullscreen {
     & + .credit-property {
         margin-top: .875rem;
     }
+}
+.quire-entry__tombstone tr.label-property {
+    font-weight: 700;
 }
 .quire-entry {
     .quire-page__content {
