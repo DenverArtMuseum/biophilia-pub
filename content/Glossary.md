@@ -29,7 +29,7 @@ Algorithmic Design {#algorithmic-design}
 : The process of using algorithms to produce a design model
 
 Anthropocene {#anthropocene}
-: The period of time during which human activities have had an environmental impact on the Earth; regarded as constituting a distinct geological age
+: The most recent period of time during which human activities have had an environmental impact on the Earth; regarded by many as an unofficial, but distinct, geological age
 
 Anthropocentric {#anthropocentric}
 : Regarding humankind as the central or most important element of existence, especially as opposed to animals, plants, the natural landscape, or the concept of divinity
@@ -140,7 +140,7 @@ Human Ecology Theory {#human-ecology-theory}
 : A theoretical framework that considers the interactions of humans with their environments, including biological, social, and physical aspects, as a system
 
 Hydrology {#hydrology}
-: The scientific study of water on Earth, including its occurrence, circulation, and distribution, chemical and physical properties, and reaction with the environment, including its relation to living things.
+: The scientific study of water on Earth, including its occurrence, circulation, and distribution, chemical and physical properties, and reaction with the environment, including its relation to living things
 
 
 ## I {#i}
@@ -152,7 +152,7 @@ Innate {#innate}
 : Inborn; natural; originating in the mind; existing in, belonging to, or determined by factors present in an individual from birth; belonging to the essential nature of something; inherent; originating in or derived from the mind or the constitution of the intellect rather than from experience
 
 Intrinsic {#intrinsic}
-: Belonging to the essential nature or constitution of a thing; originating or due to causes within a body, organ, or part; originating and included wholly within an organ or part
+: Belonging to the essential nature or constitution of a thing; originating from or due to causes within a body, organ, or part; originating from and included wholly within an organ or part
 
 
 ## M {#m}
