@@ -1165,6 +1165,50 @@ body#page-intro .quire-page__header.hero-image .hero-body  .quire-page__header__
     height: calc( 100vh - 4.375rem );
     /* max-height: calc( 100vh - 4.375rem ); */
 }
+#page-big-nature-big-art {
+  
+  .quire-page.quire-essay .hero,
+  .quire-page.quire-essay .hero-image {
+    /* Estate doesn't like this image getting slightly cropped
+     * Needs a different aspect ratio. Not optional.
+     */
+    height: min(40vw - 4.375rem, 100vh - 4.375rem);
+  }
+  .hero-body {
+    margin: 0 3rem;
+  }
+  .quire-page h1.quire-page__header__title {
+    font-size: 1.25rem;
+  }
+}
+.quire-page__header__contributor .quire-contributor__name {
+  font-size: 1rem;
+}
+
+@media screen and (min-width: $widescreen) {
+  #page-big-nature-big-art {
+    .hero-body {
+      margin: 0 5rem;
+    }
+    .quire-page h1.quire-page__header__title {
+      font-size: 2em;
+    }
+  }
+  .quire-page__header__contributor .quire-contributor__name {
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (min-width: $fullhd) {
+  #page-big-nature-big-art {
+    .hero-body {
+      margin: 0 7rem;
+    }
+    .quire-page h1.quire-page__header__title {
+      font-size: 3em;
+    }
+  }
+}
 .quire-page.quire-essay section.quire-page__content {
     width: 100%;
 }
