@@ -110,6 +110,14 @@ Desarae Cruz, Preparation Assistant/Lighting Focus
 Christina Jackson, Manager of Photographic Services
 Bruce Fernandez, Photographer
 Eric Stephenson, Photographer
+Juhl Wojahn, Collections Manager
+Stefani Pendergast, Associate Collections Manager
+Ashley Muggli, Assistant Collections Manager
+Laura Wingate, Assistant Collections Manager
+Laura Kotalik, Collections Assistant
+Chelsea Rieu-Torrez, Collections Assistant
+Mallory Evans, former Collections Assistant
+Nessa Kerr, former Collections Assistant
 	 
 ### Learning & Engagement
 Clara Ricciardi, Senior Spanish Language and Community Engagement Liaison
