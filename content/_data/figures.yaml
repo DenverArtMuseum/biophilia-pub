@@ -94,7 +94,7 @@ figure_list:
   - id: 2008-163-1
     src: figures/2008_163.jpg
     caption: "Joris Laarman, *Bone Armchair (prototype)*, 2008. Cast marble resin and ground bone china, 29½ × 31½ × 39½ in."
-    credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photograph by Peter Harholdt, courtesy of the High Museum of Art."
     alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
     zoom: true
 
@@ -103,13 +103,13 @@ figure_list:
     src: figures/EXRR_2023_87.jpg
     caption: "Joris Laarman, *Bone Armchair (prototype)*, 2008."
     label: Fig. 2
-    credit: "Cast marble resin and ground bone china, 29½ × 31½ × 39½ in. High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    credit: "Cast marble resin and ground bone china, 29½ × 31½ × 39½ in. High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photograph by Peter Harholdt, courtesy of the High Museum of Art."
     alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
 
   - id: 2008-163-2
     src: figures/EXRR_2023_87.jpg
     caption: "Joris Laarman, *Bone Armchair (prototype)*, 2008. Cast marble resin and ground bone china, 29½ × 31½ × 39½ in."
-    credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photo by Peter Harholdt, courtesy of the High Museum of Art."
+    credit: "High Museum of Art: Purchase with funds from the Decorative Arts Acquisition Endowment, 2008.163. © Joris Laarman. Photograph by Peter Harholdt, courtesy of the High Museum of Art."
     alt: An ivory-white armchair with a space between the back and the seat. The arms and legs of the chair resemble bones connecting everything together.
     zoom: true
 
@@ -274,7 +274,7 @@ figure_list:
   - id: 2023-6
     src: figures/2023_6.jpg
     caption: Sandra Davolio, *Coral Flower IV*, 2022. Porcelain, 9¾ × 11 in. dia. 
-    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photography by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
+    credit: "Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2023.6. © Sandra Davolio. Photograph by Ole Akhøj with image editing by Lorie Reilly, courtesy of J. Lohmann Gallery."
     alt: A white ceramic vessel shaped like coral. It is spherical with delicate fringe-like protrusions or pleats of white porcelain.
     zoom: true
 
@@ -303,35 +303,35 @@ figure_list:
   - id: exacc-2022-74-77
     src: figures/EXACC_2022_74-77.jpg
     caption: Nao Tamura, Seasons Plates, 2011. Silicone; 9 1/2 × 7 7/8 in. Manufactured by COVO, Rome, Italy.
-    credit: Exhibition funds from the Denver Art Museum. © Nao Tamura
+    credit: Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura
     alt: A stack of green silicone plate shaped like leaves, with one pointed side that fans out into a rounded shape.
     zoom: true
 
   - id: exacc-2022-74
     src: figures/EXACC_2022_74.jpg
     caption: Nao Tamura, *Seasons Plate*, 2011. Silicone, 9½ × 7⅞ in. each. Manufactured by COVO, Rome, Italy.
-    credit: Exhibition funds from Denver Art Museum. © Nao Tamura.
+    credit: Exhibition funds from Denver Art Museum. © and image courtesy of Nao Tamura.
     alt: A green silicone plate shaped like a leaf with one pointed side that fans out into a rounded shape.
     zoom: true
 
   - id: exacc-2022-75
     src: figures/EXACC_2022_75.jpg
     caption: Nao Tamura, *Seasons Plate*, 2011. Silicone, 12⅜ × 8⅝ in. Manufactured by COVO, Rome, Italy.
-    credit: Exhibition funds from Denver Art Museum. © Nao Tamura.
+    credit: Exhibition funds from Denver Art Museum. © and image courtesy of Nao Tamura.
     alt: A green silicone plate shaped like an oval leaf with wide sides that fan upward. 
     zoom: true
 
   - id: exacc-2022-76
     src: figures/EXACC_2022_76.jpg
     caption: Nao Tamura, *Petals Plate*, 2011. Silicone, 7¼ × 6¼ in. Manufactured by COVO, Rome, Italy.
-    credit: Exhibition funds from Denver Art Museum. © Nao Tamura.
+    credit: Exhibition funds from Denver Art Museum. © and image courtesy of Nao Tamura.
     alt: A small, yellow, silicone plate shaped like a petal laying on its side. 
     zoom: true
 
   - id: exacc-2022-77
     src: figures/EXACC_2022_77.jpg
     caption: Nao Tamura, *Seasons Serving Platter*, 2011. Silicone, 20½ × 11¾ in. Manufactured by COVO, Rome, Italy.
-    credit: Exhibition funds from Denver Art Museum. © Nao Tamura.
+    credit: Exhibition funds from Denver Art Museum. © and image courtesy of Nao Tamura.
     alt: A dark green, oval-shaped serving tray that comes to a point on both ends. 
     zoom: true
 
@@ -582,7 +582,7 @@ figure_list:
     src: figures/EXRR_2023_91_4.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007.
     label: Fig. 4 
-    credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "Mica-schist, clay, hair, and slate; exterior of each house 196⅞ × 192⅞ × 228⅜ in. © Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: Close-up image of a wall from *Clay Houses* that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
 
   - id: exrr-2023-91-1
@@ -609,7 +609,7 @@ figure_list:
   - id: exrr-2023-91-4
     src: figures/EXRR_2023_91_4.jpg
     caption: Andy Goldsworthy, *Clay Houses (Boulder-Room-Holes)*, 2007. Mica-schist, clay, hair, and slate, exterior of each house 196⅞ × 192⅞ × 228⅜ in. 
-    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photography by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
+    credit: "© Andy Goldsworthy, courtesy Galerie Lelong & Co. Photograph by Jerry Thompson. Glenstone Museum, Potomac, Maryland."
     alt: Close-up image of a wall from *Clay Houses* that recedes into a series of concentric circles back into the hill outside of the wall. The surface is varying shades of brown and looks like cracked clay.
     zoom: true
 
@@ -662,7 +662,7 @@ figure_list:
   - id: exrr-2023-102
     src: figures/EXRR_2023_102.jpg
     caption: Aspen Grove.
-    credit: Courtesy Unsplash/Photography by Patrick Hendry, 2017. 
+    credit: Courtesy Unsplash/Photograph by Patrick Hendry, 2017. 
     alt: Color photograph of trunks from a grove of Aspen trees. The trunks are thin and have white bark with some dark spotting. 
     zoom: true
 
@@ -865,13 +865,13 @@ figure_list:
     src: figures/PTL-24650-59_PTL-26463-64.jpg
     caption: David Valner, *Fungus Vases* and *Polypore Bowl*, 2018–23. 
     label: Cats. 96–107
-    credit: "Handcrafted glass, various dimensions. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2024.130–141. © David Valner. Photography by Tereza Valnerová."
+    credit: "Handcrafted glass, various dimensions. Denver Art Museum: Funds from Design Council of the Denver Art Museum, 2024.130–141. © David Valner. Photograph by Tereza Valnerová."
     alt: Eleven vases and one bowl inspired by the different shapes of mushrooms in different colors, including orange, pink, turquoise, lavender, dark green, and brown.
 
   - id: ptl-24650-59-63-64
     src: figures/PTL-24650-59_PTL-26463-64.jpg
     caption: David Valner, *Fungus Vases* and *Polypore Bowl*, 2018–23. Handcrafted glass, dimensions variable.
-    credit: © David Valner. Photography by Tereza Valnerová.
+    credit: © David Valner. Photograph by Tereza Valnerová.
     alt: Eleven vases and one bowl inspired by the different shapes of mushrooms in different colors, including orange, pink, turquoise, lavender, dark green, and brown.
     zoom: true
 
@@ -958,20 +958,20 @@ figure_list:
   - id: ptl-24698-1
     src: figures/PTL-24698~1.jpg
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. Grey Emperador marble; 15¾ × 43¼ in. dia.
-    credit: Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
+    credit: Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
     zoom: true
 
   - id: ptl-24698-2-essay
     src: figures/PTL-24698~2.jpg
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
-    credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
+    credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
 
   - id: ptl-24698-2
     src: figures/PTL-24698~2.jpg
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. Grey Emperador marble; 15¾ × 43¼ in. dia.
-    credit: Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
+    credit: Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is black marble with flecks of white. On the surface, half of the table is smooth, while the other half has the relief of gently rolling waves.
     zoom: true
 
@@ -1007,7 +1007,7 @@ figure_list:
     src: figures/PTL-24698~6.jpg
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
     label: Cat. 44
-    credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photography by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
+    credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is gray marble with white striations. This half of the surface looks like gently rolling waves.
 
   - id: ptl-24699-1-essay
@@ -1143,13 +1143,13 @@ figure_list:
   - id: ptl-24704-essay
     src: figures/TL_46978.jpg
     caption: Humberto Campana and Fernando Campana, *Bulbo Chair*, 2019. Fabric and leather; 59 × 47 × 48 in. Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
-    credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana.
+    credit: Louis Vuitton Collection. 
     alt: A bright red chair shaped like a flower bulb – round at the bottom, tapering to a point at the top. It is made of overlapping layers of long, oval-shaped leather and fabric petals.
 
   - id: ptl-24704
     src: figures/TL_46978-zoom.jpg
     caption: Humberto Campana and Fernando Campana, *Bulbo Chair*, 2019. Fabric and leather; 59 × 47 × 48 in. Manufactured by Louis Vuitton, Paris, France for Objets Nomades.
-    credit: Louis Vuitton Collection. © Humberto Campana and Fernando Campana.
+    credit: Louis Vuitton Collection.
     alt: A bright red chair shaped like a flower bulb – round at the bottom, tapering to a point at the top. It is made of overlapping layers of long, oval-shaped leather and fabric petals.
     zoom: true
 
@@ -1205,20 +1205,20 @@ figure_list:
   - id: ptl-24710-1
     src: figures/PTL-24710~1.jpg
     caption: Nacho Carbonell, *One-Seater Concrete Tree*, 2022. Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in.
-    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smith. image courtesy of Carpenters Workshop Gallery. 
+    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smith. Image courtesy of Carpenters Workshop Gallery. 
     alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
     zoom: true
 
   - id: ptl-24710-2-essay
     src: figures/PTL-24710~2.jpg
     caption: Nacho Carbonell, *One-Seater Concrete Tree*, 2022. 
-    credit: Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in. Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths, image courtesy of Carpenters Workshop Gallery. 
+    credit: Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in. Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths. Image courtesy of Carpenters Workshop Gallery. 
     alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
 
   - id: ptl-24710-2
     src: figures/PTL-24710~2.jpg
     caption: Nacho Carbonell, *One-Seater Concrete Tree*, 2022. Metal mesh, cork, steel, concrete, and light fittings, 139¾ × 74¾ × 112¼ in.
-    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths, image courtesy of Carpenters Workshop Gallery. 
+    credit: Courtesy of Carpenters Workshop Gallery. © Nacho Carbonell. Photograph by Ronald Smiths. Image courtesy of Carpenters Workshop Gallery. 
     alt: A big armchair, from which one large metal trunk grows with a metal mesh cork presenting as the crown of a tree. The seating area is pink with gray flecks, reminiscent of pink granite. The trunk is a sienna brown, and the canopy of the tree is dusty pink. 
     zoom: true
 
@@ -1347,7 +1347,7 @@ figure_list:
   - id: ptl-25093
     src: figures/PTL-25093_FPO.jpg
     caption: Zaha Hadid, *Tau Vases*, 2015. Marble, various dimensions. Maunfactured by Citco, Rivoli Veronese, Italy. 
-    credit: Courtesy of CITCO USA CORP. Photography by Jacopo Spilimbergo, courtesy of Zaha Hadid Design. 
+    credit: Courtesy of CITCO USA CORP. Photograph by Jacopo Spilimbergo, courtesy of Zaha Hadid Design. 
     alt: A gray marble vase that is squatly shaped and resembles a flower bud.
 
   - id: ptl-25094
