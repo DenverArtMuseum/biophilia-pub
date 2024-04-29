@@ -7,6 +7,7 @@ layout: splash
 order: 5
 figure:
   - id: ptl-25755-3
+image_credit: "teamLab, <em>Flowers and People – A Whole Year per Hour</em>, 2020. Interactive digital work, 6 channels, endless. Sound: Hideaki Takahashi. ©️ teamLab."
 classes:
   - page-one
 ---
