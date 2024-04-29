@@ -967,10 +967,10 @@ aside .footnotes-title {
     display: none;
 }
 
-body#page-index .quire-cover__hero {
+#page-index .quire-cover__hero {
     text-align: center;
 }
-body#page-index .quire-cover__hero-body .title {
+#page-index .quire-cover__hero-body .title {
     font-size: 3rem;
     word-spacing: 0.4em;
     font-weight: bold;
@@ -984,7 +984,7 @@ body#page-index .quire-cover__hero-body .title {
     -webkit-animation-delay: 0.5s;
     animation-delay: 0.5s;
 }
-body#page-index .quire-cover__hero-body .title .subtitle {
+#page-index .quire-cover__hero-body .title .subtitle {
     padding-left: 6px;
     font-size: 2.0rem;
     word-spacing: 0.3rem;
@@ -998,11 +998,11 @@ body#page-index .quire-cover__hero-body .title .subtitle {
     -webkit-animation-delay: 2s;
     animation-delay: 2s;
 }
-body#page-index .contributor {
+#page-index .contributor {
     display: none;
 }
 
-body#page-index .quire-navbar-controls__left .logos {
+#page-index .quire-navbar-controls__left .logos {
     display: none;
 }
 
@@ -1130,14 +1130,14 @@ h1.quire-page__header__title .separator {
     display: none;
 }
 
-body#page-intro .quire-page__header.hero-image {
+#page-intro .quire-page__header.hero-image {
     background-image: none !important;
     width: auto;
     height: auto;
     max-width: none;
     max-height: none;
 }
-body#page-intro .quire-page__header.hero-image img {
+#page-intro .quire-page__header.hero-image img {
     max-width: 1589px;
     max-height: 984px;
     width: auto;
@@ -1147,13 +1147,20 @@ body#page-intro .quire-page__header.hero-image img {
     overflow: auto;
     margin: auto
 }
-body#page-intro .quire-page__header.hero-image .hero-body h1.quire-page__header__title,
-body#page-intro .quire-page__header.hero-image .hero-body  .quire-page__header__contributor {
+#page-intro .quire-page__header.hero-image .hero-body h1.quire-page__header__title,
+#page-intro .quire-page__header.hero-image .hero-body  .quire-page__header__contributor {
     color: $off-black;
 }
 
 
 /* Essay pages */
+
+#page-natural-analogs .quire-contributor__title,
+#page-natural-systems .quire-contributor__title,
+#page-topophilia .quire-contributor__title {
+    display: none;
+}
+
 
 .quire-page.quire-essay {
     display: flex;
@@ -1229,22 +1236,22 @@ body#page-intro .quire-page__header.hero-image .hero-body  .quire-page__header__
 
 /* Forest Walk */
 
-body#page-forest-walk .accordion-section h5 {
+#page-forest-walk .accordion-section h5 {
     color: $link-color;
 }
 
 /* Contributors */
 
-body#page-contributors li.quire-contributor {
+#page-contributors li.quire-contributor {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-body#page-contributors .quire-contributor__bio {
+#page-contributors .quire-contributor__bio {
     margin-bottom: 1rem;
     text-align: center;
 }
-body#page-contributors .media ul {
+#page-contributors .media ul {
     display: none;
     padding-left: 2rem;
     margin-bottom: 0px !important;
@@ -1260,7 +1267,7 @@ body#page-contributors .media ul {
 
 /* Checklist */
 
-body#page-checklist {
+#page-checklist {
     .quire-contents-buttons {
         background-color: $off-white;
     }
@@ -1300,47 +1307,47 @@ body#page-checklist {
 }
 
 /* Glossary */
-body#page-glossary .quire-page__header,
-body#page-glossary .quire-page__content:not(:nth-child(3)) {
+#page-glossary .quire-page__header,
+#page-glossary .quire-page__content:not(:nth-child(3)) {
     animation: fadeIn 2s;
 }
-body#page-glossary .quire-page__content .container .content > p {
+#page-glossary .quire-page__content .container .content > p {
     margin-left: 1rem;
 }
-body#page-glossary .quire-page__content .container .content {
+#page-glossary .quire-page__content .container .content {
     margin-top: 0px;
 }
 
-body#page-glossary .alphabetical-index {
+#page-glossary .alphabetical-index {
     position: -webkit-sticky; /* for browser compatibility */
     position: sticky;
     top: 4.375rem;
     background-color: $off-white;
     padding: 10px;
 }
-body#page-glossary .alphabetical-index p {
+#page-glossary .alphabetical-index p {
     font-size: 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin-bottom: 50px;
 }
-body#page-glossary .alphabetical-index a {
+#page-glossary .alphabetical-index a {
     border-bottom: none;
 }
 
-body#page-glossary .glossary-terms h2 {
+#page-glossary .glossary-terms h2 {
     font-size: 1.125rem;
     line-height: 1.25;
     text-align: center;
 }
 
-body#page-glossary dl dd {
+#page-glossary dl dd {
     margin-left: 0;
 }
 
 /* Close-knit Flower-sack */
-body#page-close-knit-flower-sack {
+#page-close-knit-flower-sack {
     .quire-contents-buttons {
         li.quire-nav-button {
             border-color: $poem-interface;
@@ -1486,7 +1493,7 @@ body#page-close-knit-flower-sack {
 
 /* About */
 
-body#page-about .dam-logo {
+#page-about .dam-logo {
     width: 200px;
     height: auto;
 }
@@ -1613,7 +1620,7 @@ body#page-about .dam-logo {
     }
 
 
-    body#page-close-knit-flower-sack .quire-page__content .container .content p {
+    #page-close-knit-flower-sack .quire-page__content .container .content p {
         font-size: .5rem;
     }
 }
@@ -1622,22 +1629,25 @@ body#page-about .dam-logo {
     html, body, .quire-entry, .side-by-side, .quire-page__content, .quire-page__content .container, .quire-page__content .container .content {
         background-color: $white !important;
     }
-    .quire-page.frontmatter.quire-cover .quire-cover__more,
-    .quire-page.frontmatter.quire-cover .section.quire-page__content {
-        display: none;
-    }
 
     video {
         display: none;
     }
-    .quire-cover__overlay {
+
+    @page :first {
         background-image: url("_assets/images/static-cover.jpg");
+        background-size: contain;
+    }
+
+    .quire-page__header .hero-body {
+        margin: initial;
+        padding: initial;
     }
 
     #page-checklist .quire-contents-list {
         display: none;
     }
-    
+
     .quire-entry div.side-by-side {
         display: block;
     }

@@ -64,10 +64,11 @@ module.exports = function (eleventyConfig) {
 
     let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
 
-    let url = title === 'Object Plates' ? `#!` : page.url
-    if (isPage ) {
+    let url = title === 'Object Plates' ? false : page.url
+    if (isPage && url ) {
       mainElement = `<a href="${url}">${mainElement}</a>`
     } else {
+      mainElement = `<a href="#!" class="no-link">${mainElement}</a>`
       classes.push('no-landing')
     }
 
