@@ -132,6 +132,7 @@ figure_list:
     src: figures/2015_267_1-5.jpg
     caption: Daniel Brown, *Secret Garden*, 2008, updated 2015. Interactive software program; variable dimensions.
     credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
+    alt: Bright flowers extend across the entire picture plane, with a variety of shapes and colors, including reds, pinks, greens, whites, and yellows.
 
   - id: "2017-89-91-essay"
     modal_id: modal-2017-89-91
@@ -1462,6 +1463,7 @@ figure_list:
     src: figures/PTL-25725.jpg
     caption: Brad Miller, *Vessel*, 2021. Glazed stoneware, 15 × 16 1/2 in. dia.
     credit: Courtesy of the artist and R & Company. © Brad Miller. Image courtesy of R & Company and Brad Miller.
+    alt: A white vessel that is smaller at the base and wider at the top. It has an all over texture like fingers of coral growing upward.
     zoom: true
 
   - id: ptl-25755-1-essay
@@ -1594,6 +1596,7 @@ figure_list:
     src: figures/TL-45470.jpg
     caption: Elena Manferdini, *Botanical Garden Smoke Set*, 2009. Cast ceramic covered by fused silver; various dimensions. Manufactured by Ottaviani, Recanati, Italy.
     credit: Courtesy of the designer. © Elena Manferdini.
+    alt: A silver vessel with an opening at top that resembles leaves folded back on themselves. The vessel seems to sprout from an undulating silver base.
     zoom: true
     
   - id: exrr-2024-44-2
@@ -1601,11 +1604,11 @@ figure_list:
     caption:
     label: Fig. 2
     credit: 
-    alt:
+    alt: An overhead view of a brown body of water jutting up against a green landscape dotted with pale trees.
 
   - id: exrr-2024-44-1
     src: figures/EXRR_2024_44_1.jpg
     caption: 
     label: Fig. 3
     credit:
-    alt:
+    alt: A boat travels through a winding river in a hazy blue and purple landscape under clear skies.
