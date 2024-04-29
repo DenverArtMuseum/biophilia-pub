@@ -1619,37 +1619,40 @@ body#page-about .dam-logo {
 }
 
 @media print {
-    body, .quire-page__content, .quire-page__content .content {
-        background-color: $white;
+    html, body, .quire-entry, .side-by-side, .quire-page__content, .quire-page__content .container, .quire-page__content .container .content {
+        background-color: $white !important;
     }
     .quire-page.frontmatter.quire-cover .quire-cover__more,
     .quire-page.frontmatter.quire-cover .section.quire-page__content {
         display: none;
     }
-    // video {
-    //   display: none;
-    // }
+
+    video {
+        display: none;
+    }
+    .quire-cover__overlay {
+        background-image: url("_assets/images/static-cover.jpg");
+    }
 
     #page-checklist .quire-contents-list {
         display: none;
     }
+    
     .quire-entry div.side-by-side {
-        display: flex;
-        flex-direction: row;
+        display: block;
     }
     .quire-entry div.side-by-side div.quire-entry__image-wrap {
         width: 100%;
         height: 40vh !important;
-        display: flex;
-        flex-direction: row;
-    }
-    .quire-entry div.side-by-side div.quire-entry__image-wrap figure {
     }
     .quire-entry div.side-by-side div.quire-entry__content {
+        overflow: visible !important;
         width: 100% !important;
-        padding: 0 20px;
+        padding: 20px 0;
     }
-
+    .quire-entry div.side-by-side div.quire-entry__content .quire-entry__header {
+        display: none;
+    }
     pre {
         background-color: transparent;
     }
