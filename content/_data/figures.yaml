@@ -641,7 +641,7 @@ figure_list:
     src: figures/EXRR_2023_95_1.jpg
     caption: Osorno Volcano, Chile.
     label: Fig. 2
-    credit: Image © and courtesy of Gt2P Spa.
+    credit: Image © and courtesy of gt2P Spa.
     alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
     zoom: true
 
@@ -1484,15 +1484,15 @@ figure_list:
   - id: ptl-25755-2-essay
     modal_id: teamlab-inline
     src: figures/PTL-25755~2.jpg
-    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
+    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. Interactive digital work, 6 channels, endless. Sound by Hideaki Takahashi. © teamLab. 
     label: Cat. 92
-    credit: "Six channels, interactive digital installation, endless; sound by Hideaki Takahashi. Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the Artist and Pace Gallery."
+    credit: "Courtesy of the artist and Pace Gallery."
     alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
 
   - id: ptl-25755-2
     src: figures/PTL-25755~2.jpg
-    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. Six-channel interactive digital installation, endless; sound by Hideaki Takahashi.
-    credit: "Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the Artist and Pace Gallery."
+    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. Interactive digital work, 6 channels, endless. Sound by Hideaki Takahashi. © teamLab.
+    credit: "Courtesy of the artist and Pace Gallery."
     alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
     zoom: true
 
@@ -1601,14 +1601,14 @@ figure_list:
     
   - id: exrr-2024-44-2
     src: figures/EXRR_2024_44_2.jpg
-    caption:
+    caption: Aerial view of Paraná Delta, Argentina. Courtesy of Alexandra Kehayoglou Studio.
     label: Fig. 2
     credit: 
     alt: An overhead view of a brown body of water jutting up against a green landscape dotted with pale trees.
 
   - id: exrr-2024-44-1
     src: figures/EXRR_2024_44_1.jpg
-    caption: 
+    caption: Paraná Delta, Argentina. Courtesy of Alexandra Kehayoglou Studio.
     label: Fig. 3
     credit:
     alt: A boat travels through a winding river in a hazy blue and purple landscape under clear skies.

@@ -75,7 +75,7 @@ I am grateful to Holly Harmon, Interpretive Specialist, for her role in shaping 
 
 I am truly appreciative of our talented Publications team. Valerie Hellstein, Managing Editor, skillfully supervised numerous aspects of the publication’s production and edited the manuscript alongside Leslie Murrell, Editor, with care. Special thanks to Matt Popke, Developer, and Darcy Christ, who meticulously developed and designed the publication. I am especially thankful to Kimberly Ruffin, Cedar Sigo, and Florence Williams. Their thoughtful and illuminating contributions added depth and richness to this publication. Special thanks are due to Seana Quinn and Devin Tellatin at *Emergence Magazine* for granting permission to include “A Forest Walk.”
 
-The exhibition was beautifully designed by Brian Dale and Meredith Dale of Sort Studio and complemented by graphics from Matt Rue of McGINTY Co. James Durée, Designer and Animator, Abby Gibbons, Graphics Assistant, and Cathy Trekloff, Producer, of Milkhaus, created the mood-setting title wall and interactive wall design and animation. Benjamin Auten, Project Manager, and Chandan Kumar, Lead Developer/Programmer, of ShadowComm Digital Strategy & Solutions designed and developed the interactive wall Web app data visualization. The combined contributions of these individuals gently captivate the senses. Installation was expertly photographed was by James Florio.
+The exhibition was beautifully designed by Brian Dale and Meredith Dale of Sort Studio and complemented by graphics from Matt Rue of McGINTY Co. James Durée, Designer and Animator, Abby Gibbons, Graphics Assistant, and Cathy Trekloff, Producer, of Milkhaus, created the mood-setting title wall and interactive wall design and animation. Benjamin Auten, Project Manager, and Chandan Kumar, Lead Developer/Programmer, of ShadowComm Digital Strategy & Solutions designed and developed the interactive wall Web app data visualization. The combined contributions of these individuals gently captivate the senses. Installation was expertly photographed by James Florio.
 
 Many other colleagues at the Denver Art Museum were essential to the success of this project:
 
@@ -110,6 +110,14 @@ Desarae Cruz, Preparation Assistant/Lighting Focus
 Christina Jackson, Manager of Photographic Services
 Bruce Fernandez, Photographer
 Eric Stephenson, Photographer
+Juhl Wojahn, Collections Manager
+Stefani Pendergast, Associate Collections Manager
+Ashley Muggli, Assistant Collections Manager
+Laura Wingate, Assistant Collections Manager
+Laura Kotalik, Collections Assistant
+Chelsea Rieu-Torrez, Collections Assistant
+Mallory Evans, former Collections Assistant
+Nessa Kerr, former Collections Assistant
 	 
 ### Learning & Engagement
 Clara Ricciardi, Senior Spanish Language and Community Engagement Liaison

@@ -6,7 +6,7 @@ outputs:
   - html
 ---
 
-Published in conjunction with *Biophilia: Nature Reimagined*, organized by the Denver Art Museum, May 5–August 11, 2024.
+This catalog is published in conjunction with *Biophilia: Nature Reimagined*, an exhibition organized by the Denver Art Museum, May 5–August 11, 2024.
 
 The exhibition is presented with generous funds from Luncheon by Design and the Adolph Coors Exhibition Endowment Fund, the donors to the Annual Fund Leadership Campaign, and the residents who support the Scientific and Cultural Facilities District (SCFD). 
 

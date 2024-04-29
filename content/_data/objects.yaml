@@ -306,7 +306,7 @@ object_list:
     title: "*Bajío* (Lowland)"
     year: 2024
     medium: Hand-tufted wool
-    dimensions: dimensions variable, largest piece 90½ × 137¾ in. (229.9 × 349.9 cm)
+    dimensions: Dimensions variable, largest piece 90½ × 137¾ in. (229.9 × 349.9 cm)
     credit: "Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio" 
     label: Cat. 40
     figure:
@@ -530,7 +530,6 @@ object_list:
     label: Cat. 14
     figure:
       - id: "ptl-24706-1"
-      - id: "ptl-24706-2"
 
   - id: ptl-24710
     artist: Nacho Carbonell
@@ -755,6 +754,5 @@ object_list:
     multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>1/2 in. × 1 1/4 in. dia.</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in.</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in.</div>"
     credit: Courtesy of Wiseman Studio
     label: Cats. 110–113
-    year: 2023
     figure:
       - id: exacc-2023-105
