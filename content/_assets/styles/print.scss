@@ -206,7 +206,7 @@ $print-trim: $print-bleed * 2;
     .section-item > a {
       max-width: 90%;
     }
-    .section-item > a:not(.no-link)::after {
+    .section-item > a::after {
       content: leader(dotted) ' 'target-counter(attr(href, url), page);
       margin-left: 6pt;
       margin-right: -10%;
@@ -215,9 +215,9 @@ $print-trim: $print-bleed * 2;
         float: right;
       }
     }
-    .section-item.frontmatter-page > a:not(.no-link)::after {
+    .section-item.frontmatter-page > a::after {
       content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
-      font-style: italic;
+      font-style: oblique 5deg;
       .pagedjs_pages & {
         content: target-counter(attr(href), page, lower-roman);
         float: right;
@@ -225,7 +225,7 @@ $print-trim: $print-bleed * 2;
     }
     .page-item {
       max-width: 90%;
-      a:not(.no-link)::after {
+      a::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page);
         margin-left: 6pt;
         margin-right: -10%;
@@ -234,9 +234,9 @@ $print-trim: $print-bleed * 2;
           float: right;
         }
       }
-      &.frontmatter-page > a:not(.no-link)::after {
+      &.frontmatter-page > a::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
-        font-style: italic;
+        font-style: oblique 5deg;
         margin-left: 6pt;
         margin-right: -10%;
         .pagedjs_pages & {
