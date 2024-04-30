@@ -6,7 +6,7 @@ contributor:
 layout: essay
 order: 110
 image: figures/natural-analogs-header.jpg
-image_credit: "PELLE, <em>Nana Lure Chandelier</em> (detail), 2021. Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia (243.8 × 208.3 cm dia.). Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image © Daniel Seung Lee and courtesy of PELLE."
+image_credit: "PELLE, <em>Nana Lure Chandelier</em> (detail), 2021. Painted cast cotton paper, patinated steel, and LEDs, 96 × 82 in. dia. (243.8 × 208.3 cm dia.). Courtesy of Jean and Oliver Pelle. © Jean & Oliver Pelle. Image © Daniel Seung Lee and courtesy of PELLE."
 ---
 
 
@@ -32,7 +32,7 @@ David Valner’s *Fungus* vases and bowls conjure the peculiar forms found in th
 
 {% figure 'ptl-24649-1-essay' 'is-pulled-right' %}
 
-Andrés Reisinger and Júlia Esqué’s *Hortensia Armchair* is an exuberant interpretation of hydrangea flowers in bloom (cat. 82). Initially conceived as a digital piece of furniture by Reisinger, the chair was brought to life with Esqué, a textile designer. Upholstered with over 30,000 laser-cut pink polyester petals, the limited-edition chair evokes the feeling of sitting in a blooming flower. Fernando and Humberto Campana’s Bulbo conjures the mysterious tropical flora of the brothers’ native Brazil. The layered petals of the flower-shaped seat gently cradle the sitter to provide a feeling of security and tranquility. 
+Andrés Reisinger and Júlia Esqué’s *Hortensia Armchair* is an exuberant interpretation of hydrangea flowers in bloom (cat. 82). Initially conceived as a digital piece of furniture by Reisinger, the chair was brought to life with Esqué, a textile designer. Upholstered with over 30,000 laser-cut pink polyester petals, the limited-edition chair evokes the feeling of sitting in a blooming flower. Fernando and Humberto Campana’s Bulbo conjures the mysterious tropical flora of the brothers’ native Brazil (cat. 7). The layered petals of the flower-shaped seat gently cradle the sitter to provide a feeling of security and tranquility. 
 
 Crafted by master glassblowers, Andreea Avram Rusu’s *Botanica Chandelier* resembles the weighty and sculptural blossoms of banana plants in milky pastel hues (cat. 4). The surreal composition—large, pendulous flowers and a series of overlapping leaves suspended from stems wrapped with leather—dynamically responds to the interplay of surrounding light. While Avram Rusu expresses her fascination with plant life in glass form, the lush banana fronds of PELLE’s eye-catching *Nana Lure Chandelier* are made of cast cotton paper (cat. 81). Illuminated from their undersides, the large, elongated leaves are sculpted and painted by hand. Each leaf is depicted with the accuracy of a botanical illustration, from the prominent vein that runs their length to the gentle wavelike pattern of their weathered edges.
 
