@@ -69,7 +69,7 @@ $print-crop-marks: false; // true | false
 $print-bottom-margin: 0.875in;
 $print-top-margin: 0.75in;
 $print-outer-margin: 0.75in;
-$print-inner-margin: 1in;
+$print-inner-margin: 0.75in; /* 1in; */
 
 $print-base-font-size: 8.5pt;
 $print-text-color: $black;

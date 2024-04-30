@@ -252,9 +252,9 @@ cite, em, i {
     text-align: right;
 } */
 
-.quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, 
-.quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, 
-.quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
+.quire-navbar-controls__left a:not(.no-link):hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, 
+.quire-navbar-controls__right a:not(.no-link):hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item a:not(.no-link):hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
 .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
     background-color: $link-color;
 }
@@ -1039,7 +1039,7 @@ h1.quire-page__header__title .separator {
     margin-left: auto;
     margin-right: auto; */
 }
-.quire-contents-list .menu-list a:hover {
+.quire-contents-list .menu-list a:not(.no-link):hover {
    color: $link-color;
    * { // Quire's default styles are wildly over-generic in the worst places
     color: inherit;
@@ -1635,8 +1635,9 @@ h1.quire-page__header__title .separator {
     }
 
     @page :first {
-        background-image: url("_assets/images/static-cover.jpg");
+        background-image: url("../images/static-cover.jpg");
         background-size: contain;
+        background-repeat: no-repeat;
     }
 
     .quire-page__header .hero-body {
@@ -1648,12 +1649,30 @@ h1.quire-page__header__title .separator {
         display: none;
     }
 
+    .quire-page.quire-essay .quire-page__header.hero {
+        height: 30vh;
+    }
+    .quire-page.quire-essay .quire-page__header.hero__image {
+        height: 60vh;
+    }
+
     .quire-entry div.side-by-side {
         display: block;
     }
     .quire-entry div.side-by-side div.quire-entry__image-wrap {
         width: 100%;
         height: 40vh !important;
+        display: flex;
+        flex-direction: row;
+    }
+    .quire-entry div.side-by-side div.quire-entry__image-wrap .q-figure {
+        height: 40vh;
+        flex-grow: 1;
+    }
+    .quire-entry div.side-by-side div.quire-entry__image-wrap .q-figure img {
+        max-height: 100%;
+        min-width: 100%;
+        object-fit: contain;
     }
     .quire-entry div.side-by-side div.quire-entry__content {
         overflow: visible !important;
@@ -1697,5 +1716,12 @@ h1.quire-page__header__title .separator {
 
     .quire-entry__tombstone .table {
         background-color: $white;
+        border-top: none;
+        border-bottom: none;
     }
+
+    #page-forest-walk .section-click-to-read-the-transcript h5::after {
+        content: "Transcript";
+    }
+
 }
