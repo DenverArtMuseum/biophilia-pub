@@ -18,7 +18,7 @@ object_list:
     title: Populus, Denver, Colorado
     year: 2019–24
     medium: "Exterior view, 2020<br />Reproduction of digital rendering"
-    dimensions: 24 × 42 in.
+    dimensions: 24 × 42 in. (61 × 106.7 cm)
     credit: Courtesy of and © Studio Gang.
     label: Cats. 83–87
     figure:
@@ -42,7 +42,7 @@ object_list:
     artist: Aranda\Lasch
     bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
     title: Desert Paper 02
-    multi: "<div class=\"summary\">2022<br>Desert globemallow, agave fiber, and jute<br>16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)</div><div class=\"obj-title\">Desert Paper 05</div><div class=\"summary\">2022<br>Desert marigold, jute, and abaca<br>19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)</div><div class=\"obj-title\">Desert Paper 07</div>"
+    multi: "<div class=\"summary\">2022<br>Desert globemallow, agave fiber, and jute<br>16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)</div><div class=\"obj-title\">Desert Paper 05</div><div class=\"summary\">2022<br>Desert marigold, jute, and abaca<br>19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)</div><div class=\"obj-title\">Desert Paper 09</div>"
     year: 2022
     medium: Creosote and jute
     dimensions: 13⅜ × 10¼ × 6¾ in. (34 × 26 × 17.1 cm)
@@ -74,7 +74,7 @@ object_list:
     medium: Reproduction of digital drawing
     dimensions: 30 × 30 in. (76.2 × 76.2 cm)
     year: 2013. 
-    credit: Courtesy of the Joris Laarman and Friedman Benda.
+    credit: Courtesy of Joris Laarman and Friedman Benda.
     label: Cat. 42
     figure:
       - id: "exrr-2023-32"
@@ -86,7 +86,7 @@ object_list:
     medium: Reproduction of digital drawing
     dimensions: 30 × 30 in. (76.2 × 76.2 cm)
     year: 2013. 
-    credit: Courtesy of the artist and Friedman Benda.
+    credit: Courtesy of Joris Laarman and Friedman Benda.
     label: Cat. 43
     figure:
       - id: "exrr-2023-33"
@@ -95,7 +95,7 @@ object_list:
     artist: "gt2P (great things to People)"
     bio: Established 2009, Santiago, Chile
     title: "<span class=\"hide-title\">Remolten N1: Revolution Stools and Aux Table</span>"
-    multi: "Left to right:<div class=\"obj-title\">Remolten N1: Revolution Stool L, Quitralco, Osorno Volcano</div><div class=\"summary\">2016<br />Stoneware and basaltic andesite<br />17¾ in. high (45.1 cm)</div><div class=\"obj-title\">Remolten N1: Revolution Aux Table M, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />8 × 11¾ in. dia. (20.3 × 29.9 cm dia.)</div><div class=\"obj-title\">Remolten N1: Revolution Stool L, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />17¼ × 12½ in. dia. (43.8 × 31.8 cm dia.)</div><br>"
+    multi: "Left to right:<div class=\"obj-title\">Remolten N1: Revolution Stool L, Quitralco, Osorno Volcano</div><div class=\"summary\">2016<br />Stoneware and basaltic andesite<br />h: 17¾ in. (45.1 cm)</div><div class=\"obj-title\">Remolten N1: Revolution Aux Table M, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />8 × 11¾ in. dia. (20.3 × 29.9 cm dia.)</div><div class=\"obj-title\">Remolten N1: Revolution Stool L, Mahuanco, Osorno Volcano</div><div class=\"summary\">2017<br />Stoneware and basaltic andesite<br />17¼ × 12½ in. dia. (43.8 × 31.8 cm dia.)</div><br>"
     credit: "Denver Art Museum: Funds from Alianza de las Artes Americanas and Design Council of the Denver Art Museum, 2017.89–91. © gt2P (great things to People)."
     label: Cats. 26–28
     link: https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=remolten#search-results
@@ -184,7 +184,7 @@ object_list:
     artist: Nao Tamura
     bio: Japanese, born 1976, active in Brooklyn, New York
     title: "<span class=\"hide-title\">Seasons and Petal Serving Ware</span>"
-    multi: "<div class=\"obj-title\">Petals Plate</div><div class=\"summary\">2011<br>Silicone<br>7¼ × 6¼ in. (18.4 × 15.9 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>9½ × 7⅞ in. (24.1 × 20 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>12⅜ × 8⅝ in. (31.4 × 21.9 cm)</div><div class=\"obj-title\">Seasons Serving Platter</div><div class=\"summary\">2011<br>Silicone<br>20½ × 11¾ in. (52.1 × 29.9 cm)</div><br /><div class=\"summary\">Manufactured by COVO, Rome, Italy.</div><div class=\"credit-line\">Denver Art Museum: Exhibition funds from the Denver Art Museum</div><div class=\"credit-line\">Pictured: Nao Tamura, *Seasons Plates*, 2011. Silicone; 9½ × 7⅞ in. ea. Manufactured by COVO, Rome, Italy. Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura</div>"
+    multi: "<div class=\"obj-title\">Petals Plate</div><div class=\"summary\">2011<br>Silicone<br>7¼ × 6¼ in. (18.4 × 15.9 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>9½ × 7⅞ in. (24.1 × 20 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>12⅜ × 8⅝ in. (31.4 × 21.9 cm)</div><div class=\"obj-title\">Seasons Serving Platter</div><div class=\"summary\">2011<br>Silicone<br>20½ × 11¾ in. (52.1 × 29.9 cm)</div><br /><div class=\"summary\">Manufactured by COVO, Rome, Italy.</div><div class=\"credit-line\">Exhibition funds from the Denver Art Museum</div><div class=\"credit-line\">Pictured: Nao Tamura, *Seasons Plates*, 2011. Silicone; 9½ × 7⅞ in. ea. Manufactured by COVO, Rome, Italy. Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura.</div>"
     label: Cats. 88–91
     figure:
       - id: "exacc-2022-74-77"
@@ -229,7 +229,7 @@ object_list:
     artist: Studio Gang
     bio: Established 1997, Chicago
     title: Populus, Denver, Colorado
-    multi: "2019–24<br><br><div class=\"summary\">Unrolled elevation and window modules, 2019<br>Reproduction of digital drawing<br>24 × 30 in.</div><div class=\"summary\">Aspen eye research diagram and geometry analysis, 2020<br>Reproduction of color photograph and digital drawing<br>7¼ × 12 in.<br>Photograph by Peng Chen on Unsplash, 2017</div><div class=\"summary\">Exterior view, 2020<br>Reproduction of digital rendering<br>72 × 93¼ in.</div><div class=\"summary\">Exterior view into lobby, restaurant, and amenity spaces, 2020<br>Reproduction of digital rendering<br>24 × 42 in.</div><div class=\"summary\">Model, 2024<br>Wood, plastic, acrylic, fabric, paper, spray paint, and museum board<br>75 × 33 × 33 in.</div><div class=\"credit-line\">All courtesy of Studio Gang.</div><div class=\"credit-line\">Pictured: Studio Gang, Populus, Denver, Colorado, 2019–24. Exterior view, 2020. Digital rendering. Courtesy of and © Studio Gang.</div>"
+    multi: "2019–24<br><br><div class=\"summary\">Unrolled elevation and window modules, 2019<br>Reproduction of digital drawing<br>24 × 30 in. (61 × 76.2 cm)</div><div class=\"summary\">Aspen eye research diagram and geometry analysis, 2020<br>Reproduction of color photograph and digital drawing<br>7¼ × 12 in. (18.4 × 30.5 cm)<br>Photograph by Peng Chen on Unsplash, 2017</div><div class=\"summary\">Exterior view, 2020<br>Reproduction of digital rendering<br>72 × 93¼ in. (182.9 × 236.9 cm)</div><div class=\"summary\">Exterior view into lobby, restaurant, and amenity spaces, 2020<br>Reproduction of digital rendering<br>24 × 42 in. (61 × 106.7 cm)</div><div class=\"summary\">Model, 2024<br>Wood, plastic, acrylic, fabric, paper, spray paint, and museum board<br>75 × 33 × 33 in. (190.5 × 83.8 × 83.8 cm)</div><div class=\"credit-line\">All courtesy of Studio Gang.</div><div class=\"credit-line\">Pictured: Studio Gang, Populus, Denver, Colorado, 2019–24. Exterior view, 2020. Digital rendering. Courtesy of and © Studio Gang.</div>"
     label: Cats. 83–87
     figure:
       - id: "exrr-2023-31-1"
@@ -238,8 +238,8 @@ object_list:
     artist: J. MAYER H.
     bio: Established 1996, Berlin
     title: Metropol Parasol, Seville, Spain
-    multi: "2004-11<br><br><div class=\"summary\">Model, 2005<br>Acrylic, fluorescent lights, and polyurethane<br>13⅞ × 35⅜ × 51¼ in. (35.2 × 89.9 × 130.2 cm)<br>Model by Werk5, Berlin, and Marcus Blum</div><div class=\"credit-line\">The Museum of Modern Art, New York: Fund for the Twenty-First Century, 2006</div><div class=\"summary\">Drawings, 2007<br>Graphite pencil on paper<br>Two, 22 × 15¾ in. each (55.9 × 40 cm)<br>Drawings by Jürgen Mayer H.</div><div class=\"credit-line\">Private collection, Berlin</div><div class=\"summary\">Aerial view, 2011<br>Reproduction of color photograph<br>72 × 96 in. <br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div><div class=\"summary\">View of column and roof, 2011<br>Reproduction of color photograph<br>24 × 16½ in.<br>Photograph by Iñigo Bujedo Aguirre</div><div class=\"credit-line\">Courtesy of Iñigo Bujedo Aguirre</div><div class=\"summary\">View of plaza, 2011<br>Reproduction of color photograph<br>24 × 25 ½ in.<br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div>"
-    credit: "Pictured: J. MAYER H., Metropol Parasol, Seville, Spain, 2004–11. Aerial view, 2011. Photograph by and courtesy of Fernando Alda Fotógrafo."
+    multi: "2004-11<br><br><div class=\"summary\">Model, 2005<br>Acrylic, fluorescent lights, and polyurethane<br>13⅞ × 35⅜ × 51¼ in. (35.2 × 89.9 × 130.2 cm)<br>Model by Werk5, Berlin, and Marcus Blum</div><div class=\"credit-line\">The Museum of Modern Art, New York: Fund for the Twenty-First Century, 2006</div><div class=\"summary\">Drawings, 2007<br>Graphite pencil on paper<br>Two, 22 × 15¾ in. each (55.9 × 40 cm)<br>Drawings by Jürgen Mayer H.</div><div class=\"credit-line\">Private collection, Berlin</div><div class=\"summary\">Aerial view, 2011<br>Reproduction of color photograph<br>72 × 96 in. (182.9 × 243.8 cm) <br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div><div class=\"summary\">View of column and roof, 2011<br>Reproduction of color photograph<br>24 × 16½ in. (61 × 41.9 cm)<br>Photograph by Iñigo Bujedo Aguirre</div><div class=\"credit-line\">Courtesy of Iñigo Bujedo Aguirre</div><div class=\"summary\">View of plaza, 2011<br>Reproduction of color photograph<br>24 × 25½ in. (61 × 64.8 cm)<br>Photograph by Fernando Alda Fotógrafo</div><div class=\"credit-line\">Courtesy of Fernando Alda Fotógrafo</div>"
+    credit: "Pictured: J. MAYER H., *Metropol Parasol*, Seville, Spain, 2004–11. Aerial view, 2011. Photograph by and courtesy of Fernando Alda Fotógrafo."
     label: Cats.35–39
     figure:
       - id: "exrr-2023-43-1"
@@ -271,7 +271,7 @@ object_list:
     artist: MAD Architects
     bio: Established 2004, Beijing
     title: Nanjing Zendai Himalayas Center, Nanjing, China
-    multi: "2012–21<br><br><div class=\"summary\">Model, 2018<br>Acrylic, crystal, PVC, and wood<br>21⅝ × 90⅝ × 43⅜ in. (54.9 × 110.2 × 230.2 cm)</div><div class=\"summary\">Aerial view, 2021<br>Reproduction of color photograph<br>72 × 95⅝ in.<br>Photograph by CreatAR Images</div><div class=\"summary\">View of center of complex, 2021<br>Reproduction of color photograph<br>22 × 32 in. <br>Photograph by CreatAR Images</div><div class=\"summary\">Video, 2022<br>Duration: 2 min. 8 sec.<br>Video by Blackstation</div><div class=\"credit-line\">All courtesy of MAD Architects</div><div class=\"credit-line\">Pictured: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Aerial view, 2021. © and courtesy of MAD Architects. Photograph by CreatAR Images.</div>"
+    multi: "2012–21<br><br><div class=\"summary\">Model, 2018<br>Acrylic, crystal, PVC, and wood<br>21⅝ × 90⅝ × 43⅜ in. (54.9 × 110.2 × 230.2 cm)</div><div class=\"summary\">Aerial view, 2021<br>Reproduction of color photograph<br>72 × 95⅝ in. (182.9 × 242.9 cm)<br>Photograph by CreatAR Images</div><div class=\"summary\">View of center of complex, 2021<br>Reproduction of color photograph<br>22 × 32 in. (55.9 × 81.3 cm)<br>Photograph by CreatAR Images</div><div class=\"summary\">Video, 2022<br>Duration: 2 min. 8 sec.<br>Video by Blackstation</div><div class=\"credit-line\">All courtesy of MAD Architects</div><div class=\"credit-line\">Pictured: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Aerial view, 2021. © and courtesy of MAD Architects. Photograph by CreatAR Images.</div>"
     label: Cats. 69–72
     figure:
       - id: "exrr-2023-103-3"
@@ -306,7 +306,7 @@ object_list:
     year: 2024
     medium: Hand-tufted wool
     dimensions: Dimensions variable, largest piece 90½ × 137¾ in. (229.9 × 349.9 cm)
-    credit: "Denver Art Museum: Funds from Collectors' Choice 41 and the Architecture and Design Collectors' Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio" 
+    credit: "Denver Art Museum: Funds from Collectors’ Choice 41 and the Architecture and Design Collectors’ Council with generous gifts from Amanda Precourt, Marilyn Carol and Robert Weaver, and Nancy Leprino, 2024.115. © Alexandra Kehayoglou. Photo by Francisco Nocito, from Alexandra Kehayoglou Studio." 
     label: Cat. 40
     figure:
       - id: ptl-24707
@@ -373,7 +373,8 @@ object_list:
     title: Hortensia Armchair
     year: 2018
     medium: Molded foam, metal frame, and laser-cut polyester upholstery
-    dimensions: "34⅝ × 43⅜ × 44 in. (87.9 × 110.2 × 111.8 cm)<br>Textile design by Júlia Esqué."
+    dimensions: "34⅝ × 43⅜ × 44 in. (87.9 × 110.2 × 111.8 cm)"
+    manufacturer: Textile design by Júlia Esqué
     credit:  Courtesy of Reisinger Studio.
     label: Cat. 82
     figure:
@@ -456,7 +457,7 @@ object_list:
     title: Ocean Memories (Circular Low Table Grey XL)
     year: 2017
     medium: Grey Emperador marble
-    dimensions: 15¾ × 43¼ in. dia.
+    dimensions: 15¾ × 43¼ in. dia. (40 × 109.9 cm dia.)
     credit: Courtesy of the designer and Carpenters Workshop Gallery. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     label: Cat. 44
     figure:
@@ -629,7 +630,7 @@ object_list:
     title: Vessel
     year: 2019-23
     medium: Glazed stoneware
-    dimensions: 19 × 15 in. dia. (48.3 × 38.1 cm)
+    dimensions: 19 × 15 in. dia. (48.3 × 38.1 cm dia.)
     credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
     label: Cat. 77
     figure:
@@ -664,7 +665,7 @@ object_list:
     bio: Established 2001, Tokyo
     title: Flowers and People – A Whole Year per Hour
     year: 2020
-    medium: "Six channels, interactive digital installation, endless;<br>sound by Hideaki Takahashi"
+    medium: "Interactive digital work, 6 channels, endless<br>Sound by Hideaki Takahashi"
     credit: "Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the artist and Pace Gallery."
     label: Cat. 92
     figure:
@@ -713,7 +714,7 @@ object_list:
     year: 2022
     medium: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering
     dimensions: Dimensions variable, each mirror 48 × 48 × 2 in. (121.9 × 121.9 × 5.1 cm)
-    credit: Courtesy of and © Elena Manferdini
+    credit: Courtesy of and © Elena Manferdini.
     label: Cat. 73
     figure:
       - id: "tl-45469-1"
@@ -740,7 +741,7 @@ object_list:
     medium: Cast ceramic covered by fused silver
     dimensions: Various dimensions
     manufacturer: Manufactured by Ottaviani, Recanati, Italy
-    credit: Courtesy of and © Elena Manferdini
+    credit: Courtesy of and © Elena Manferdini.
     label: Cat. 74
     figure:
       - id: "tl-45470"
@@ -749,7 +750,7 @@ object_list:
     artist: David Wiseman
     bio: American, born 1981, active in Los Angeles
     title: "<span class=\"hide-title\">Midnight in the Meadow Wallpaper</span>"
-    multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>1/2 in. × 1 1/4 in. dia.</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in.</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in.</div><br>"
+    multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>½ × 1¼ in. dia. (1.3 × 3.2 cm dia.)</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in. (139.7 × 121.9 × 12.7 cm)</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in. (259.1 × 129.5 × 127 cm)</div><br>"
     credit: Courtesy of Wiseman Studio
     label: Cats. 110–113
     figure:

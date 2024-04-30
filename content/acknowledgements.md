@@ -20,8 +20,8 @@ Ronan Bouroullec and Erwan Bouroullec
 Daniel Brown
 Iñigo Bujedo Aguirre
 Nacho Carbonell
-Alvaro Catalán de Ocón
 Isabel Suarez and Isabella Falla Paz, Carpenters Workshop Gallery
+Alvaro Catalán de Ocón
 Gianni Furlan and Elisa Sifontes, CITCO USA CORP
 Rachel Browne and Alison Reisner, David Gill Gallery		
 Sandra Davolio
@@ -39,12 +39,12 @@ Guillermo Parada, gt2P (great things to People)
 D. Ashlee Harrison
 Simon Heijdens
 Iris van Herpen and Dominika Kasova, Iris van Herpen Atelier
-Terrol Dew Johnson
 Joern Lohmann, J. Lohmann Gallery
 Jürgen Mayer H. and Beate Quaschning, J. Mayer H.
+Terrol Dew Johnson
 Joris Laarman and Anita Star, Joris Laarman Lab
-Bleue-Marine Massard, Louis Vuitton Malletier
 Michael Govan and Bobbye Tigerman, Los Angeles County Museum of Art
+Bleue-Marine Massard, Louis Vuitton Malletier
 Tammy Xie, Fiona Qi Ziying, and Ran Li, MAD Architects
 Elena Manferdini
 Mathieu Lehanneur and Isabela Rennó Braga, Mathieu Lehanneur, Since 1974
