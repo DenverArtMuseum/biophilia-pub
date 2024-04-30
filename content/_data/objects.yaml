@@ -184,7 +184,7 @@ object_list:
     artist: Nao Tamura
     bio: Japanese, born 1976, active in Brooklyn, New York
     title: "<span class=\"hide-title\">Seasons and Petal Serving Ware</span>"
-    multi: "<div class=\"obj-title\">Petals Plate</div><div class=\"summary\">2011<br>Silicone<br>7¼ × 6¼ in. (18.4 × 15.9 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>9½ × 7⅞ in. (24.1 × 20 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>12⅜ × 8⅝ in. (31.4 × 21.9 cm)</div><div class=\"obj-title\">Seasons Serving Platter</div><div class=\"summary\">2011<br>Silicone<br>20½ × 11¾ in. (52.1 × 29.9 cm)</div><br /><div class=\"summary\">Manufactured by COVO, Rome, Italy.</div><div class=\"credit-line\">Denver Art Museum: Exhibition funds from the Denver Art Museum</div><div class=\"credit-line\">Pictured: Nao Tamura, *Seasons Plates*, 2011. Silicone; 9½ × 7⅞ in. ea. Manufactured by COVO, Rome, Italy. Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura.</div>"
+    multi: "<div class=\"obj-title\">Petals Plate</div><div class=\"summary\">2011<br>Silicone<br>7¼ × 6¼ in. (18.4 × 15.9 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>9½ × 7⅞ in. (24.1 × 20 cm)</div><div class=\"obj-title\">Seasons Plate</div><div class=\"summary\">2011<br>Silicone<br>12⅜ × 8⅝ in. (31.4 × 21.9 cm)</div><div class=\"obj-title\">Seasons Serving Platter</div><div class=\"summary\">2011<br>Silicone<br>20½ × 11¾ in. (52.1 × 29.9 cm)</div><br /><div class=\"summary\">Manufactured by COVO, Rome, Italy.</div><div class=\"credit-line\">Exhibition funds from the Denver Art Museum</div><div class=\"credit-line\">Pictured: Nao Tamura, *Seasons Plates*, 2011. Silicone; 9½ × 7⅞ in. ea. Manufactured by COVO, Rome, Italy. Exhibition funds from the Denver Art Museum. © and image courtesy of Nao Tamura.</div>"
     label: Cats. 88–91
     figure:
       - id: "exacc-2022-74-77"
@@ -271,7 +271,7 @@ object_list:
     artist: MAD Architects
     bio: Established 2004, Beijing
     title: Nanjing Zendai Himalayas Center, Nanjing, China
-    multi: "2012–21<br><br><div class=\"summary\">Model, 2018<br>Acrylic, crystal, PVC, and wood<br>21⅝ × 90⅝ × 43⅜ in. (54.9 × 110.2 × 230.2 cm)</div><div class=\"summary\">Aerial view, 2021<br>Reproduction of color photograph<br>72 × 95⅝ in.<br>Photograph by CreatAR Images</div><div class=\"summary\">View of center of complex, 2021<br>Reproduction of color photograph<br>22 × 32 in. <br>Photograph by CreatAR Images</div><div class=\"summary\">Video, 2022<br>Duration: 2 min. 8 sec.<br>Video by Blackstation</div><div class=\"credit-line\">All courtesy of MAD Architects</div><div class=\"credit-line\">Pictured: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Aerial view, 2021. © and courtesy of MAD Architects. Photograph by CreatAR Images.</div>"
+    multi: "2012–21<br><br><div class=\"summary\">Model, 2018<br>Acrylic, crystal, PVC, and wood<br>21⅝ × 90⅝ × 43⅜ in. (54.9 × 110.2 × 230.2 cm)</div><div class=\"summary\">Aerial view, 2021<br>Reproduction of color photograph<br>72 × 95⅝ in. (182.9 × 242.9 cm)<br>Photograph by CreatAR Images</div><div class=\"summary\">View of center of complex, 2021<br>Reproduction of color photograph<br>22 × 32 in. (55.9 × 81.3 cm)<br>Photograph by CreatAR Images</div><div class=\"summary\">Video, 2022<br>Duration: 2 min. 8 sec.<br>Video by Blackstation</div><div class=\"credit-line\">All courtesy of MAD Architects</div><div class=\"credit-line\">Pictured: MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China, 2012–21. Aerial view, 2021. © and courtesy of MAD Architects. Photograph by CreatAR Images.</div>"
     label: Cats. 69–72
     figure:
       - id: "exrr-2023-103-3"
@@ -714,7 +714,7 @@ object_list:
     year: 2022
     medium: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering
     dimensions: Dimensions variable, each mirror 48 × 48 × 2 in. (121.9 × 121.9 × 5.1 cm)
-    credit: Courtesy of and © Elena Manferdini
+    credit: Courtesy of and © Elena Manferdini.
     label: Cat. 73
     figure:
       - id: "tl-45469-1"
@@ -741,7 +741,7 @@ object_list:
     medium: Cast ceramic covered by fused silver
     dimensions: Various dimensions
     manufacturer: Manufactured by Ottaviani, Recanati, Italy
-    credit: Courtesy of and © Elena Manferdini
+    credit: Courtesy of and © Elena Manferdini.
     label: Cat. 74
     figure:
       - id: "tl-45470"
