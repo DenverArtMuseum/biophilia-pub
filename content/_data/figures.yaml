@@ -13,7 +13,7 @@ figure_list:
 
   - id: forest-walk-audio
     media_type: audiofile
-    title: "Listen to <a href=\"https://www.cardinalencounters.com/\">Kimberly Ruffin</a> read<br><em>A Forest Walk: An Audio-Guided Practice</em>"
+    title: "Listen to <a target=\"_blank\" href=\"https://www.cardinalencounters.com/\">Kimberly Ruffin</a> read<br><em>A Forest Walk: An Audio-Guided Practice</em>"
     credit: Courtesy [*Emergence Magazine*](https://emergencemagazine.org/)
     audio_src: figures/audio/Kim_Ruffin_Guided_Forest_Walk.mp3
 
@@ -170,6 +170,7 @@ figure_list:
     zoom: true
 
   - id: 2022-57-3-essay
+    modal_id: shapeways-inline
     src: figures/2022_57~3.jpg
     label: Cat. 80
     caption: Nervous System, *Floraform Chandelier*, 2017. 
@@ -643,7 +644,6 @@ figure_list:
     label: Fig. 2
     credit: Image © and courtesy of gt2P Spa.
     alt: A vertical photograph of the Osorno Volcano in the Chilean Andes. In the background, a large mass of soft clouds above a snow-capped peak. A swath of green forest at the centerline, with two waterfall streams coursing down dark gray rock formations in the foreground. 
-    zoom: true
 
   - id: exrr-2023-95-2
     src: figures/EXRR_2023_95~2.jpg
@@ -753,6 +753,7 @@ figure_list:
     alt: Topographic rug, with various shades of green and brown.
 
   - id: ptl-24707-5
+    modal_id: bajio-inline
     src: figures/PTL-24707~5.jpg
     caption: Alexandra Kehayoglou, *Bajío* (Lowland), 2024. 
     label: Cat. 40
@@ -1006,6 +1007,7 @@ figure_list:
 
   - id: ptl-24698-6
     src: figures/PTL-24698~6.jpg
+    modal_id: lehanneur-inline
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
     label: Cat. 44
     credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
@@ -1600,6 +1602,7 @@ figure_list:
     zoom: true
     
   - id: exrr-2024-44-2
+    modal_id: delta-inline
     src: figures/EXRR_2024_44_2.jpg
     caption: Aerial view of Paraná Delta, Argentina. Courtesy of Alexandra Kehayoglou Studio.
     label: Fig. 2
@@ -1607,6 +1610,7 @@ figure_list:
     alt: An overhead view of a brown body of water jutting up against a green landscape dotted with pale trees.
 
   - id: exrr-2024-44-1
+    modal_id: delta-inline
     src: figures/EXRR_2024_44_1.jpg
     caption: Paraná Delta, Argentina. Courtesy of Alexandra Kehayoglou Studio.
     label: Fig. 3
