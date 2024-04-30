@@ -190,8 +190,7 @@ object_list:
       - id: "exacc-2022-74-77"
 
   - id: exrr-2023-78
-    artist: Ronan Bouroullec and Erwan Bouroullec
-    bio: "<div class=\"artist-property sub-property\"><span>Ronan Bouroullec</span>French, born 1971, active in Paris</div><div class=\"artist-property sub-property\"><span>Erwan Bouroullec</span>French, born 1976, active in Paris</div>"
+    bio: "<div class=\"artist-property\"><span>Ronan Bouroullec</span>French, born 1971, active in Paris</div><div class=\"artist-property\"><span>Erwan Bouroullec</span>French, born 1976, active in Paris</div>"
     title: "*Algues* (Algae)"
     year: 2004
     medium: Injection-molded plastic
@@ -374,8 +373,8 @@ object_list:
     title: Hortensia Armchair
     year: 2018
     medium: Molded foam, metal frame, and laser-cut polyester upholstery
-    dimensions: 34⅝ × 43⅜ × 44 in. (87.9 × 110.2 × 111.8 cm)
-    credit: Textile design by Júlia Esqué. Courtesy of Reisinger Studio.
+    dimensions: "34⅝ × 43⅜ × 44 in. (87.9 × 110.2 × 111.8 cm)<br>Textile design by Júlia Esqué."
+    credit:  Courtesy of Reisinger Studio.
     label: Cat. 82
     figure:
       - id: "ptl-24649-1"
@@ -498,8 +497,7 @@ object_list:
       - id: "ptl-24701-2"
 
   - id: ptl-24704
-    artist: Humberto Campana and Fernando Campana
-    bio: "<div class=\"artist-property sub-property\"><span>Humberto Campana</span>Brazilian, born 1953, active in São Paulo</div><div class=\"artist-property sub-property\"><span>Fernando Campana</span>Brazilian, 1961–2022</div>"
+    bio: "<div class=\"artist-property\"><span>Humberto Campana</span>Brazilian, born 1953, active in São Paulo</div><div class=\"artist-property\"><span>Fernando Campana</span>Brazilian, 1961–2022</div>"
     title: Bulbo Chair
     year: 2019
     medium: Leather and fabric
@@ -666,7 +664,7 @@ object_list:
     bio: Established 2001, Tokyo
     title: Flowers and People – A Whole Year per Hour
     year: 2020
-    medium: Six channels, interactive digital installation, endless; sound by Hideaki Takahashi
+    medium: "Six channels, interactive digital installation, endless;<br>sound by Hideaki Takahashi"
     credit: "Courtesy of the artist and Pace Gallery. © teamLab, courtesy of the artist and Pace Gallery."
     label: Cat. 92
     figure:
@@ -751,7 +749,7 @@ object_list:
     artist: David Wiseman
     bio: American, born 1981, active in Los Angeles
     title: "<span class=\"hide-title\">Midnight in the Meadow Wallpaper</span>"
-    multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>1/2 in. × 1 1/4 in. dia.</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in.</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in.</div>"
+    multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>1/2 in. × 1 1/4 in. dia.</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in.</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in.</div><br>"
     credit: Courtesy of Wiseman Studio
     label: Cats. 110–113
     figure:
