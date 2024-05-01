@@ -1505,6 +1505,12 @@ figure_list:
     alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
     zoom: true
 
+  - id: ptl-25755-3-splash
+    src: figures/PTL-25755~3.jpg
+    caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
+    credit: "teamLab, <em>Flowers and People − A Whole Year per Hour</em>, 2020. Interactive digital work, 6 channels, endless. Sound: Hideaki Takahashi. © teamLab, courtesy Pace Gallery."
+    alt: Interactive digital installation made up of large vertical, adjacent screens. Brightly colored flowers grow then shed their petals, which float away.
+
   - id: ptl-25755-3-essay
     src: figures/PTL-25755~3.jpg
     caption: teamLab, *Flowers and People – A Whole Year per Hour*, 2020. 
