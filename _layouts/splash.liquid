@@ -19,11 +19,15 @@ description: splash page layout
 <section class="{% if title == "title page" or title == "half title page" %} is-screen-only {% endif %} quire-page__header hero {% if content %}{% else %}quire-page__header--full-height{% endif %} {% if imagePath %}hero-image{% endif %}" {% if imagePath %}style="background-image: url('{{ imagePath }}');"{% endif %}>
   {% if imagePath %}
     <!-- This ensures background image asset gets copied into epub package -->
-    <img class="visually-hidden" src="{{ imagePath }}" />
+    <div class="hero-credit-container">
+      <img class="visually-hidden" src="{{ imagePath }}" />
   {% endif %}
   {% if imageCredit %}
-    <span class="hero-credit-icon"></span>
-    <span class="hero-credit">{{ imageCredit }}</span>
+      <span class="hero-credit-icon"></span>
+      <span class="hero-credit">{{ imageCredit }}</span>
+    </div>
+  {% elsif imagePath %}
+    </div>
   {% endif %}
   <div class="hero-body">
     <h1 class="quire-page__header__title" id="page-header-{{ page.filePathStem }}">

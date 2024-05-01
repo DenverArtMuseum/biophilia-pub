@@ -31,20 +31,6 @@
 //     }
 // });
 
-
-// Hero Image credit
-$('.quire-page__header.hero__image .hero-credit-icon').on("click", function() {
-    console.log($('.quire-page__header.hero__image .hero-credit:visible').length)
-    if( $('.quire-page__header.hero__image .hero-credit:visible').length ) {
-        $('.quire-page__header.hero__image .hero-credit').hide('slow');
-    } else {
-        $('.quire-page__header.hero__image .hero-credit').show('slow');    
-    }
-});
-
-
-
-
 // $(window).on('resize scroll', function() {
 //     $('.sticky').each(function() {
 //         if( $(this).isInViewport() ) {

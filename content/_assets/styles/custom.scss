@@ -345,6 +345,7 @@ cite, em, i {
     display: inline-block;
     content: "i";
     font-size: 16px;
+    background: rgba(0,0,0,.3);
     color: #fff;
     border: 1px solid #fff;
     border-radius: 25px;
@@ -352,6 +353,13 @@ cite, em, i {
     height: 18px;
     text-align: center;
     line-height: 1.2;
+}
+.quire-page.quire-splash {
+    .quire-page__header.hero-image {
+        .hero-credit-container {
+            position:relative; // establish frame for absolutely positioned children
+        }
+    }
 }
 .quire-page__header.hero-image .hero-credit {
     color: #fff;

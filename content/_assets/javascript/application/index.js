@@ -423,12 +423,12 @@ $("body").on("click", "a.footnote-backref[data-href]", function() {
 
 
 // Hero Image credit
-$('.quire-page__header.hero__image .hero-credit-icon').on("click", function() {
-  console.log($('.quire-page__header.hero__image .hero-credit:visible').length)
-  if( $('.quire-page__header.hero__image .hero-credit:visible').length ) {
-      $('.quire-page__header.hero__image .hero-credit').hide('slow');
+$('.quire-page__header.hero-image .hero-credit-icon').on("click", function() {
+  console.log($('.quire-page-header.hero__image .hero-credit:visible').length)
+  if( $('.quire-page__header.hero-image .hero-credit:visible').length ) {
+      $('.quire-page__header.hero-image .hero-credit').hide('slow');
   } else {
-      $('.quire-page__header.hero__image .hero-credit').show('slow');    
+      $('.quire-page__header.hero-image .hero-credit').show('slow');    
   }
 });
 
