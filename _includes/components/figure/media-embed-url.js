@@ -43,7 +43,7 @@ module.exports = function (eleventyConfig) {
       }
     },
     youtube(mediaId) {
-      const embedBaseUrl = 'https://www.youtube-nocookie.com/embed/'
+      const embedBaseUrl = 'https://www.youtube.com/embed/'
       const sourceBaseUrl = 'https://youtu.be/'
       return {
         embedUrl: `${embedBaseUrl}${mediaId}`,

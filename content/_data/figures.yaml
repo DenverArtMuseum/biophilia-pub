@@ -27,6 +27,13 @@ figure_list:
     title: "Listen to Cedar Sigo read <em>Close-Knit Flower Sack</em>"
     audio_src: figures/audio/Close_Knit_Flower_Sack_recording.mp3
 
+  - id: vid-teamlab
+    media_type: youtube
+    media_id: "MOnnABruK8I"
+    poster: figures/ptl-25755-1-essay.jpg
+    label: Cat. 92
+    caption: "teamLab, *Flowers and People − A Whole Year per Hour*, 2020. Interactive Digital Work, 6 channels, Endless, Sound: Hideaki Takahashi © teamLab, courtesy Pace Gallery"
+
   - id: vid-ptl-24721
     media_type: vimeo
     media_id: "911667351"

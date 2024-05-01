@@ -1,11 +1,10 @@
 ---
 title: Acknowledgments
-subtitle:
 contributor:
    - id: darrin-alfred
-layout: splash
+layout: page
+byline_format: name
 order: 4
-image: 
 ---
 
 It is with immense pleasure that I offer my deepest gratitude to the many individuals who contributed to the realization of this project. Their generous assistance, patience, advice, and enthusiasm were essential. Most importantly, I would like to express my deep respect, admiration, and gratitude to the architects, artists, and designers whose work is featured in the exhibition and have assisted with countless requests. May their work continue to cultivate our physical, emotional, and spiritual connection with the natural world. Special thanks are due to the following individuals, as well as their colleagues:

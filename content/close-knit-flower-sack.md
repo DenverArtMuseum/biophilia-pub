@@ -1,11 +1,9 @@
 ---
 title: Close-Knit Flower Sack
-subtitle:
 contributor:
     - id: cedar-sigo
 layout: page
 order: 350
-image:
 ---
 
 {% figure 'close-knit-audio' %}

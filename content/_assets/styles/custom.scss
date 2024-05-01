@@ -149,6 +149,7 @@ cite, em, i {
 }
 .quire:not(.no-js) .quire__secondary {
     top: 4.375rem;
+    height: calc(100% - 4.375rem);
 }
 .quire-navbar a {
     background-color: $desat-off-black;
@@ -1025,6 +1026,15 @@ h1.quire-page__header__title .separator {
 
 
 /* Contents */
+
+a.no-link, a.no-link * {
+    color: $off-black !important;
+    cursor: default;
+
+    &:hover {
+        color: $off-black !important;
+    }
+}
 
 #page-contents .quire-page h1, .quire-page__header__title {
     font-size: 2em;

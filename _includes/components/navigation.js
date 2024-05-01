@@ -113,7 +113,7 @@ module.exports = function(eleventyConfig) {
       }
       var { data, url } = nextPage
       var { label, short_title, title } = data
-      if (/^\/checklist/.test(url)) {
+      if (/^\/checklist\/.+/.test(url)) {
         url = '/installation-photos/';
         short_title = 'Installation Photos';
       }
