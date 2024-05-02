@@ -358,7 +358,11 @@ cite, em, i {
 .quire-page.quire-splash {
     .quire-page__header.hero-image {
         .hero-credit-container {
+            display: inline-block;
             position:relative; // establish frame for absolutely positioned children
+            margin: 0 auto;
+            max-width: 99.3125rem;
+            max-height: 61.5rem;
         }
     }
 }
@@ -1156,8 +1160,10 @@ a.no-link, a.no-link * {
     max-height: none;
 }
 #page-intro .quire-page__header.hero-image img {
+    /*
     max-width: 1589px;
     max-height: 984px;
+    */
     width: auto;
     height: auto;
     clip: auto;
