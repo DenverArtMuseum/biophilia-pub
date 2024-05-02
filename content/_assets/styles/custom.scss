@@ -363,6 +363,17 @@ cite, em, i {
             margin: 0 auto;
             max-width: 99.3125rem;
             max-height: 61.5rem;
+
+            @media screen and (max-width: 50.25rem) {
+                .hero-credit {
+                    display: block;
+                    position: relative;
+                    margin:0 1rem;
+                    top:0;
+                    bottom: auto;
+                    left:auto;
+                }
+            }
         }
     }
 }
