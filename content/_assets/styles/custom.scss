@@ -1664,6 +1664,9 @@ a.no-link, a.no-link * {
     html, body, .quire-entry, .side-by-side, .quire-page__content, .quire-page__content .container, .quire-page__content .container .content {
         background-color: $white !important;
     }
+    @page entry-image {        
+        background-color: $white !important;
+    }
 
     video {
         display: none;
@@ -1673,6 +1676,13 @@ a.no-link, a.no-link * {
         background-image: url("../images/static-cover.jpg");
         background-size: contain;
         background-repeat: no-repeat;
+    }
+
+    .quire-contents-list .menu-list .section-item .section-item.no-landing .page-item a {
+        font-size: .8em;
+    }
+    .quire-contents-list .menu-list .section-item {
+        page-break-inside: avoid;
     }
 
     .quire-page__header .hero-body {
@@ -1749,7 +1759,11 @@ a.no-link, a.no-link * {
         height: 100vh; /*calc((100vh - 3rem - 2px)* 0.55 - 16px);*/
     }
 
+    .quire-entry__tombstone {
+        display: inline;
+    }
     .quire-entry__tombstone .table {
+        display: inline-table;
         background-color: $white;
         border-top: none;
         border-bottom: none;
