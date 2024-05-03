@@ -1673,10 +1673,17 @@ a.no-link, a.no-link * {
     }
 
     @page :first {
-        background-image: url("../images/static-cover.jpg");
+        background-image: url("_assets/images/static-cover.jpg");
         background-size: contain;
         background-repeat: no-repeat;
+        @bottom-right {
+            content: '';
+        }
     }
+    
+    #page-index, .quire-cover, #page-index .quire-cover__overlay, #page-index .quire-cover__hero-body, #page-index .quire-cover__more, #page-index .quire-page__content {
+        display: none;
+      }
 
     .quire-contents-list .menu-list .section-item .section-item.no-landing .page-item a {
         font-size: .8em;
@@ -1688,6 +1695,12 @@ a.no-link, a.no-link * {
     .quire-page__header .hero-body {
         margin: initial;
         padding: initial;
+    }
+    #page-intro .quire-page__header.hero-image img {
+      display: block;
+    }
+    .quire-page__content .container .content .pull-quote {
+      margin: 1.5em 0 1.5em 1.5em;
     }
 
     #page-checklist .quire-contents-list {
@@ -1759,9 +1772,6 @@ a.no-link, a.no-link * {
         height: 100vh; /*calc((100vh - 3rem - 2px)* 0.55 - 16px);*/
     }
 
-    .quire-entry__tombstone {
-        display: inline;
-    }
     .quire-entry__tombstone .table {
         display: inline-table;
         background-color: $white;
