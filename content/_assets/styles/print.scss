@@ -497,10 +497,10 @@ $print-trim: $print-bleed * 2;
 
 // Improve page and line breaks
 // -----------------------------------------------------------------------------
-  html body * {
-    orphans: 2;
-    widows: 2;
-  }
+  // html body * {
+  //   orphans: 2;
+  //   widows: 2;
+  // }
 
   // Use PrinceXML prince-text-replace to insert zero-width-spaces in URLs
   // that are printed in the text of the book, in order to facilitate better
