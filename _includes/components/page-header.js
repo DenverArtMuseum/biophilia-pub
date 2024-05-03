@@ -40,10 +40,8 @@ module.exports = function(eleventyConfig) {
 
     const imageCredit = image_credit
       ? html`
-          <div class="hero-credit">
-           <span class="hero-credit-icon"></span>
-           <span class="hero-credit-text">${image_credit}</span>
-          </div>
+          <span class="hero-credit-icon"></span>
+          <span class="hero-credit">${image_credit}</span>
         `
       : ''
 
