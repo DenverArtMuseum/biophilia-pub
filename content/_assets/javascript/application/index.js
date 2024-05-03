@@ -424,11 +424,11 @@ $("body").on("click", "a.footnote-backref[data-href]", function() {
 
 // Hero Image credit
 $('.quire-page__header.hero-image .hero-credit-icon').on("click", function() {
-  console.log($('.quire-page-header.hero__image .hero-credit:visible').length)
   if( $('.quire-page__header.hero-image .hero-credit:visible').length ) {
       $('.quire-page__header.hero-image .hero-credit').hide('slow');
   } else {
       $('.quire-page__header.hero-image .hero-credit').show('slow');    
+
   }
 });
 
@@ -439,25 +439,25 @@ $('.quire-page__header.hero-image .hero-credit-icon').on("click", function() {
 
 
 /* This is an animation for the Close-knit Flower-sack poem */
-$(window).scroll( function(){
+// $(window).scroll( function(){
 
-  var bottom_of_window = $(window).scrollTop() + $(window).height();
+//   var bottom_of_window = $(window).scrollTop() + $(window).height();
 
-  /* Check the location of each desired element */
-  $('body#page-close-knit-flower-sack .quire-page__content .container .content p').each( function(i){
+//   /* Check the location of each desired element */
+//   $('body#page-close-knit-flower-sack .quire-page__content .container .content p').each( function(i){
       
-    var bottom_of_object = $(this).position().top + $(this).outerHeight();
+//     var bottom_of_object = $(this).position().top + $(this).outerHeight();
     
-    /* If the object is completely visible in the window, fade it it */
-    if( bottom_of_window > bottom_of_object ){
+//     /* If the object is completely visible in the window, fade it it */
+//     if( bottom_of_window > bottom_of_object ){
         
-        $(this).animate({'opacity':'1'}, 2500);
+//         $(this).animate({'opacity':'1'}, 2500);
             
-    }
+//     }
       
-  }); 
+//   }); 
 
-});
+// });
 
 $(".footnotes.littlefoot--print").each(function() {
   if( $(this).find('>ol') ) {
@@ -471,6 +471,3 @@ $(".footnotes .littlefoot__popover .littlefoot__content").each(function() {
     $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
   }  
 });
-
-
-//$("a:contains('Object Plates')").removeAttr('href');
