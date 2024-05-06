@@ -976,7 +976,12 @@ aside .footnotes-title {
     margin-bottom: 20px;
 }
 
+/* Menu */
 
+.menu a.no-link, .menu a.no-link * {
+    color: $white;
+    cursor: default;
+}
 
 /* Specific page styles */
 
@@ -1043,11 +1048,10 @@ h1.quire-page__header__title .separator {
 /* Contents */
 
 a.no-link, a.no-link * {
-    color: $off-black !important;
     cursor: default;
 
     &:hover {
-        color: $off-black !important;
+        text-decoration: none;
     }
 }
 
