@@ -495,7 +495,7 @@ object_list:
     credit: "<br>Courtesy of the designer. © Mathieu Lehanneur."
     label: Cats. 46–60
     figure:
-      - id: "ptl-24701-2"
+      - id: "install-31"
 
   - id: ptl-24704
     bio: "<div class=\"artist-property\"><span>Humberto Campana</span>Brazilian, born 1953, active in São Paulo</div><div class=\"artist-property\"><span>Fernando Campana</span>Brazilian, 1961–2022</div>"
@@ -528,7 +528,7 @@ object_list:
     credit: Represented by Pace Gallery. © 2024 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
     label: Cat. 14
     figure:
-      - id: "ptl-24706-1"
+      - id: "install-14"
 
   - id: ptl-24710
     artist: Nacho Carbonell
@@ -575,7 +575,7 @@ object_list:
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photoraphy courtesy of James Harris and Sarah Myerscough Gallery.
     label: Cat. 15
     figure:
-      - id: "ptl-24736-1"
+      - id: "install-10"
 
   - id: ptl-25093-97
     artist: Zaha Hadid
@@ -717,9 +717,7 @@ object_list:
     credit: Courtesy of and © Elena Manferdini.
     label: Cat. 73
     figure:
-      - id: "tl-45469-1"
-      - id: "tl-45469-2"
-      - id: "tl-45469-3"
+      - id: "install-17"
 
   - id: 2015-267
     artist: Daniel Brown
@@ -754,4 +752,4 @@ object_list:
     credit: Courtesy of Wiseman Studio
     label: Cats. 110–113
     figure:
-      - id: exacc-2023-105
+      - id: install-25
