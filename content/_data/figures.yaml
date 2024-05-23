@@ -1629,3 +1629,227 @@ figure_list:
     label: Fig. 4
     credit: Courtesy of Alexandra Kehayoglou Studio.
     alt: A boat travels through a winding river in a hazy blue and purple landscape under clear skies.
+
+  - id: install-01
+    src: install/install-01.jpg
+    caption: Exhibition entrance
+    label:
+    credit:
+    alt:
+
+  - id: install-02
+    src: install/install-02.jpg
+    caption: Cat. 6 Daniel Brown, *Secret Garden*
+    label:
+    credit:
+    alt:
+
+  - id: install-03
+    src: install/install-03.jpg
+    caption: (left to right) Cat. 40 Alexandra Kehayoglou, *Bajío* (Lowland); Cat. 13 Jason DeMarte, *Arcadia*
+    label:
+    credit:
+    alt:
+
+  - id: install-04
+    src: install/install-04.jpg
+    caption: (left to right) Cats. 1–3 Aranda\Lasch and Terrol Dew Johnson, *Desert Paper 02*, *Desert Paper 05*, and *Desert Paper 09*
+    label:
+    credit:
+    alt:
+
+  - id: install-05
+    src: install/install-05.jpg
+    caption: Cat. 92 teamLab, *Flowers and People – A Whole Year per Hour*
+    label:
+    credit:
+    alt:
+
+  - id: install-06
+    src: install/install-06.jpg
+    caption: (left to right) Cats. 29–33 Zaha Hadid, *Tau Vases*; Cats. 19–25 Front, *Curve Lamps*; Cat. 82 Andrés Reisinger, *Hortensia Armchair*; Cat. 5 Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae); Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
+    label:
+    credit:
+    alt:
+
+  - id: install-07
+    src: install/install-07.jpg
+    caption: (left to right) Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
+    label:
+    credit:
+    alt:
+
+  - id: install-08
+    src: install/install-08.jpg
+    caption: (left to right) Cats. 96–107 David Valner, *Fungus Vases* and *Polypore Bowl*; Cat. 74 Elena Manferdini, *Botanical Garden Smoke Set*; Cats. 10–12 Sandra Davolio, *Coral Flower IV*, *Coral Flower I*, and *Vessel with Blue Edges III*; Cats. 19–25 Front, *Curve Lamps*; Cat. 82 Andrés Reisinger, *Hortensia Armchair*; Cat. 5 Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae); Cats. 75–76 and 79 Brad Miller, *Plates* and *Vessel*; Cats. 29–33 Zaha Hadid, *Tau Vases*; Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
+    label:
+    credit:
+    alt:
+
+  - id: install-09
+    src: install/install-09.jpg
+    caption: (left to right) Cats. 96–107 David Valner, *Fungus Vases* and *Polypore Bowl*; Cats. 10–12 Sandra Davolio, *Coral Flower I*, *Vessel with Blue Edges III*, and *Coral Flower IV*
+    label:
+    credit:
+    alt:
+
+  - id: install-10
+    src: install/install-10.jpg
+    caption: Cat. 15 Marc Fish, *Ethereal Double Console*
+    label:
+    credit:
+    alt:
+
+  - id: install-11
+    src: install/install-11.jpg
+    caption: Cats. 35–39 J. Mayer H., Metropol Parasol, Seville, Spain
+    label:
+    credit:
+    alt:
+
+  - id: install-12
+    src: install/install-12.jpg
+    caption: Cats. 41–43 Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype* and *Adaptation Chair Design Studies*
+    label:
+    credit:
+    alt:
+
+  - id: install-13
+    src: install/install-13.jpg
+    caption: (left to right) Cats. 108–109 Iris van Herpen, *Dress* and *Diatom Gown*
+    label:
+    credit:
+    alt:
+
+  - id: install-14
+    src: install/install-14.jpg
+    caption: (left to right) Cats. 108–109 Iris van Herpen, *Dress* and *Diatom Gown*; Cat. 14 DRIFT, *Meadow*
+    label:
+    credit:
+    alt:
+
+  - id: install-15
+    src: install/install-15.jpg
+    caption: Cat. 14 DRIFT, *Meadow* (detail)
+    label:
+    credit:
+    alt:
+
+  - id: install-16
+    src: install/install-16.jpg
+    caption: "(left to right)Cats. 26–28 gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*"
+    label:
+    credit:
+    alt:
+
+  - id: install-17
+    src: install/install-17.jpg
+    caption: Cat. 73 Elena Manferdini, *Wall Flowers (Clover)*
+    label:
+    credit:
+    alt:
+
+  - id: install-18
+    src: install/install-18.jpg
+    caption: "(left to right) Cat. 9 Álvaro Catalán de Ocón, *Plastic River No. 6: Ganges*; Cat. 8 Nacho Carbonell, *One-Seater Concrete Tree*; Cat. 80 Nervous System, *Floraform Chandelier*; Cats. 69–72 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China"
+    label:
+    credit:
+    alt:
+
+  - id: install-19
+    src: install/install-19.jpg
+    caption: Cat. 80 Nervous System, *Floraform Chandelier*
+    label:
+    credit:
+    alt:
+
+  - id: install-20
+    src: install/install-20.jpg
+    caption: Cats. 69–72 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China
+    label:
+    credit:
+    alt:
+
+  - id: install-21
+    src: install/install-21.jpg
+    caption: Cat. 8 Nacho Carbonell, *One-Seater Concrete Tree*
+    label:
+    credit:
+    alt:
+
+  - id: install-22
+    src: install/install-22.jpg
+    caption: Cats. 83–87 Studio Gang, Populus, Denver, Colorado
+    label:
+    credit:
+    alt:
+
+  - id: install-23
+    src: install/install-23.jpg
+    caption: "Cat. 9 Álvaro Catalán de Ocón, *Plastic River No. 6: Ganges*"
+    label: 
+    credit:
+    alt:
+
+  - id: install-24
+    src: install/install-24.jpg
+    caption: "(left to right) Cats. 16–18 Fredrikson Stallard, *Species 1*, *Rock #22*, and *Rock #23*"
+    label: 
+    credit:
+    alt:
+
+  - id: install-25
+    src: install/install-25.jpg
+    caption: Cats. 110–113 David Wiseman, *Midnight in the Meadow*
+    label: 
+    credit:
+    alt:
+
+  - id: install-26
+    src: install/install-26.jpg
+    caption: Cats. 110–113 David Wiseman, *Midnight in the Meadow*
+    label: 
+    credit:
+    alt:
+
+  - id: install-27
+    src: install/install-27.jpg
+    caption: Cats. 111–112 David Wiseman, *Serpentine Jungle Mirror* and *Midnight in the Meadow Wallpaper*
+    label: 
+    credit:
+    alt:
+
+  - id: install-28
+    src: install/install-28.jpg
+    caption: "Interactive display: Explore Your Connection to Nature"
+    label: 
+    credit:
+    alt:
+
+  - id: install-29
+    src: install/install-29.jpg
+    caption: (left to right) Cats. 93–95 threeASFOUR, *Autumn Leaf Suit*, *Lily Dress*, and *Eve Dress*; Cat. 81 PELLE, *Nana Lure Chandelier*
+    label: 
+    credit:
+    alt:
+
+  - id: install-30
+    src: install/install-30.jpg
+    caption: "(left to right) Cats. 46–60 Mathieu Lehanneur, *50 Seas* (detail) and Cat. 44 *Ocean Memories (Circular Low Table Grey XL)*"
+    label: 
+    credit:
+    alt:
+
+  - id: install-31
+    src: install/install-31.jpg
+    caption: "Mathieu Lehanneur, Cats. 46–60 *50 Seas* (detail)"
+    label: 
+    credit:
+    alt:
+
+  - id: install-32
+    src: install/install-32.jpg
+    caption: "(left to right) Cats. 44–61 Mathieu Lehanneur, *Permanent Flame*, *Tomorrow Is Another Day*, *Ocean Memories (Circular Low Table Grey XL)*, and *50 Seas* (detail) "
+    label: 
+    credit:
+    alt:
