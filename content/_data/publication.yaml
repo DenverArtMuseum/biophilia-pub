@@ -9,8 +9,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-#url: 'https://biophilia.denartmus.org'
-url: 'https://denverartmuseum.github.io/biophilia-pub/'
+url: 'https://biophilia.denartmus.org'
+#url: 'https://denverartmuseum.github.io/biophilia-pub/'
 #url: 'http://localhost:8080' # this is required when producing the pdf
 
 # ------------------------------------------------------------------------------
