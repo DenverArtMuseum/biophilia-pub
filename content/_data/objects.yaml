@@ -40,7 +40,7 @@ object_list:
 
   - id: "lasch-plate"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, 1973–2024</div>"
     title: Desert Paper 02
     multi: "<div class=\"summary\">2022<br>Desert globemallow, agave fiber, and jute<br>16 × 11 × 9¾ in. (40.6 × 27.9 × 24.8 cm)</div><div class=\"obj-title\">Desert Paper 05</div><div class=\"summary\">2022<br>Desert marigold, jute, and abaca<br>19⅛ × 10⅞ × 10 in. (48.6 × 27.6 × 25.4 cm)</div><div class=\"obj-title\">Desert Paper 09</div>"
     year: 2022
@@ -118,7 +118,7 @@ object_list:
   
   - id: "2022-160"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, 1973–2024</div>"
     title: Desert Paper 02
     year: 2022
     medium: Desert globemallow, agave fiber, and jute
@@ -131,7 +131,7 @@ object_list:
   
   - id: "2022-161"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, 1973–2024</div>"
     title: Desert Paper 05
     year: 2022
     medium: Desert marigold, jute, and abaca
@@ -144,7 +144,7 @@ object_list:
 
   - id: "2022-162"
     artist: Aranda\Lasch
-    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, born 1973, active in Sells, Arizona</div>"
+    bio: "Established 2003, New York and Tucson, Arizona<div class=\"artist-property sub-property\"><span>Benjamin Aranda</span>American, born 1973</div><div class=\"artist-property sub-property\"><span>Chris Lasch</span>American, born 1972</div><div class=\"artist-property\"><span>Terrol Dew Johnson</span>Tohono O'odham Nation, 1973–2024</div>"
     title: Desert Paper 09
     year: 2022
     medium: Creosote and jute
@@ -607,7 +607,7 @@ object_list:
     year: 2019-23
     medium: Unglazed porcelain
     dimensions: 3½  × 14 in. dia. (8.3 × 35.6 cm dia.)
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    credit: Courtesy of the artist and Robischon Gallery. © Brad Miller. Photo by Alex Delapena.
     label: Cat. 75
     figure:
       - id: "ptl-25721-1"
@@ -619,7 +619,7 @@ object_list:
     year: 2019-23
     medium: Stoneware
     dimensions: 3 × 13 in. dia. (7.6 × 33 cm dia.)
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    credit: Courtesy of the artist and Robischon Gallery. © Brad Miller. Photo by Alex Delapena.
     label: Cat. 76
     figure:
       - id: "ptl-25722-1"
@@ -631,7 +631,7 @@ object_list:
     year: 2019-23
     medium: Glazed stoneware
     dimensions: 19 × 15 in. dia. (48.3 × 38.1 cm dia.)
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    credit: Courtesy of the artist and Robischon Gallery. © Brad Miller. Photo by Alex Delapena.
     label: Cat. 77
     figure:
       - id: "ptl-25723-1"
@@ -643,7 +643,7 @@ object_list:
     year: 2019-23
     medium: Glazed stoneware
     dimensions: 13 × 17 × 18 in. (7.6 × 43.2 × 45.7 cm)
-    credit: Courtesy of the artist. © Brad Miller. Photo by Alex Delapena.
+    credit: Courtesy of the artist and Robischon Gallery. © Brad Miller. Photo by Alex Delapena.
     label: Cat. 78
     figure:
       - id: "ptl-25724-1"

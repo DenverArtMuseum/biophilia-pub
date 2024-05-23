@@ -1629,3 +1629,59 @@ figure_list:
     label: Fig. 4
     credit: Courtesy of Alexandra Kehayoglou Studio.
     alt: A boat travels through a winding river in a hazy blue and purple landscape under clear skies.
+
+  - id: install-01
+    src: install/install-01.jpg
+    caption: Exhibition entrance
+    label:
+    credit:
+    alt:
+
+  - id: install-02
+    src: install/install-02.jpg
+    caption: Cat. 6 Daniel Brown, *Secret Garden*
+    label:
+    credit:
+    alt:
+
+  - id: install-03
+    src: install/install-03.jpg
+    caption: (left to right) Cat. 40 Alexandra Kehayoglou, *Bajío* (Lowland); Cat. 13 Jason DeMarte, *Arcadia*
+    label:
+    credit:
+    alt:
+
+  - id: install-04
+    src: install/install-04.jpg
+    caption: (left to right) Cats. 1–3 Aranda\Lasch and Terrol Dew Johnson, *Desert Paper 02*, *Desert Paper 05*, and *Desert Paper 09*
+    label:
+    credit:
+    alt:
+
+  - id: install-05
+    src: install/install-05.jpg
+    caption: Cat. 92 teamLab, *Flowers and People – A Whole Year per Hour*
+    label:
+    credit:
+    alt:
+
+  - id: install-06
+    src: install/install-06.jpg
+    caption: (left to right) Cats. 29–33 Zaha Hadid, *Tau Vases*; Cats. 19–25 Front, *Curve Lamps*; Cat. 82 Andrés Reisinger, *Hortensia Armchair*; Cat. 5 Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae); Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
+    label:
+    credit:
+    alt:
+
+  - id: install-07
+    src: install/install-07.jpg
+    caption: (left to right) Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
+    label:
+    credit:
+    alt:
+
+  - id: install-08
+    src: install/install-08.jpg
+    caption: (left to right) Cats. 96–107 David Valner, *Fungus Vases* and *Polypore Bowl* ; Cat. 74 Elena Manferdini, *Botanical Garden Smoke Set*; Cats. 10–12 Sandra Davolio, *Coral Flower IV*, *Coral Flower I*, and *Vessel with Blue Edges III*; Cats. 19–25 Front, *Curve Lamps*; Cat. 82 Andrés Reisinger, *Hortensia Armchair*; Cat. 5 Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae); Cats. 75–76 and 79 Brad Miller, *Plates* and *Vessel*; Cats. 29–33 Zaha Hadid, *Tau Vases*; Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
+    label:
+    credit:
+    alt:

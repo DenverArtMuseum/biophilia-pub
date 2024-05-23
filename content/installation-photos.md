@@ -6,4 +6,12 @@ order: 500
 image:
 ---
 
-Come back soon to see installation photographs of *Biophilia: Nature Reimagined* taken by James Florio.
+All photos by James Florio, courtesy of the Denver Art Museum
+
+## Entrance
+
+{% figuregroup '2', 'install-01, install-02' %}
+
+## Gallery 1
+
+{% figuregroup '2', 'install-03, install-04' %}
