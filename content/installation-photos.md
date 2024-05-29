@@ -6,7 +6,7 @@ order: 500
 image:
 ---
 
-*All photos by James Florio, courtesy of the Denver Art Museum*
+<p class="centered"><em>All photos by James Florio, courtesy of the Denver Art Museum</em></p>
 
 ## Entrance
 
