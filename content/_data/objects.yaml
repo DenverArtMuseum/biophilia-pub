@@ -492,7 +492,7 @@ object_list:
     bio: French, born 1974, active in Paris
     title: "<span class=\"hide-title\">50 Seas</span>"
     multi: "<div class=\"obj-title\">Sea 42: Baltic Sea, Kalmar, Sweden</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 11: Great Lakes, United States/Canada</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 41: Baie de Somme, Le Manche, France</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 47: Persian Gulf, Bahrain/Qatar/United Arab Emirates</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 13: Hudson Bay, Belcher Islands, Canada</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 21: Pacific Ocean, Valparaiso, Chile</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 34: Black Sea, Karkinit Bay, Ukraine</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 50: Hawke Bay, Napier, New Zealand</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 33: Caspian Sea, Atyrau, Kazakhstan</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 1: Atlantic Ocean, Guinea-Bissau</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 28: East China Sea, Taizhou, China</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 49: Coral Sea, Australia</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 31: Sea of Japan, Tsugaru Straits, Japan</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 32: Palk Strait, India/Sri Lanka</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div><div class=\"obj-title\">Sea 2: Red Sea, Sudan</div><div class=\"summary\">2018<br />Enameled faience (glazed earthenware)<br />19⅝ in. dia. (49.9 cm dia.)</div>"
-    credit: "<br>Courtesy of the designer. © Mathieu Lehanneur."
+    credit: "<br>Courtesy of the designer. © Mathieu Lehanneur. Photograph by James Florio, courtesy of the Denver Art Museum."
     label: Cats. 46–60
     figure:
       - id: "install-31"
@@ -525,7 +525,7 @@ object_list:
     year: 2017
     medium: Site-specific kinetic sculpture with aluminum, stainless steel, printed fabric, LEDs, and robotics
     dimensions: Dimensions variable
-    credit: Represented by Pace Gallery. © 2024 DRIFT. Photo by Oriol Tarridas, courtesy Superblue Miami. 
+    credit: Represented by Pace Gallery. © 2024 DRIFT. Photograph by James Florio, courtesy of the Denver Art Museum. 
     label: Cat. 14
     figure:
       - id: "install-14"
@@ -572,7 +572,7 @@ object_list:
     year: 2022
     medium: Sycamore veneers and resin
     dimensions: 39⅜ × 110¼ × 15¾ in. (100 × 280 × 40 cm)
-    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photoraphy courtesy of James Harris and Sarah Myerscough Gallery.
+    credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph by James Florio, courtesy of the Denver Art Museum.
     label: Cat. 15
     figure:
       - id: "install-10"
@@ -678,7 +678,7 @@ object_list:
     year: 2005
     medium: Location-responsive light projection
     dimensions: Dimensions variable
-    credit: Courtesy of the artist. © Simon Heijdens.
+    credit: Courtesy of the artist. © Simon Heijdens. Photograph by Christina Jackson, courtesy of the Denver Art Museum.
     label: Cat. 34
     figure:
       - id: "ptl-26101"
@@ -714,7 +714,7 @@ object_list:
     year: 2022
     medium: Vinyl on acrylic mirrors mounted on medium-density fiberboard, and vinyl wall covering
     dimensions: Dimensions variable, each mirror 48 × 48 × 2 in. (121.9 × 121.9 × 5.1 cm)
-    credit: Courtesy of and © Elena Manferdini.
+    credit: Courtesy of and © Elena Manferdini. Photograph by James Florio, courtesy of the Denver Art Museum.
     label: Cat. 73
     figure:
       - id: "install-17"
@@ -749,7 +749,7 @@ object_list:
     bio: American, born 1981, active in Los Angeles
     title: "<span class=\"hide-title\">Midnight in the Meadow Wallpaper</span>"
     multi: "<div class=\"obj-title\">Ladybug on Leaf</div><div class=\"summary\">2023<br>Bronze and resin<br>½ × 1¼ in. dia. (1.3 × 3.2 cm dia.)</div><div class=\"obj-title\">Midnight in the Meadow Wallpaper</div><div class=\"summary\">2023<br>Wallpaper<br>Dimensions variable</div><div class=\"obj-title\">Serpentine Jungle Mirror</div><div class=\"summary\">2024<br>Bronze, enamel, resin, porcelain, and mirrored glass<br>55 × 48 × 5 in. (139.7 × 121.9 × 12.7 cm)</div><div class=\"obj-title\">Weeping Cherry Tree with Turkeytail Console and Pendant</div><div class=\"summary\">2024<br>Bronze, porcelain, enamel, and resin<br>102 × 51 × 50 in. (259.1 × 129.5 × 127 cm)</div><br>"
-    credit: Courtesy of Wiseman Studio
+    credit: Courtesy of Wiseman Studio. Photograph by James Florio, courtesy of the Denver Art Museum.
     label: Cats. 110–113
     figure:
       - id: install-25
