@@ -1185,7 +1185,7 @@ figure_list:
   - id: ptl-24706-1
     src: figures/PTL-24706.jpg
     caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions.
-    credit: Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
+    credit: Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami.. 
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights.
     zoom: true
 
@@ -1200,7 +1200,7 @@ figure_list:
   - id: ptl-24706-2
     src: figures/PTL-24706~2.jpg
     caption: DRIFT, *Meadow*, 2017. Aluminum, stainless steel, printed fabric, LEDs, and robotics; variable dimensions.
-    credit: Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami. 
+    credit: Represented by Pace Gallery. © 2024 DRIFT. Photograph by Oriol Tarridas, courtesy Superblue Miami.. 
     alt: Photograph of Meadow installed in a gallery. Dozens of colorful, lit chandeliers shaped like blooms hang from the ceiling at different heights. Two people stand at opposite ends of the gallery and look up at the installation. 
     zoom: true
 
@@ -1265,13 +1265,13 @@ figure_list:
   - id: ptl-24736-1-essay
     src: figures/PTL-24736.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. 
-    credit: Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in. Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
+    credit: Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in. Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph by James Florio, courtesy of the Denver Art Museum.
     alt: A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-2-essay
     src: figures/PTL-24736~1.jpg
     caption: Marc Fish, *Ethereal Double Console*, 2022. 
-    credit: Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in. Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photography courtesy of James Harris and Sarah Myerscough Gallery.
+    credit: Sycamore veneers and resin, 39⅜ × 110¼ × 15¾ in. Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph by James Florio, courtesy of the Denver Art Museum.
     alt: View from top of Ethereal Double Console. A console table made of thin pieces of sycamore veneer. From straight-on, the table is in the shape of a bird in flight, with long wings on either side, and V-shaped base. The top of the table attaches to the wall for stability.
 
   - id: ptl-24736-3-essay
@@ -1529,13 +1529,13 @@ figure_list:
     src: figures/PTL-26101.jpg
     caption: Simon Heijdens, *Lightweeds*, 2005. 
     label: Cat. 34
-    credit: Location-responsive light projection; dimensions variable. Courtesy of the artist. © Simon Heijdens. Image courtesy of the artist.
+    credit: Location-responsive light projection; dimensions variable. Courtesy of the artist. © Simon Heijdens. Photograph by Christina Jackson, courtesy of the Denver Art Museum.
     alt: Image of digital light projection on the wall of plant life that reacts to visitors as they pass by. The projection is several feet high.
 
   - id: ptl-26101
     src: figures/PTL-26101.jpg
     caption: Simon Heijdens, *Lightweeds*, 2005. Location-responsive light projection, dimensions variable.
-    credit: Courtesy of the artist. © Simon Heijdens. Image courtesy of the artist.
+    credit: Courtesy of the artist. © Simon Heijdens. Photograph by Christina Jackson, courtesy of the Denver Art Museum.
     alt: Image of digital light projection on the wall of plant life that reacts to visitors as they pass by. The projection is several feet high.
     zoom: true
 
