@@ -141,6 +141,13 @@ figure_list:
     credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
     alt: Bright flowers extend across the entire picture plane, with a variety of shapes and colors, including reds, pinks, greens, whites, and yellows.
 
+  - id: 2015-267-zoom
+    src: figures/2015_267_1-5.jpg
+    caption: Daniel Brown, *Secret Garden*, 2008, updated 2015. Interactive software program; variable dimensions.
+    credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
+    alt: Bright flowers extend across the entire picture plane, with a variety of shapes and colors, including reds, pinks, greens, whites, and yellows.
+    zoom: true
+
   - id: "2017-89-91-essay"
     modal_id: modal-2017-89-91
     src: figures/2017_89-91.jpg
@@ -1013,12 +1020,20 @@ figure_list:
     zoom: true
 
   - id: ptl-24698-6
-    src: figures/PTL-24698~6.jpg
+    src: figures/PTL-24698-zoom.jpg
     modal_id: lehanneur-inline
     caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
     label: Cat. 44
     credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
     alt: A low, circular table that is gray marble with white striations. This half of the surface looks like gently rolling waves.
+
+  - id: ptl-24698-6-zoom
+    src: figures/PTL-24698-zoom.jpg
+    caption: Mathieu Lehanneur, *Ocean Memories (Circular Low Table Grey XL)*, 2017. 
+    label: Cat. 44
+    credit: Grey Emperador; 15¾ × 43¼ in. dia. Courtesy of the designer and Carpenters Workshop Gallery. Artwork © Mathieu Lehanneur. Photograph by Stephane Briolant, courtesy of Carpenters Workshop Gallery.
+    alt: A low, circular table that is gray marble with white striations. This half of the surface looks like gently rolling waves.
+    zoom: true
 
   - id: ptl-24699-1-essay
     modal_id: leanneur-inline
@@ -1633,223 +1648,189 @@ figure_list:
   - id: install-01
     src: install/install-01.jpg
     caption: Exhibition entrance
-    label:
-    credit:
     alt: A photograph of the entrance to the Biophilia exhibition, with the title displayed on a large mottled green and white wall.
 
   - id: install-02
     src: install/install-02.jpg
     caption: Cat. 6 Daniel Brown, *Secret Garden*
-    label:
-    credit:
     alt: A person views a colorful floral artwork on a brown wall with light text.
 
   - id: install-03
     src: install/install-03.jpg
     caption: (left to right) Cat. 40 Alexandra Kehayoglou, *Bajío* (Lowland); Cat. 13 Jason DeMarte, *Arcadia*
-    label:
-    credit:
     alt: Two people view a large wall with a floral pattern with pinks and greens, and another person views a green rug on a low pedestal.
 
   - id: install-04
     src: install/install-04.jpg
     caption: (left to right) Cats. 1–3 Aranda\Lasch and Terrol Dew Johnson, *Desert Paper 02*, *Desert Paper 05*, and *Desert Paper 09*
-    label:
-    credit:
     alt: Three textured vessels sit in a display case and match the golden hues of a photograph of the desert on the wall behind.
 
   - id: install-05
     src: install/install-05.jpg
     caption: Cat. 92 teamLab, *Flowers and People – A Whole Year per Hour*
-    label:
-    credit:
     alt: Four people view a brightly glowing screen with vibrant pink flowers in a darkened room.
 
   - id: install-06
     src: install/install-06.jpg
     caption: (left to right) Cats. 29–33 Zaha Hadid, *Tau Vases*; Cats. 19–25 Front, *Curve Lamps*; Cat. 82 Andrés Reisinger, *Hortensia Armchair*; Cat. 5 Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae); Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
-    label:
-    credit:
     alt: Two chairs, a chandelier, a wall-based sculpture, lamps, and several sculptural vessels are on view in this dark brown gallery.
 
   - id: install-07
     src: install/install-07.jpg
     caption: (left to right) Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
-    label:
-    credit:
     alt: A chandelier that evokes the shapes and colors of hummingbirds hangs near a bright red chair in a brown gallery.
 
   - id: install-08
     src: install/install-08.jpg
     caption: (left to right) Cats. 96–107 David Valner, *Fungus Vases* and *Polypore Bowl*; Cat. 74 Elena Manferdini, *Botanical Garden Smoke Set*; Cats. 10–12 Sandra Davolio, *Coral Flower IV*, *Coral Flower I*, and *Vessel with Blue Edges III*; Cats. 19–25 Front, *Curve Lamps*; Cat. 82 Andrés Reisinger, *Hortensia Armchair*; Cat. 5 Ronan Bouroullec and Erwan Bouroullec, *Algues* (Algae); Cats. 75–76 and 79 Brad Miller, *Plates* and *Vessel*; Cats. 29–33 Zaha Hadid, *Tau Vases*; Cat. 4 Andreea Avram Rusu, *Botanica Chandelier*; Cat. 7 Humberto Campana and Fernando Campana, *Bulbo Chair*
-    label:
-    credit:
     alt: Five display cases feature sculptural vessels and cutlery in front of two chairs, a chandelier, a wall-based sculpture, and several lamps.
 
   - id: install-09
     src: install/install-09.jpg
     caption: (left to right) Cats. 96–107 David Valner, *Fungus Vases* and *Polypore Bowl*; Cats. 10–12 Sandra Davolio, *Coral Flower I*, *Vessel with Blue Edges III*, and *Coral Flower IV*
-    label:
-    credit:
     alt: Three pale vessels that evoke the color and patterns of coral are on display in a case against a dark wall.
 
   - id: install-10
     src: install/install-10.jpg
     caption: Cat. 15 Marc Fish, *Ethereal Double Console*
-    label:
-    credit:
     alt: A thin table that evokes a bird in flight rests on one leg against a dark wall.
+
+  - id: install-10-zoom
+    src: install/install-10.jpg
+    caption: Cat. 15 Marc Fish, *Ethereal Double Console*
+    alt: A thin table that evokes a bird in flight rests on one leg against a dark wall.
+    zoom: true
 
   - id: install-11
     src: install/install-11.jpg
     caption: Cats. 35–39 J. Mayer H., Metropol Parasol, Seville, Spain
-    label:
-    credit:
     alt: A white architectural model sits in a display case in front of a colorful photograph of the actual building. Four framed drawings and photographs also hang on the dark wall.
 
   - id: install-12
     src: install/install-12.jpg
     caption: Cats. 41–43 Joris Laarman, *Microstructures Adaptation Chair (Long Cell) Prototype* and *Adaptation Chair Design Studies*
-    label:
-    credit:
     alt: A copper-colored chair with no arms sits on a pedestal in front of two framed black-and-white photographs of similar chairs.
 
   - id: install-13
     src: install/install-13.jpg
     caption: (left to right) Cats. 108–109 Iris van Herpen, *Dress* and *Diatom Gown*
-    label:
-    credit:
     alt: Two white mannequins wear dresses in a darkened gallery. The left dress is short with green and translucent fabric. The right dress is floor-length and features blue, purple, green, and tan fabric.
 
   - id: install-14
     src: install/install-14.jpg
     caption: (left to right) Cats. 108–109 Iris van Herpen, *Dress* and *Diatom Gown*; Cat. 14 DRIFT, *Meadow*
-    label:
-    credit:
     alt: A person stands under multiple chandeliers that evoke blooming flowers. The chandeliers are red, pink, purple, blue, yellow, orange, and white.
+
+  - id: install-14-zoom
+    src: install/install-14.jpg
+    caption: (left to right) Cats. 108–109 Iris van Herpen, *Dress* and *Diatom Gown*; Cat. 14 DRIFT, *Meadow*
+    alt: A person stands under multiple chandeliers that evoke blooming flowers. The chandeliers are red, pink, purple, blue, yellow, orange, and white.
+    zoom: true
 
   - id: install-15
     src: install/install-15.jpg
     caption: Cat. 14 DRIFT, *Meadow* (detail)
-    label:
-    credit:
     alt: A photograph looking up at multiple light fixtures that evoke blooming flowers. The chandeliers are in shades of red and purple.
 
   - id: install-16
     src: install/install-16.jpg
     caption: "(left to right)Cats. 26–28 gt2P (great things to People), *Remolten N1: Revolution Stools* and *Aux Table*"
-    label:
-    credit:
     alt: Three dark vessels sit on a pedestal in front of a large image of a mountain in the background and a river flowing through rocks in the foreground.
 
   - id: install-17
     src: install/install-17.jpg
     caption: Cat. 73 Elena Manferdini, *Wall Flowers (Clover)*
-    label:
-    credit:
     alt: A person views a large wall covered in bright red, pink, and blue floral imagery. The imagery extends to a slanted side wall on the right.
+
+  - id: install-17-zoom
+    src: install/install-17.jpg
+    caption: Cat. 73 Elena Manferdini, *Wall Flowers (Clover)*
+    alt: A person views a large wall covered in bright red, pink, and blue floral imagery. The imagery extends to a slanted side wall on the right.
+    zoom: true
 
   - id: install-18
     src: install/install-18.jpg
     caption: "(left to right) Cat. 9 Álvaro Catalán de Ocón, *Plastic River No. 6: Ganges*; Cat. 8 Nacho Carbonell, *One-Seater Concrete Tree*; Cat. 80 Nervous System, *Floraform Chandelier*; Cats. 69–72 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China"
-    label:
-    credit:
     alt: In a dark gallery, two people view a lit chandelier, one person sits on a craggy seat under a lit tree-like form, an image of a landscape hangs on one wall, and an architectural model sits in a display case.
 
   - id: install-19
     src: install/install-19.jpg
     caption: Cat. 80 Nervous System, *Floraform Chandelier*
-    label:
-    credit:
     alt: A chandelier casts intricate shadows that evoke plant leaves on a curved white wall.
 
   - id: install-20
     src: install/install-20.jpg
     caption: Cats. 69–72 MAD Architects, Nanjing Zendai Himalayas Center, Nanjing, China
-    label:
-    credit:
     alt: A pale architectural model sits in a display case in front of a large colorful photograph of the actual building. Two framed photographs of the building also hang on the dark wall.
 
   - id: install-21
     src: install/install-21.jpg
     caption: Cat. 8 Nacho Carbonell, *One-Seater Concrete Tree*
-    label:
-    credit:
     alt: A person sits on a seat that looks like a rock outcropping and looks up at the form of a copper-colored form that evokes a tree, which is lit from the inside.
 
   - id: install-22
     src: install/install-22.jpg
     caption: Cats. 83–87 Studio Gang, Populus, Denver, Colorado
-    label:
-    credit:
     alt: A person views a tall architectural model of a building with windows that evoke aspen trees. A large color photograph of the actual building hangs on a wall alongside a framed image of an elevation of the building and another of the building's entrance.
 
   - id: install-23
     src: install/install-23.jpg
     caption: "Cat. 9 Álvaro Catalán de Ocón, *Plastic River No. 6: Ganges*"
-    label: 
-    credit:
     alt: Two people view a large image of an aerial view of a river. It features bright blue, dark green, browns, and whites and hangs on a dark wall.
 
   - id: install-24
     src: install/install-24.jpg
     caption: "(left to right) Cats. 16–18 Fredrikson Stallard, *Species 1*, *Rock #22*, and *Rock #23*"
-    label: 
-    credit:
     alt: A deep-red sofa that evokes a rock formation sits on a low pedestal next to two bright green forms on a taller pedestal that also evoke rocky formations.
 
   - id: install-25
     src: install/install-25.jpg
     caption: Cats. 110–113 David Wiseman, *Midnight in the Meadow*
-    label: 
-    credit:
     alt: Predominantly blue wallpaper adorns two walls that meet in a corner. The frame of the mirror on the left wall evokes tree branches, and a copper-colored tree-like sculpture extends the full height of the installation.
+
+  - id: install-25-zoom
+    src: install/install-25.jpg
+    caption: Cats. 110–113 David Wiseman, *Midnight in the Meadow*
+    alt: Predominantly blue wallpaper adorns two walls that meet in a corner. The frame of the mirror on the left wall evokes tree branches, and a copper-colored tree-like sculpture extends the full height of the installation.
+    zoom: true
 
   - id: install-26
     src: install/install-26.jpg
     caption: Cats. 110–113 David Wiseman, *Midnight in the Meadow*
-    label: 
-    credit:
     alt: A person views themselves in the mirror on the left wall of Midnight in the Meadow. Predominantly blue wallpaper adorns two walls that meet in a corner. The mirror's frame and a tall sculpture evoke organic tree branches.
 
   - id: install-27
     src: install/install-27.jpg
     caption: Cats. 111–112 David Wiseman, *Serpentine Jungle Mirror* and *Midnight in the Meadow Wallpaper*
-    label: 
-    credit:
     alt: The mirror on the left wall of Midnight in the Meadow, surrounded by a frame that evokes twisting tree branches and leaves against a predominantly blue wallpaper.
 
   - id: install-28
     src: install/install-28.jpg
     caption: "Interactive display: Explore Your Connection to Nature"
-    label: 
-    credit:
     alt: In a dark gallery, one person views a projection of grouped dots on the wall with the phrase Que Tan Conectado a la Naturaleza Estas? Another person interacts with a digital screen on the wall. Light-colored text  reads Explore Your Connection to Nature
 
   - id: install-29
     src: install/install-29.jpg
     caption: (left to right) Cats. 93–95 threeASFOUR, *Autumn Leaf Suit*, *Lily Dress*, and *Eve Dress*; Cat. 81 PELLE, *Nana Lure Chandelier*
-    label: 
-    credit:
     alt: Three white mannequins stand on a low pedestal in a dark gallery. One wears a reddish-brown tunic suit with the pattern of leaf veins. One wears a circular yellow gown that extends from nose to knees. The third wears a short reddish-brown dress with fabric laser cut in the shape of leaves. A person views a chandelier that evokes large drooping leaves on the right.
 
   - id: install-30
     src: install/install-30.jpg
     caption: "(left to right) Cats. 46–60 Mathieu Lehanneur, *50 Seas* (detail) and Cat. 44 *Ocean Memories (Circular Low Table Grey XL)*"
-    label: 
-    credit:
     alt: A dark doorway frames a brightly lit gallery. A person reads text on the wall in front of a low sculpture that evokes waves captured in stone. On the left wall hang circular forms in a variety of blue hues.
 
   - id: install-31
     src: install/install-31.jpg
     caption: "Mathieu Lehanneur, Cats. 46–60 *50 Seas* (detail)"
-    label: 
-    credit:
     alt: A grid of 15 circular forms hangs on a white wall. They evoke waves captured in sculptural form and feature a variety of blue hues.
+
+  - id: install-31-zoom
+    src: install/install-31.jpg
+    caption: "Mathieu Lehanneur, Cats. 46–60 *50 Seas* (detail)"
+    alt: A grid of 15 circular forms hangs on a white wall. They evoke waves captured in sculptural form and feature a variety of blue hues.
+    zoom: true
 
   - id: install-32
     src: install/install-32.jpg
     caption: "(left to right) Cats. 44–61 Mathieu Lehanneur, *Permanent Flame*, *Tomorrow Is Another Day*, *Ocean Memories (Circular Low Table Grey XL)*, and *50 Seas* (detail) "
-    label: 
-    credit:
     alt: Two people view art in a white gallery. A low stone sculpture in the center and a group of 15 wall-based blue sculptures evoke waves captured in stone. A gold sculpture on the left evokes flames. A screen on the rear wall exudes pale blue light.

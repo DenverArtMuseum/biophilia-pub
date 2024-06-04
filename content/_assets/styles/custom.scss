@@ -1385,6 +1385,11 @@ a.no-link, a.no-link * {
     margin-left: 0;
 }
 
+li.quire-nav-button.empty {
+    background-color: transparent !important;
+    border: none !important;
+}
+
 /* Close-knit Flower-sack */
 #page-close-knit-flower-sack {
     .quire-contents-buttons {

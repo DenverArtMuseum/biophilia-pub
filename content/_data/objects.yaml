@@ -264,8 +264,8 @@ object_list:
     medium: Aluminum, polished stainless steel, silk, LEDs, robotics.
     credit: NYCB Art Series 2023. ©  DRIFT, represented by Pace Gallery. Photo by Andy Romer, courtesy of NYCB.
     figure:
-      - id: "exrr-2023-92"
-      - id: "exrr-2023-93"
+      - id: "exrr-2023-92-zoom"
+      - id: "exrr-2023-93-zoom"
 
   - id: exrr-2023-103
     artist: MAD Architects
@@ -461,7 +461,7 @@ object_list:
     credit: Courtesy of the designer and Carpenters Workshop Gallery. Image © Felipe Ribon, courtesy of Mathieu Lehanneur.
     label: Cat. 44
     figure:
-      - id: "ptl-24698-6"
+      - id: "ptl-24698-6-zoom"
 
   - id: ptl-24699
     artist: Mathieu Lehanneur
@@ -495,7 +495,7 @@ object_list:
     credit: "<br>Courtesy of the designer. © Mathieu Lehanneur. Photograph by James Florio, courtesy of the Denver Art Museum."
     label: Cats. 46–60
     figure:
-      - id: "install-31"
+      - id: "install-31-zoom"
 
   - id: ptl-24704
     bio: "<div class=\"artist-property\"><span>Humberto Campana</span>Brazilian, born 1953, active in São Paulo</div><div class=\"artist-property\"><span>Fernando Campana</span>Brazilian, 1961–2022</div>"
@@ -528,7 +528,7 @@ object_list:
     credit: Represented by Pace Gallery. © 2024 DRIFT. Photograph by James Florio, courtesy of the Denver Art Museum. 
     label: Cat. 14
     figure:
-      - id: "install-14"
+      - id: "install-14-zoom"
 
   - id: ptl-24710
     artist: Nacho Carbonell
@@ -575,7 +575,7 @@ object_list:
     credit: Courtesy of Sarah Myerscough Gallery. © Marc Fish. Photograph by James Florio, courtesy of the Denver Art Museum.
     label: Cat. 15
     figure:
-      - id: "install-10"
+      - id: "install-10-zoom"
 
   - id: ptl-25093-97
     artist: Zaha Hadid
@@ -717,7 +717,7 @@ object_list:
     credit: Courtesy of and © Elena Manferdini. Photograph by James Florio, courtesy of the Denver Art Museum.
     label: Cat. 73
     figure:
-      - id: "install-17"
+      - id: "install-17-zoom"
 
   - id: 2015-267
     artist: Daniel Brown
@@ -729,7 +729,7 @@ object_list:
     credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
     label: Cat. 6
     figure:
-      - id: "2015-267"
+      - id: "2015-267-zoom"
 
   - id: tl-45470
     artist: Elena Manferdini
@@ -752,4 +752,4 @@ object_list:
     credit: Courtesy of Wiseman Studio. Photograph by James Florio, courtesy of the Denver Art Museum.
     label: Cats. 110–113
     figure:
-      - id: install-25
+      - id: install-25-zoom

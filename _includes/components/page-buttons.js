@@ -38,7 +38,7 @@ module.exports = function(eleventyConfig) {
     const nextPageButton = () => {
       if (!nextPage){
         return html`
-          <li class="quire-nav-button next">
+          <li class="quire-nav-button next empty"></li>
         `
       }
       return html`
