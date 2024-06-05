@@ -142,7 +142,7 @@ figure_list:
     alt: Bright flowers extend across the entire picture plane, with a variety of shapes and colors, including reds, pinks, greens, whites, and yellows.
 
   - id: 2015-267-zoom
-    src: figures/2015_267_1-5.jpg
+    src: figures/2015_267_1-5-zoom.jpg
     caption: Daniel Brown, *Secret Garden*, 2008, updated 2015. Interactive software program; variable dimensions.
     credit: "Denver Art Museum: Funds from the Ralph L. and Florence R. Burgess Trust, 2015.267. © Daniel Brown."
     alt: Bright flowers extend across the entire picture plane, with a variety of shapes and colors, including reds, pinks, greens, whites, and yellows.
@@ -1696,7 +1696,7 @@ figure_list:
     alt: A thin table that evokes a bird in flight rests on one leg against a dark wall.
 
   - id: install-10-zoom
-    src: install/install-10.jpg
+    src: install/install-10-zoom.jpg
     caption: Cat. 15 Marc Fish, *Ethereal Double Console*
     alt: A thin table that evokes a bird in flight rests on one leg against a dark wall.
     zoom: true
@@ -1722,7 +1722,7 @@ figure_list:
     alt: A person stands under multiple chandeliers that evoke blooming flowers. The chandeliers are red, pink, purple, blue, yellow, orange, and white.
 
   - id: install-14-zoom
-    src: install/install-14.jpg
+    src: install/install-14-zoom.jpg
     caption: (left to right) Cats. 108–109 Iris van Herpen, *Dress* and *Diatom Gown*; Cat. 14 DRIFT, *Meadow*
     alt: A person stands under multiple chandeliers that evoke blooming flowers. The chandeliers are red, pink, purple, blue, yellow, orange, and white.
     zoom: true
@@ -1743,7 +1743,7 @@ figure_list:
     alt: A person views a large wall covered in bright red, pink, and blue floral imagery. The imagery extends to a slanted side wall on the right.
 
   - id: install-17-zoom
-    src: install/install-17.jpg
+    src: install/install-17-zoom.jpg
     caption: Cat. 73 Elena Manferdini, *Wall Flowers (Clover)*
     alt: A person views a large wall covered in bright red, pink, and blue floral imagery. The imagery extends to a slanted side wall on the right.
     zoom: true
@@ -1789,7 +1789,7 @@ figure_list:
     alt: Predominantly blue wallpaper adorns two walls that meet in a corner. The frame of the mirror on the left wall evokes tree branches, and a copper-colored tree-like sculpture extends the full height of the installation.
 
   - id: install-25-zoom
-    src: install/install-25.jpg
+    src: install/install-25-zoom.jpg
     caption: Cats. 110–113 David Wiseman, *Midnight in the Meadow*
     alt: Predominantly blue wallpaper adorns two walls that meet in a corner. The frame of the mirror on the left wall evokes tree branches, and a copper-colored tree-like sculpture extends the full height of the installation.
     zoom: true
@@ -1825,7 +1825,7 @@ figure_list:
     alt: A grid of 15 circular forms hangs on a white wall. They evoke waves captured in sculptural form and feature a variety of blue hues.
 
   - id: install-31-zoom
-    src: install/install-31.jpg
+    src: install/install-31-zoom.jpg
     caption: "Mathieu Lehanneur, Cats. 46–60 *50 Seas* (detail)"
     alt: A grid of 15 circular forms hangs on a white wall. They evoke waves captured in sculptural form and feature a variety of blue hues.
     zoom: true
