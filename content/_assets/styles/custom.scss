@@ -1791,5 +1791,9 @@ li.quire-nav-button.empty {
     #page-forest-walk .section-click-to-read-the-transcript h5::after {
         content: "Transcript";
     }
+    
+    #page-glossary .alphabetical-index {
+      display: none;
+    }
 
 }
